@@ -1,0 +1,25 @@
+{
+  "allProviders": [
+    {
+      "name": "MarChica Palma",
+      "description": "Eine Symphonie aus köstlicher Küche und atemberaubenden Cocktails. Genießen Sie ein unvergessliches Erlebnis, das alle Sinne erfreut.",
+      "gallery": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1723143550-marchica-palma-01.jpg"
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1723143545-marchica-palma-02.jpg"
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1723143540-marchica-palma-03.jpg"
+          }
+        }
+      ]
+    }
+  ]
+}

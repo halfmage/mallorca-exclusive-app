@@ -1,0 +1,14 @@
+{% for x in data.allProviders %}
+<div>🧑‍🍳 {{x.category}}</div>
+<strong>{{x.name}}</strong><br>
+{{x.description}} <br>
+<a href="{{x.website}}" target="_blank" rel="noopener noreferrer">{{x.website}}</a> <br>
+<a href="tel:+{{x.phone}}" type="phone">📞 {{x.phone}}</a> <br>
+<a href="tel:+{{x.mail}}" type="phone">✉️ {{x.mail}}</a> <br>
+<a href="tel:+{{x.website}}" type="phone">🌐 {{x.website}}</a> <br>
+{% if x.gallery %}
+{% set random_image = x.gallery|random %}
+<img src="{{random_image.responsiveImage.src}}" alt="{{x.name}} image" width="200">
+{% endif %}
+<hr>
+{% endfor %}

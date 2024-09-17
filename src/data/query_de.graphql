@@ -1,0 +1,16 @@
+{
+  allProviders(locale: de) {
+    name
+    description
+    address
+    phone
+    website
+    mail
+    category
+    gallery {
+      responsiveImage {
+        src
+      }
+    }
+  }
+}

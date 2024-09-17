@@ -1,0 +1,11 @@
+<h2 class="is-size-3 mb-3">This list is built at request from the query "{{ eleventy.serverless.query.query }}"</h2>
+
+{% assign results = eleventy.serverless.query.query | getResults %}
+<div class="card-grid">
+  {% for result in results %}
+  <article class="card column">
+    <h2 class="title"><a href="{{ result.url }}">{{ result.title }}</a></h2>
+    <p class="content">{{ result.description }}</p>
+</article>
+  {% endfor %}
+</div>

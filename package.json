@@ -1,0 +1,19 @@
+{
+  "name": "mallorca-exclusive-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "eleventy --serve",
+    "update": "rm -rf src/_data/datocms.json && node src/_data/datocms.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@11ty/eleventy": "^2.0.1",
+    "algoliasearch": "^4.24.0",
+    "dotenv": "^16.4.5",
+    "node-fetch": "^2.7.0"
+  }
+}

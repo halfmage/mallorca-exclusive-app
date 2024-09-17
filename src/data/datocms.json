@@ -1,0 +1,23 @@
+{
+  "provider": {
+    "name": "MarChica Palma",
+    "address": "Carrer Torre de Paraires, 1, Ponent, 07015 Palma, Illes Balears, Spanien",
+    "gallery": [
+      {
+        "responsiveImage": {
+          "src": "https://www.datocms-assets.com/138394/1723143550-marchica-palma-01.jpg"
+        }
+      },
+      {
+        "responsiveImage": {
+          "src": "https://www.datocms-assets.com/138394/1723143545-marchica-palma-02.jpg"
+        }
+      },
+      {
+        "responsiveImage": {
+          "src": "https://www.datocms-assets.com/138394/1723143540-marchica-palma-03.jpg"
+        }
+      }
+    ]
+  }
+}

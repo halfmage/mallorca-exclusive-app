@@ -1,0 +1,8 @@
+{% if locale === "de" %}
+    {% set data = datocms_data_de %}
+{% else %}
+    {% set data = datocms_data_en %}
+{% endif %}
+
+
+{% include "providerlist.html" %}

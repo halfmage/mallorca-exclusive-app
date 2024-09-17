@@ -1,0 +1,51 @@
+{
+  "allProviders": [
+    {
+      "name": "Abbaco Natural Food",
+      "description": "Our restaurant in Puerto Pollensa, Abbaco Natural Food ,  is an establishment located on the seafront where you can enjoy a wide variety of healthy and balanced food , with a special oriental touch. Abbaco Natural Food&Sushi is ideal for those looking for good taste in a natural and vegetal space , with options for all tastes.\n",
+      "address": "Passeig Saralegui, 110, 07470 Port de Pollença, Illes Balears, Spanien",
+      "phone": "+34971865741",
+      "website": "http://abbaconaturalfood.com/",
+      "mail": "",
+      "category": "restaurant",
+      "gallery": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726574312-mg_8194b-2048x1365.jpg"
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726574312-mg_8217b-2048x1365.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "name": "MarChica Palma",
+      "description": "A symphony of delectable cuisine and stunning cocktails. Revel in an unforgettable experience that delights all senses.",
+      "address": "Carrer Torre de Paraires, 1, Ponent, 07015 Palma, Illes Balears, Spanien",
+      "phone": "+34971593902",
+      "website": "https://marchicapalma.com",
+      "mail": "",
+      "category": "restaurant",
+      "gallery": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1723143550-marchica-palma-01.jpg"
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1723143545-marchica-palma-02.jpg"
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1723143540-marchica-palma-03.jpg"
+          }
+        }
+      ]
+    }
+  ]
+}

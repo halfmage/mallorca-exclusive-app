@@ -1,0 +1,9 @@
+---
+permalink: "/{{locale}}/"
+translationKey: "homepage"
+layout: default
+eleventyComputed:
+    title: "{{translations[locale].index.welcome}}"
+---
+
+{% include "content/home.html" %}
