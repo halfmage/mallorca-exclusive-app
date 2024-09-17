@@ -1,0 +1,22 @@
+<script>
+    document.write('<a href="' + document.referrer + '"><button style="padding: .25rem .5rem;margin-top: 1rem;">< Go back</button></a>');
+</script>
+
+
+{% if provider.gallery and provider.gallery|length > 0 %}
+    {% set random_image = provider.gallery[0] %}
+    <img src="{{random_image.responsiveImage.src}}" alt="{{provider.name}} image" width="100%" height="200" style="object-fit:cover;margin-top: 1rem;flex-shrink: 0;">
+{% else %}
+    <div style="width: 200px; height: 200px; background-color: #ccc;flex-shrink: 0;"></div>
+{% endif %}
+
+<h1>{{provider.name}}</h1>
+
+<div>
+    <div style="border: 1px solid #ccc; border-radius:99px;padding:.25rem .75rem .25rem .5rem;display: inline-block;">{{provider.category}}</div>
+    {% if provider.description %} <div>{{provider.description}}</div> {% endif %}
+    {% if provider.website %}<a href="{{provider.website}}" target="_blank" rel="noopener noreferrer">{{provider.website}}</a> <br> {% endif %}
+    {% if provider.phone %}<a href="tel:+{{provider.phone}}" type="phone">📞 {{provider.phone}}</a> <br> {% endif %}
+    {% if provider.mail %}<a href="mailto:{{provider.mail}}" type="phone">✉️ {{provider.mail}}</a> <br> {% endif %}
+    {% if provider.website %}<a href="{{provider.website}}" target="_blank" rel="noopener noreferrer">🌐 {{provider.website}}</a> <br> {% endif %}
+</div>

@@ -3,9 +3,10 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
+    "restart": "rimraf './_site/' rimraf './src/data/datocms_data_de.json' rimraf './src/data/datocms_data_en.json'",
     "start": "eleventy --serve",
-    "build": "eleventy",
-    "update": "rm -rf src/_data/datocms.json && node src/_data/datocms.js"
+    "build": "ELEVENTY_PRODUCTION=true npm run restart & npx @11ty/eleventy",
+    "update": "rm -rf src/data/datocms_de.json && rm -rf src/data/datocms_en.json && node src/data/datocms_de.js && node src/data/datocms_en.js"
   },
   "keywords": [],
   "author": "",
@@ -13,8 +14,9 @@
   "description": "",
   "dependencies": {
     "@11ty/eleventy": "^2.0.1",
-    "algoliasearch": "^4.24.0",
+    "alpinejs": "^3.14.1",
     "dotenv": "^16.4.5",
-    "node-fetch": "^2.7.0"
+    "node-fetch": "^2.7.0",
+    "rimraf": "^6.0.1"
   }
 }

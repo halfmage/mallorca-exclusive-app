@@ -1,34 +1,14 @@
 {
   "allProviders": [
     {
-      "name": "Abbaco Natural Food",
-      "description": "Our restaurant in Puerto Pollensa, Abbaco Natural Food ,  is an establishment located on the seafront where you can enjoy a wide variety of healthy and balanced food , with a special oriental touch. Abbaco Natural Food&Sushi is ideal for those looking for good taste in a natural and vegetal space , with options for all tastes.\n",
-      "address": "Passeig Saralegui, 110, 07470 Port de Pollença, Illes Balears, Spanien",
-      "phone": "+34971865741",
-      "website": "http://abbaconaturalfood.com/",
-      "mail": "",
-      "category": "restaurant",
-      "gallery": [
-        {
-          "responsiveImage": {
-            "src": "https://www.datocms-assets.com/138394/1726574312-mg_8194b-2048x1365.jpg"
-          }
-        },
-        {
-          "responsiveImage": {
-            "src": "https://www.datocms-assets.com/138394/1726574312-mg_8217b-2048x1365.jpg"
-          }
-        }
-      ]
-    },
-    {
+      "id": "Xk97s4piQ0qp1CGcXdh8pg",
       "name": "MarChica Palma",
       "description": "A symphony of delectable cuisine and stunning cocktails. Revel in an unforgettable experience that delights all senses.",
       "address": "Carrer Torre de Paraires, 1, Ponent, 07015 Palma, Illes Balears, Spanien",
       "phone": "+34971593902",
       "website": "https://marchicapalma.com",
-      "mail": "",
-      "category": "restaurant",
+      "mail": "reservas@marchicapalma.com",
+      "category": "🧑‍🍳 Restaurant",
       "gallery": [
         {
           "responsiveImage": {
@@ -43,6 +23,109 @@
         {
           "responsiveImage": {
             "src": "https://www.datocms-assets.com/138394/1723143540-marchica-palma-03.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "id": "Pv3GT8uBTvmqQNULg8b0PA",
+      "name": "Abbaco Natural Food",
+      "description": "Our restaurant in Puerto Pollensa, Abbaco Natural Food ,  is an establishment located on the seafront where you can enjoy a wide variety of healthy and balanced food , with a special oriental touch. Abbaco Natural Food&Sushi is ideal for those looking for good taste in a natural and vegetal space , with options for all tastes.\n",
+      "address": "Passeig Saralegui, 110, 07470 Port de Pollença, Illes Balears, Spanien",
+      "phone": "+34971865741",
+      "website": "http://abbaconaturalfood.com/",
+      "mail": " info@abbaconaturalfood.com",
+      "category": "🧑‍🍳 Restaurant",
+      "gallery": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726574312-mg_8194b-2048x1365.jpg"
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726574312-mg_8217b-2048x1365.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "id": "b-9KTV-iRsavnVJKQZYpfw",
+      "name": "Nola",
+      "description": "",
+      "address": "Carrer de Sant Magí, 13, Ponent, 07013 Palma",
+      "phone": "+34971667006",
+      "website": "https://www.instagram.com/nola.palma/",
+      "mail": "",
+      "category": "🧑‍🍳 Restaurant",
+      "gallery": []
+    },
+    {
+      "id": "Peagy9k4QQGyL6cCKlAvDg",
+      "name": "Petit Nola",
+      "description": "",
+      "address": "Carrer del Vicari Joaquim Fuster, 95, Platja de Palma, 07006 Palma",
+      "phone": "+34971093495",
+      "website": "",
+      "mail": "",
+      "category": "🧑‍🍳 Restaurant",
+      "gallery": []
+    },
+    {
+      "id": "OnOLyt1CQtex9T-bS-EGcQ",
+      "name": "Arume",
+      "description": "This sushi bar in the heart of the Santa Catalina Market offers the chance to enjoy a slice of arume in an informal, fun atmosphere surrounded by the market's classic fish stalls, where you can sample a selection of sushi, nigiri, rolls, sashimi and dim sums made to order by Pau Socias, the chef in charge of this Asian journey in the market.",
+      "address": "Carrer de Sant Miquel, 83, Centre, 07002 Palma",
+      "phone": "+34971214121",
+      "website": "http://www.tomeumarti.com",
+      "mail": "info@tomeumarti.com",
+      "category": "🧑‍🍳 Restaurant",
+      "gallery": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726588489-f3a8138a7cbf3fb3.jpg"
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726588489-f68e6392634791be.jpg"
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726588489-f2329d5ffb40cc2d.jpg"
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726588489-f647841d162c3c5d.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ZeQim-kcSwWXVNminc-gww",
+      "name": "Artmadams",
+      "description": "The Hotel Artmadams 4**** is a four star hotel located in the center of the city of Palma, well connected, with public bus service, a few meters from the promenade and just 10 minutes from the historic center of Palma de Mallorca and of the main shopping area. This hotel since its opening in 2000, is an outstanding hotel in the center of Palma, with a classic and elegant character. It offers you a collection of modern art around its common areas by several renowned Majorcan artists.\n",
+      "address": "Carrer del Marquès de la Sènia, 34, Ponent, 07014 Palma, Illes Balears, Spanien",
+      "phone": "+34971222121",
+      "website": "https://www.hotelartmadams.com/",
+      "mail": "ARTMADAMS@HOTELARTMADAMS.COM",
+      "category": "🏨 Hotel",
+      "gallery": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726590264-habitacion-hotel-artmadams-2.jpg"
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726590263-escultura-hotel-artmadams.jpg"
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726590263-piscina-exterior-artmadams.jpg"
           }
         }
       ]

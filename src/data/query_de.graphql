@@ -1,5 +1,6 @@
 {
   allProviders(locale: de) {
+    id
     name
     description
     address

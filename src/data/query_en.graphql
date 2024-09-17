@@ -1,5 +1,6 @@
 {
   allProviders {
+    id
     name
     description
     address

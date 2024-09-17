@@ -5,7 +5,7 @@
 {% endif %}
 
 {% for x in data.allProviders %}
-
+{% if x.category === "🧑‍🍳 Restaurant"%}
 {% include "provider.html" %}
-
+{% endif %}
 {% endfor %}

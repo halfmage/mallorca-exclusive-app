@@ -1,34 +1,14 @@
 {
   "allProviders": [
     {
-      "name": "Abbaco Natural Food",
-      "description": "Unser Restaurant in Puerto Pollensa, Abbaco Natural Food, ist ein Lokal direkt am Meer, in dem Sie eine große Auswahl an gesunden und ausgewogenen Gerichten mit einem besonderen orientalischen Touch genießen können. Abbaco Natural Food&Sushi ist ideal für alle, die guten Geschmack in einem natürlichen und pflanzlichen Umfeld suchen, mit Optionen für jeden Geschmack.",
-      "address": "Passeig Saralegui, 110, 07470 Port de Pollença, Illes Balears, Spanien",
-      "phone": "+34971865741",
-      "website": "http://abbaconaturalfood.com/",
-      "mail": "",
-      "category": "restaurant",
-      "gallery": [
-        {
-          "responsiveImage": {
-            "src": "https://www.datocms-assets.com/138394/1726574312-mg_8194b-2048x1365.jpg"
-          }
-        },
-        {
-          "responsiveImage": {
-            "src": "https://www.datocms-assets.com/138394/1726574312-mg_8217b-2048x1365.jpg"
-          }
-        }
-      ]
-    },
-    {
+      "id": "Xk97s4piQ0qp1CGcXdh8pg",
       "name": "MarChica Palma",
       "description": "Eine Symphonie aus köstlicher Küche und atemberaubenden Cocktails. Genießen Sie ein unvergessliches Erlebnis, das alle Sinne erfreut.",
       "address": "Carrer Torre de Paraires, 1, Ponent, 07015 Palma, Illes Balears, Spanien",
       "phone": "+34971593902",
       "website": "https://marchicapalma.com",
-      "mail": "",
-      "category": "restaurant",
+      "mail": "reservas@marchicapalma.com",
+      "category": "🧑‍🍳 Restaurant",
       "gallery": [
         {
           "responsiveImage": {
@@ -43,6 +23,109 @@
         {
           "responsiveImage": {
             "src": "https://www.datocms-assets.com/138394/1723143540-marchica-palma-03.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "id": "Pv3GT8uBTvmqQNULg8b0PA",
+      "name": "Abbaco Natural Food",
+      "description": "Unser Restaurant in Puerto Pollensa, Abbaco Natural Food, ist ein Lokal direkt am Meer, in dem Sie eine große Auswahl an gesunden und ausgewogenen Gerichten mit einem besonderen orientalischen Touch genießen können. Abbaco Natural Food&Sushi ist ideal für alle, die guten Geschmack in einem natürlichen und pflanzlichen Umfeld suchen, mit Optionen für jeden Geschmack.",
+      "address": "Passeig Saralegui, 110, 07470 Port de Pollença, Illes Balears, Spanien",
+      "phone": "+34971865741",
+      "website": "http://abbaconaturalfood.com/",
+      "mail": " info@abbaconaturalfood.com",
+      "category": "🧑‍🍳 Restaurant",
+      "gallery": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726574312-mg_8194b-2048x1365.jpg"
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726574312-mg_8217b-2048x1365.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "id": "b-9KTV-iRsavnVJKQZYpfw",
+      "name": "Nola",
+      "description": "",
+      "address": "Carrer de Sant Magí, 13, Ponent, 07013 Palma",
+      "phone": "+34971667006",
+      "website": "https://www.instagram.com/nola.palma/",
+      "mail": "",
+      "category": "🧑‍🍳 Restaurant",
+      "gallery": []
+    },
+    {
+      "id": "Peagy9k4QQGyL6cCKlAvDg",
+      "name": "Petit Nola",
+      "description": "",
+      "address": "Carrer del Vicari Joaquim Fuster, 95, Platja de Palma, 07006 Palma",
+      "phone": "+34971093495",
+      "website": "",
+      "mail": "",
+      "category": "🧑‍🍳 Restaurant",
+      "gallery": []
+    },
+    {
+      "id": "OnOLyt1CQtex9T-bS-EGcQ",
+      "name": "Arume",
+      "description": "Diese Sushi-Bar im Herzen des Santa Catalina-Marktes bietet die Möglichkeit, ein Stück Arume in einer ungezwungenen, unterhaltsamen Atmosphäre und umgeben von den klassischen Fischständen des Marktes zu genießen, wo Sie eine Auswahl an Sushi, Nigiris, Brötchen und Sashimis probieren können und Dim Sums, die von Pau Socias, dem Chefkoch, der für diese asiatische Marktreise verantwortlich ist, auf Bestellung zubereitet werden.",
+      "address": "Carrer de Sant Miquel, 83, Centre, 07002 Palma",
+      "phone": "+34971214121",
+      "website": "http://www.tomeumarti.com",
+      "mail": "info@tomeumarti.com",
+      "category": "🧑‍🍳 Restaurant",
+      "gallery": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726588489-f3a8138a7cbf3fb3.jpg"
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726588489-f68e6392634791be.jpg"
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726588489-f2329d5ffb40cc2d.jpg"
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726588489-f647841d162c3c5d.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ZeQim-kcSwWXVNminc-gww",
+      "name": "Artmadams",
+      "description": "Das Hotel Artmadams 4**** ist ein Vier-Sterne-Hotel im Zentrum der Stadt Palma, gut angebunden mit öffentlichen Bussen, nur wenige Meter von der Promenade und nur 10 Minuten vom historischen Zentrum von Palma de Mallorca und der Haupteinkaufsstraße entfernt. Dieses Hotel ist seit seiner Eröffnung im Jahr 2000 ein herausragendes Hotel im Zentrum von Palma mit klassischem und elegantem Charakter. In den öffentlichen Bereichen bietet es eine Sammlung moderner Kunst mehrerer renommierter mallorquinischer Künstler.",
+      "address": "Carrer del Marquès de la Sènia, 34, Ponent, 07014 Palma, Illes Balears, Spanien",
+      "phone": "+34971222121",
+      "website": "https://www.hotelartmadams.com/",
+      "mail": "ARTMADAMS@HOTELARTMADAMS.COM",
+      "category": "🏨 Hotel",
+      "gallery": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726590264-habitacion-hotel-artmadams-2.jpg"
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726590263-escultura-hotel-artmadams.jpg"
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726590263-piscina-exterior-artmadams.jpg"
           }
         }
       ]

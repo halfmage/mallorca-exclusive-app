@@ -1,0 +1,24 @@
+<div style="display:flex;gap: 1rem; margin-bottom: 2rem; ">
+    
+    {% if x.gallery and x.gallery|length > 0 %}
+        {% set random_image = x.gallery|random %}
+        <img src="{{random_image.responsiveImage.src}}" alt="{{x.name}} image" width="200" height="200" style="object-fit:cover;margin-top: 1rem;flex-shrink: 0;">
+    {% else %}
+        <div style="width: 200px; height: 200px; background-color: #ccc;flex-shrink: 0;"></div>
+    {% endif %}
+
+    <div>
+        <h2 style="margin:0;">{{x.name}}</h2>
+        <div style="border: 1px solid #ccc; border-radius:99px;padding:.25rem .75rem .25rem .5rem;display: inline-block;">{{x.category}}</div>
+        {% if x.description %} <div>{{x.description}}</div> {% endif %}
+        {% if x.website %}<a href="{{x.website}}" target="_blank" rel="noopener noreferrer">{{x.website}}</a> <br> {% endif %}
+        {% if x.phone %}<a href="tel:+{{x.phone}}" type="phone">📞 {{x.phone}}</a> <br> {% endif %}
+        {% if x.mail %}<a href="mailto:{{x.mail}}" type="phone">✉️ {{x.mail}}</a> <br> {% endif %}
+        {% if x.website %}<a href="{{x.website}}" target="_blank" rel="noopener noreferrer">🌐 {{x.website}}</a> <br> {% endif %}
+
+        <a href="/{% if locale == "de" %}{{locale}}/{% endif %}{{x.name | slugify}}">
+            <button style="padding: .25rem .5rem;margin-top: 1rem;">Details ></button>
+        </a>
+    </div>
+
+</div>

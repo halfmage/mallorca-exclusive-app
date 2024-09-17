@@ -1,0 +1,13 @@
+---
+layout: default
+pagination:
+    data: datocms_data_en.allProviders
+    size: 1
+    alias: provider
+    addAllPagesToCollections: true
+permalink: "/{{provider.name | slugify}}/"
+eleventyComputed:
+    translationKey: "{{provider.id}}"
+---
+
+{% include "content/detail.html" %}
