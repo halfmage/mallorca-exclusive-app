@@ -3,10 +3,10 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "restart": "rimraf './_site/' rimraf './src/data/datocms_data_de.json' rimraf './src/data/datocms_data_en.json'",
+    "restart": "rimraf './src/data/datocms_data_de.json' rimraf './src/data/datocms_data_en.json'",
     "start": "eleventy --serve",
-    "build": "ELEVENTY_PRODUCTION=true npm run restart & npx @11ty/eleventy",
-    "update": "rm -rf src/data/datocms_de.json && rm -rf src/data/datocms_en.json && node src/data/datocms_de.js && node src/data/datocms_en.js"
+    "build": "npm run fetch-data && npx @11ty/eleventy",
+    "fetch-data": "node src/data/datocms_de.js && node src/data/datocms_en.js"
   },
   "keywords": [],
   "author": "",
