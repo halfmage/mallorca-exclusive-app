@@ -4,6 +4,7 @@
   "main": "index.js",
   "scripts": {
     "start": "eleventy --serve",
+    "build": "eleventy",
     "update": "rm -rf src/_data/datocms.json && node src/_data/datocms.js"
   },
   "keywords": [],
