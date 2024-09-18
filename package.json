@@ -4,7 +4,7 @@
   "main": "index.js",
   "scripts": {
     "restart": "rimraf './src/data/datocms_data_de.json' rimraf './src/data/datocms_data_en.json'",
-    "start": "eleventy --serve",
+    "start": "eleventy --serve & tailwindcss -i ./src/css/tailwind.css -o ./_site/css/style.css --watch",
     "build": "npm run fetch-data && npx @11ty/eleventy",
     "fetch-data": "node src/data/datocms_de.js && node src/data/datocms_en.js"
   },
@@ -17,5 +17,8 @@
     "dotenv": "^16.4.5",
     "node-fetch": "^2.7.0",
     "rimraf": "^6.0.1"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.12"
   }
 }

@@ -5,12 +5,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{title}}</title>
     <script src="/js/alpine.js" defer></script>
+    <link rel="stylesheet" href="/css/style.css"/>
 </head>
-<body>
+<body class="bg-gray-100">
 
-    {% include "layout/header.html" %}
-    
-    <main style="max-width: 48em;margin: 1rem auto;">{{ content | safe }}</main>
+    <div class="bg-white max-w-screen-lg h-full min-h-[98vh] mx-auto border border-gray-200 my-[1vh] rounded-2xl">
+        {% include "layout/header.html" %}
+        {{ content | safe }}
+    </div>
 
 </body>
 </html>

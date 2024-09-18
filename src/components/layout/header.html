@@ -1,11 +1,11 @@
-<div style="display: flex; justify-content: space-between;padding:1rem;border-bottom: 1px solid #eee;">
-    <a href="/">
-        <img src="/images/logo.svg" height="32" alt="">
+<div class="p-4 flex flex-col gap-4 md:flex-row md:items-center justify-between border-b border-gray-200 max-w-screen-lg mx-auto">
+    <a href="/{% if locale == "de" %}de/{%endif%}" class="hover:opacity-80">
+        <img src="/images/logo.svg" alt="Logo" class="h-8">
     </a>
-    <div>
-        <a href="/{% if locale == "de" %}de/{%endif%}restaurants" style="border: 1px solid #ccc; border-radius:99px;padding:.25rem .75rem .25rem .5rem;display: inline-block;">🧑‍🍳 Restaurants</a>
-        <a href="/{% if locale == "de" %}de/{%endif%}hotels" style="border: 1px solid #ccc; border-radius:99px;padding:.25rem .75rem .25rem .5rem;display: inline-block;">🏨 Hotels</a>
-        <a href="/{% if locale == "de" %}de/{%endif%}lifestyle" style="border: 1px solid #ccc; border-radius:99px;padding:.25rem .75rem .25rem .5rem;display: inline-block;">🚴 Lifestyle</a>
+    <div class="flex items-center gap-2">
+        <a class="border border-gray-200 rounded-full py-1 px-2 hover:bg-gray-100" href="/{% if locale == "de" %}de/{%endif%}restaurants"">🧑‍🍳 Restaurants</a>
+        <a class="border border-gray-200 rounded-full py-1 px-2 hover:bg-gray-100" href="/{% if locale == "de" %}de/{%endif%}hotels"">🏨 Hotels</a>
+        <a class="border border-gray-200 rounded-full py-1 px-2 hover:bg-gray-100" href="/{% if locale == "de" %}de/{%endif%}lifestyle"">🚴 Lifestyle</a>
     </div>
     <div>{% include "lang.html" %}</div>
 </div>

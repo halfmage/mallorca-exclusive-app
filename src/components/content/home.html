@@ -4,8 +4,8 @@
     {% set data = datocms_data_en %}
 {% endif %}
 
-{% for x in data.allProviders %}
-
-{% include "provider.html" %}
-
-{% endfor %}
+<div class="grid grid-cols-2 md:grid-cols-3 gap-4 p-4">
+    {% for x in data.allProviders %}
+    {% include "provider.html" %}
+    {% endfor %}
+</div>

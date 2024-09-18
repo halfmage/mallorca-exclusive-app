@@ -1,11 +1,11 @@
 module.exports = [
     {
-        label: "English",
+        label: "🇬🇧 EN",
         labelMobile: "Switch to english",
         locale: "en"
     },
     {
-        label: "Deutsch",
+        label: "🇩🇪 DE",
         labelMobile: "Auf Deutsch wechseln",
         locale: "de"
     }

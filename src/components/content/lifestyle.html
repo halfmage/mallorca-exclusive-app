@@ -4,8 +4,10 @@
     {% set data = datocms_data_en %}
 {% endif %}
 
+<div class="grid grid-cols-2 md:grid-cols-3 gap-4 p-4">
 {% for x in data.allProviders %}
 {% if x.category === "🚴 Lifestyle"%}
 {% include "provider.html" %}
 {% endif %}
 {% endfor %}
+</div>
