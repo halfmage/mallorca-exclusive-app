@@ -3,8 +3,8 @@
         document.write('<a href="' + document.referrer + '"><button class="absolute left-2 top-2">< Go back</button></a>');
     </script>
     {% if provider.gallery and provider.gallery|length > 0 %}
-    {% set random_image = provider.gallery[0] %}
-    <img class="w-full h-full object-cover" src="{{random_image.responsiveImage.src}}" alt="{{provider.name}} image">
+    {% set first_image = provider.gallery[0] %}
+    <img class="w-full h-full object-cover" src="{{first_image.responsiveImage.src}}" alt="{{provider.name}} image">
     {% else %}
         <div style="width: 200px; height: 200px; background-color: #ccc;flex-shrink: 0;"></div>
     {% endif %}
@@ -19,4 +19,15 @@
     {% if provider.phone %}<a href="tel:+{{provider.phone}}" type="phone">📞 {{provider.phone}}</a> <br> {% endif %}
     {% if provider.mail %}<a href="mailto:{{provider.mail}}" type="phone">✉️ {{provider.mail}}</a> <br> {% endif %}
     {% if provider.website %}<a href="{{provider.website}}" target="_blank" rel="noopener noreferrer">🌐 {{provider.website}}</a> <br> {% endif %}
+</div>
+
+<h2>Gallery</h2>
+<div class="grid cols-3 gap-4 p-4">
+    {% if provider.gallery and provider.gallery|length > 0 %}
+    {% for x in provider.gallery %}
+    <img class="w-full h-full object-cover aspect-video" src="{{x.responsiveImage.src}}" alt="{{provider.name}} image">
+    {% endfor %}
+    {% else %}
+        dasdas
+    {% endif %}
 </div>

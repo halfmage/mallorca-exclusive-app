@@ -1,16 +1,22 @@
 <a href="/{% if locale == "de" %}{{locale}}/{% endif %}{{x.name | slugify}}"
-    class="bg-gray-500 flex flex-col gap-4 items-center justify-center overflow-hidden p-8 text-center rounded-2xl h-32 md:h-48 group relative bg-cover"
+    class="bg-gray-500 flex flex-col gap-4 items-center justify-center overflow-hidden px-4 md:px-8 text-center rounded-2xl h-32 md:h-48 group relative bg-cover"
 >
 
-<h2 class="text-lg md:text-3xl text-white font-bold drop-shadow-provider line-clamp-2 z-10">
+<h2 class="text-lg/6 md:text-3xl text-white font-bold drop-shadow-provider line-clamp-2 z-10">
     {{x.name}}
 </h2>
 
-<div class="bg-white/80 rounded-lg py-1 px-2 absolute top-2 left-2 text-sm z-10 group-hover:bg-white transition-colors">{{x.category}}</div>
+<div class="bg-white/80 rounded-lg py-1 px-2 absolute top-2 left-2 text-[10px] md:text-sm z-10 group-hover:bg-white transition-colors">
+    {{x.category}}
+</div>
 
 {% if x.gallery and x.gallery|length > 0 %}
-{% set random_image = x.gallery|random %}
-    <img class="absolute inset-0 h-full w-full z-0 transition-transform scale-100 group-hover:scale-125 object-cover" src="{{random_image.responsiveImage.src}}" alt="{{x.name | slugify}} cover">
+{% set first_image = x.gallery[0] %}
+    <img
+        class="absolute inset-0 h-full w-full z-0 transition-transform scale-100 group-hover:scale-125 object-cover"
+        src="{{first_image.responsiveImage.src}}"
+        alt="{{x.name | slugify}} cover"
+    >
 {% endif %}
 
 </a>
