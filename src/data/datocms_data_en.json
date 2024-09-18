@@ -54,6 +54,89 @@
   ],
   "allProviders": [
     {
+      "_publishedAt": "2024-09-18T17:42:32+02:00",
+      "_firstPublishedAt": "2024-09-17T17:51:28+02:00",
+      "id": "Peagy9k4QQGyL6cCKlAvDg",
+      "name": "Petit Nola",
+      "description": "",
+      "address": "Carrer del Vicari Joaquim Fuster, 95, Platja de Palma, 07006 Palma",
+      "mail": "",
+      "website": "",
+      "phone": "+34971093495",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726674145-petit-nola-photo.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🍽️ Restaurant",
+        "slug": "restaurant"
+      },
+      "subCategories": [],
+      "location": null
+    },
+    {
+      "_publishedAt": "2024-09-18T17:42:17+02:00",
+      "_firstPublishedAt": "2024-09-17T17:50:59+02:00",
+      "id": "b-9KTV-iRsavnVJKQZYpfw",
+      "name": "Nola",
+      "description": "",
+      "address": "Carrer de Sant Magí, 13, Ponent",
+      "mail": "",
+      "website": "https://www.instagram.com/nola.palma/",
+      "phone": "+34971667006",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726674125-image-3.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726674125-image-14.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726674125-image.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726674125-image-2.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726674125-image-1.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726674125-image-4.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🍽️ Restaurant",
+        "slug": "restaurant"
+      },
+      "subCategories": [],
+      "location": {
+        "latitude": 39.5702663,
+        "longitude": 2.6387198
+      }
+    },
+    {
       "_publishedAt": "2024-09-18T10:40:58+02:00",
       "_firstPublishedAt": "2024-09-17T17:54:33+02:00",
       "id": "OnOLyt1CQtex9T-bS-EGcQ",
@@ -93,41 +176,8 @@
         "name": "🍽️ Restaurant",
         "slug": "restaurant"
       },
-      "subCategories": []
-    },
-    {
-      "_publishedAt": "2024-09-18T10:40:59+02:00",
-      "_firstPublishedAt": "2024-09-17T17:51:28+02:00",
-      "id": "Peagy9k4QQGyL6cCKlAvDg",
-      "name": "Petit Nola",
-      "description": "",
-      "address": "Carrer del Vicari Joaquim Fuster, 95, Platja de Palma, 07006 Palma",
-      "mail": "",
-      "website": "",
-      "phone": "+34971093495",
-      "photos": [],
-      "mainCategory": {
-        "name": "🍽️ Restaurant",
-        "slug": "restaurant"
-      },
-      "subCategories": []
-    },
-    {
-      "_publishedAt": "2024-09-18T10:41:01+02:00",
-      "_firstPublishedAt": "2024-09-17T17:50:59+02:00",
-      "id": "b-9KTV-iRsavnVJKQZYpfw",
-      "name": "Nola",
-      "description": "",
-      "address": "Carrer de Sant Magí, 13, Ponent, 07013 Palma",
-      "mail": "",
-      "website": "https://www.instagram.com/nola.palma/",
-      "phone": "+34971667006",
-      "photos": [],
-      "mainCategory": {
-        "name": "🍽️ Restaurant",
-        "slug": "restaurant"
-      },
-      "subCategories": []
+      "subCategories": [],
+      "location": null
     },
     {
       "_publishedAt": "2024-09-18T10:40:59+02:00",
@@ -157,7 +207,8 @@
         "name": "🍽️ Restaurant",
         "slug": "restaurant"
       },
-      "subCategories": []
+      "subCategories": [],
+      "location": null
     },
     {
       "_publishedAt": "2024-09-18T10:41:00+02:00",
@@ -193,7 +244,8 @@
         "name": "🏨 Hotel",
         "slug": "hotel"
       },
-      "subCategories": []
+      "subCategories": [],
+      "location": null
     },
     {
       "_publishedAt": "2024-09-18T10:27:45+02:00",
@@ -238,7 +290,8 @@
           "name": "🍣 Sushi",
           "slug": "sushi"
         }
-      ]
+      ],
+      "location": null
     }
   ]
 }
