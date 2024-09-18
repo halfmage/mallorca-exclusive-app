@@ -5,7 +5,7 @@
   "scripts": {
     "restart": "rimraf './src/data/datocms_data_de.json' rimraf './src/data/datocms_data_en.json'",
     "start": "eleventy --serve & tailwindcss -i ./src/css/tailwind.css -o ./_site/css/style.css --watch",
-    "build": "npm run fetch-data && npx @11ty/eleventy",
+    "build": "npm run fetch-data && tailwindcss -i ./src/css/tailwind.css -o ./_site/css/style.css --minify && npx @11ty/eleventy",
     "fetch-data": "node src/data/datocms_de.js && node src/data/datocms_en.js"
   },
   "keywords": [],
