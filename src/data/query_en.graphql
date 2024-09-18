@@ -1,17 +1,41 @@
 {
+  allMainCategories {
+    id
+    name
+    slug
+    _firstPublishedAt
+    _publishedAt
+  }
+  allSubcategories {
+    id
+    name
+    slug
+    _firstPublishedAt
+    _publishedAt
+  }
   allProviders {
+    _publishedAt
+    _firstPublishedAt
     id
     name
     description
     address
-    phone
-    website
     mail
-    category
-    gallery {
+    website
+    phone
+    photos {
       responsiveImage {
         src
+        alt
       }
+    }
+    mainCategory {
+      name
+      slug
+    }
+    subCategories {
+      name
+      slug
     }
   }
 }

@@ -3,9 +3,10 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "restart": "rimraf './src/data/datocms_data_de.json' rimraf './src/data/datocms_data_en.json'",
-    "start": "eleventy --serve & tailwindcss -i ./src/css/tailwind.css -o ./_site/css/style.css --watch",
-    "build": "npm run fetch-data && tailwindcss -i ./src/css/tailwind.css -o ./_site/css/style.css --minify && npx @11ty/eleventy",
+    "clean": "rimraf ./src/data/datocms_data_de.json ./src/data/datocms_data_en.json",
+    "restart": "npm run clean && npm run fetch-data",
+    "start": "npm run fetch-data && concurrently \"tailwindcss -i ./src/css/tailwind.css -o ./_site/css/style.css --watch\" \"eleventy --serve\"",
+    "build": "npm run fetch-data && tailwindcss -i ./src/css/tailwind.css -o ./_site/css/style.css --minify && eleventy",
     "fetch-data": "node src/data/datocms_de.js && node src/data/datocms_en.js"
   },
   "keywords": [],
@@ -19,6 +20,7 @@
     "rimraf": "^6.0.1"
   },
   "devDependencies": {
+    "concurrently": "^9.0.1",
     "tailwindcss": "^3.4.12"
   }
 }

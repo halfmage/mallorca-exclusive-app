@@ -1,0 +1,8 @@
+<div class="flex p-4 pt-0 border-b border-gray-200 gap-2 text-sm md:text-base overflow-auto">
+    {% for x in data.allMainCategories %}
+    <a class="border border-gray-200 rounded-full px-2.5 py-1.5 hover:bg-gray-200 whitespace-nowrap shrink-0" href="/{{x.slug}}">{{x.name}}</a>
+    {% endfor %}
+    {% for x in data.allSubcategories %}
+    <a class="border border-gray-200 rounded-full px-2.5 py-1.5 hover:bg-gray-200 whitespace-nowrap shrink-0" href="/{{x.slug}}">{{x.name}}</a>
+    {% endfor %}
+</div>

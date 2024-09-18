@@ -1,17 +1,41 @@
 {
-  allProviders(locale: de) {
+  allMainCategories(locale:de) {
+    id
+    name
+    slug
+    _firstPublishedAt
+    _publishedAt
+  }
+  allSubcategories(locale:de) {
+    id
+    name
+    slug
+    _firstPublishedAt
+    _publishedAt
+  }
+  allProviders(locale:de) {
+    _publishedAt
+    _firstPublishedAt
     id
     name
     description
     address
-    phone
-    website
     mail
-    category
-    gallery {
+    website
+    phone
+    photos {
       responsiveImage {
         src
+        alt
       }
+    }
+    mainCategory {
+      name
+      slug
+    }
+    subCategories {
+      name
+      slug
     }
   }
 }

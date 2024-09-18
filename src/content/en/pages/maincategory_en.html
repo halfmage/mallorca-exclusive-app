@@ -1,0 +1,13 @@
+---
+layout: default
+pagination:
+    data: datocms_data_en.allMainCategories
+    size: 1
+    alias: category
+    addAllPagesToCollections: true
+permalink: "/{{category.slug}}/"
+eleventyComputed:
+    translationKey: "{{category.id}}"
+---
+
+{% include "content/category.html" %}

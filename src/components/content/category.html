@@ -1,0 +1,23 @@
+{% if locale === "de" %}
+    {% set data = datocms_data_de %}
+{% else %}
+    {% set data = datocms_data_en %}
+{% endif %}
+
+<div class="py-12 px-4 text-center bg-gray-50">
+    <div class="text-xl md:text-3xl font-bold mb-4">The best <span class="p-2 border border-gray-200 rounded-full bg-white">{{category.name}}</span> on Mallorca!</div>
+</div>
+
+<div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 xl:grid-cols-5 gap-4 p-4">
+    {% for x in data.allProviders %}
+    {% if x.mainCategory.slug === category.slug %}
+        {% include "provider.html" %}
+    {% else %}
+        {% for subCategory in x.subCategories %}
+            {% if subCategory.slug === category.slug %}
+                {% include "provider.html" %}
+            {% endif %}
+        {% endfor %}
+    {% endif %}
+    {% endfor %}
+</div>

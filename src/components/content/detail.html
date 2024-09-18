@@ -1,33 +1,33 @@
-<div class="relative h-60 p-4">
+<div class="relative h-80">
     <script>
-        document.write('<a href="' + document.referrer + '"><button class="absolute left-2 top-2">< Go back</button></a>');
+        document.write('<a href="' + document.referrer + '"><button class="absolute left-4 top-4 bg-white shadow px-3 py-2 rounded">← Go back</button></a>');
     </script>
-    {% if provider.gallery and provider.gallery|length > 0 %}
-    {% set first_image = provider.gallery[0] %}
+    {% if provider.photos and provider.photos|length > 0 %}
+    {% set first_image = provider.photos[0] %}
     <img class="w-full h-full object-cover" src="{{first_image.responsiveImage.src}}" alt="{{provider.name}} image">
     {% else %}
         <div style="width: 200px; height: 200px; background-color: #ccc;flex-shrink: 0;"></div>
     {% endif %}
 </div>
 
-<h1>{{provider.name}}</h1>
-
-<div>
-    <div style="border: 1px solid #ccc; border-radius:99px;padding:.25rem .75rem .25rem .5rem;display: inline-block;">{{provider.category}}</div>
-    {% if provider.description %} <div>{{provider.description}}</div> {% endif %}
-    {% if provider.website %}<a href="{{provider.website}}" target="_blank" rel="noopener noreferrer">{{provider.website}}</a> <br> {% endif %}
-    {% if provider.phone %}<a href="tel:+{{provider.phone}}" type="phone">📞 {{provider.phone}}</a> <br> {% endif %}
-    {% if provider.mail %}<a href="mailto:{{provider.mail}}" type="phone">✉️ {{provider.mail}}</a> <br> {% endif %}
-    {% if provider.website %}<a href="{{provider.website}}" target="_blank" rel="noopener noreferrer">🌐 {{provider.website}}</a> <br> {% endif %}
+<div class="p-4 border-y border-gray-200">
+    <h1 class="text-3xl font-bold">{{provider.name}}</h1>
+    <p>{{provider.address}}</p>
+    {{provider.mainCategory.name}}
+    {% for x in provider.subCategories %}
+    {{x.name}}
+    {% endfor %}
 </div>
 
-<h2>Gallery</h2>
-<div class="grid cols-3 gap-4 p-4">
-    {% if provider.gallery and provider.gallery|length > 0 %}
-    {% for x in provider.gallery %}
-    <img class="w-full h-full object-cover aspect-video" src="{{x.responsiveImage.src}}" alt="{{provider.name}} image">
-    {% endfor %}
-    {% else %}
-        dasdas
-    {% endif %}
+<div class="p-4">
+    <h2 class="text-2xl font-bold">Photo gallery</h2>
+    <div class="grid grid-cols-3 gap-4">
+        {% if provider.photos and provider.photos|length > 0 %}
+        {% for x in provider.photos %}
+        <img class="w-full h-full rounded-xl object-cover aspect-video" src="{{x.responsiveImage.src}}" alt="{{provider.name}} image">
+        {% endfor %}
+        {% else %}
+            dasdas
+        {% endif %}
+    </div>
 </div>

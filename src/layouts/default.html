@@ -1,3 +1,4 @@
+{% if locale === "de" %}{% set data = datocms_data_de %}{% else %}{% set data = datocms_data_en %}{% endif %}
 <!DOCTYPE html>
 <html lang="{{ locale }}" style="font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">
 <head>
@@ -7,10 +8,11 @@
     <script src="/js/alpine.js" defer></script>
     <link rel="stylesheet" href="/css/style.css"/>
 </head>
-<body class="bg-gray-100">
+<body class="">
 
-    <div class="bg-white max-w-screen-lg h-full min-h-[98vh] mx-auto border border-gray-200 my-[1vh] rounded-2xl">
+    <div class="bg-white border border-gray-200">
         {% include "layout/header.html" %}
+        {% include "categoryrow.html" %}
         {{ content | safe }}
     </div>
 

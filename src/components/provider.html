@@ -7,11 +7,11 @@
 </h2>
 
 <div class="bg-white/80 rounded-lg py-1 px-2 absolute top-2 left-2 text-[10px] md:text-sm z-10 group-hover:bg-white transition-colors">
-    {{x.category}}
+    {{x.mainCategory.name}}
 </div>
 
-{% if x.gallery and x.gallery|length > 0 %}
-{% set first_image = x.gallery[0] %}
+{% if x.photos and x.photos|length > 0 %}
+{% set first_image = x.photos[0] %}
     <img
         class="absolute inset-0 h-full w-full z-0 transition-transform scale-100 group-hover:scale-125 object-cover"
         src="{{first_image.responsiveImage.src}}"
