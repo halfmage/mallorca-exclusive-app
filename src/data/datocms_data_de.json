@@ -24,6 +24,20 @@
   ],
   "allSubcategories": [
     {
+      "id": "HrpeIezqR5CZVhBKy1V5Xg",
+      "name": "🤿 Tauchen",
+      "slug": "diving",
+      "_firstPublishedAt": "2024-09-19T12:34:18+02:00",
+      "_publishedAt": "2024-09-19T12:34:18+02:00"
+    },
+    {
+      "id": "K2kHyYmkQRSKw_2fLR1Q9A",
+      "name": "🥙 Hummus",
+      "slug": "hummus",
+      "_firstPublishedAt": "2024-09-19T12:30:28+02:00",
+      "_publishedAt": "2024-09-19T12:30:28+02:00"
+    },
+    {
       "id": "QOWO9obmRji73qEDTOGH1g",
       "name": "🚫 Nur Erwachsene",
       "slug": "adults-only",
@@ -130,6 +144,99 @@
     }
   ],
   "allProviders": [
+    {
+      "_publishedAt": "2024-09-19T12:38:04+02:00",
+      "_firstPublishedAt": "2024-09-19T12:34:22+02:00",
+      "id": "C2Ulw01IRcOd8NkHEuhXTg",
+      "name": "Dive & Fun",
+      "description": "## Übersicht\nDive & Fun Mallorca, im malerischen Nordosten Mallorcas gelegen, bietet eine Vielzahl von Wasseraktivitäten an, darunter Tauchkurse und spannende Bootstouren. Als zertifiziertes i.a.c. Dive Center richten sie sich an Anfänger und erfahrene Taucher und bieten geführte Touren im **Naturschutzgebiet Reserva Marina de Llevant** sowie in nahegelegene Höhlen und Canyons an. Mit einem freundlichen, mehrsprachigen Team und einer gut ausgestatteten Tauchbasis genießt Dive & Fun sowohl bei Einheimischen als auch bei Touristen einen guten Ruf.\n\n## Services\nDive & Fun bietet verschiedene Tauchkurse an, von **Schnuppertauchen** bis hin zu fortgeschrittenen Tauchzertifizierungen. Ihre Ausrüstung zur Miete umfasst alles von Neoprenanzügen bis hin zu Tauchcomputern. Zudem bieten sie Bootstouren, wie die **600 PS Speedboot**-Ausflüge, für Abenteuerlustige an. Die Tauchbasis verfügt über Duschen, Schulungsräume und eine Ausrüstungsreinigungsstation. Darüber hinaus gibt es Schnorchel- und Höhlentouren.\n\n## Lage\nDie Basis liegt in **Font de Sa Cala**, nur wenige Minuten vom Strand entfernt und eine kurze Fahrt von **Cala Ratjada**. Dank der Nähe zum **Naturschutzgebiet** können Tauchgänge in einer unberührten Unterwasserwelt mit einer Vielzahl von Meereslebewesen unternommen werden. Die einfache Erreichbarkeit vom Land und per Boot macht es Tauchern aller Erfahrungsstufen leicht.\n\n## Nutzererfahrungen\nBesucher loben häufig das freundliche und professionelle Personal, besonders die Aufmerksamkeit, die Anfängern gewidmet wird. Die Tauchplätze werden wegen ihrer Schönheit geschätzt, und viele Bewertungen heben die kleinen Gruppengrößen bei den Tauchgängen hervor. Einige Nutzer erwähnten jedoch wetterbedingte Absagen, die den Zeitplan beeinflussten.\n\n## AI-Bewertung: 8.7/10\nBasierend auf Nutzerfeedback erhält Dive & Fun Mallorca eine insgesamt positive Bewertung. Die Qualität der Tauchplätze, die Ausrüstung und die individuelle Betreuung stechen hervor, während kleinere Probleme wie wetterbedingte Planänderungen erwähnt wurden.\n\n| **Pro** | **Contra** |\n|---------|------------|\n| 🟢 Schöne Tauchplätze | 🔴 Wetter kann Touren beeinflussen |\n| 🟢 Professionelles und freundliches Personal | 🔴 Begrenzte Bootskapazität |\n| 🟢 Ideal für Anfänger und kleine Gruppen | 🔴 Etwas teurere Zusatzleistungen |\n\n## Abschluss\nDive & Fun Mallorca ist eine ausgezeichnete Wahl für Taucher, die den Nordosten Mallorcas besuchen. Mit einer Vielzahl von Taucherlebnissen und Ausflügen ist es ein sehr empfehlenswerter Ort für Anfänger und erfahrene Taucher, die ein Abenteuer in einer schönen Naturkulisse suchen.\n",
+      "address": "Carretera de Canyamel, 48, 07589 Font de Sa Cala, Illes Balears, Spanien",
+      "mail": "",
+      "website": "http://www.mallorcadiving.de/",
+      "phone": "+34971818036",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726741973-dive-and-fun-01.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726741973-dive-and-fun-02.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726741973-dive-and-fun-06.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726741973-dive-and-fun-03.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726741973-dive-and-fun-05.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726741973-dive-and-fun-04.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🎨 Lifestyle",
+        "slug": "lifestyle"
+      },
+      "subCategories": [
+        {
+          "name": "🤿 Tauchen",
+          "slug": "diving"
+        }
+      ],
+      "location": {
+        "latitude": 39.6831747,
+        "longitude": 3.4516384
+      }
+    },
+    {
+      "_publishedAt": "2024-09-19T12:35:03+02:00",
+      "_firstPublishedAt": "2024-09-19T12:33:11+02:00",
+      "id": "EHh9O7j1Rj2fvz0lmgG5yA",
+      "name": "EL Hummus",
+      "description": "## Übersicht\nEL Hummus ist ein charmantes Restaurant in Llucmajor, Mallorca, das sich auf Küche des Nahen Ostens spezialisiert hat. Mit einer warmen und einladenden Atmosphäre bietet es eine Vielzahl von Gerichten wie Hummus, Falafel, Shawarma und vegane Optionen an. Besonders gelobt werden die frischen Zutaten und hausgemachten Aromen.\n\n## Services\nDas Restaurant bietet eine gesunde Auswahl an mediterran inspirierten Gerichten, einschließlich vegetarischer und veganer Optionen. Der Service wird als sehr freundlich und aufmerksam beschrieben, sodass sich die Gäste wie zu Hause fühlen. In den wärmeren Monaten ist die Terrasse ein beliebter Platz.\n\n## Lage\nEL Hummus befindet sich in der Carrer de la Constitució, 4, direkt im Zentrum von Llucmajor. Durch die Nähe zur Plaza Espanya ist es sowohl für Touristen als auch für Einheimische leicht zu erreichen.\n\n## Nutzererfahrungen\nDie meisten Bewertungen sind äußerst positiv. Die Gäste loben die köstlichen und authentischen Aromen des Nahen Ostens, insbesondere den Hummus und die Falafel. Das Personal wird oft für seine Freundlichkeit gelobt. Einige Bewertungen weisen darauf hin, dass das Restaurant in Stoßzeiten voll werden kann, was zu längeren Wartezeiten führt.\n\n## AI-Rating\nBasierend auf den Nutzerbewertungen erhält EL Hummus eine **AI-Bewertung von 4.8/5**. Die meisten Kritiken loben die Qualität der Speisen und des Services, mit kleinen Beschwerden über gelegentliche Verzögerungen zu Stoßzeiten.\n\n| Pro ✅  | Contra ❌  |\n|--------|-----------|\n| Frische, authentische Gerichte 🥙 | In Stoßzeiten voll 🕒 |\n| Freundlicher Service 😊 | Begrenzte Sitzplätze im Innenbereich im Winter ❄️ |\n| Tolle vegane und vegetarische Optionen 🌱 | Etwas höhere Preise für einige Gerichte 💰 |\n\n## Abschluss\nEL Hummus ist ein Muss für alle, die authentische Küche des Nahen Ostens auf Mallorca genießen möchten. Die freundliche Atmosphäre, frische Gerichte und veganen Optionen machen es zu einem Highlight in Llucmajor.",
+      "address": "Carrer de la Constitució, 4, 07620 Llucmajor",
+      "mail": "",
+      "website": "https://www.elhummus.com",
+      "phone": "+34692450545",
+      "photos": [],
+      "mainCategory": {
+        "name": "🍽️ Restaurant",
+        "slug": "restaurant"
+      },
+      "subCategories": [
+        {
+          "name": "🍸 Bar",
+          "slug": "bar"
+        },
+        {
+          "name": "🥙 Hummus",
+          "slug": "hummus"
+        }
+      ],
+      "location": {
+        "latitude": 39.4913015,
+        "longitude": 2.8910941
+      }
+    },
     {
       "_publishedAt": "2024-09-19T12:02:34+02:00",
       "_firstPublishedAt": "2024-09-19T11:42:30+02:00",
