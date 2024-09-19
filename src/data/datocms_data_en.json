@@ -24,6 +24,83 @@
   ],
   "allSubcategories": [
     {
+      "id": "QOWO9obmRji73qEDTOGH1g",
+      "name": "🚫 Adults only",
+      "slug": "adults-only",
+      "_firstPublishedAt": "2024-09-19T11:49:27+02:00",
+      "_publishedAt": "2024-09-19T11:49:27+02:00"
+    },
+    {
+      "id": "WEFxkXwUQhWl_dWuK6YEQQ",
+      "name": "🏖️ Beach",
+      "slug": "beach",
+      "_firstPublishedAt": "2024-09-19T11:41:03+02:00",
+      "_publishedAt": "2024-09-19T11:41:03+02:00"
+    },
+    {
+      "id": "ROAJbE8WTi-kMnBylUZNqQ",
+      "name": "🌄 Peruvian",
+      "slug": "peruvian",
+      "_firstPublishedAt": "2024-09-19T10:37:48+02:00",
+      "_publishedAt": "2024-09-19T10:37:48+02:00"
+    },
+    {
+      "id": "F-Iki5wuR5Cm88CS79XUSg",
+      "name": "🍥 Japanese",
+      "slug": "japanese",
+      "_firstPublishedAt": "2024-09-19T09:59:05+02:00",
+      "_publishedAt": "2024-09-19T09:59:05+02:00"
+    },
+    {
+      "id": "evHj5jdmSKij51hPJarNWg",
+      "name": "🍶 Sake",
+      "slug": "sake",
+      "_firstPublishedAt": "2024-09-19T09:57:09+02:00",
+      "_publishedAt": "2024-09-19T09:57:09+02:00"
+    },
+    {
+      "id": "XfDoRkkdSJ-L6hoZJMBhSg",
+      "name": "🥢 Asian",
+      "slug": "asian",
+      "_firstPublishedAt": "2024-09-19T09:54:47+02:00",
+      "_publishedAt": "2024-09-19T09:54:47+02:00"
+    },
+    {
+      "id": "MM3NMyB0Qz6AZ3kNpYN_uw",
+      "name": "🍱 Fusion",
+      "slug": "fusion",
+      "_firstPublishedAt": "2024-09-18T20:33:35+02:00",
+      "_publishedAt": "2024-09-18T20:33:35+02:00"
+    },
+    {
+      "id": "dPwEMs3iS8qTIStZebye2A",
+      "name": "🍷 Wine",
+      "slug": "wine",
+      "_firstPublishedAt": "2024-09-18T20:16:16+02:00",
+      "_publishedAt": "2024-09-18T20:16:16+02:00"
+    },
+    {
+      "id": "MPQ06773S9SwwdPySQ-uTA",
+      "name": "🍹 Cocktail",
+      "slug": "cocktail",
+      "_firstPublishedAt": "2024-09-18T19:46:09+02:00",
+      "_publishedAt": "2024-09-18T20:13:23+02:00"
+    },
+    {
+      "id": "Uq71ghH1SGiqvyjqG6uu5w",
+      "name": "🔥 Grill",
+      "slug": "grill",
+      "_firstPublishedAt": "2024-09-18T19:57:36+02:00",
+      "_publishedAt": "2024-09-18T20:13:09+02:00"
+    },
+    {
+      "id": "We7h4HUjT2aqL44bc4FKHQ",
+      "name": "🍸 Bar",
+      "slug": "bar",
+      "_firstPublishedAt": "2024-09-18T19:56:09+02:00",
+      "_publishedAt": "2024-09-18T20:13:01+02:00"
+    },
+    {
       "id": "Uyyb2ElXQx-JuJn-YZSGBA",
       "name": "🥘 Spanish",
       "slug": "spanish",
@@ -54,19 +131,31 @@
   ],
   "allProviders": [
     {
-      "_publishedAt": "2024-09-18T17:42:32+02:00",
-      "_firstPublishedAt": "2024-09-17T17:51:28+02:00",
-      "id": "Peagy9k4QQGyL6cCKlAvDg",
-      "name": "Petit Nola",
-      "description": "",
-      "address": "Carrer del Vicari Joaquim Fuster, 95, Platja de Palma, 07006 Palma",
-      "mail": "",
-      "website": "",
-      "phone": "+34971093495",
+      "_publishedAt": "2024-09-19T12:02:34+02:00",
+      "_firstPublishedAt": "2024-09-19T11:42:30+02:00",
+      "id": "N8iSSSHoT7KeOqsy9wTmZQ",
+      "name": "Restaurante SUMAQ",
+      "description": "**Introduction**\nRestaurante Sumaq offers a first-class culinary experience with a blend of traditional and modern cuisine. The elegant ambience makes it ideal for special occasions and fine dining.\n\n**Culinary offer**\nThe menu includes a variety of dishes prepared with high-quality ingredients. The creative presentation and the sophistication of the taste of the food ensure an unforgettable experience.\n\n**Special occasions**\nThe restaurant specializes in hosting events such as weddings and birthday parties. It offers tailor-made menus and first-class service to make every event a success.\n\n**Service and ambience**\nThe friendly and professional staff ensure outstanding service. The stylish and comfortable ambience creates a pleasant atmosphere for any event or dinner.\n\n**Conclusion**\nRestaurante Sumaq offers excellent cuisine, excellent service and an elegant ambience, making it an ideal place for special occasions and fine dining.",
+      "address": "Carrer de Cotoner, 44, Ponent, 07013 Palma",
+      "mail": "sumaqrestaurante@gmail.com",
+      "website": "https://restaurantesumaq.com",
+      "phone": "+34696526758",
       "photos": [
         {
           "responsiveImage": {
-            "src": "https://www.datocms-assets.com/138394/1726674145-petit-nola-photo.jpg",
+            "src": "https://www.datocms-assets.com/138394/1726740140-restaurantesumaq-03.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726740140-restaurantesumaq-02.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726740140-restaurantesumaq-01.jpg",
             "alt": null
           }
         }
@@ -75,11 +164,475 @@
         "name": "🍽️ Restaurant",
         "slug": "restaurant"
       },
-      "subCategories": [],
-      "location": null
+      "subCategories": [
+        {
+          "name": "🌄 Peruvian",
+          "slug": "peruvian"
+        },
+        {
+          "name": "🍷 Wine",
+          "slug": "wine"
+        }
+      ],
+      "location": {
+        "latitude": 39.5714122,
+        "longitude": 2.6370207
+      }
     },
     {
-      "_publishedAt": "2024-09-18T17:42:17+02:00",
+      "_publishedAt": "2024-09-19T11:59:05+02:00",
+      "_firstPublishedAt": "2024-09-19T11:42:32+02:00",
+      "id": "CtpBoVQkRPakyJ7iKygqsA",
+      "name": "La Vieja de Jonay Hernandez",
+      "description": "**Concept and philosophy**\nLa Vieja combines traditional Canarian cuisine with modern touches. Founded by chef Jonay Hernández, the restaurant in Palma de Mallorca offers a mix of culinary influences from its Canarian roots and fresh Balearic products. The aim is to offer guests a unique culinary experience.\n\n**The menu**\nLa Vieja offers a varied menu with traditional dishes such as \"Mojo Picón\" and \"Papas Arrugadas\". There is also a lunch menu, weekly recommendations and an extensive wine list.\n\n**Chef and ambience**\nJonay Hernández, the creative mind behind the restaurant, designed the establishment with open kitchen areas and vibrant graffiti. Since opening in 2018, La Vieja has been a culinary hotspot.\n\n**Location**\nThe restaurant is located in the central Plaça Raimundo Clar in Palma, which contributes to the lively atmosphere of the area.",
+      "address": "Plaça de Raimundo Clar, 11, Centre, 07002 Palma",
+      "mail": "reservas@lavieja.net",
+      "website": "https://www.lavieja.net",
+      "phone": "+34871531731",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726739937-lavieja-02.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726739937-lavieja-01.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726739936-lavieja-03.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🍽️ Restaurant",
+        "slug": "restaurant"
+      },
+      "subCategories": [
+        {
+          "name": "🍸 Bar",
+          "slug": "bar"
+        },
+        {
+          "name": "🍷 Wine",
+          "slug": "wine"
+        },
+        {
+          "name": "🍹 Cocktail",
+          "slug": "cocktail"
+        }
+      ],
+      "location": {
+        "latitude": 39.5706307,
+        "longitude": 2.6554392
+      }
+    },
+    {
+      "_publishedAt": "2024-09-19T11:54:25+02:00",
+      "_firstPublishedAt": "2024-09-19T11:42:33+02:00",
+      "id": "fa4yDHWBQza8H4U_DYY3TQ",
+      "name": "Sumailla Restaurant",
+      "description": "**Unique restaurant in Puerto de Andratx**\nThe Sumailla Restaurant is located in the picturesque Puerto de Andratx on Mallorca and offers breathtaking views of the sea. The minimalist architecture harmonizes perfectly with the natural surroundings, making the restaurant an ideal place for connoisseurs.\n\n**Japanese-Peruvian fusion**\nSumailla represents the fusion of Japanese and Peruvian cuisine. The chef and team focus on the highest quality, creative dishes and attention to detail. This exotic combination creates surprising worlds of taste.\n\n**Culinary highlights**\nThe menu offers a variety that ranges from gyozas and sushi to luxurious main courses such as beef fillet with truffles. Guests can also choose special bento boxes.\n\n**Extensive wine selection**\nIn addition to the refined cuisine, Sumailla offers an impressive wine selection. Guests can choose from international, Spanish and Mallorcan wines, as well as enjoy champagne and cocktails.\n\n**An unforgettable experience**\nWhether for a romantic dinner or a relaxed meal with friends, Sumailla combines exquisite food with a dreamy atmosphere and first-class service.",
+      "address": "Av. Almirante Riera Alemany, 19, 07157 Port d'Andratx",
+      "mail": "info@restaurantsumailla.com",
+      "website": "https://www.restaurantsumailla.com",
+      "phone": "+34971238785",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726739651-restaurantsumailla-03.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726739651-restaurantsumailla-05.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726739651-restaurantsumailla-04.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726739651-restaurantsumailla-02.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726739651-restaurantsumailla-01.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🍽️ Restaurant",
+        "slug": "restaurant"
+      },
+      "subCategories": [
+        {
+          "name": "🍥 Japanese",
+          "slug": "japanese"
+        },
+        {
+          "name": "🍣 Sushi",
+          "slug": "sushi"
+        },
+        {
+          "name": "🍱 Fusion",
+          "slug": "fusion"
+        }
+      ],
+      "location": {
+        "latitude": 39.5429945,
+        "longitude": 2.386001100000001
+      }
+    },
+    {
+      "_publishedAt": "2024-09-19T11:51:04+02:00",
+      "_firstPublishedAt": "2024-09-19T11:42:34+02:00",
+      "id": "Umbgu1KsT2e9SLlwjXfysA",
+      "name": "Japo Santa Catalina",
+      "description": "**Stylish ambience**\nThe Japo Santa Catalina is located in the lively Santa Catalina district of Palma de Mallorca. The restaurant impresses with its minimalist, elegant design, inspired by Japanese aesthetics. The relaxed atmosphere and the cozy outdoor area make it ideal for romantic dinners or special occasions.\n\n**High-quality Japanese cuisine**\nThe menu includes Japanese classics such as sushi, sashimi and nigiri, complemented by warm dishes such as ramen and tempura. The fresh, seasonal ingredients ensure high quality. The creative sushi creations, which combine tradition and modern flavors, are popular. Vegetarians will also find suitable dishes.\n\n**Exquisite selection of drinks**\nThe restaurant offers a variety of Japanese drinks, including sake and Japanese beer. The creative cocktails are specially tailored to the menu and round off the culinary experience.\n\n**Ideal for groups and celebrations**\nJapo Santa Catalina is also ideal for larger groups and private celebrations. The restaurant offers tailor-made menus and flexible rooms for special occasions.\n\n**Conclusion**\nJapo Santa Catalina combines authentic Japanese cuisine with a modern flair and is a must for lovers of Japanese food in Palma de Mallorca.",
+      "address": "Carrer de Sant Magí, 25, Ponent, 07013 Palma",
+      "mail": "",
+      "website": "https://www.japosantacatalina.com/en/home/",
+      "phone": "+34971738321",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726739449-japosantacatalina-02.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726739449-japosantacatalina-05.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726739449-japosantacatalina-03.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726739449-japosantacatalina-01.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726739449-japosantacatalina-06.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726739449-japosantacatalina-04.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🍽️ Restaurant",
+        "slug": "restaurant"
+      },
+      "subCategories": [
+        {
+          "name": "🍥 Japanese",
+          "slug": "japanese"
+        },
+        {
+          "name": "🍣 Sushi",
+          "slug": "sushi"
+        },
+        {
+          "name": "🍱 Fusion",
+          "slug": "fusion"
+        },
+        {
+          "name": "🚫 Adults only",
+          "slug": "adults-only"
+        }
+      ],
+      "location": {
+        "latitude": 39.5702651,
+        "longitude": 2.6383682
+      }
+    },
+    {
+      "_publishedAt": "2024-09-19T11:45:17+02:00",
+      "_firstPublishedAt": "2024-09-19T11:42:36+02:00",
+      "id": "Haa9dXLvR162I_KgaXWdMQ",
+      "name": "Japan Lab",
+      "description": "**Introduction and concept**\nJapan Lab Mallorca is a Japanese restaurant and takeaway in Pollença, Mallorca. It offers traditional homemade Japanese cuisine with fresh, high-quality ingredients. The concept is based on a family-friendly, cozy atmosphere and a manageable number of seats.\n\n**Menu and options**\nThe restaurant offers a selection of sushi, maki and other Japanese specialties. There are many gluten-free and vegetarian options that are freshly prepared by hand. The sauces and desserts are also made in-house.\n\n**Customer reviews**\nCustomers praise the high quality of the food and the chef's passionate cooking style. The restaurant is considered one of the best Japanese restaurants on the island.\n\n**Opening times**\nJapan Lab is open Tuesday to Sunday, closed on Mondays. At weekends, both lunch and dinner are served.",
+      "address": "Carrer de Munar, 6, 07460 Pollença",
+      "mail": "japanlabmallorca@gmail.com",
+      "website": "https://japanlabmallorca.com",
+      "phone": "+34971949231",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726739108-japanlabmallorca-02.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726739108-japanlabmallorca-03.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726739108-japanlabmallorca-01.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🍽️ Restaurant",
+        "slug": "restaurant"
+      },
+      "subCategories": [
+        {
+          "name": "🍣 Sushi",
+          "slug": "sushi"
+        },
+        {
+          "name": "🥢 Asian",
+          "slug": "asian"
+        },
+        {
+          "name": "🍶 Sake",
+          "slug": "sake"
+        }
+      ],
+      "location": {
+        "latitude": 39.8768284,
+        "longitude": 3.0171947
+      }
+    },
+    {
+      "_publishedAt": "2024-09-19T11:41:55+02:00",
+      "_firstPublishedAt": "2024-09-19T11:41:55+02:00",
+      "id": "Rt5PvJCITdCzUR4Rdjr7dw",
+      "name": "BG Hotels Caballero",
+      "description": "# BG Hotel Caballero Overview\n\n### Overview\nThe BG Hotel Caballero is a modern 4-star hotel located just 100 meters from Playa de Palma in Mallorca, Spain. Known for its contemporary design and excellent proximity to the beach, it is a popular choice for both families and couples. The hotel offers a mix of relaxation and activities, making it suitable for guests who want to enjoy the beach, wellness services, and vibrant local nightlife.\n\n### Services\nBG Hotel Caballero provides a wide range of amenities, including two swimming pools, a spa with a sauna, Turkish bath, and massage services. Guests can also enjoy a fitness center, live music, and themed dining evenings. The rooms are equipped with balconies, air conditioning, Wi-Fi, and modern furnishings. There’s a buffet-style restaurant offering Mediterranean cuisine and a poolside bar serving drinks and snacks.\n\n### Location\nSituated in Playa de Palma, the hotel is just a short drive from Palma Airport (3 km) and 10 km from the city center of Palma de Mallorca. The lively beachfront is just a few minutes' walk, and the hotel is surrounded by restaurants, bars, and shopping options, making it a convenient base for exploring the area.\n\n### User Experiences\nGuests often praise the cleanliness of the hotel, friendly staff, and great location close to the beach. However, some reviews mention that rooms can be small and that noise from nearby activities may disturb lighter sleepers. The hotel’s breakfast and pool area are highly appreciated, although some guests feel the overall value could be improved.\n\n### AI-Rating\nBased on user reviews, the BG Hotel Caballero scores a solid **8/10**. Most guests highlight the hotel’s location and cleanliness, though some find the noise level and room size lacking.\n\n| Pro | Contra |\n| --- | --- |\n| 🟢 Proximity to the beach | 🔴 Small room size |\n| 🟢 Clean and modern decor | 🔴 Noise from surroundings |\n| 🟢 Friendly staff | 🔴 Some in-room amenities lacking |\n\n### Conclusion\nBG Hotel Caballero is an excellent option for those looking to combine relaxation and activity in Mallorca. While it excels in cleanliness and location, minor issues like room size and noise could be a consideration for some travelers.",
+      "address": "Carrer de Neopàtria, 3, Platja de Palma, 07610 Palma",
+      "mail": "",
+      "website": "https://www.bghotels.com/bg-caballero.html",
+      "phone": "+34971260050",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726738625-bghotels-01.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726738625-bghotels-02.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726738625-bghotels-03.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🏨 Hotel",
+        "slug": "hotel"
+      },
+      "subCategories": [
+        {
+          "name": "🏖️ Beach",
+          "slug": "beach"
+        },
+        {
+          "name": "🍸 Bar",
+          "slug": "bar"
+        }
+      ],
+      "location": {
+        "latitude": 39.5265327,
+        "longitude": 2.7353731
+      }
+    },
+    {
+      "_publishedAt": "2024-09-19T11:29:43+02:00",
+      "_firstPublishedAt": "2024-09-19T10:05:43+02:00",
+      "id": "Usk1A9smSjmg7dyUt4fo1w",
+      "name": "Kasui",
+      "description": "## Overview\nKasui is a Japanese fusion restaurant located in the heart of Palma de Mallorca, specifically at Plaça de Raimundo Clar, 6. The restaurant offers a unique culinary experience inspired by Japanese robatayaki and Southeast Asian street food. With an emphasis on sharing, the restaurant's dishes are perfect for groups of friends or family looking to explore bold, adventurous flavors in a relaxed atmosphere.\n\n## Services\nKasui offers a diverse menu that highlights tapas-style dishes meant for sharing, with an Asian twist. The restaurant also has a selection of signature cocktails and provides both indoor and terrace seating, enhancing the dining experience. With a focus on presentation and flavor, Kasui stands out for its creative fusion of ingredients and cooking techniques.\n\n## Location\nSituated in the old town of Palma, Kasui enjoys a prime location in the trendy Plaça de Raimundo Clar. This area, part of the Sa Gerreria neighborhood, has become a culinary hotspot, making it a perfect destination for food enthusiasts looking to experience something new in a vibrant, urban setting.\n\n## User Experiences\nDiners frequently highlight the innovative menu, which blends Japanese techniques with Spanish flavors, as well as the excellent service. The ambiance is often described as modern and cozy, with special praise for the friendly staff and attention to detail. However, some customers have noted that the portions can be small for the price, which is a recurring point of feedback.\n\n## AI-Rating\nBased on user reviews, Kasui receives an **AI-Rating of 8/10**. The restaurant impresses with its unique fusion cuisine and stylish setting, but the portion sizes and pricing could be adjusted for a more satisfying experience.\n\n| Pro | Contra |\n|-----|--------|\n| 🟢 Creative and flavorful dishes | 🔴 Small portion sizes |\n| 🟢 Great location in Palma's old town | 🔴 Somewhat expensive for the offering |\n| 🟢 Friendly and attentive service | 🔴 Limited opening hours |\n\n## Conclusion\nKasui offers an exciting fusion dining experience that stands out in Palma's food scene. Its creative menu, vibrant atmosphere, and excellent location make it worth visiting, though some may find it on the pricier side for the portion sizes.",
+      "address": "Plaça Raimundo Clar, 6  07002 Palma",
+      "mail": "",
+      "website": "https://kasuirestaurante.com/",
+      "phone": "+34971677780",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726732875-205912.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726732875-84070231_474314199912152_8623813646218166272_n.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726732875-72126190_399974040679502_4663029775470690304_n.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🍽️ Restaurant",
+        "slug": "restaurant"
+      },
+      "subCategories": [
+        {
+          "name": "🍥 Japanese",
+          "slug": "japanese"
+        },
+        {
+          "name": "🔥 Grill",
+          "slug": "grill"
+        },
+        {
+          "name": "🍸 Bar",
+          "slug": "bar"
+        },
+        {
+          "name": "🍹 Cocktail",
+          "slug": "cocktail"
+        }
+      ],
+      "location": {
+        "latitude": 39.570694,
+        "longitude": 2.6567097
+      }
+    },
+    {
+      "_publishedAt": "2024-09-18T20:46:18+02:00",
+      "_firstPublishedAt": "2024-09-18T20:35:33+02:00",
+      "id": "NQPh3l0xQa-oGhOO9qNtqA",
+      "name": "Emilio Innobar Restaurante Fusion",
+      "description": "**Fusion cuisine in the heart of Palma**\nEmilio Innobar combines Asian, Mexican and Mediterranean flavors in a modern fusion restaurant in Palma de Mallorca. The dishes are based on fresh, seasonal ingredients and offer a special combination of flavors.\n\n**Menu and culinary concept**\nThe restaurant presents its menu on a blackboard that is regularly updated. The dishes are fresh and designed to be shared, which puts the focus on enjoying together. Both cold and hot dishes are offered.\n\n**Ambience and service**\nEmilio Innobar offers an elegant atmosphere in which guests are welcomed with a family-like service. The combination of delicious food and stylish ambience makes it one of the top restaurants in Palma.\n\n**Opening hours and reservations**\nThe restaurant is open for lunch and dinner from Tuesday to Saturday. Reservations can be made by phone or email.",
+      "address": "C/ de la Concepció, 9, Centre, 07012 Palma, Illes Balears, Spanien",
+      "mail": "reservas@emilio-innobar.com",
+      "website": "http://www.emilio-innobar.com/",
+      "phone": "+34696639179",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726684281-screenshot-2024-09-18-202925.png",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726684281-screenshot-2024-09-18-202851.png",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🍽️ Restaurant",
+        "slug": "restaurant"
+      },
+      "subCategories": [
+        {
+          "name": "🍱 Fusion",
+          "slug": "fusion"
+        },
+        {
+          "name": "🍣 Sushi",
+          "slug": "sushi"
+        },
+        {
+          "name": "🍷 Wine",
+          "slug": "wine"
+        }
+      ],
+      "location": {
+        "latitude": 39.574501,
+        "longitude": 2.6456798
+      }
+    },
+    {
+      "_publishedAt": "2024-09-19T10:02:59+02:00",
+      "_firstPublishedAt": "2024-09-18T20:11:49+02:00",
+      "id": "QxJqEk6vQS2WyhupiiRE4w",
+      "name": "Guindilla Design & Bar",
+      "description": "",
+      "address": "Carrer de la Ferreria, 18, Centre, 07002 Palma",
+      "mail": "",
+      "website": "",
+      "phone": "+34697457473",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726682785-screenshot-2024-09-18-200105.png",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726682785-screenshot-2024-09-18-200258.png",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726682785-screenshot-2024-09-18-200133.png",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🍽️ Restaurant",
+        "slug": "restaurant"
+      },
+      "subCategories": [
+        {
+          "name": "🍸 Bar",
+          "slug": "bar"
+        },
+        {
+          "name": "🔥 Grill",
+          "slug": "grill"
+        },
+        {
+          "name": "🍷 Wine",
+          "slug": "wine"
+        }
+      ],
+      "location": {
+        "latitude": 39.5710629,
+        "longitude": 2.6548905
+      }
+    },
+    {
+      "_publishedAt": "2024-09-18T20:12:01+02:00",
       "_firstPublishedAt": "2024-09-17T17:50:59+02:00",
       "id": "b-9KTV-iRsavnVJKQZYpfw",
       "name": "Nola",
@@ -130,11 +683,41 @@
         "name": "🍽️ Restaurant",
         "slug": "restaurant"
       },
-      "subCategories": [],
+      "subCategories": [
+        {
+          "name": "🍹 Cocktail",
+          "slug": "cocktail"
+        }
+      ],
       "location": {
         "latitude": 39.5702663,
         "longitude": 2.6387198
       }
+    },
+    {
+      "_publishedAt": "2024-09-18T17:42:32+02:00",
+      "_firstPublishedAt": "2024-09-17T17:51:28+02:00",
+      "id": "Peagy9k4QQGyL6cCKlAvDg",
+      "name": "Petit Nola",
+      "description": "",
+      "address": "Carrer del Vicari Joaquim Fuster, 95, Platja de Palma, 07006 Palma",
+      "mail": "",
+      "website": "",
+      "phone": "+34971093495",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726674145-petit-nola-photo.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🍽️ Restaurant",
+        "slug": "restaurant"
+      },
+      "subCategories": [],
+      "location": null
     },
     {
       "_publishedAt": "2024-09-18T10:40:58+02:00",
