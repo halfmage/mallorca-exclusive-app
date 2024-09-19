@@ -24,6 +24,20 @@
   ],
   "allSubcategories": [
     {
+      "id": "ftZiImywQX2eQBn4L6wd3g",
+      "name": "🌴 Thailändische Küche",
+      "slug": "thai",
+      "_firstPublishedAt": "2024-09-19T12:54:22+02:00",
+      "_publishedAt": "2024-09-19T12:54:22+02:00"
+    },
+    {
+      "id": "Ujb2DGTtSvi58QtE8WmZ3w",
+      "name": "🌊 Mittelmeerküche",
+      "slug": "mediterranean",
+      "_firstPublishedAt": "2024-09-19T12:39:50+02:00",
+      "_publishedAt": "2024-09-19T12:39:50+02:00"
+    },
+    {
       "id": "HrpeIezqR5CZVhBKy1V5Xg",
       "name": "🤿 Tauchen",
       "slug": "diving",
@@ -145,6 +159,292 @@
   ],
   "allProviders": [
     {
+      "_publishedAt": "2024-09-19T16:13:34+02:00",
+      "_firstPublishedAt": "2024-09-19T12:56:25+02:00",
+      "id": "MoaBiy0JQXStTvKyUgziLA",
+      "name": "Isaan Thai Cuisine",
+      "description": "## Übersicht\nIsaan Thai Cuisine ist ein beliebtes Restaurant in Palma, Mallorca, das sich auf authentische thailändische Gerichte spezialisiert hat. Es bietet ein gemütliches, entspanntes Ambiente mit frischen Zutaten und kräftigen Aromen. Nachhaltigkeit und vegane Optionen stehen im Fokus.\n\n## Services\nDas Restaurant bietet Speisen vor Ort, zum Mitnehmen und zur Lieferung an. Das Menü umfasst thailändische Klassiker wie Currys, Pfannengerichte und Nudeln, mit einem besonderen Schwerpunkt auf veganen Gerichten.\n\n## Lage\nIsaan Thai Cuisine befindet sich in der Carrer de la Pursiana, 14, im lebhaften Viertel Ponent, Palma. Es ist sowohl für Einheimische als auch Touristen gut erreichbar.\n\n## Nutzererfahrungen\nViele Gäste loben die Qualität der Speisen und bezeichnen sie als geschmackvoll und authentisch. Der Service wird als freundlich beschrieben, jedoch gibt es gelegentlich Wartezeiten.\n\n## AI-Rating\n**Bewertung: 4.6/5**\nBasierend auf den überwiegend positiven Bewertungen, der Qualität des Essens und des Services.\n\n| Pros | Cons |\n|------|------|\n| 🟢 Authentische Thai-Aromen | 🔴 Gelegentliche Wartezeiten |\n| 🟢 Vegane Optionen | 🔴 Etwas höhere Preise |\n\n## Abschluss\nIsaan Thai Cuisine bietet ein authentisches thailändisches Erlebnis in Palma und ist für Liebhaber der thailändischen Küche einen Besuch wert.",
+      "address": "Carrer de la Pursiana, 14, Ponent, 07013 Palma",
+      "mail": "info@isaanthaicuisine.com",
+      "website": "https://www.isaanthaicuisine.com/en/",
+      "phone": "+34971158679",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726755193-isaan-04.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726755193-isaan-05.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726755193-isaan-02.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726755193-isaan-03.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726755193-isaan-01.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🍽️ Restaurant",
+        "slug": "restaurant"
+      },
+      "subCategories": [
+        {
+          "name": "🌴 Thailändische Küche",
+          "slug": "thai"
+        }
+      ],
+      "location": {
+        "latitude": 39.5718746,
+        "longitude": 2.6392642
+      }
+    },
+    {
+      "_publishedAt": "2024-09-19T16:08:26+02:00",
+      "_firstPublishedAt": "2024-09-19T12:50:00+02:00",
+      "id": "BQg2w-LISASytMkXS4a0xQ",
+      "name": "NENI Mallorca | Port de Sóller",
+      "description": "# Übersicht\n**NENI Mallorca** ist ein lebhaftes und eklektisches Restaurant in **Port de Sóller**. Als Teil der globalen NENI-Familie bietet es eine Mischung aus mediterranen und nahöstlichen Aromen und folgt dem NENI-Prinzip des gemeinsamen Essens. Es befindet sich im **Bikini Island & Mountain Hotel** und bietet einen atemberaubenden Blick auf den Hafen sowie eine entspannte, farbenfrohe Atmosphäre.\n\n# Services\nDas NENI Mallorca spezialisiert sich auf mediterrane Fusionsküche, mit einem starken Fokus auf Gerichte zum Teilen. Das Menü ist stark von nahöstlichen Aromen inspiriert, mit Klassikern wie Hummus, Falafel und Shakshuka. Es bietet sowohl Tapas als auch größere Gerichte. Darüber hinaus gibt es eine exzellente Auswahl an Cocktails und lokalen Weinen. NENI bietet sowohl Innenbereiche als auch eine große Terrasse mit Aussicht.\n\n# Lage\nDas Restaurant befindet sich in der **Carrer de Migjorn, 2** in **Port de Sóller**, Mallorca. Es liegt im **Bikini Island & Mountain Hotel** und bietet sowohl Hotelgästen als auch Touristen eine erstklassige Location mit Blick auf das Meer und die Berge.\n\n# Nutzererfahrungen\nDie meisten Gäste loben die einzigartigen und geschmackvollen Gerichte, sowie die hohe Qualität der Zutaten. Besonders der Panoramablick wird oft als Höhepunkt erwähnt. Einige Rezensionen berichten von langen Wartezeiten und höheren Preisen im Vergleich zu lokalen Alternativen. Insgesamt sind die meisten Gäste jedoch von der Küche und dem Ambiente begeistert.\n\n# AI-Rating\n**4.5/5**  \nBasierend auf den Bewertungen erhält NENI Mallorca hohe Punkte für seine innovative Küche, das Ambiente und den Service. Die kleinen Nachteile liegen in den Preisen und den Wartezeiten.\n\n# Pro/Contra Tabelle\n\n|      | **Pro**          | **Contra**       |\n|------|------------------|------------------|\n| ✅   | Atemberaubende Aussicht | ❌ Teuer |\n| ✅   | Einzigartige Fusionküche | ❌ Lange Wartezeiten |\n| ✅   | Großartige Atmosphäre | ❌ Begrenzte Sitzplätze zu Spitzenzeiten |\n\n# Abschluss\nNENI Mallorca bietet ein herausragendes kulinarisches Erlebnis, das mediterrane und nahöstliche Aromen mit einer atemberaubenden Lage kombiniert. Obwohl es manchmal teuer und überfüllt sein kann, sind die Speisen und das Ambiente den Besuch wert.\n",
+      "address": "Carrer de Migjorn, 2, 07108 Port de Sóller",
+      "mail": "neni.portdesoller@bikini-hotels.com",
+      "website": "https://nenifood.com/restaurants/mallorca-es-trenc",
+      "phone": "+34971638370",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726754896-neni-mallorca-port-de-soller-03.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726754896-neni-mallorca-port-de-soller-02.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726754896-neni-mallorca-port-de-soller-01.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🍽️ Restaurant",
+        "slug": "restaurant"
+      },
+      "subCategories": [
+        {
+          "name": "🌊 Mittelmeerküche",
+          "slug": "mediterranean"
+        }
+      ],
+      "location": {
+        "latitude": 39.8003579,
+        "longitude": 2.6950403
+      }
+    },
+    {
+      "_publishedAt": "2024-09-19T16:05:25+02:00",
+      "_firstPublishedAt": "2024-09-19T12:43:04+02:00",
+      "id": "a30eF5nZSCmGHCxUWs3R4w",
+      "name": "MUARÉ",
+      "description": "## Übersicht\nMUARÉ Cantina ist ein elegantes Restaurant in Palma, Illes Balears, das mediterrane und lateinamerikanische Küche in einer modernen, entspannten Umgebung anbietet.\n\n## Services\nDas Restaurant bietet eine Vielfalt an Gourmetgerichten mit frischen, lokalen Zutaten. Es gibt auch vegetarische Optionen, Spezialcocktails und eine umfangreiche Weinauswahl. Private Veranstaltungen können ebenfalls organisiert werden.\n\n## Lage\nMUARÉ Cantina befindet sich im Stadtteil Llevant von Palma und ist sowohl für Einheimische als auch Touristen leicht erreichbar.\n\n## Nutzererfahrungen\nGäste loben den freundlichen Service und die kreativen Gerichte. Die entspannte Atmosphäre und die lebhaften Aromen werden oft hervorgehoben. Einige bemängeln allerdings die etwas höheren Preise.\n\n## AI-Rating\n**Bewertung:** 4.6/5  \n**Pro & Contra:**\n\n| ✅ Pro                            | ❌ Contra                       |\n|-----------------------------------|---------------------------------|\n| 🟢 Hervorragender Service & Ambiente | 🔴 Etwas teuer                  |\n| 🟢 Einzigartige Menükreationen     | 🔴 Wenig Parkplätze              |\n| 🟢 Hochwertige Zutaten             | 🔴 Starker Andrang zu Stoßzeiten |\n\n## Abschluss\nMUARÉ Cantina bietet eine erstklassige kulinarische Erfahrung mit kreativen Gerichten und einer angenehmen Atmosphäre. Es ist eine ausgezeichnete Wahl für besondere Anlässe, auch wenn die Preise etwas höher sind.",
+      "address": "Carrer Francesc Barceló i Combis, 4, Llevant, 07006 Palma, Illes Balears, Spanien",
+      "mail": "hola@muarecantina.com",
+      "website": "https://www.muarecantina.com",
+      "phone": "+34971127572",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726754715-muarecantina-03.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726754715-muarecantina-02.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726754715-muarecantina-01.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🍽️ Restaurant",
+        "slug": "restaurant"
+      },
+      "subCategories": [
+        {
+          "name": "🌊 Mittelmeerküche",
+          "slug": "mediterranean"
+        }
+      ],
+      "location": {
+        "latitude": 39.5718681,
+        "longitude": 2.6613639
+      }
+    },
+    {
+      "_publishedAt": "2024-09-19T16:02:59+02:00",
+      "_firstPublishedAt": "2024-09-19T12:33:11+02:00",
+      "id": "EHh9O7j1Rj2fvz0lmgG5yA",
+      "name": "El Hummus",
+      "description": "## Übersicht\nEL Hummus ist ein charmantes Restaurant in Llucmajor, Mallorca, das sich auf Küche des Nahen Ostens spezialisiert hat. Mit einer warmen und einladenden Atmosphäre bietet es eine Vielzahl von Gerichten wie Hummus, Falafel, Shawarma und vegane Optionen an. Besonders gelobt werden die frischen Zutaten und hausgemachten Aromen.\n\n## Services\nDas Restaurant bietet eine gesunde Auswahl an mediterran inspirierten Gerichten, einschließlich vegetarischer und veganer Optionen. Der Service wird als sehr freundlich und aufmerksam beschrieben, sodass sich die Gäste wie zu Hause fühlen. In den wärmeren Monaten ist die Terrasse ein beliebter Platz.\n\n## Lage\nEL Hummus befindet sich in der Carrer de la Constitució, 4, direkt im Zentrum von Llucmajor. Durch die Nähe zur Plaza Espanya ist es sowohl für Touristen als auch für Einheimische leicht zu erreichen.\n\n## Nutzererfahrungen\nDie meisten Bewertungen sind äußerst positiv. Die Gäste loben die köstlichen und authentischen Aromen des Nahen Ostens, insbesondere den Hummus und die Falafel. Das Personal wird oft für seine Freundlichkeit gelobt. Einige Bewertungen weisen darauf hin, dass das Restaurant in Stoßzeiten voll werden kann, was zu längeren Wartezeiten führt.\n\n## AI-Rating\nBasierend auf den Nutzerbewertungen erhält EL Hummus eine **AI-Bewertung von 4.8/5**. Die meisten Kritiken loben die Qualität der Speisen und des Services, mit kleinen Beschwerden über gelegentliche Verzögerungen zu Stoßzeiten.\n\n| Pro ✅  | Contra ❌  |\n|--------|-----------|\n| Frische, authentische Gerichte 🥙 | In Stoßzeiten voll 🕒 |\n| Freundlicher Service 😊 | Begrenzte Sitzplätze im Innenbereich im Winter ❄️ |\n| Tolle vegane und vegetarische Optionen 🌱 | Etwas höhere Preise für einige Gerichte 💰 |\n\n## Abschluss\nEL Hummus ist ein Muss für alle, die authentische Küche des Nahen Ostens auf Mallorca genießen möchten. Die freundliche Atmosphäre, frische Gerichte und veganen Optionen machen es zu einem Highlight in Llucmajor.",
+      "address": "Carrer de la Constitució, 4, 07620 Llucmajor",
+      "mail": "",
+      "website": "https://www.elhummus.com",
+      "phone": "+34692450545",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726754563-elhummus-05.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726754563-elhummus-04.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726754563-elhummus-02.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726754563-elhummus-01.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726754564-elhummus-03.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🍽️ Restaurant",
+        "slug": "restaurant"
+      },
+      "subCategories": [
+        {
+          "name": "🍸 Bar",
+          "slug": "bar"
+        },
+        {
+          "name": "🥙 Hummus",
+          "slug": "hummus"
+        }
+      ],
+      "location": {
+        "latitude": 39.4913015,
+        "longitude": 2.8910941
+      }
+    },
+    {
+      "_publishedAt": "2024-09-19T15:02:08+02:00",
+      "_firstPublishedAt": "2024-09-19T15:02:08+02:00",
+      "id": "aqfMs_Y6RE-lYYg7Fy-hMA",
+      "name": "Duke Restaurant",
+      "description": "## Übersicht\nDas Duke Restaurant, gelegen in der Carrer Soler 36 im Stadtteil Santa Catalina in Palma de Mallorca, ist seit 2009 ein beliebtes Lokal. Die Köche Ronny Portulidis und Jorge Esteve bieten eine mediterrane Küche mit einem gesunden Twist an. Bekannt für seine entspannte Atmosphäre und die Verwendung nachhaltiger, lokal bezogener Zutaten, ist das Duke sowohl bei Einheimischen als auch bei internationalen Gästen sehr gefragt.\n\n## Services\nDas Duke Restaurant bietet von Montag bis Samstag Abendessen von 19:00 bis 23:00 Uhr an und ist sonntags geschlossen. Es gibt sowohl die Möglichkeit zum Essen vor Ort als auch zum Mitnehmen und Catering. Die Speisekarte setzt auf moderne Gerichte ohne Butter, Sahne oder künstliche Zutaten und legt Wert auf gesunde Ernährung.\n\n## Lage\nIm Herzen von Santa Catalina gelegen, befindet sich das Duke in einem lebhaften Viertel Palmas. Das Restaurant überzeugt durch seine intime Atmosphäre und zieht daher viele Genießer an.\n\n## Nutzererfahrungen\nBesucher loben häufig die freundliche und einladende Atmosphäre, den aufmerksamen Service und die stets hervorragende Küche. Besonders geschätzt wird die frische Zubereitung der Speisen mit lokalen Zutaten.\n\n## AI-Rating\nBasierend auf den Nutzerbewertungen erreicht das Duke Restaurant eine **8.5/10** für sein hervorragendes Essen, die entspannte Umgebung und die nachhaltige Ausrichtung.\n\n## Pro und Contra\n\n| Pro | Contra |\n|------|------|\n| 🟢 Frische, nachhaltige Zutaten | 🔴 Begrenzte Sitzplätze |\n| 🟢 Freundliches Personal | 🔴 Sonntags geschlossen |\n| 🟢 Gesunde Menüoptionen | 🔴 Nur Abendessen verfügbar |\n\n## Abschluss\nDas Duke Restaurant überzeugt durch eine Balance aus Qualität, Kreativität und Nachhaltigkeit. Seine besondere kulinarische Ausrichtung macht es zu einem beliebten Ziel für Genießer in Palma.",
+      "address": "Carrer Soler, 36, Ponent, 07013 Palma",
+      "mail": "",
+      "website": "https://www.dukepalma.com",
+      "phone": "+34971071738",
+      "photos": [],
+      "mainCategory": {
+        "name": "🍽️ Restaurant",
+        "slug": "restaurant"
+      },
+      "subCategories": [
+        {
+          "name": "🌊 Mittelmeerküche",
+          "slug": "mediterranean"
+        }
+      ],
+      "location": {
+        "latitude": 39.5719045,
+        "longitude": 2.6379457
+      }
+    },
+    {
+      "_publishedAt": "2024-09-19T14:54:04+02:00",
+      "_firstPublishedAt": "2024-09-19T14:54:04+02:00",
+      "id": "ePsi0LSlSNW1iU5DbPbylQ",
+      "name": "Bi Bap",
+      "description": "### Übersicht\nBi Bap ist ein koreanisches Fusion-Restaurant im Zentrum von Palma de Mallorca. Es kombiniert traditionelle koreanische Rezepte mit modernen kulinarischen Trends, um ein einzigartiges Geschmackserlebnis zu bieten. Das Restaurant legt großen Wert auf frische, lokale und biologische Zutaten und serviert ausgewogene und gesunde Gerichte. Besonders beliebt ist das Bi Bap für seine authentische koreanische BBQ und kreative asiatische Küche.\n\n### Services\nBi Bap bietet sowohl Speisen vor Ort als auch zum Mitnehmen an, inklusive einer beliebten koreanischen BBQ. Die Speisekarte enthält eine sorgfältige Auswahl an Fleisch, Meeresfrüchten und Gemüse, die mit Kräutern und Gewürzen verfeinert werden. Das Restaurant legt großen Wert auf Nachhaltigkeit und bezieht seine Zutaten aus fairem Handel und regionalen Quellen. Reservierungen können telefonisch vorgenommen werden.\n\n### Lage\nDas Restaurant befindet sich am belebten Plaça del Mercat in Palma und bietet eine zentrale Lage, die leicht zugänglich ist. Neben Innenräumen gibt es auch eine charmante Terrasse, auf der die Gäste ihre Mahlzeiten bei angenehmem Mittelmeerklima genießen können.\n\n### Nutzererfahrungen\nDie Gäste loben häufig den freundlichen und schnellen Service, die Authentizität der Gerichte und die ausgewogenen Aromen. Der moderne Twist auf traditionelle koreanische Küche wird gut aufgenommen, allerdings erwähnen einige Gäste, dass die Preise im Vergleich zu anderen lokalen Optionen etwas höher sein können.\n\n### AI-Rating\nBasierend auf Nutzerbewertungen erhält Bi Bap eine Bewertung von **4.5/5** für die Qualität der Speisen, den Service und das gesamte Erlebnis.\n\n### Pro und Contra\n| Pros ✅  | Contra ❌  |\n|---------|------------|\n| Frische, lokale und biologische Zutaten 🌱 | Etwas höhere Preise 💸  |\n| Freundlicher und effizienter Service 🙂 | Begrenzte Menüauswahl 🍽️ |\n| Authentische Korean BBQ Erfahrung 🔥 | Wartezeiten für beliebte Gerichte ⏳ |\n\n### Abschluss\nBi Bap bietet einen erfrischenden Blick auf die koreanische Küche und ist ein Muss für alle, die in Palma etwas Besonderes suchen. Der Fokus auf Nachhaltigkeit und frische Zutaten trägt zur Attraktivität bei, auch wenn man sich der etwas höheren Preise bewusst sein sollte.",
+      "address": "Plaça del Mercat, 3, Centre, 07001 Palma",
+      "mail": "",
+      "website": "https://bibap-mallorca.com/en/",
+      "phone": "+34971773089",
+      "photos": [],
+      "mainCategory": {
+        "name": "🍽️ Restaurant",
+        "slug": "restaurant"
+      },
+      "subCategories": [
+        {
+          "name": "🥢 Asiatisch",
+          "slug": "asian"
+        }
+      ],
+      "location": {
+        "latitude": 39.5711994,
+        "longitude": 2.6484241
+      }
+    },
+    {
+      "_publishedAt": "2024-09-19T13:01:47+02:00",
+      "_firstPublishedAt": "2024-09-19T13:01:47+02:00",
+      "id": "Cssb46YKQOap0bK6F5xd8A",
+      "name": "KOH",
+      "description": "## Übersicht\nDas KOH in Palma, Mallorca, kombiniert südostasiatische Aromen mit modernen, kreativen Elementen. Das Restaurant, bekannt für sein jährlich wechselndes Menü, bietet eine frische und innovative Interpretation traditioneller Gerichte. Das Ambiente ist schick und einladend, ideal für Feinschmecker, die auf der Suche nach einem besonderen kulinarischen Erlebnis sind.\n\n## Services\nKOH bietet sowohl À-la-carte-Menüs als auch spezielle Verkostungsmenüs an. Für Gruppen gibt es besondere Menüs und auch digitale Geschenkkarten sind verfügbar – perfekt für individuelle Geschenkideen.\n\n## Lage\nDas Restaurant befindet sich in der **Carrer de Servet, 15, Palma, 07013 Illes Balears, Spanien**, im belebten Viertel Ponent. Es ist leicht zu erreichen und bietet eine gemütliche Atmosphäre für ein gehobenes kulinarisches Erlebnis.\n\n## Nutzererfahrungen\nGäste loben regelmäßig die kreative Herangehensweise an die Gerichte im KOH. Besonders hervorgehoben werden Gerichte wie knusprige Ente im Massaman-Curry und Iberische Schweinerippchen im koreanischen Stil. Der Service wird als aufmerksam und freundlich beschrieben, und das stilvolle Interieur trägt zur angenehmen Atmosphäre bei.\n\n## AI-Rating\n**8.9/10**  \nBasierend auf Nutzerbewertungen erzielt KOH hohe Punkte für seine innovative Küche, die Qualität des Services und die angenehme Atmosphäre. Die Preise liegen allerdings etwas über dem regionalen Durchschnitt.\n\n## Pro und Contra\n\n| ✅ Pro                          | ❌ Contra                    |\n|---------------------------------|------------------------------|\n| 🟢 Kreative asiatische Küche     | 🔴 Etwas höhere Preise        |\n| 🟢 Freundliches Personal         | 🔴 Begrenzte Sitzplatzkapazität |\n| 🟢 Stilvolles, gemütliches Ambiente | 🔴 Geschlossen an einigen Wochentagen|\n\n## Abschluss\nKOH bietet ein unvergessliches kulinarisches Erlebnis in Palma mit einer kreativen Fusion asiatischer Gerichte. Perfekt für Gäste, die innovative Küche in einem stilvollen und entspannten Umfeld genießen möchten.",
+      "address": "Carrer de Servet, 15, Ponent, 07013 Palma, Illes Balears, Spanien",
+      "mail": "HELLO@KOHPALMA.COM",
+      "website": " kohpalma.com",
+      "phone": "+34635339211",
+      "photos": [],
+      "mainCategory": {
+        "name": "🍽️ Restaurant",
+        "slug": "restaurant"
+      },
+      "subCategories": [
+        {
+          "name": "🌴 Thailändische Küche",
+          "slug": "thai"
+        }
+      ],
+      "location": {
+        "latitude": 39.5708477,
+        "longitude": 2.6386299
+      }
+    },
+    {
       "_publishedAt": "2024-09-19T12:38:04+02:00",
       "_firstPublishedAt": "2024-09-19T12:34:22+02:00",
       "id": "C2Ulw01IRcOd8NkHEuhXTg",
@@ -205,36 +505,6 @@
       "location": {
         "latitude": 39.6831747,
         "longitude": 3.4516384
-      }
-    },
-    {
-      "_publishedAt": "2024-09-19T12:35:03+02:00",
-      "_firstPublishedAt": "2024-09-19T12:33:11+02:00",
-      "id": "EHh9O7j1Rj2fvz0lmgG5yA",
-      "name": "EL Hummus",
-      "description": "## Übersicht\nEL Hummus ist ein charmantes Restaurant in Llucmajor, Mallorca, das sich auf Küche des Nahen Ostens spezialisiert hat. Mit einer warmen und einladenden Atmosphäre bietet es eine Vielzahl von Gerichten wie Hummus, Falafel, Shawarma und vegane Optionen an. Besonders gelobt werden die frischen Zutaten und hausgemachten Aromen.\n\n## Services\nDas Restaurant bietet eine gesunde Auswahl an mediterran inspirierten Gerichten, einschließlich vegetarischer und veganer Optionen. Der Service wird als sehr freundlich und aufmerksam beschrieben, sodass sich die Gäste wie zu Hause fühlen. In den wärmeren Monaten ist die Terrasse ein beliebter Platz.\n\n## Lage\nEL Hummus befindet sich in der Carrer de la Constitució, 4, direkt im Zentrum von Llucmajor. Durch die Nähe zur Plaza Espanya ist es sowohl für Touristen als auch für Einheimische leicht zu erreichen.\n\n## Nutzererfahrungen\nDie meisten Bewertungen sind äußerst positiv. Die Gäste loben die köstlichen und authentischen Aromen des Nahen Ostens, insbesondere den Hummus und die Falafel. Das Personal wird oft für seine Freundlichkeit gelobt. Einige Bewertungen weisen darauf hin, dass das Restaurant in Stoßzeiten voll werden kann, was zu längeren Wartezeiten führt.\n\n## AI-Rating\nBasierend auf den Nutzerbewertungen erhält EL Hummus eine **AI-Bewertung von 4.8/5**. Die meisten Kritiken loben die Qualität der Speisen und des Services, mit kleinen Beschwerden über gelegentliche Verzögerungen zu Stoßzeiten.\n\n| Pro ✅  | Contra ❌  |\n|--------|-----------|\n| Frische, authentische Gerichte 🥙 | In Stoßzeiten voll 🕒 |\n| Freundlicher Service 😊 | Begrenzte Sitzplätze im Innenbereich im Winter ❄️ |\n| Tolle vegane und vegetarische Optionen 🌱 | Etwas höhere Preise für einige Gerichte 💰 |\n\n## Abschluss\nEL Hummus ist ein Muss für alle, die authentische Küche des Nahen Ostens auf Mallorca genießen möchten. Die freundliche Atmosphäre, frische Gerichte und veganen Optionen machen es zu einem Highlight in Llucmajor.",
-      "address": "Carrer de la Constitució, 4, 07620 Llucmajor",
-      "mail": "",
-      "website": "https://www.elhummus.com",
-      "phone": "+34692450545",
-      "photos": [],
-      "mainCategory": {
-        "name": "🍽️ Restaurant",
-        "slug": "restaurant"
-      },
-      "subCategories": [
-        {
-          "name": "🍸 Bar",
-          "slug": "bar"
-        },
-        {
-          "name": "🥙 Hummus",
-          "slug": "hummus"
-        }
-      ],
-      "location": {
-        "latitude": 39.4913015,
-        "longitude": 2.8910941
       }
     },
     {
@@ -867,120 +1137,6 @@
         "slug": "restaurant"
       },
       "subCategories": [],
-      "location": null
-    },
-    {
-      "_publishedAt": "2024-09-18T10:40:59+02:00",
-      "_firstPublishedAt": "2024-09-17T13:57:58+02:00",
-      "id": "Pv3GT8uBTvmqQNULg8b0PA",
-      "name": "Abbaco Natural Food",
-      "description": "Unser Restaurant in Puerto Pollensa, Abbaco Natural Food, ist ein Lokal direkt am Meer, in dem Sie eine große Auswahl an gesunden und ausgewogenen Gerichten mit einem besonderen orientalischen Touch genießen können. Abbaco Natural Food&Sushi ist ideal für alle, die guten Geschmack in einem natürlichen und pflanzlichen Umfeld suchen, mit Optionen für jeden Geschmack.",
-      "address": "Passeig Saralegui, 110, 07470 Port de Pollença, Illes Balears, Spanien",
-      "mail": " info@abbaconaturalfood.com",
-      "website": "http://abbaconaturalfood.com/",
-      "phone": "+34971865741",
-      "photos": [
-        {
-          "responsiveImage": {
-            "src": "https://www.datocms-assets.com/138394/1726574312-mg_8194b-2048x1365.jpg",
-            "alt": null
-          }
-        },
-        {
-          "responsiveImage": {
-            "src": "https://www.datocms-assets.com/138394/1726574312-mg_8217b-2048x1365.jpg",
-            "alt": null
-          }
-        }
-      ],
-      "mainCategory": {
-        "name": "🍽️ Restaurant",
-        "slug": "restaurant"
-      },
-      "subCategories": [],
-      "location": null
-    },
-    {
-      "_publishedAt": "2024-09-18T10:41:00+02:00",
-      "_firstPublishedAt": "2024-09-17T18:24:59+02:00",
-      "id": "ZeQim-kcSwWXVNminc-gww",
-      "name": "Artmadams",
-      "description": "Das Hotel Artmadams 4**** ist ein Vier-Sterne-Hotel im Zentrum der Stadt Palma, gut angebunden mit öffentlichen Bussen, nur wenige Meter von der Promenade und nur 10 Minuten vom historischen Zentrum von Palma de Mallorca und der Haupteinkaufsstraße entfernt. Dieses Hotel ist seit seiner Eröffnung im Jahr 2000 ein herausragendes Hotel im Zentrum von Palma mit klassischem und elegantem Charakter. In den öffentlichen Bereichen bietet es eine Sammlung moderner Kunst mehrerer renommierter mallorquinischer Künstler.",
-      "address": "Carrer del Marquès de la Sènia, 34, Ponent, 07014 Palma, Illes Balears, Spanien",
-      "mail": "ARTMADAMS@HOTELARTMADAMS.COM",
-      "website": "https://www.hotelartmadams.com/",
-      "phone": "+34971222121",
-      "photos": [
-        {
-          "responsiveImage": {
-            "src": "https://www.datocms-assets.com/138394/1726590264-habitacion-hotel-artmadams-2.jpg",
-            "alt": null
-          }
-        },
-        {
-          "responsiveImage": {
-            "src": "https://www.datocms-assets.com/138394/1726590263-escultura-hotel-artmadams.jpg",
-            "alt": null
-          }
-        },
-        {
-          "responsiveImage": {
-            "src": "https://www.datocms-assets.com/138394/1726590263-piscina-exterior-artmadams.jpg",
-            "alt": null
-          }
-        }
-      ],
-      "mainCategory": {
-        "name": "🏨 Hotel",
-        "slug": "hotel"
-      },
-      "subCategories": [],
-      "location": null
-    },
-    {
-      "_publishedAt": "2024-09-18T10:27:45+02:00",
-      "_firstPublishedAt": "2024-08-08T20:39:31+02:00",
-      "id": "Xk97s4piQ0qp1CGcXdh8pg",
-      "name": "MarChica Palma",
-      "description": "Eine Symphonie aus köstlicher Küche und atemberaubenden Cocktails. Genießen Sie ein unvergessliches Erlebnis, das alle Sinne erfreut.",
-      "address": "Carrer Torre de Paraires, 1, Ponent, 07015 Palma, Illes Balears, Spanien",
-      "mail": "reservas@marchicapalma.com",
-      "website": "https://marchicapalma.com",
-      "phone": "+34971593902",
-      "photos": [
-        {
-          "responsiveImage": {
-            "src": "https://www.datocms-assets.com/138394/1723143550-marchica-palma-01.jpg",
-            "alt": null
-          }
-        },
-        {
-          "responsiveImage": {
-            "src": "https://www.datocms-assets.com/138394/1723143545-marchica-palma-02.jpg",
-            "alt": null
-          }
-        },
-        {
-          "responsiveImage": {
-            "src": "https://www.datocms-assets.com/138394/1723143540-marchica-palma-03.jpg",
-            "alt": null
-          }
-        }
-      ],
-      "mainCategory": {
-        "name": "🍽️ Restaurant",
-        "slug": "restaurant"
-      },
-      "subCategories": [
-        {
-          "name": "🧄 Feinkost",
-          "slug": "delicatessen"
-        },
-        {
-          "name": "🍣 Sushi",
-          "slug": "sushi"
-        }
-      ],
       "location": null
     }
   ]
