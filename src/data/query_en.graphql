@@ -1,19 +1,5 @@
 {
-  allMainCategories {
-    id
-    name
-    slug
-    _firstPublishedAt
-    _publishedAt
-  }
-  allSubcategories {
-    id
-    name
-    slug
-    _firstPublishedAt
-    _publishedAt
-  }
-  allProviders {
+  allProviders(first: 100) {
     _publishedAt
     _firstPublishedAt
     id
@@ -23,6 +9,8 @@
     mail
     website
     phone
+    googleMapsLink
+    aiRating
     photos {
       responsiveImage {
         src
@@ -41,5 +29,19 @@
       latitude
       longitude
     }
+  }
+  allMainCategories {
+    id
+    name
+    slug
+    _firstPublishedAt
+    _publishedAt
+  }
+  allSubcategories {
+    id
+    name
+    slug
+    _firstPublishedAt
+    _publishedAt
   }
 }

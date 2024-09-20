@@ -1,3 +1,15 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.headline {
+
+}
+
+.subheadline {
+    @apply font-bold text-2xl
+}
+
+.prose h2:first-child {
+    margin-top: 0;
+}

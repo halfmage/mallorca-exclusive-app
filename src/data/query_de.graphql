@@ -1,19 +1,5 @@
 {
-  allMainCategories(locale:de) {
-    id
-    name
-    slug
-    _firstPublishedAt
-    _publishedAt
-  }
-  allSubcategories(locale:de) {
-    id
-    name
-    slug
-    _firstPublishedAt
-    _publishedAt
-  }
-  allProviders(locale:de) {
+  allProviders(locale:de, first: 100) {
     _publishedAt
     _firstPublishedAt
     id
@@ -23,6 +9,8 @@
     mail
     website
     phone
+    googleMapsLink
+    aiRating
     photos {
       responsiveImage {
         src
@@ -41,5 +29,19 @@
       latitude
       longitude
     }
+  }
+  allMainCategories(locale:de) {
+    id
+    name
+    slug
+    _firstPublishedAt
+    _publishedAt
+  }
+  allSubcategories(locale:de) {
+    id
+    name
+    slug
+    _firstPublishedAt
+    _publishedAt
   }
 }

@@ -6,8 +6,22 @@
     {{x.name}}
 </h2>
 
-<div class="bg-white/80 rounded-lg py-1 px-2 absolute top-2 left-2 text-[10px] md:text-sm z-10 group-hover:bg-white transition-colors">
+<div class="bg-white rounded-lg py-1 px-2 absolute top-2 left-2 text-[10px] md:text-sm z-10">
     {{x.mainCategory.name}}
+</div>
+
+<div class="
+    {% if x.aiRating >= 0 and x.aiRating <= 3 %}
+        bg-red-500 text-red-950 ring-1 ring-offset-1 ring-offset-red-100 ring-red-500
+    {% elif x.aiRating >= 3 and x.aiRating <= 4 %}
+        bg-orange-500 text-orange-950 ring-1 ring-offset-1 ring-offset-orange-100 ring-orange-500
+    {% elif x.aiRating >= 4 and x.aiRating <= 4.5 %}
+        bg-lime-500 text-lime-950 ring-1 ring-offset-1 ring-offset-lime-100 ring-lime-500
+    {% elif x.aiRating >= 4.5 and x.aiRating <= 5 %}
+        bg-green-500 text-green-950 ring-1 ring-offset-1 ring-offset-green-100 ring-green-500
+    {% endif %}
+    font-bold rounded-lg py-1 px-2 absolute top-2 right-2 text-[10px] md:text-sm z-10">
+    {{x.aiRating}}
 </div>
 
 {% if x.photos and x.photos|length > 0 %}

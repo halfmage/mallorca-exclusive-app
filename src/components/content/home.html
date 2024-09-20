@@ -7,22 +7,24 @@
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin=""/>
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
 
-<div class="md:grid grid-cols-12 h-[calc(100vh-64px)]">
-    <div class="col-span-7">
-        {% include "categoryrow.html" %}
+<div class="relative">
+    {% include "categoryrow.html" %}
+    <div class="fixed right-0 bottom-0 top-16 z-20 w-[40vw] h-full" id="map"></div>
+    <div class="pr-[40vw]">
+
         <div class="grid grid-cols-2 sm:grid-cols-3 gap-4 p-4 overflow-y-auto">
         {% for x in data.allProviders %}
             {% include "provider.html" %}
         {% endfor %}
         </div>
+        
     </div>
-
-    <div class="col-span-5 hidden md:block" id="map" style="width: 100%; height: 100%;"></div>
 </div>
+
 
 <script>
     // Initialize the map with a default center and zoom level
-    var map = L.map('map').setView([39.5956, 2.8084], 10);
+    var map = L.map('map').setView([39.56891,2.63395], 13);
 
     // Add the OpenStreetMap tile layer
     L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
@@ -32,7 +34,9 @@
 
     // Loop through the providers and add markers dynamically
     {% for x in data.allProviders %}
-        var marker = L.marker([{{ x.location.latitude }}, {{ x.location.longitude }}]).addTo(map)
-            .bindPopup("<a href='/{% if locale == 'de' %}{{locale}}/{% endif %}{{x.name | slugify}}'><b>{{ x.name }}</b><br>{{ x.address }}</a>");
+    var marker = L.marker([{{ x.location.latitude }}, {{ x.location.longitude }}]).addTo(map)
+    .bindPopup(
+            "<a class='flex items-center gap-2' href='/{% if locale == 'de' %}{{locale}}/{% endif %}{{x.name | slugify}}'><img class='size-16 shrink-0 rounded-lg border border-gray-200 object-cover' src='{{x.photos[1].responsiveImage.src}}' alt='{{x.name | slugify}}'><div class='text-gray-900'><strong class='text-lg/5 line-clamp-2 mb-1'>{{ x.name }}</strong><div class='line-clamp-2'>{{ x.address }}</div></div></a>"
+        );
     {% endfor %}
 </script>

@@ -1,7 +1,6 @@
-// Pull in the environment variables. In dev, this comes from the `.env` file.
-// In prod, this comes from Netlify
-require("dotenv").config();
+#!/usr/bin/env node
 
+require("dotenv").config();
 const { promisify } = require("util");
 const path = require("path");
 const fetch = require("node-fetch");
@@ -15,7 +14,7 @@ const readFile = promisify(fs.readFile);
  * To reduce processing time, data is cached to a file and only fetched if
  * the cache file doesn't exist
  */
-module.exports = async function Cms() {
+async function Cms() {  // No need to `module.exports` if you plan to run it in this file
   const token = process.env.DATO_API_TOKEN;
   const cachePath = path.join(__dirname, "datocms_data_de.json");
   const cache = await getCache(cachePath);
@@ -32,9 +31,6 @@ module.exports = async function Cms() {
 };
 
 async function fetchData(token) {
-  // Read the query from a file. A bit nicer to work with once the query
-  // gets bigger. You can also copy and paste directly from the Dato API
-  // explorer into the file.
   const query = await readFile(path.join(__dirname, "query_de.graphql"));
   const response = await fetch("https://graphql.datocms.com/", {
     method: "POST",
@@ -73,3 +69,14 @@ async function getCache(cachePath) {
     // fetch from the network
   }
 }
+
+// Only run the Cms function if this script is executed directly
+if (require.main === module) {
+  Cms().then(() => {
+    console.log(">> DatoCMS data fetching complete");
+  }).catch(err => {
+    console.error(">> Error fetching DatoCMS data:", err);
+  });
+}
+
+module.exports = Cms; // Export Cms if needed in another file

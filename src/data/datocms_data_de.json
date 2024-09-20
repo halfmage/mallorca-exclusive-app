@@ -1,355 +1,161 @@
 {
-  "allMainCategories": [
-    {
-      "id": "E5sTr18jRLWGiJdgtZI0rg",
-      "name": "🎨 Lifestyle",
-      "slug": "lifestyle",
-      "_firstPublishedAt": "2024-09-18T10:17:11+02:00",
-      "_publishedAt": "2024-09-18T10:23:28+02:00"
-    },
-    {
-      "id": "PWIGNzMASXiORHFXvdlZqA",
-      "name": "🍽️ Restaurant",
-      "slug": "restaurant",
-      "_firstPublishedAt": "2024-09-18T10:16:56+02:00",
-      "_publishedAt": "2024-09-18T10:23:08+02:00"
-    },
-    {
-      "id": "AhcbURkMT1akCDMPJy1D9A",
-      "name": "🏨 Hotel",
-      "slug": "hotel",
-      "_firstPublishedAt": "2024-09-18T10:15:41+02:00",
-      "_publishedAt": "2024-09-18T10:18:11+02:00"
-    }
-  ],
-  "allSubcategories": [
-    {
-      "id": "ftZiImywQX2eQBn4L6wd3g",
-      "name": "🌴 Thailändische Küche",
-      "slug": "thai",
-      "_firstPublishedAt": "2024-09-19T12:54:22+02:00",
-      "_publishedAt": "2024-09-19T12:54:22+02:00"
-    },
-    {
-      "id": "Ujb2DGTtSvi58QtE8WmZ3w",
-      "name": "🌊 Mittelmeerküche",
-      "slug": "mediterranean",
-      "_firstPublishedAt": "2024-09-19T12:39:50+02:00",
-      "_publishedAt": "2024-09-19T12:39:50+02:00"
-    },
-    {
-      "id": "HrpeIezqR5CZVhBKy1V5Xg",
-      "name": "🤿 Tauchen",
-      "slug": "diving",
-      "_firstPublishedAt": "2024-09-19T12:34:18+02:00",
-      "_publishedAt": "2024-09-19T12:34:18+02:00"
-    },
-    {
-      "id": "K2kHyYmkQRSKw_2fLR1Q9A",
-      "name": "🥙 Hummus",
-      "slug": "hummus",
-      "_firstPublishedAt": "2024-09-19T12:30:28+02:00",
-      "_publishedAt": "2024-09-19T12:30:28+02:00"
-    },
-    {
-      "id": "QOWO9obmRji73qEDTOGH1g",
-      "name": "🚫 Nur Erwachsene",
-      "slug": "adults-only",
-      "_firstPublishedAt": "2024-09-19T11:49:27+02:00",
-      "_publishedAt": "2024-09-19T11:49:27+02:00"
-    },
-    {
-      "id": "WEFxkXwUQhWl_dWuK6YEQQ",
-      "name": "🏖️ Strandnah",
-      "slug": "beach",
-      "_firstPublishedAt": "2024-09-19T11:41:03+02:00",
-      "_publishedAt": "2024-09-19T11:41:03+02:00"
-    },
-    {
-      "id": "ROAJbE8WTi-kMnBylUZNqQ",
-      "name": "🌄 Peruanisch",
-      "slug": "peruvian",
-      "_firstPublishedAt": "2024-09-19T10:37:48+02:00",
-      "_publishedAt": "2024-09-19T10:37:48+02:00"
-    },
-    {
-      "id": "F-Iki5wuR5Cm88CS79XUSg",
-      "name": "🍥 Japanisch",
-      "slug": "japanese",
-      "_firstPublishedAt": "2024-09-19T09:59:05+02:00",
-      "_publishedAt": "2024-09-19T09:59:05+02:00"
-    },
-    {
-      "id": "evHj5jdmSKij51hPJarNWg",
-      "name": "🍶 Sake",
-      "slug": "sake",
-      "_firstPublishedAt": "2024-09-19T09:57:09+02:00",
-      "_publishedAt": "2024-09-19T09:57:09+02:00"
-    },
-    {
-      "id": "XfDoRkkdSJ-L6hoZJMBhSg",
-      "name": "🥢 Asiatisch",
-      "slug": "asian",
-      "_firstPublishedAt": "2024-09-19T09:54:47+02:00",
-      "_publishedAt": "2024-09-19T09:54:47+02:00"
-    },
-    {
-      "id": "MM3NMyB0Qz6AZ3kNpYN_uw",
-      "name": "🍱 Fusion",
-      "slug": "fusion",
-      "_firstPublishedAt": "2024-09-18T20:33:35+02:00",
-      "_publishedAt": "2024-09-18T20:33:35+02:00"
-    },
-    {
-      "id": "dPwEMs3iS8qTIStZebye2A",
-      "name": "🍷 Wein",
-      "slug": "wine",
-      "_firstPublishedAt": "2024-09-18T20:16:16+02:00",
-      "_publishedAt": "2024-09-18T20:16:16+02:00"
-    },
-    {
-      "id": "MPQ06773S9SwwdPySQ-uTA",
-      "name": "🍹 Cocktail",
-      "slug": "cocktail",
-      "_firstPublishedAt": "2024-09-18T19:46:09+02:00",
-      "_publishedAt": "2024-09-18T20:13:23+02:00"
-    },
-    {
-      "id": "Uq71ghH1SGiqvyjqG6uu5w",
-      "name": "🔥 Grill",
-      "slug": "grill",
-      "_firstPublishedAt": "2024-09-18T19:57:36+02:00",
-      "_publishedAt": "2024-09-18T20:13:09+02:00"
-    },
-    {
-      "id": "We7h4HUjT2aqL44bc4FKHQ",
-      "name": "🍸 Bar",
-      "slug": "bar",
-      "_firstPublishedAt": "2024-09-18T19:56:09+02:00",
-      "_publishedAt": "2024-09-18T20:13:01+02:00"
-    },
-    {
-      "id": "Uyyb2ElXQx-JuJn-YZSGBA",
-      "name": "🥘 Spanisch",
-      "slug": "spanish",
-      "_firstPublishedAt": "2024-09-18T10:25:42+02:00",
-      "_publishedAt": "2024-09-18T10:25:42+02:00"
-    },
-    {
-      "id": "KXOQxIbeRdqIMkWIhScr7w",
-      "name": "🍝 Italienisch",
-      "slug": "italian",
-      "_firstPublishedAt": "2024-09-18T10:24:59+02:00",
-      "_publishedAt": "2024-09-18T10:24:59+02:00"
-    },
-    {
-      "id": "AR6OHAndTGOmxuAFsiuoLg",
-      "name": "🧄 Feinkost",
-      "slug": "delicatessen",
-      "_firstPublishedAt": "2024-09-17T20:27:42+02:00",
-      "_publishedAt": "2024-09-18T10:24:34+02:00"
-    },
-    {
-      "id": "N_IBgNzXRhqFLO9WYZGMRw",
-      "name": "🍣 Sushi",
-      "slug": "sushi",
-      "_firstPublishedAt": "2024-09-17T20:22:16+02:00",
-      "_publishedAt": "2024-09-18T10:23:48+02:00"
-    }
-  ],
   "allProviders": [
     {
-      "_publishedAt": "2024-09-19T16:13:34+02:00",
-      "_firstPublishedAt": "2024-09-19T12:56:25+02:00",
-      "id": "MoaBiy0JQXStTvKyUgziLA",
-      "name": "Isaan Thai Cuisine",
-      "description": "## Übersicht\nIsaan Thai Cuisine ist ein beliebtes Restaurant in Palma, Mallorca, das sich auf authentische thailändische Gerichte spezialisiert hat. Es bietet ein gemütliches, entspanntes Ambiente mit frischen Zutaten und kräftigen Aromen. Nachhaltigkeit und vegane Optionen stehen im Fokus.\n\n## Services\nDas Restaurant bietet Speisen vor Ort, zum Mitnehmen und zur Lieferung an. Das Menü umfasst thailändische Klassiker wie Currys, Pfannengerichte und Nudeln, mit einem besonderen Schwerpunkt auf veganen Gerichten.\n\n## Lage\nIsaan Thai Cuisine befindet sich in der Carrer de la Pursiana, 14, im lebhaften Viertel Ponent, Palma. Es ist sowohl für Einheimische als auch Touristen gut erreichbar.\n\n## Nutzererfahrungen\nViele Gäste loben die Qualität der Speisen und bezeichnen sie als geschmackvoll und authentisch. Der Service wird als freundlich beschrieben, jedoch gibt es gelegentlich Wartezeiten.\n\n## AI-Rating\n**Bewertung: 4.6/5**\nBasierend auf den überwiegend positiven Bewertungen, der Qualität des Essens und des Services.\n\n| Pros | Cons |\n|------|------|\n| 🟢 Authentische Thai-Aromen | 🔴 Gelegentliche Wartezeiten |\n| 🟢 Vegane Optionen | 🔴 Etwas höhere Preise |\n\n## Abschluss\nIsaan Thai Cuisine bietet ein authentisches thailändisches Erlebnis in Palma und ist für Liebhaber der thailändischen Küche einen Besuch wert.",
-      "address": "Carrer de la Pursiana, 14, Ponent, 07013 Palma",
-      "mail": "info@isaanthaicuisine.com",
-      "website": "https://www.isaanthaicuisine.com/en/",
-      "phone": "+34971158679",
-      "photos": [
-        {
-          "responsiveImage": {
-            "src": "https://www.datocms-assets.com/138394/1726755193-isaan-04.jpg",
-            "alt": null
-          }
-        },
-        {
-          "responsiveImage": {
-            "src": "https://www.datocms-assets.com/138394/1726755193-isaan-05.jpg",
-            "alt": null
-          }
-        },
-        {
-          "responsiveImage": {
-            "src": "https://www.datocms-assets.com/138394/1726755193-isaan-02.jpg",
-            "alt": null
-          }
-        },
-        {
-          "responsiveImage": {
-            "src": "https://www.datocms-assets.com/138394/1726755193-isaan-03.jpg",
-            "alt": null
-          }
-        },
-        {
-          "responsiveImage": {
-            "src": "https://www.datocms-assets.com/138394/1726755193-isaan-01.jpg",
-            "alt": null
-          }
-        }
-      ],
-      "mainCategory": {
-        "name": "🍽️ Restaurant",
-        "slug": "restaurant"
-      },
-      "subCategories": [
-        {
-          "name": "🌴 Thailändische Küche",
-          "slug": "thai"
-        }
-      ],
-      "location": {
-        "latitude": 39.5718746,
-        "longitude": 2.6392642
-      }
-    },
-    {
-      "_publishedAt": "2024-09-19T16:08:26+02:00",
-      "_firstPublishedAt": "2024-09-19T12:50:00+02:00",
-      "id": "BQg2w-LISASytMkXS4a0xQ",
-      "name": "NENI Mallorca | Port de Sóller",
-      "description": "# Übersicht\n**NENI Mallorca** ist ein lebhaftes und eklektisches Restaurant in **Port de Sóller**. Als Teil der globalen NENI-Familie bietet es eine Mischung aus mediterranen und nahöstlichen Aromen und folgt dem NENI-Prinzip des gemeinsamen Essens. Es befindet sich im **Bikini Island & Mountain Hotel** und bietet einen atemberaubenden Blick auf den Hafen sowie eine entspannte, farbenfrohe Atmosphäre.\n\n# Services\nDas NENI Mallorca spezialisiert sich auf mediterrane Fusionsküche, mit einem starken Fokus auf Gerichte zum Teilen. Das Menü ist stark von nahöstlichen Aromen inspiriert, mit Klassikern wie Hummus, Falafel und Shakshuka. Es bietet sowohl Tapas als auch größere Gerichte. Darüber hinaus gibt es eine exzellente Auswahl an Cocktails und lokalen Weinen. NENI bietet sowohl Innenbereiche als auch eine große Terrasse mit Aussicht.\n\n# Lage\nDas Restaurant befindet sich in der **Carrer de Migjorn, 2** in **Port de Sóller**, Mallorca. Es liegt im **Bikini Island & Mountain Hotel** und bietet sowohl Hotelgästen als auch Touristen eine erstklassige Location mit Blick auf das Meer und die Berge.\n\n# Nutzererfahrungen\nDie meisten Gäste loben die einzigartigen und geschmackvollen Gerichte, sowie die hohe Qualität der Zutaten. Besonders der Panoramablick wird oft als Höhepunkt erwähnt. Einige Rezensionen berichten von langen Wartezeiten und höheren Preisen im Vergleich zu lokalen Alternativen. Insgesamt sind die meisten Gäste jedoch von der Küche und dem Ambiente begeistert.\n\n# AI-Rating\n**4.5/5**  \nBasierend auf den Bewertungen erhält NENI Mallorca hohe Punkte für seine innovative Küche, das Ambiente und den Service. Die kleinen Nachteile liegen in den Preisen und den Wartezeiten.\n\n# Pro/Contra Tabelle\n\n|      | **Pro**          | **Contra**       |\n|------|------------------|------------------|\n| ✅   | Atemberaubende Aussicht | ❌ Teuer |\n| ✅   | Einzigartige Fusionküche | ❌ Lange Wartezeiten |\n| ✅   | Großartige Atmosphäre | ❌ Begrenzte Sitzplätze zu Spitzenzeiten |\n\n# Abschluss\nNENI Mallorca bietet ein herausragendes kulinarisches Erlebnis, das mediterrane und nahöstliche Aromen mit einer atemberaubenden Lage kombiniert. Obwohl es manchmal teuer und überfüllt sein kann, sind die Speisen und das Ambiente den Besuch wert.\n",
-      "address": "Carrer de Migjorn, 2, 07108 Port de Sóller",
-      "mail": "neni.portdesoller@bikini-hotels.com",
-      "website": "https://nenifood.com/restaurants/mallorca-es-trenc",
-      "phone": "+34971638370",
-      "photos": [
-        {
-          "responsiveImage": {
-            "src": "https://www.datocms-assets.com/138394/1726754896-neni-mallorca-port-de-soller-03.jpg",
-            "alt": null
-          }
-        },
-        {
-          "responsiveImage": {
-            "src": "https://www.datocms-assets.com/138394/1726754896-neni-mallorca-port-de-soller-02.jpg",
-            "alt": null
-          }
-        },
-        {
-          "responsiveImage": {
-            "src": "https://www.datocms-assets.com/138394/1726754896-neni-mallorca-port-de-soller-01.jpg",
-            "alt": null
-          }
-        }
-      ],
-      "mainCategory": {
-        "name": "🍽️ Restaurant",
-        "slug": "restaurant"
-      },
-      "subCategories": [
-        {
-          "name": "🌊 Mittelmeerküche",
-          "slug": "mediterranean"
-        }
-      ],
-      "location": {
-        "latitude": 39.8003579,
-        "longitude": 2.6950403
-      }
-    },
-    {
-      "_publishedAt": "2024-09-19T16:05:25+02:00",
-      "_firstPublishedAt": "2024-09-19T12:43:04+02:00",
-      "id": "a30eF5nZSCmGHCxUWs3R4w",
-      "name": "MUARÉ",
-      "description": "## Übersicht\nMUARÉ Cantina ist ein elegantes Restaurant in Palma, Illes Balears, das mediterrane und lateinamerikanische Küche in einer modernen, entspannten Umgebung anbietet.\n\n## Services\nDas Restaurant bietet eine Vielfalt an Gourmetgerichten mit frischen, lokalen Zutaten. Es gibt auch vegetarische Optionen, Spezialcocktails und eine umfangreiche Weinauswahl. Private Veranstaltungen können ebenfalls organisiert werden.\n\n## Lage\nMUARÉ Cantina befindet sich im Stadtteil Llevant von Palma und ist sowohl für Einheimische als auch Touristen leicht erreichbar.\n\n## Nutzererfahrungen\nGäste loben den freundlichen Service und die kreativen Gerichte. Die entspannte Atmosphäre und die lebhaften Aromen werden oft hervorgehoben. Einige bemängeln allerdings die etwas höheren Preise.\n\n## AI-Rating\n**Bewertung:** 4.6/5  \n**Pro & Contra:**\n\n| ✅ Pro                            | ❌ Contra                       |\n|-----------------------------------|---------------------------------|\n| 🟢 Hervorragender Service & Ambiente | 🔴 Etwas teuer                  |\n| 🟢 Einzigartige Menükreationen     | 🔴 Wenig Parkplätze              |\n| 🟢 Hochwertige Zutaten             | 🔴 Starker Andrang zu Stoßzeiten |\n\n## Abschluss\nMUARÉ Cantina bietet eine erstklassige kulinarische Erfahrung mit kreativen Gerichten und einer angenehmen Atmosphäre. Es ist eine ausgezeichnete Wahl für besondere Anlässe, auch wenn die Preise etwas höher sind.",
-      "address": "Carrer Francesc Barceló i Combis, 4, Llevant, 07006 Palma, Illes Balears, Spanien",
-      "mail": "hola@muarecantina.com",
-      "website": "https://www.muarecantina.com",
-      "phone": "+34971127572",
-      "photos": [
-        {
-          "responsiveImage": {
-            "src": "https://www.datocms-assets.com/138394/1726754715-muarecantina-03.jpg",
-            "alt": null
-          }
-        },
-        {
-          "responsiveImage": {
-            "src": "https://www.datocms-assets.com/138394/1726754715-muarecantina-02.jpg",
-            "alt": null
-          }
-        },
-        {
-          "responsiveImage": {
-            "src": "https://www.datocms-assets.com/138394/1726754715-muarecantina-01.jpg",
-            "alt": null
-          }
-        }
-      ],
-      "mainCategory": {
-        "name": "🍽️ Restaurant",
-        "slug": "restaurant"
-      },
-      "subCategories": [
-        {
-          "name": "🌊 Mittelmeerküche",
-          "slug": "mediterranean"
-        }
-      ],
-      "location": {
-        "latitude": 39.5718681,
-        "longitude": 2.6613639
-      }
-    },
-    {
-      "_publishedAt": "2024-09-19T16:02:59+02:00",
-      "_firstPublishedAt": "2024-09-19T12:33:11+02:00",
-      "id": "EHh9O7j1Rj2fvz0lmgG5yA",
-      "name": "El Hummus",
-      "description": "## Übersicht\nEL Hummus ist ein charmantes Restaurant in Llucmajor, Mallorca, das sich auf Küche des Nahen Ostens spezialisiert hat. Mit einer warmen und einladenden Atmosphäre bietet es eine Vielzahl von Gerichten wie Hummus, Falafel, Shawarma und vegane Optionen an. Besonders gelobt werden die frischen Zutaten und hausgemachten Aromen.\n\n## Services\nDas Restaurant bietet eine gesunde Auswahl an mediterran inspirierten Gerichten, einschließlich vegetarischer und veganer Optionen. Der Service wird als sehr freundlich und aufmerksam beschrieben, sodass sich die Gäste wie zu Hause fühlen. In den wärmeren Monaten ist die Terrasse ein beliebter Platz.\n\n## Lage\nEL Hummus befindet sich in der Carrer de la Constitució, 4, direkt im Zentrum von Llucmajor. Durch die Nähe zur Plaza Espanya ist es sowohl für Touristen als auch für Einheimische leicht zu erreichen.\n\n## Nutzererfahrungen\nDie meisten Bewertungen sind äußerst positiv. Die Gäste loben die köstlichen und authentischen Aromen des Nahen Ostens, insbesondere den Hummus und die Falafel. Das Personal wird oft für seine Freundlichkeit gelobt. Einige Bewertungen weisen darauf hin, dass das Restaurant in Stoßzeiten voll werden kann, was zu längeren Wartezeiten führt.\n\n## AI-Rating\nBasierend auf den Nutzerbewertungen erhält EL Hummus eine **AI-Bewertung von 4.8/5**. Die meisten Kritiken loben die Qualität der Speisen und des Services, mit kleinen Beschwerden über gelegentliche Verzögerungen zu Stoßzeiten.\n\n| Pro ✅  | Contra ❌  |\n|--------|-----------|\n| Frische, authentische Gerichte 🥙 | In Stoßzeiten voll 🕒 |\n| Freundlicher Service 😊 | Begrenzte Sitzplätze im Innenbereich im Winter ❄️ |\n| Tolle vegane und vegetarische Optionen 🌱 | Etwas höhere Preise für einige Gerichte 💰 |\n\n## Abschluss\nEL Hummus ist ein Muss für alle, die authentische Küche des Nahen Ostens auf Mallorca genießen möchten. Die freundliche Atmosphäre, frische Gerichte und veganen Optionen machen es zu einem Highlight in Llucmajor.",
-      "address": "Carrer de la Constitució, 4, 07620 Llucmajor",
+      "_publishedAt": "2024-09-20T13:00:41+02:00",
+      "_firstPublishedAt": "2024-09-20T13:00:41+02:00",
+      "id": "ctGn28tTTsS4l55VZBc5Cg",
+      "name": "Castillo Hotel Son Vida",
+      "description": "# Übersicht\nDas Castillo Hotel Son Vida ist ein luxuriöses Hotel in der renommierten Gegend von Son Vida auf Mallorca, Spanien. Dieses Hotel gehört zur Luxury Collection von Marriott und bietet den Gästen ein opulentes Erlebnis mit atemberaubenden Ausblicken auf das Mittelmeer und die umliegende Landschaft. Die Architektur verbindet traditionellen mediterranen Stil mit moderner Eleganz und schafft eine ruhige Atmosphäre, die perfekt für Entspannung ist.\n\n# Services\nGäste können eine Vielzahl von hochwertigen Dienstleistungen genießen, darunter ein erstklassiges Spa, Gourmet-Dining-Optionen und komfortable Unterkünfte. Das Hotel verfügt über mehrere Pools, ein Fitnesscenter und wunderschön angelegte Gärten. Geschäftsreisende profitieren von Tagungsräumen und Veranstaltungsflächen, die mit modernster Technologie ausgestattet sind.\n\n# Lage\nDas Hotel liegt in der ruhigen Nachbarschaft von Son Vida und bietet einen friedlichen Rückzugsort, während es gleichzeitig nahe am lebhaften Stadtleben von Palma ist. Gäste können nahegelegene Attraktionen erkunden, darunter Golfplätze, Strände und lokale Märkte, was es zu einem idealen Ort für Entspannung und Abenteuer macht.\n\n# Nutzererfahrungen\nBesucher loben häufig das Hotel für seinen aufmerksamen Service und die außergewöhnliche Gastfreundschaft. Die luxuriösen Annehmlichkeiten und die atemberaubenden Ausblicke erhalten hohe Bewertungen, obwohl einige Gäste die Preise als Nachteil erwähnen. Insgesamt beschreiben viele Gäste ihren Aufenthalt als unvergesslich und erholsam.\n\n# AI-Rating\nBasierend auf Nutzerbewertungen liegt das AI-Rating für das Castillo Hotel Son Vida bei 4,5 von 5.\n\n| Pro ✅                  | Contra ❌                |\n|------------------------|-------------------------|\n| Atemberaubende Ausblicke | Hoher Preis             |\n| Ausgezeichneter Service  | Eingeschränkte Dining-Optionen |\n| Luxuriöse Annehmlichkeiten | Lärm von nahegelegenen Zimmern |\n\n# Abschluss\nZusammenfassend ist das Castillo Hotel Son Vida eine exquisite Wahl für Reisende, die Luxus und Ruhe auf Mallorca suchen. Mit seinen erstklassigen Dienstleistungen und der schönen Lage bietet es ein unvergessliches Erlebnis, obwohl potenzielle Gäste sich auf Premiumpreise einstellen sollten.",
+      "address": "Carrer Raixa, 2, Urbanizacion, Ponent, 07013 Son Vida ",
       "mail": "",
-      "website": "https://www.elhummus.com",
-      "phone": "+34692450545",
+      "website": "https://www.marriott.com/en-us/hotels/pmilc-castillo-hotel-son-vida-a-luxury-collection-hotel-mallorca/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0",
+      "phone": "+34971493493",
+      "googleMapsLink": "https://maps.app.goo.gl/5vexn9p7GtJ4UPtz6",
+      "aiRating": 4.5,
+      "photos": [],
+      "mainCategory": {
+        "name": "🏨 Hotel",
+        "slug": "hotel"
+      },
+      "subCategories": [],
+      "location": {
+        "latitude": 39.5922158,
+        "longitude": 2.5957974
+      }
+    },
+    {
+      "_publishedAt": "2024-09-20T13:00:22+02:00",
+      "_firstPublishedAt": "2024-09-20T12:54:39+02:00",
+      "id": "O9TZOvYjQ0iUatz2TDH7zQ",
+      "name": "Hotel Can Quetglas",
+      "description": "# Übersicht\nHotel Can Quetglas ist ein charmantes Hotel im Herzen von Palma, Mallorca. Diese Boutique-Unterkunft kombiniert traditionelle balearische Architektur mit modernen Annehmlichkeiten und bietet den Gästen ein einzigartiges und komfortables Erlebnis. Mit seiner intimen Atmosphäre und dem persönlichen Service zieht es Reisende an, die einen ruhigen Rückzugsort suchen.\n\n# Services\nDas Hotel bietet eine Vielzahl von Dienstleistungen, die den Komfort der Gäste verbessern. Dazu gehören kostenloses WLAN, ein reichhaltiges Frühstück und ein gut gepflegter Außenpool. Darüber hinaus ist das Personal für seine freundliche Art und seine Hilfsbereitschaft bei lokalen Empfehlungen bekannt, was zu einer einladenden Umgebung beiträgt.\n\n# Lage\nDas Hotel befindet sich in der Carrer de Santa Rita im Stadtteil Ponent und ist günstig gelegen, um beliebte Attraktionen wie den Strand und das historische Stadtzentrum von Palma zu erreichen. Die Gäste können leicht lokale Geschäfte, Restaurants und kulturelle Sehenswürdigkeiten erkunden, was es zu einer idealen Basis macht, um die Schönheit der Insel zu entdecken.\n\n# Nutzererfahrungen\nNutzerbewertungen heben die gemütliche Atmosphäre und die Sauberkeit des Hotels hervor. Viele Gäste schätzen das aufmerksame Personal und die ruhige Umgebung. Einige erwähnen jedoch, dass die Zimmer kleiner sein könnten als erwartet. Insgesamt spiegeln die meisten Bewertungen ein positives Erlebnis wider, und viele geben an, dass sie zurückkehren würden.\n\n# AI-Rating\nBasierend auf den Nutzerfeedbacks erhält das Hotel Can Quetglas eine AI-Bewertung von 4,5 von 5 Sternen für seinen außergewöhnlichen Service und die gemütliche Atmosphäre.\n\n# Abschluss\nDas Hotel Can Quetglas ist eine hervorragende Wahl für Reisende, die eine Mischung aus Komfort, Service und guter Lage suchen. Mit seinen positiven Nutzererfahrungen sticht es als reizvoller Ort zum Verweilen in Palma hervor.\n\n| Pro ✅                          | Contra ❌                       |\n|-------------------------------|---------------------------------|\n| Freundliches und hilfsbereites Personal | Zimmer könnten kleiner sein    |\n| Gemütliche und saubere Atmosphäre | Eingeschränkte Essensmöglichkeiten vor Ort |\n| Exzellente Lage               | Mögliche Lärmbelästigung durch umliegende Straßen |\n",
+      "address": "Carrer de Santa Rita, 13, Ponent, 07014 Palma, Illes Balears, Spanien",
+      "mail": "info@hotelcanquetglas.com",
+      "website": "http://www.hotelcanquetglas.com/",
+      "phone": "+34871626000",
+      "googleMapsLink": "https://maps.app.goo.gl/brBFTtZpikeMFUC17",
+      "aiRating": 4.5,
       "photos": [
         {
           "responsiveImage": {
-            "src": "https://www.datocms-assets.com/138394/1726754563-elhummus-05.jpg",
+            "src": "https://www.datocms-assets.com/138394/1726829830-hotelcanquetglas-02.jpg",
             "alt": null
           }
         },
         {
           "responsiveImage": {
-            "src": "https://www.datocms-assets.com/138394/1726754563-elhummus-04.jpg",
+            "src": "https://www.datocms-assets.com/138394/1726829830-hotelcanquetglas-01.jpg",
             "alt": null
           }
         },
         {
           "responsiveImage": {
-            "src": "https://www.datocms-assets.com/138394/1726754563-elhummus-02.jpg",
+            "src": "https://www.datocms-assets.com/138394/1726829830-hotelcanquetglas-04.jpg",
             "alt": null
           }
         },
         {
           "responsiveImage": {
-            "src": "https://www.datocms-assets.com/138394/1726754563-elhummus-01.jpg",
+            "src": "https://www.datocms-assets.com/138394/1726829830-hotelcanquetglas-03.jpg",
             "alt": null
           }
         },
         {
           "responsiveImage": {
-            "src": "https://www.datocms-assets.com/138394/1726754564-elhummus-03.jpg",
+            "src": "https://www.datocms-assets.com/138394/1726829830-hotelcanquetglas-05.jpg",
             "alt": null
           }
         }
       ],
       "mainCategory": {
-        "name": "🍽️ Restaurant",
-        "slug": "restaurant"
+        "name": "🏨 Hotel",
+        "slug": "hotel"
+      },
+      "subCategories": [
+        {
+          "name": "☕ Frühstück",
+          "slug": "breakfast"
+        },
+        {
+          "name": "🛋️ Boutique",
+          "slug": "boutique"
+        }
+      ],
+      "location": {
+        "latitude": 39.5646584,
+        "longitude": 2.6241283
+      }
+    },
+    {
+      "_publishedAt": "2024-09-20T12:56:53+02:00",
+      "_firstPublishedAt": "2024-09-20T12:56:53+02:00",
+      "id": "YE8kC05PT4K5Dor1OAkP_A",
+      "name": "Hotel Cap Rocat",
+      "description": "# Übersicht\nDas Hotel Cap Rocat ist ein luxuriöses Boutique-Hotel in der ruhigen Gegend von Cala Blava, Mallorca. Eingebettet in eine ehemalige Militärfestung bietet das Hotel eine einzigartige Kombination aus historischem Charme und modernem Luxus. Gäste können eine exquisite Atmosphäre erwarten, die Privatsphäre und Ruhe priorisiert, was es zu einem idealen Rückzugsort für Paare und anspruchsvolle Reisende macht.\n\n# Services\nDas Hotel bietet eine Vielzahl von hochwertigen Dienstleistungen, darunter ein umfassendes Spa, Gourmet-Dining-Optionen und personalisierte Concierge-Services. Gäste können verschiedene Wellnessbehandlungen genießen, an exklusiven kulinarischen Erlebnissen teilnehmen und die schönen Außenpools mit atemberaubendem Meerblick nutzen. Das aufmerksame Personal ist bestrebt, einen unvergesslichen Aufenthalt zu gewährleisten.\n\n# Lage\nDas Hotel Cap Rocat liegt auf den Balearischen Inseln und bietet eine erstklassige Lage mit Blick auf das Mittelmeer. Die Umgebung ist von natürlicher Schönheit geprägt und bietet malerische Küstenwege sowie einen einfachen Zugang zu nahegelegenen Stränden. Die Nähe zu Palma ermöglicht es den Gästen, die lebendige Kultur und das Nachtleben der Insel zu erkunden.\n\n# Nutzererfahrungen\nBewertungen von Gästen heben durchweg den außergewöhnlichen Service und die atemberaubende Umgebung hervor. Viele Besucher schätzen die Privatsphäre und die ruhige Atmosphäre, während die exquisite Küche hochgelobt wird. Einige Gäste bemerken jedoch, dass die abgelegene Lage des Hotels für diejenigen, die ein lebhafteres Nachtleben suchen, nicht ideal sein könnte.\n\n# AI-Rating\nBasierend auf den Nutzerbewertungen erhält das Hotel Cap Rocat eine starke AI-Bewertung von 4.5/5, was die hohen Standards an Service und Gästefriedenheit widerspiegelt.\n\n## Pro/Contra Tabelle\n| Pro 😊                     | Contra 😔                      |\n|---------------------------|-------------------------------|\n| Atemberaubende Meerblicke  | Abgelegene Lage                |\n| Außergewöhnlicher Service  | Eingeschränkte Nachtleben-Optionen |\n| Luxuriöse Unterkünfte      | Höhere Preisklasse            |\n| Einzigartiger historischer Rahmen | Könnte für einige exklusiv wirken |\n\n# Abschluss\nDas Hotel Cap Rocat hebt sich als erstklassiges Ziel für diejenigen hervor, die Luxus und Ruhe auf Mallorca suchen. Mit seinem außergewöhnlichen Service, der schönen Lage und dem einzigartigen historischen Hintergrund bietet es den perfekten Rückzugsort für alle, die stilvoll entspannen möchten.\n",
+      "address": "Ctra. d'enderrocat, s/n, 07609 Cala Blava-Llucmajor",
+      "mail": "info@caprocat.com",
+      "website": "https://caprocat.com/?utm_source=google&utm_medium=maps&utm_campaign=mybusiness&utm_content=caprocat",
+      "phone": "+34971747878",
+      "googleMapsLink": "https://maps.app.goo.gl/vCnTMx4q3Dk1dSABA",
+      "aiRating": 4.5,
+      "photos": [],
+      "mainCategory": {
+        "name": "🏨 Hotel",
+        "slug": "hotel"
+      },
+      "subCategories": [],
+      "location": {
+        "latitude": 39.4761095,
+        "longitude": 2.7243017
+      }
+    },
+    {
+      "_publishedAt": "2024-09-20T12:54:48+02:00",
+      "_firstPublishedAt": "2024-09-20T10:01:53+02:00",
+      "id": "DJ2jPyrDS6qv8WtT20MGqw",
+      "name": "Hotel Born Palma",
+      "description": "## Übersicht\nDas Hotel Born ist ein charmantes 4-Sterne-Boutique-Hotel in einem ehemaligen Palast aus dem 16. Jahrhundert im historischen Zentrum von Palma, Mallorca. Das Hotel besticht durch seine mallorquinische Dekoration und den ruhigen Innenhof und verbindet gekonnt historische Details mit modernem Komfort. Durch seine Lage ist es ideal für Touristen, die Palmas Hauptattraktionen wie die Kathedrale und den Königspalast Almudaina erkunden möchten.\n\n## Services\nDas Hotel Born bietet verschiedene Services wie kostenloses WLAN, ein Frühstücksbuffet und eine 24-Stunden-Rezeption. Gäste können im wunderschönen italienischen Innenhof entspannen oder zusätzliche Dienstleistungen wie Autovermietung und Stadtführungen buchen. Die Zimmer sind mit Klimaanlage, Sat-TV und privaten Badezimmern ausgestattet, einige mit Blick auf den Innenhof.\n\n## Lage\nDas Hotel Born befindet sich in der Carrer de Sant Jaume im Herzen der Altstadt von Palma. Sehenswürdigkeiten wie die Kathedrale von Palma, der Passeig des Born und zahlreiche Geschäfte und Restaurants sind zu Fuß erreichbar. Der Flughafen Palma ist nur etwa 10 km entfernt und somit leicht erreichbar.\n\n## Nutzererfahrungen\nDie Gäste loben häufig den authentischen Charme, die historische Atmosphäre und den freundlichen Service des Hotels. Besonders hervorgehoben wird das Frühstück im Innenhof als besonderes Highlight. Einige Besucher bemängeln jedoch die unzureichende Schallisolierung, die besonders bei Zimmern zur Straße hin zu Lärmbelästigungen führen kann. Das Fehlen eines Aufzugs wird ebenfalls als kleines Manko empfunden.\n\n| Pros 🟢 | Contras 🔴 |\n|:-------|:--------|\n| Wunderschönes historisches Gebäude 🏛 | Kein Aufzug, nur Treppen 🚶‍♂️ |\n| Zentrale Lage 🏙 | Lärm von der Straße 🔊 |\n| Frühstück im Innenhof 🍽 | Veraltete Schallisolierung 📢 |\n| Freundliches Personal 🤝 | Basic-Zimmerausstattung 🛏 |\n\n## Abschluss\nDas Hotel Born ist eine hervorragende Wahl für Reisende, die einen kulturellen und authentischen Aufenthalt im Herzen von Palma suchen. Es bietet eine ruhige und historische Atmosphäre, aber Gäste sollten auf mögliche Lärmbelästigungen und fehlende Barrierefreiheit vorbereitet sein.\n",
+      "address": "Carrer de Sant Jaume, 3, Centre, 07012 Palma",
+      "mail": "infoborn@hotelborn.com",
+      "website": "http://www.hotelborn.com/",
+      "phone": "+34971712942",
+      "googleMapsLink": "https://maps.app.goo.gl/SexMNbCpadYuL41q8",
+      "aiRating": 4.2,
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726829565-hotelborn-01.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726829565-hotelborn-04.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726829565-hotelborn-03.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726829565-hotelborn-02.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726829565-hotelborn-05.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🏨 Hotel",
+        "slug": "hotel"
       },
       "subCategories": [
         {
@@ -357,43 +163,44 @@
           "slug": "bar"
         },
         {
-          "name": "🥙 Hummus",
-          "slug": "hummus"
+          "name": "🪷 Spa",
+          "slug": "spa"
+        },
+        {
+          "name": "☕ Frühstück",
+          "slug": "breakfast"
         }
       ],
       "location": {
-        "latitude": 39.4913015,
-        "longitude": 2.8910941
+        "latitude": 39.57196039999999,
+        "longitude": 2.6472125
       }
     },
     {
-      "_publishedAt": "2024-09-19T15:02:08+02:00",
-      "_firstPublishedAt": "2024-09-19T15:02:08+02:00",
-      "id": "aqfMs_Y6RE-lYYg7Fy-hMA",
-      "name": "Duke Restaurant",
-      "description": "## Übersicht\nDas Duke Restaurant, gelegen in der Carrer Soler 36 im Stadtteil Santa Catalina in Palma de Mallorca, ist seit 2009 ein beliebtes Lokal. Die Köche Ronny Portulidis und Jorge Esteve bieten eine mediterrane Küche mit einem gesunden Twist an. Bekannt für seine entspannte Atmosphäre und die Verwendung nachhaltiger, lokal bezogener Zutaten, ist das Duke sowohl bei Einheimischen als auch bei internationalen Gästen sehr gefragt.\n\n## Services\nDas Duke Restaurant bietet von Montag bis Samstag Abendessen von 19:00 bis 23:00 Uhr an und ist sonntags geschlossen. Es gibt sowohl die Möglichkeit zum Essen vor Ort als auch zum Mitnehmen und Catering. Die Speisekarte setzt auf moderne Gerichte ohne Butter, Sahne oder künstliche Zutaten und legt Wert auf gesunde Ernährung.\n\n## Lage\nIm Herzen von Santa Catalina gelegen, befindet sich das Duke in einem lebhaften Viertel Palmas. Das Restaurant überzeugt durch seine intime Atmosphäre und zieht daher viele Genießer an.\n\n## Nutzererfahrungen\nBesucher loben häufig die freundliche und einladende Atmosphäre, den aufmerksamen Service und die stets hervorragende Küche. Besonders geschätzt wird die frische Zubereitung der Speisen mit lokalen Zutaten.\n\n## AI-Rating\nBasierend auf den Nutzerbewertungen erreicht das Duke Restaurant eine **8.5/10** für sein hervorragendes Essen, die entspannte Umgebung und die nachhaltige Ausrichtung.\n\n## Pro und Contra\n\n| Pro | Contra |\n|------|------|\n| 🟢 Frische, nachhaltige Zutaten | 🔴 Begrenzte Sitzplätze |\n| 🟢 Freundliches Personal | 🔴 Sonntags geschlossen |\n| 🟢 Gesunde Menüoptionen | 🔴 Nur Abendessen verfügbar |\n\n## Abschluss\nDas Duke Restaurant überzeugt durch eine Balance aus Qualität, Kreativität und Nachhaltigkeit. Seine besondere kulinarische Ausrichtung macht es zu einem beliebten Ziel für Genießer in Palma.",
-      "address": "Carrer Soler, 36, Ponent, 07013 Palma",
-      "mail": "",
-      "website": "https://www.dukepalma.com",
-      "phone": "+34971071738",
+      "_publishedAt": "2024-09-20T12:52:41+02:00",
+      "_firstPublishedAt": "2024-09-20T12:52:41+02:00",
+      "id": "V3RscGDFTuGcqXq_SvsT4g",
+      "name": "HOTEL CAN CIRERA",
+      "description": "# Übersicht\nDas HOTEL CAN CIRERA ist ein charmantes Boutique-Hotel im Herzen von Palma, Mallorca. Es verbindet traditionelle Architektur mit modernen Annehmlichkeiten und bietet den Gästen einen einzigartigen und komfortablen Aufenthalt. Der Fokus liegt darauf, eine einladende Atmosphäre zu schaffen, in der Besucher entspannen und die lokale Kultur genießen können.\n\n# Services\nDas Hotel bietet eine Vielzahl von Dienstleistungen, darunter kostenloses WLAN, ein köstliches Frühstück und eine Außenterrasse. Die Gäste können auch personalisierte Concierge-Services nutzen, um die besten Sehenswürdigkeiten in Palma zu erkunden. Die gut ausgestatteten Zimmer sind stilvoll und komfortabel eingerichtet.\n\n# Lage\nDas HOTEL CAN CIRERA befindet sich in der Carrer del Palau Reial und ist ideal gelegen, um die lebendige Stadt Palma zu erkunden. Beliebte Sehenswürdigkeiten wie die Kathedrale von Palma und lokale Märkte sind fußläufig erreichbar. Die Umgebung bietet eine Vielzahl von Gastronomie- und Einkaufsmöglichkeiten, was es zu einem perfekten Ausgangspunkt für Reisende macht.\n\n# Nutzererfahrungen\nDie Gäste haben das HOTEL CAN CIRERA für seinen hervorragenden Service und die gemütliche Atmosphäre gelobt. Viele schätzen das aufmerksame Personal und die sauberen, stilvollen Zimmer. Einige Besucher haben jedoch angemerkt, dass das Hotel zu bestimmten Zeiten etwas laut sein kann, insbesondere in der Hauptsaison.\n\n# AI-Rating\nBasierend auf Nutzerbewertungen und allgemeiner Zufriedenheit liegt das AI-Rating für das HOTEL CAN CIRERA bei 4,5 von 5 Sternen.\n\n## Pro/Contra Tabelle\n\n| Pro ✅                     | Contra ❌                   |\n|---------------------------|-----------------------------|\n| Gemütliche und stilvolle Zimmer | Lärmpegel kann hoch sein   |\n| Exzellente Lage           | Begrenzte Parkmöglichkeiten  |\n| Aufmerksames und freundliches Personal | Einige Zimmer könnten klein sein |\n| Kostenloses Frühstück      |                             |\n\n# Abschluss\nZusammenfassend ist das HOTEL CAN CIRERA eine fantastische Wahl für Reisende, die ein Boutique-Erlebnis in Palma suchen. Mit hervorragenden Dienstleistungen, erstklassiger Lage und herzlicher Gastfreundschaft eignet es sich sowohl für Freizeit- als auch für Geschäftsreisende, die in den Charme Mallorcas eintauchen möchten.",
+      "address": "Carrer del Palau Reial, 23, Centre, 07001 Palma",
+      "mail": "info@hotelcancirera.com",
+      "website": "https://www.hotelcancirera.com/",
+      "phone": "+34871620207",
+      "googleMapsLink": "https://maps.app.goo.gl/UpqNQEEnvXriq72r6",
+      "aiRating": 4.5,
       "photos": [],
       "mainCategory": {
-        "name": "🍽️ Restaurant",
-        "slug": "restaurant"
+        "name": "🏨 Hotel",
+        "slug": "hotel"
       },
-      "subCategories": [
-        {
-          "name": "🌊 Mittelmeerküche",
-          "slug": "mediterranean"
-        }
-      ],
+      "subCategories": [],
       "location": {
-        "latitude": 39.5719045,
-        "longitude": 2.6379457
+        "latitude": 39.56924739999999,
+        "longitude": 2.6497426
       }
     },
     {
-      "_publishedAt": "2024-09-19T14:54:04+02:00",
+      "_publishedAt": "2024-09-20T12:51:02+02:00",
       "_firstPublishedAt": "2024-09-19T14:54:04+02:00",
       "id": "ePsi0LSlSNW1iU5DbPbylQ",
       "name": "Bi Bap",
@@ -402,7 +209,40 @@
       "mail": "",
       "website": "https://bibap-mallorca.com/en/",
       "phone": "+34971773089",
-      "photos": [],
+      "googleMapsLink": "https://maps.app.goo.gl/PrJ2zfbqQXtY6KZ46",
+      "aiRating": 4.5,
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726829342-bibap-01.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726829342-bibap-03.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726829342-bibap-04.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726829342-bibap-02.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726829342-bibap-05.jpg",
+            "alt": null
+          }
+        }
+      ],
       "mainCategory": {
         "name": "🍽️ Restaurant",
         "slug": "restaurant"
@@ -411,6 +251,10 @@
         {
           "name": "🥢 Asiatisch",
           "slug": "asian"
+        },
+        {
+          "name": "Korean. Barbecue",
+          "slug": "korean-bbq"
         }
       ],
       "location": {
@@ -419,7 +263,30 @@
       }
     },
     {
-      "_publishedAt": "2024-09-19T13:01:47+02:00",
+      "_publishedAt": "2024-09-20T12:50:10+02:00",
+      "_firstPublishedAt": "2024-09-20T12:50:10+02:00",
+      "id": "dPGD7VQdQAa5zKSKWePPbw",
+      "name": "Hotel Can Cera",
+      "description": "\n### Übersicht\nDas Hotel Can Cera ist ein luxuriöses Boutique-Hotel in einem Palast aus dem 17. Jahrhundert, gelegen in der Altstadt von Palma de Mallorca. Es bietet eine harmonische Verbindung von historischem Charme und modernem Luxus und richtet sich ausschließlich an Erwachsene. Mit nur 14 Zimmern bietet es eine persönliche und ruhige Atmosphäre inmitten der Stadt.\n\n### Services\nDas Hotel Can Cera bietet eine Vielzahl an Premium-Annehmlichkeiten, darunter ein luxuriöses Spa mit finnischer Sauna, Hammam und privaten Behandlungen. Gäste können mediterrane Küche im Hotelrestaurant genießen oder an der Cocktailbar entspannen. Zu den weiteren Services zählen Fahrradverleih, Yoga-Kurse und eine private Dachterrasse mit herrlichem Ausblick. Es gibt Parkplätze, diese sind jedoch begrenzt und reservierungspflichtig.\n\n### Lage\nDas Hotel liegt in der Altstadt von Palma, nur wenige Gehminuten von der Kathedrale von Palma und den lebhaften lokalen Märkten entfernt. Die zentrale, aber ruhige Lage ermöglicht es den Gästen, die Stadt zu erkunden und gleichzeitig in einem friedlichen Umfeld zu entspannen.\n\n### Nutzererfahrungen\nGäste loben häufig das aufmerksame und freundliche Personal sowie die ruhige Atmosphäre des Hotels. Viele Besucher heben die Schönheit der Anlage und das luxuriöse Ambiente der Zimmer hervor. Einige Gäste vermissen jedoch einen Pool, und auch die begrenzten Parkmöglichkeiten werden als kleiner Nachteil empfunden. Besonders beliebt sind das Spa und die Dachterrasse.\n\n### AI-Rating\nBasierend auf den Nutzerbewertungen erreicht das Hotel Can Cera ein AI-Rating von 4.8/5 für den hervorragenden Service, die schöne Immobilie und die zentrale, aber ruhige Lage. Kleinere Abzüge gibt es für das Fehlen eines Pools und die Parkproblematik.\n\n### Pro und Contra\n| Pro | Contra |\n|-----|--------|\n| 🟢 Ausgezeichnetes Personal und Service | 🔴 Kein Pool |\n| 🟢 Wunderschönes, historisches Gebäude | 🔴 Begrenzte Parkmöglichkeiten |\n| 🟢 Hervorragende Lage in der Altstadt | 🔴 Dunklere Zimmer laut einigen Gästen |\n| 🟢 Luxuriöse Spa-Einrichtungen | |\n\n### Abschluss\nDas Hotel Can Cera ist die perfekte Wahl für Reisende, die eine luxuriöse Boutique-Erfahrung in Palma de Mallorca suchen. Die Kombination aus historischem Flair, aufmerksamem Service und zentraler Lage macht es ideal für romantische Aufenthalte oder pure Entspannung.",
+      "address": "Carrer de Sant Francesc, 8, Centre, 07001 Palma",
+      "mail": "info@cancerahotel.com",
+      "website": "https://www.cancerahotel.com/",
+      "phone": "+34971715012",
+      "googleMapsLink": "https://maps.app.goo.gl/VLFzZHeMoyX1wmcg9",
+      "aiRating": 4.8,
+      "photos": [],
+      "mainCategory": {
+        "name": "🏨 Hotel",
+        "slug": "hotel"
+      },
+      "subCategories": [],
+      "location": {
+        "latitude": 39.5690094,
+        "longitude": 2.6526267
+      }
+    },
+    {
+      "_publishedAt": "2024-09-20T12:47:22+02:00",
       "_firstPublishedAt": "2024-09-19T13:01:47+02:00",
       "id": "Cssb46YKQOap0bK6F5xd8A",
       "name": "KOH",
@@ -428,7 +295,40 @@
       "mail": "HELLO@KOHPALMA.COM",
       "website": " kohpalma.com",
       "phone": "+34635339211",
-      "photos": [],
+      "googleMapsLink": "https://maps.app.goo.gl/zARP1oV7G14csCfYA",
+      "aiRating": 4.4,
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726829228-kohpalma-01.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726829228-kohpalma-02.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726829228-kohpalma-05.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726829228-kohpalma-03.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726829228-kohpalma-04.jpg",
+            "alt": null
+          }
+        }
+      ],
       "mainCategory": {
         "name": "🍽️ Restaurant",
         "slug": "restaurant"
@@ -437,6 +337,14 @@
         {
           "name": "🌴 Thailändische Küche",
           "slug": "thai"
+        },
+        {
+          "name": "🥢 Asiatisch",
+          "slug": "asian"
+        },
+        {
+          "name": "🍹 Cocktail",
+          "slug": "cocktail"
         }
       ],
       "location": {
@@ -445,7 +353,310 @@
       }
     },
     {
-      "_publishedAt": "2024-09-19T12:38:04+02:00",
+      "_publishedAt": "2024-09-20T12:46:38+02:00",
+      "_firstPublishedAt": "2024-09-20T12:46:38+02:00",
+      "id": "WXG67JOERqWqcgXjRaGDtg",
+      "name": "Can Bordoy Grand House & Garden",
+      "description": "## Übersicht\nDas Can Bordoy Grand House & Garden ist ein luxuriöses Boutique-Hotel im historischen Viertel La Lonja in Palma. Es befindet sich in einem wunderschön restaurierten Gebäude aus dem 16. Jahrhundert und bietet eine einzigartige Mischung aus Vintage-Dekor, modernen Annehmlichkeiten und erstklassigem Service. Mit nur 24 Suiten bietet das Hotel ein intimes und luxuriöses Erlebnis, das einen üppigen Garten, ein Spa, einen Dachpool und gehobene Gastronomie umfasst.\n\n## Services\nDas Hotel bietet eine Vielzahl von Dienstleistungen, darunter ein Wellness-Spa mit Yoga-Kursen, zwei Pools (darunter ein Dachpool mit Panoramablick), eine Gourmet-Restaurant und eine Bibliothek. Weitere Annehmlichkeiten sind Concierge-Services, Flughafentransfers und Bootsverleih für Küstenausflüge.\n\n## Lage\nDas Hotel befindet sich im Herzen von Palma, ideal gelegen, um Sehenswürdigkeiten wie die Kathedrale La Seu und den königlichen Palast L'Almudaina zu erkunden. Es liegt in Gehweite zum Hafen von Palma und in der Nähe vieler beliebter Märkte, Museen und des pulsierenden Nachtlebens.\n\n## Nutzererfahrungen\nDas Hotel erhält überwiegend hervorragende Bewertungen. Gäste loben das atemberaubende Design, die ruhige Atmosphäre und den aufmerksamen Service. Besonders geschätzt werden der Komfort der Zimmer, die Schönheit des Gartens und die zentrale, dennoch ruhige Lage. Einige Gäste empfinden jedoch, dass der Preis im Vergleich zu ähnlichen Unterkünften etwas hoch ist.\n\n## AI-Bewertung\nBasierend auf Nutzerbewertungen erhält das Can Bordoy Grand House & Garden eine **AI-Bewertung von 4,6/5** für seinen Service, seine Lage und das einzigartige Ambiente, auch wenn einige Gäste das Preis-Leistungs-Verhältnis als verbesserungswürdig empfinden.\n\n| Pro | Contra |\n| ---- | ---- |\n| 🟢 Wunderschönes Design und Garten | 🔴 Hoher Preis |\n| 🟢 Exzellenter Service und Personal | 🔴 Begrenzte Speiseoptionen |\n| 🟢 Zentrale Lage | 🔴 Einige Zimmer könnten dunkel wirken |\n\n## Abschluss\nDas Can Bordoy Grand House & Garden ist eine exquisite Wahl für diejenigen, die Luxus, Komfort und Stil im Herzen von Palma erleben möchten. Mit seiner Mischung aus historischem Charme und modernen Annehmlichkeiten ist es ideal für Paare und Alleinreisende, die Entspannung und erstklassigen Service suchen.",
+      "address": "Carrer del Forn de la Glòria, 14, Centre, 07012 Palma",
+      "mail": "info@canbordoy.com",
+      "website": "http://www.canbordoy.com/?utm_source=google&utm_medium=local&utm_campaign=hotel-canbordoy",
+      "phone": "+34871871202",
+      "googleMapsLink": "https://maps.app.goo.gl/ahxx6fm7pbLkD3Vc9",
+      "aiRating": 4.6,
+      "photos": [],
+      "mainCategory": {
+        "name": "🏨 Hotel",
+        "slug": "hotel"
+      },
+      "subCategories": [],
+      "location": {
+        "latitude": 39.5696809,
+        "longitude": 2.644409
+      }
+    },
+    {
+      "_publishedAt": "2024-09-20T12:45:06+02:00",
+      "_firstPublishedAt": "2024-09-20T10:27:17+02:00",
+      "id": "Zqq8zDhNQwWHZxdgJNeWgQ",
+      "name": "Brondo Architect Hotel",
+      "description": "# Übersicht\nDas Brondo Architect Hotel ist ein charmantes Boutique-Hotel im Herzen der Altstadt von Palma de Mallorca. Das Vier-Sterne-Hotel besticht durch seine künstlerische und bohemische Atmosphäre, die moderne, industrielle Gestaltung mit traditioneller mallorquinischer Architektur vereint. Es bietet 33 Zimmer und Suiten in zwei Gebäuden, die jeweils individuell mit Vintage- und zeitgenössischen Möbeln eingerichtet sind.\n\n# Services\nDas Hotel bietet verschiedene Dienstleistungen wie kostenloses WLAN, ein Fitnessstudio und eine Dachterrasse. Gäste können ein Selbstbedienungsfrühstück mit regionalen Produkten genießen, und die Bar ist für ihre ausgezeichneten Gin Tonics bekannt. Einige Zimmer verfügen über eigene Terrassen, und es gibt auch einen Fahrradverleih, Concierge-Service und Unterstützung bei der Buchung von Veranstaltungen. Allerdings sind Einrichtungen wie Parkplätze und Freizeitangebote begrenzt.\n\n# Lage\nDas Brondo Architect Hotel liegt ideal in der Altstadt von Palma, umgeben von gepflasterten Straßen mit Geschäften, Galerien und Restaurants. Wichtige Sehenswürdigkeiten wie die Kathedrale von Palma und der Passeig del Born sind zu Fuß erreichbar, was das Hotel zu einer hervorragenden Basis für Stadterkundungen macht. Der Flughafen ist nur 12 Minuten entfernt, und obwohl das Hotel keine eigenen Parkplätze bietet, gibt es öffentliche Parkmöglichkeiten in der Nähe.\n\n# Nutzererfahrungen\nGäste loben häufig das unkonventionelle Design und die erstklassige Lage des Hotels. Auch die Freundlichkeit des Personals und die komfortablen Zimmer werden positiv hervorgehoben. Einige Bewertungen weisen jedoch auf unzuverlässiges WLAN und das Fehlen von Einrichtungen wie einem Pool oder Spa hin. Das Hotel erreicht insgesamt eine Bewertung von 8.5/10, mit hohen Bewertungen für Lage und Sauberkeit.\n\n# AI-Rating\n**4.3/5**  \nBasierend auf Nutzerbewertungen überzeugt das Hotel durch Lage, Freundlichkeit des Personals und Design. Einschränkungen bei den Einrichtungen und das schwankende WLAN mindern jedoch den Gesamteindruck etwas.\n\n# Pro/Contra Tabelle\n| **Pro** 🟢    | **Contra** 🔴  |\n|---------------|---------------|\n| Hervorragende Lage in der Altstadt | Keine hoteleigenen Parkplätze |\n| Einzigartiges, künstlerisches Design | Kein Pool oder Spa |\n| Freundliches und hilfsbereites Personal | Unzuverlässiges WLAN |\n| Dachterrasse mit tollem Ausblick | Begrenzte Frühstücksauswahl |\n\n# Abschluss\nDas Brondo Architect Hotel ist ideal für Reisende, die eine zentrale, stilvolle und künstlerische Unterkunft in Palma suchen. Obwohl Lage und Design erstklassig sind, sollten Gäste, die mehr Einrichtungen erwarten, andere Optionen in Betracht ziehen.\n",
+      "address": "Carrer de Can Brondo, 4, Centre, 07001 Palma",
+      "mail": "reservations@aleactahospitality.com",
+      "website": "http://www.brondoarchitecthotel.com/",
+      "phone": "+34971720507",
+      "googleMapsLink": "https://maps.app.goo.gl/PY3R59bDUbMEyGSaA",
+      "aiRating": 4.3,
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726829027-brondoarchitecthotel-05.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726829027-brondoarchitecthotel-03.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726829027-brondoarchitecthotel-02.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726829027-brondoarchitecthotel-04.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726829027-brondoarchitecthotel-01.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🏨 Hotel",
+        "slug": "hotel"
+      },
+      "subCategories": [
+        {
+          "name": "💎 Luxus",
+          "slug": "luxury"
+        },
+        {
+          "name": "🍷 Wein",
+          "slug": "wine"
+        },
+        {
+          "name": "🍸 Bar",
+          "slug": "bar"
+        },
+        {
+          "name": "🏋️‍♂️ Fitnessstudio",
+          "slug": "gym"
+        }
+      ],
+      "location": {
+        "latitude": 39.57116690000001,
+        "longitude": 2.6477604
+      }
+    },
+    {
+      "_publishedAt": "2024-09-20T12:41:16+02:00",
+      "_firstPublishedAt": "2024-09-20T10:31:36+02:00",
+      "id": "Hv8R1AGsS4aOwQWc6AQwhQ",
+      "name": "Calatrava Mediterranean Sea House",
+      "description": "# Übersicht\nDas **Calatrava Mediterranean Sea House** ist ein luxuriöses Boutique-Hotel im Herzen von Palma, Mallorca. Es vereint modernes Design mit mediterranem Flair und bietet spektakuläre Meerblicke sowie eine entspannte Atmosphäre. Das Hotel ist besonders bei Gästen beliebt, die Komfort und Nähe zu den historischen Sehenswürdigkeiten von Palma suchen.\n\n# Services\nZu den erstklassigen Angeboten zählen ein **Wellness-Spa**, privates Parken, ein Flughafentransfer und kostenfreies WLAN. Die Gäste genießen mediterrane Küche im hoteleigenen Gourmetrestaurant und ein Frühstücksbuffet mit glutenfreien und veganen Optionen. Die geräumigen Zimmer sind mit Annehmlichkeiten wie Tee- und Kaffeemaschinen, Balkonen mit Meerblick und Zugang zu Spa-Dienstleistungen ausgestattet&#8203;:contentReference[oaicite:4]{index=4}&#8203;:contentReference[oaicite:5]{index=5}.\n\n# Lage\nDas Hotel liegt an der **Plaça de Llorenç Villalonga, 8** im historischen Zentrum von Palma. In direkter Nähe befinden sich Sehenswürdigkeiten wie die berühmte Kathedrale La Seu und andere historische Stätten, was es zu einem idealen Ausgangspunkt für Erkundungen macht&#8203;:contentReference[oaicite:6]{index=6}.\n\n# Nutzererfahrungen\nGäste loben das **Calatrava Mediterranean Sea House** für seinen freundlichen Service, die geräumigen Zimmer und die ruhige Umgebung. Besonders die großen Zimmer mit Meerblick und den komfortablen Betten werden hervorgehoben. Einige Gäste merkten jedoch an, dass die Preise höher sind als bei vergleichbaren Hotels. Die Lage, Sauberkeit und das Frühstück werden durchweg hoch bewertet&#8203;:contentReference[oaicite:7]{index=7}.\n\n# AI-Rating\nAuf Grundlage der Nutzerbewertungen erhält das **Calatrava Mediterranean Sea House** eine AI-Bewertung von **4.7/5**, was die hohe Zufriedenheit der Gäste in Bezug auf Service, Sauberkeit und Lage widerspiegelt.\n\n# Pro & Contra\n\n| Pro | Contra |\n|:----:|:----:|\n| 🟢 Hervorragende Lage nahe historischer Stätten | 🔴 Hoher Preis |\n| 🟢 Geräumige Zimmer mit Meerblick | 🔴 Begrenzte Anzahl an Zimmern |\n| 🟢 Freundliches und professionelles Personal | 🔴 Kleiner Wellnessbereich |\n| 🟢 Glutenfreie und vegane Frühstücksoptionen | 🔴 Einige Zimmer nur mit Teilmeerblick |\n\n# Abschluss\nDas **Calatrava Mediterranean Sea House** bietet einen exklusiven Aufenthalt mit personalisiertem Service im Herzen von Palma. Durch die Kombination aus Luxus, Lage und ruhiger Atmosphäre ist es eine Top-Wahl für Reisende, die bereit sind, in eine hochwertige Erfahrung zu investieren.",
+      "address": "Plaça de Llorenç Villalonga, 8, Centre, 07001 Palma Illes Balears, Spanien",
+      "mail": "info@calatravahotel.com",
+      "website": "http://www.calatravahotel.com/",
+      "phone": "+34971728110",
+      "googleMapsLink": "https://maps.app.goo.gl/bTxRQaN13F4QWo3v7",
+      "aiRating": 4.7,
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726828773-calatravahotel-01.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726828773-calatravahotel-02.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726828773-calatravahotel-05.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726828773-calatravahotel-03.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726828773-calatravahotel-04.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🏨 Hotel",
+        "slug": "hotel"
+      },
+      "subCategories": [
+        {
+          "name": "💎 Luxus",
+          "slug": "luxury"
+        },
+        {
+          "name": "🪷 Spa",
+          "slug": "spa"
+        },
+        {
+          "name": "🚫 Nur Erwachsene",
+          "slug": "adults-only"
+        }
+      ],
+      "location": {
+        "latitude": 39.56572329999999,
+        "longitude": 2.6535501
+      }
+    },
+    {
+      "_publishedAt": "2024-09-20T12:37:30+02:00",
+      "_firstPublishedAt": "2024-09-20T10:59:45+02:00",
+      "id": "Vi03XYitQCWH3wiieN8TzA",
+      "name": "Can Alomar Urban Luxury Retreat",
+      "description": "\n## Übersicht\nDas Can Alomar Urban Luxury Retreat ist ein luxuriöses Boutique-Hotel im Herzen von Palma, Mallorca, untergebracht in einem historischen Palast aus dem 19. Jahrhundert. Bekannt für die elegante Kombination aus moderner Kunst und klassischer Architektur, bietet das Hotel eine ruhige städtische Rückzugsmöglichkeit. Mit nur 16 Zimmern vermittelt es eine exklusive und intime Atmosphäre, begleitet von personalisierten Dienstleistungen und luxuriösen Einrichtungen.\n\n## Services\nDas Hotel bietet erstklassige Annehmlichkeiten, darunter eine Dachterrasse mit atemberaubendem Blick auf die Altstadt von Palma, einen Wellnessbereich mit individuell gestalteten Behandlungen und ein hauseigenes Restaurant, \"De Tokio a Lima\", das eine einzigartige Mischung aus peruanischer, japanischer und mediterraner Küche serviert. Außerdem wird ein privater Flughafentransfer und kuratierte Kunsterlebnisse im gesamten Hotel angeboten.\n\n## Lage\nDas Hotel liegt in der Carrer de Sant Feliu und befindet sich an einem der elegantesten Punkte Palmas. Umgeben von Boutiquen, Galerien und historischen Sehenswürdigkeiten bietet es den Gästen einen idealen Ausgangspunkt, um das kulturelle und shoppingreiche Zentrum der Stadt zu erkunden.\n\n## Nutzererfahrungen\nDie meisten Nutzer loben das Hotel für den herausragenden Service, die schöne Dekoration und die ruhige Atmosphäre, trotz der zentralen Lage. Besonders die Dachterrasse und das Restaurant werden hoch gelobt, während einige Gäste bemerken, dass es möglicherweise nicht für Reisende geeignet ist, die größere Resort-ähnliche Annehmlichkeiten suchen.\n\n## AI-Rating\nBasierend auf den Nutzerbewertungen erhält das Can Alomar Urban Luxury Retreat eine Bewertung von 4,7/5 für sein elegantes Design, den personalisierten Service und die hervorragende Lage.\n\n### Pro/Contra Tabelle\n\n| Pro                             | Contra                            |\n|----------------------------------|-----------------------------------|\n| 🟢 Elegante, historische Architektur | 🔴 Begrenzte Zimmeranzahl           |\n| 🟢 Exzellente zentrale Lage        | 🔴 Fehlen von Resort-ähnlichen Einrichtungen |\n| 🟢 Hochwertige Fusionsküche        | 🔴 Preis könnte für einige hoch sein |\n\n## Abschluss\nDas Can Alomar Urban Luxury Retreat ist die perfekte Wahl für Reisende, die einen gehobenen, kulturell bereicherten Aufenthalt in Palma suchen. Die Mischung aus Luxus, Geschichte und Kunst macht es zu einem herausragenden Ziel in der Stadt.",
+      "address": "Carrer de Sant Feliu, 1, Centre, 07012 Palma",
+      "mail": "info@canalomarhotel.com",
+      "website": "https://www.canalomarhotel.com",
+      "phone": "+34871592002",
+      "googleMapsLink": "https://maps.app.goo.gl/rcUeMkB8G42UUzKL7",
+      "aiRating": 4.7,
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726828516-canalomarhotel-01.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726828516-canalomarhotel-02.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726828516-canalomarhotel-03.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726828516-canalomarhotel-05.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726828516-canalomarhotel-04.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🏨 Hotel",
+        "slug": "hotel"
+      },
+      "subCategories": [
+        {
+          "name": "🚫 Nur Erwachsene",
+          "slug": "adults-only"
+        },
+        {
+          "name": "💎 Luxus",
+          "slug": "luxury"
+        },
+        {
+          "name": "🌇 Dachterasse",
+          "slug": "rooftop"
+        },
+        {
+          "name": "🪷 Spa",
+          "slug": "spa"
+        }
+      ],
+      "location": {
+        "latitude": 39.56991110000001,
+        "longitude": 2.6461194
+      }
+    },
+    {
+      "_publishedAt": "2024-09-20T12:33:46+02:00",
+      "_firstPublishedAt": "2024-09-19T19:36:10+02:00",
+      "id": "Syqhgt8pTK2pa88dwb2z6g",
+      "name": "BAR CUBA",
+      "description": "# Übersicht\nBAR CUBA, gelegen im Herzen von Palma, Mallorca, ist ein lebhaftes Lokal, das Restaurant, Hotel und Lifestyle-Erlebnis kombiniert. Bekannt für sein einzigartiges Ambiente, bietet es einen Hauch kubanischer Kultur durch seine Dekoration und Speisekarte, was es zu einer beliebten Wahl bei Einheimischen und Touristen macht.\n\n# Services\nBAR CUBA bietet eine Vielzahl von Dienstleistungen, darunter ein Restaurant mit einem Menü, das traditionelle kubanische Gerichte umfasst, eine gemütliche Bar für Cocktails und Getränke sowie komfortable Hotelunterkünfte. Die Gäste können Live-Musikveranstaltungen und Themenabende genießen, die das gesamte Erlebnis bereichern.\n\n# Lage\nDas BAR CUBA befindet sich in der Carrer de Sant Magí, 1, im lebhaften Stadtteil Ponent von Palma. Die zentrale Lage ermöglicht es den Gästen, die schöne Stadt zu erkunden, was es zu einem idealen Ort für Entspannung und Unterhaltung macht.\n\n# Nutzererfahrungen\nDie Bewertungen von Besuchern heben die warme und einladende Atmosphäre von BAR CUBA hervor. Die Gäste schätzen das freundliche Personal, die geschmackvollen Speisen und die lebhafte Unterhaltung. Einige haben jedoch angemerkt, dass der Service zu Stoßzeiten langsam sein kann und das Geräuschniveau an geschäftigen Nächten hoch sein kann.\n\n# AI-Rating\nBasierend auf den Nutzerbewertungen erhält BAR CUBA eine AI-Bewertung von 4,2 von 5. Das allgemeine Sentiment ist positiv, wobei viele das Ambiente und die kulinarischen Angebote loben.\n\n## Pro/Contra Tabelle\n\n| Pros  | Cons  |\n|-------|-------|\n| 🟢 Großartiges Ambiente und Dekor | 🔴 Service kann zu Stoßzeiten langsam sein |\n| 🟢 Geschmacksvolle kubanische Gerichte | 🔴 Hohe Geräuschpegel an Wochenenden |\n| 🟢 Freundliches und aufmerksames Personal | 🔴 Eingeschränkte Menüoptionen zu bestimmten Zeiten |\n\n# Abschluss\nInsgesamt ist BAR CUBA ein lebhaftes Lokal, das erfolgreich das Wesen der kubanischen Kultur einfängt. Mit seiner geschmackvollen Küche und dem ansprechenden Ambiente hebt es sich als ein absolutes Muss in Palma hervor, obwohl potenzielle Besucher auf geschäftige Nächte und gelegentliche Serviceverzögerungen vorbereitet sein sollten.",
+      "address": "Carrer de Sant Magí, 1, Ponent, 07013 Palma",
+      "mail": "",
+      "website": "https://www.hotelhostalcuba.com/es/",
+      "phone": "+34971452237",
+      "googleMapsLink": "https://maps.app.goo.gl/BTjinUrtwRZrTXoc9",
+      "aiRating": 4.2,
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726828401-hotelhostalcuba-03.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726828401-hotelhostalcuba-04.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726828401-hotelhostalcuba-02.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726828401-hotelhostalcuba-01.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726828401-hotelhostalcuba-05.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🏨 Hotel",
+        "slug": "hotel"
+      },
+      "subCategories": [
+        {
+          "name": "🍽️ Restaurant im Hotel",
+          "slug": "in-house-dining"
+        },
+        {
+          "name": "🍸 Bar",
+          "slug": "bar"
+        },
+        {
+          "name": "🌇 Dachterasse",
+          "slug": "rooftop"
+        },
+        {
+          "name": "💃 Club",
+          "slug": "club"
+        }
+      ],
+      "location": {
+        "latitude": 39.570199,
+        "longitude": 2.6391496
+      }
+    },
+    {
+      "_publishedAt": "2024-09-20T10:23:58+02:00",
       "_firstPublishedAt": "2024-09-19T12:34:22+02:00",
       "id": "C2Ulw01IRcOd8NkHEuhXTg",
       "name": "Dive & Fun",
@@ -454,6 +665,8 @@
       "mail": "",
       "website": "http://www.mallorcadiving.de/",
       "phone": "+34971818036",
+      "googleMapsLink": "https://maps.app.goo.gl/nNn5QNMYrdaNrrrTA",
+      "aiRating": 4.4,
       "photos": [
         {
           "responsiveImage": {
@@ -508,6 +721,1088 @@
       }
     },
     {
+      "_publishedAt": "2024-09-20T10:22:57+02:00",
+      "_firstPublishedAt": "2024-09-19T15:02:08+02:00",
+      "id": "aqfMs_Y6RE-lYYg7Fy-hMA",
+      "name": "Duke Restaurant",
+      "description": "## Übersicht\nDas Duke Restaurant, gelegen in der Carrer Soler 36 im Stadtteil Santa Catalina in Palma de Mallorca, ist seit 2009 ein beliebtes Lokal. Die Köche Ronny Portulidis und Jorge Esteve bieten eine mediterrane Küche mit einem gesunden Twist an. Bekannt für seine entspannte Atmosphäre und die Verwendung nachhaltiger, lokal bezogener Zutaten, ist das Duke sowohl bei Einheimischen als auch bei internationalen Gästen sehr gefragt.\n\n## Services\nDas Duke Restaurant bietet von Montag bis Samstag Abendessen von 19:00 bis 23:00 Uhr an und ist sonntags geschlossen. Es gibt sowohl die Möglichkeit zum Essen vor Ort als auch zum Mitnehmen und Catering. Die Speisekarte setzt auf moderne Gerichte ohne Butter, Sahne oder künstliche Zutaten und legt Wert auf gesunde Ernährung.\n\n## Lage\nIm Herzen von Santa Catalina gelegen, befindet sich das Duke in einem lebhaften Viertel Palmas. Das Restaurant überzeugt durch seine intime Atmosphäre und zieht daher viele Genießer an.\n\n## Nutzererfahrungen\nBesucher loben häufig die freundliche und einladende Atmosphäre, den aufmerksamen Service und die stets hervorragende Küche. Besonders geschätzt wird die frische Zubereitung der Speisen mit lokalen Zutaten.\n\n## AI-Rating\nBasierend auf den Nutzerbewertungen erreicht das Duke Restaurant eine **8.5/10** für sein hervorragendes Essen, die entspannte Umgebung und die nachhaltige Ausrichtung.\n\n## Pro und Contra\n\n| Pro | Contra |\n|------|------|\n| 🟢 Frische, nachhaltige Zutaten | 🔴 Begrenzte Sitzplätze |\n| 🟢 Freundliches Personal | 🔴 Sonntags geschlossen |\n| 🟢 Gesunde Menüoptionen | 🔴 Nur Abendessen verfügbar |\n\n## Abschluss\nDas Duke Restaurant überzeugt durch eine Balance aus Qualität, Kreativität und Nachhaltigkeit. Seine besondere kulinarische Ausrichtung macht es zu einem beliebten Ziel für Genießer in Palma.",
+      "address": "Carrer Soler, 36, Ponent, 07013 Palma",
+      "mail": "",
+      "website": "https://www.dukepalma.com",
+      "phone": "+34971071738",
+      "googleMapsLink": "https://maps.app.goo.gl/wipSmi56ScZS7rBo8",
+      "aiRating": 4.3,
+      "photos": [],
+      "mainCategory": {
+        "name": "🍽️ Restaurant",
+        "slug": "restaurant"
+      },
+      "subCategories": [
+        {
+          "name": "🌊 Mittelmeerküche",
+          "slug": "mediterranean"
+        }
+      ],
+      "location": {
+        "latitude": 39.5719045,
+        "longitude": 2.6379457
+      }
+    },
+    {
+      "_publishedAt": "2024-09-20T10:22:28+02:00",
+      "_firstPublishedAt": "2024-09-19T12:33:11+02:00",
+      "id": "EHh9O7j1Rj2fvz0lmgG5yA",
+      "name": "El Hummus",
+      "description": "## Übersicht\nEL Hummus ist ein charmantes Restaurant in Llucmajor, Mallorca, das sich auf Küche des Nahen Ostens spezialisiert hat. Mit einer warmen und einladenden Atmosphäre bietet es eine Vielzahl von Gerichten wie Hummus, Falafel, Shawarma und vegane Optionen an. Besonders gelobt werden die frischen Zutaten und hausgemachten Aromen.\n\n## Services\nDas Restaurant bietet eine gesunde Auswahl an mediterran inspirierten Gerichten, einschließlich vegetarischer und veganer Optionen. Der Service wird als sehr freundlich und aufmerksam beschrieben, sodass sich die Gäste wie zu Hause fühlen. In den wärmeren Monaten ist die Terrasse ein beliebter Platz.\n\n## Lage\nEL Hummus befindet sich in der Carrer de la Constitució, 4, direkt im Zentrum von Llucmajor. Durch die Nähe zur Plaza Espanya ist es sowohl für Touristen als auch für Einheimische leicht zu erreichen.\n\n## Nutzererfahrungen\nDie meisten Bewertungen sind äußerst positiv. Die Gäste loben die köstlichen und authentischen Aromen des Nahen Ostens, insbesondere den Hummus und die Falafel. Das Personal wird oft für seine Freundlichkeit gelobt. Einige Bewertungen weisen darauf hin, dass das Restaurant in Stoßzeiten voll werden kann, was zu längeren Wartezeiten führt.\n\n## AI-Rating\nBasierend auf den Nutzerbewertungen erhält EL Hummus eine **AI-Bewertung von 4.8/5**. Die meisten Kritiken loben die Qualität der Speisen und des Services, mit kleinen Beschwerden über gelegentliche Verzögerungen zu Stoßzeiten.\n\n| Pro ✅  | Contra ❌  |\n|--------|-----------|\n| Frische, authentische Gerichte 🥙 | In Stoßzeiten voll 🕒 |\n| Freundlicher Service 😊 | Begrenzte Sitzplätze im Innenbereich im Winter ❄️ |\n| Tolle vegane und vegetarische Optionen 🌱 | Etwas höhere Preise für einige Gerichte 💰 |\n\n## Abschluss\nEL Hummus ist ein Muss für alle, die authentische Küche des Nahen Ostens auf Mallorca genießen möchten. Die freundliche Atmosphäre, frische Gerichte und veganen Optionen machen es zu einem Highlight in Llucmajor.",
+      "address": "Carrer de la Constitució, 4, 07620 Llucmajor",
+      "mail": "",
+      "website": "https://www.elhummus.com",
+      "phone": "+34692450545",
+      "googleMapsLink": "https://maps.app.goo.gl/J148uoVtGbDA6wmw6",
+      "aiRating": 4.8,
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726754563-elhummus-05.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726754563-elhummus-04.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726754563-elhummus-02.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726754563-elhummus-01.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726754564-elhummus-03.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🍽️ Restaurant",
+        "slug": "restaurant"
+      },
+      "subCategories": [
+        {
+          "name": "🍸 Bar",
+          "slug": "bar"
+        },
+        {
+          "name": "🥙 Hummus",
+          "slug": "hummus"
+        }
+      ],
+      "location": {
+        "latitude": 39.4913015,
+        "longitude": 2.8910941
+      }
+    },
+    {
+      "_publishedAt": "2024-09-20T10:22:17+02:00",
+      "_firstPublishedAt": "2024-09-19T16:41:21+02:00",
+      "id": "DJeWpZHvS_GfGuiVD5l4dw",
+      "name": "Mola Santa Catalina",
+      "description": "## Übersicht\nDas Mola Santa Catalina ist ein trendiges Restaurant im Herzen des Viertels Santa Catalina in Palma, Mallorca. Es vereint gehobene Fusionsküche mit einer gemütlichen Atmosphäre und ist seit seiner Eröffnung im Jahr 2021 ein beliebtes Ziel für Feinschmecker. Das moderne Ambiente und die kreativen Gerichte tragen zu seinem starken Ruf bei.\n\n## Services\nDas Restaurant bietet eine vielfältige Speisekarte mit internationalen Einflüssen und frischen, lokalen Zutaten. Es zeichnet sich durch exzellenten Service und persönliche Betreuung aus. Neben dem regulären Restaurantbetrieb richtet Mola Santa Catalina auch Veranstaltungen und private Feiern aus und bietet Catering für Events an.\n\n## Lage\nDas Restaurant befindet sich an der Plaça de la Navegació, 17, gegenüber dem Santa Catalina Markt, im pulsierenden Herzen Palmas. Die großen Fenster lassen viel Licht herein und schaffen eine warme und einladende Atmosphäre für die Gäste.\n\n## Nutzererfahrungen\nBesucher loben durchweg die Fusionsküche und das moderne, dennoch gemütliche Ambiente. Der freundliche und aufmerksame Service wird häufig hervorgehoben. Die Präsentation der Gerichte und die Frische der Zutaten werden ebenfalls hoch bewertet, während einige Gäste anmerken, dass es aufgrund der Beliebtheit oft schwierig ist, einen Tisch zu bekommen.\n\n## AI-Rating\nBasierend auf Nutzerbewertungen erhält das Mola Santa Catalina eine solide Bewertung von 4,5/5. Kunden schätzen das einzigartige Menü, die großartige Atmosphäre und den zuvorkommenden Service, mit einigen wenigen Hinweisen auf die hohe Nachfrage.\n\n| Pro | Contra |\n| --- | --- |\n| 🟢 Exzellente Fusionsküche | 🔴 Hohe Nachfrage, Reservierungen oft notwendig |\n| 🟢 Freundliches und aufmerksames Personal | 🔴 Begrenzte Sitzplätze |\n| 🟢 Zentrale Lage am Santa Catalina Markt | 🔴 Etwas höheres Preisniveau |\n\n## Abschluss\nDas Mola Santa Catalina ist eine herausragende Wahl für Fusionsküche in Palma. Es bietet hochwertige Gerichte, eine erstklassige Lage und exzellenten Service. Ob für ein entspanntes Abendessen oder eine besondere Veranstaltung, das Restaurant bietet eine unvergessliche Atmosphäre.\n",
+      "address": "Plaça de la Navegació, 17, Ponent, 07013 Palma",
+      "mail": "reservation.sc@grupomola.com",
+      "website": "https://www.grupomola.com/en",
+      "phone": "+34680808078",
+      "googleMapsLink": "https://maps.app.goo.gl/ybydGpCEaBT9ocKv6",
+      "aiRating": 4.5,
+      "photos": [],
+      "mainCategory": {
+        "name": "🍽️ Restaurant",
+        "slug": "restaurant"
+      },
+      "subCategories": [
+        {
+          "name": "🍷 Wein",
+          "slug": "wine"
+        }
+      ],
+      "location": {
+        "latitude": 39.5715679,
+        "longitude": 2.6383136
+      }
+    },
+    {
+      "_publishedAt": "2024-09-20T10:22:06+02:00",
+      "_firstPublishedAt": "2024-09-19T16:46:28+02:00",
+      "id": "NKEM1N1ORq66KKn7cFIPzA",
+      "name": "Naan Street Food",
+      "description": "### Übersicht\nNaan Street Food liegt im Herzen von Palma de Mallorca im Viertel Santa Catalina. Das Restaurant bietet eine spannende Auswahl an international inspirierten Street-Food-Gerichten, die von asiatischen, südamerikanischen und mediterranen Einflüssen geprägt sind. Bekannt für seine lockere Atmosphäre und die kreative Speisekarte, zieht es Einheimische und Touristen gleichermaßen an.\n\n### Services\nDas Restaurant bietet eine große Vielfalt an Gerichten, darunter Tacos, Ramen, Butter Chicken und vegetarische Optionen. Es gibt auch eine Auswahl an kreativen Cocktails und Desserts. Die Küche ist offen einsehbar, sodass Gäste die Zubereitung ihrer Speisen beobachten können. Reservierungen sind empfehlenswert, da das Restaurant oft gut besucht ist.\n\n### Lage\nNaan Street Food befindet sich in der Carrer de Caro 16 in Santa Catalina, einem angesagten Viertel von Palma. In dieser lebendigen Gegend, die für ihre Bars und Restaurants bekannt ist, ist Naan ein beliebter Treffpunkt für Foodies.\n\n### Nutzererfahrungen\nBesucher loben das Restaurant für seine vielseitige und innovative Küche, den freundlichen Service und das moderne Ambiente. Allerdings wird manchmal die lange Wartezeit erwähnt, vor allem ohne Reservierung. Die Tacos und Ramen-Gerichte zählen zu den Favoriten der Gäste, während die begrenzte Sitzplatzkapazität in Stoßzeiten ein Nachteil sein kann.\n\n### AI-Rating\nBasierend auf Nutzerbewertungen erhält Naan Street Food eine Bewertung von **4.5/5** für sein leckeres Essen, das freundliche Personal und das stilvolle Ambiente.\n\n| Pro | Contra |\n| --- | ------ |\n| 🟢 Kreative Speisekarte | 🔴 Lange Wartezeiten |\n| 🟢 Gute Cocktails | 🔴 Wenig Sitzplätze |\n| 🟢 Vegetarische Optionen | 🔴 Preise leicht gehoben |\n\n### Abschluss\nNaan Street Food ist ein Muss für Liebhaber von Street Food, die eine kulinarische Reise um die Welt suchen. Mit seinem einzigartigen Mix aus verschiedenen Küchenstilen und einer lebendigen Atmosphäre ist es eine hervorragende Wahl für ein unvergessliches Essen in Palma de Mallorca.\n",
+      "address": "Carrer de Caro, 16, Ponent, 07013 Palma",
+      "mail": "",
+      "website": " naanstreetfood.com",
+      "phone": "+34971915522",
+      "googleMapsLink": "https://maps.app.goo.gl/H2QU1YB5fEX2LUJe7",
+      "aiRating": 4.5,
+      "photos": [],
+      "mainCategory": {
+        "name": "🍽️ Restaurant",
+        "slug": "restaurant"
+      },
+      "subCategories": [
+        {
+          "name": "🍱 Fusion",
+          "slug": "fusion"
+        },
+        {
+          "name": "🍹 Cocktail",
+          "slug": "cocktail"
+        },
+        {
+          "name": "🌊 Mittelmeerküche",
+          "slug": "mediterranean"
+        }
+      ],
+      "location": {
+        "latitude": 39.5728881,
+        "longitude": 2.6394728
+      }
+    },
+    {
+      "_publishedAt": "2024-09-20T10:21:54+02:00",
+      "_firstPublishedAt": "2024-09-19T16:51:56+02:00",
+      "id": "fS5Ej0nJR0iTohYsl__rQQ",
+      "name": "Vandal Palma",
+      "description": "### Übersicht\nVandal Palma ist ein lebhaftes und eklektisches Restaurant im Stadtteil Santa Catalina in Palma de Mallorca. Eröffnet im Jahr 2017, hat es sich schnell durch seine mutige, global inspirierte Küche und kreative Atmosphäre einen Namen gemacht. Mit einem industriellen Design, gedämpfter Beleuchtung und einzigartiger Dekoration bietet es eine aufregende kulinarische Erfahrung.\n\n### Services\nDas Restaurant bietet eine global beeinflusste Speisekarte, die von Chefkoch Bernabé Caravotta kreiert wurde, der in Michelin-Sterne-Restaurants weltweit ausgebildet wurde. Die Speisekarte vereint Aromen aus Lateinamerika, Asien und Europa im Tapas-Stil. Zudem glänzt Vandal durch seine kreativen Cocktails und eine umfangreiche Weinauswahl, kuratiert von Mitinhaber und Sommelier Sebastián Pérez.\n\n### Lage\nVandal befindet sich an der Plaça del Progrés 15 im trendigen Santa Catalina-Viertel von Palma, das für sein lebhaftes Nachtleben und die kulinarische Szene bekannt ist. Es ist ein beliebtes Ziel für Einheimische und Besucher, besonders in den Abendstunden.\n\n### Nutzererfahrungen\nGäste loben die innovativen und überraschenden Aromen, wie Ceviche mit Kokosschaum und Maisschweine-Croquetas. Allerdings wird der Service zu Stoßzeiten als langsam empfunden. Eine Reservierung wird aufgrund der Beliebtheit empfohlen.\n\n### AI-Bewertung\nBasierend auf Nutzerbewertungen und Rückmeldungen:\n**4.5/5**\n\n### Pro und Contra\n| ✅ Pro  | ❌ Contra |\n|--------|----------|\n| 🍃 Kreative und innovative Speisen | 🚨 Langsamer Service |\n| 🍸 Hervorragende Cocktail-Paarungen | 💸 Hohe Preise für kleine Portionen |\n| 🏆 Einzigartige Atmosphäre und Design | 🔊 Lautes Ambiente zur Stoßzeit |\n\n### Fazit\nVandal Palma bietet ein aufregendes kulinarisches Erlebnis, das weltweite Aromen, kunstvolle Präsentationen und eine dynamische Atmosphäre vereint, und gehört zu den gefragtesten Lokalen in Palma.",
+      "address": "Plaça del Progrés, 15, Ponent, 07013 Palma",
+      "mail": "info@vandalpalma.com",
+      "website": "http://www.vandalpalma.com/",
+      "phone": "+34871045174",
+      "googleMapsLink": "https://maps.app.goo.gl/zSnnTSSsqVNdpEvR8",
+      "aiRating": 4.5,
+      "photos": [],
+      "mainCategory": {
+        "name": "🍽️ Restaurant",
+        "slug": "restaurant"
+      },
+      "subCategories": [
+        {
+          "name": "🍹 Cocktail",
+          "slug": "cocktail"
+        },
+        {
+          "name": "🍷 Wein",
+          "slug": "wine"
+        }
+      ],
+      "location": {
+        "latitude": 39.571502,
+        "longitude": 2.6357976
+      }
+    },
+    {
+      "_publishedAt": "2024-09-20T10:21:42+02:00",
+      "_firstPublishedAt": "2024-09-19T17:22:18+02:00",
+      "id": "CTw7GnnnT5yYMRJOB6BTew",
+      "name": "Makaria Artisan Pasta",
+      "description": "## Übersicht\nMakaria Artisan Pasta ist ein kleines Restaurant in Palma de Mallorca, das sich auf handgemachte italienische Pasta spezialisiert. Es kombiniert frische Zutaten mit traditionellen neapolitanischen Rezepten und bietet ein einzigartiges kulinarisches Erlebnis im Herzen der Balearen.\n\n## Dienstleistungen\nMakaria bietet eine Vielzahl handgefertigter Pasta-Gerichte zum Verzehr vor Ort oder zum Mitnehmen an. Auf der Speisekarte stehen frische Pasta, saisonale Gerichte und eine Auswahl an Weinen. Das Restaurant bietet auch Pasta-Workshops und Catering für private Veranstaltungen.\n\n## Lage\nDas Restaurant befindet sich an der Plaza de Raimundo Clar, 07002 Palma, in einer historischen Gegend, die sich ideal für Touristen eignet. Geöffnet ist es von Dienstag bis Samstag für Mittag- und Abendessen.\n\n## Nutzererfahrungen\nKunden loben die herausragende Qualität der Pasta, den aufmerksamen Service und die gemütliche Atmosphäre. Auf Plattformen wie TheFork und Tripadvisor erhält das Restaurant durchweg hohe Bewertungen. Besonders die Authentizität der Gerichte und das freundliche Ambiente werden hervorgehoben.\n\n## AI-Bewertung\n**9.2/10**  \nBasierend auf Kundenbewertungen erhält Makaria hohe Punktzahlen für Essensqualität, Ambiente und Service, obwohl es in Stoßzeiten zu kleineren Wartezeiten kommen kann.\n\n| Vorteile | Nachteile |\n|----------|-----------|\n| 🟢 Authentische, frische Pasta | 🔴 Begrenzte Sitzplätze |\n| 🟢 Tolle Atmosphäre | 🔴 Etwas teuer |\n| 🟢 Freundliches Personal | 🔴 Kann voll werden |\n\n## Abschluss\nMakaria Artisan Pasta ist eine hervorragende Wahl für alle, die in Palma de Mallorca echte italienische Küche genießen möchten. Trotz kleinerer Einschränkungen in Stoßzeiten ist die Qualität des Essens und des Service den Besuch wert.",
+      "address": "Plaza de, Plaça de Raimundo Clar, 07002 Palma",
+      "mail": "",
+      "website": "https://makaria.es",
+      "phone": "+34971058813",
+      "googleMapsLink": "https://maps.app.goo.gl/hCn1df8mfeZvJZ66A",
+      "aiRating": 4.6,
+      "photos": [],
+      "mainCategory": {
+        "name": "🍽️ Restaurant",
+        "slug": "restaurant"
+      },
+      "subCategories": [
+        {
+          "name": "🍝 Italienisch",
+          "slug": "italian"
+        }
+      ],
+      "location": {
+        "latitude": 39.57073450000001,
+        "longitude": 2.6550477
+      }
+    },
+    {
+      "_publishedAt": "2024-09-20T10:21:14+02:00",
+      "_firstPublishedAt": "2024-09-19T17:17:00+02:00",
+      "id": "QoOObHUWQC-Xyh4YNQkTvw",
+      "name": "Vida Meva",
+      "description": "## Übersicht\nVida Meva ist ein gemütliches, familiengeführtes Restaurant in Palma, Balearen. Bekannt für seine herzliche und einladende Atmosphäre, bietet es mediterrane Küche mit einer persönlichen Note. Der Name „Vida Meva“ (auf Katalanisch „mein Leben“) spiegelt das familiäre Umfeld wider, das von den Inhabern Noelia, Gabriela Vidal und dem Chefkoch Toni Martorell gepflegt wird. Das Restaurant spezialisiert sich auf ein wöchentlich wechselndes Drei-Gänge-Mittagsmenü und bietet feine Küche zu vernünftigen Preisen.\n\n## Dienstleistungen\nVida Meva ist nur zum Mittagessen geöffnet und bietet sorgfältig zubereitete Menüs, die jede Woche variieren. Das Restaurant legt großen Wert auf frische, hochwertige Zutaten und bietet sowohl Fleisch- als auch vegetarische Gerichte an. Das Menü umfasst in der Regel traditionelle mediterrane Gerichte mit modernem Flair, und der Service ist für seine freundliche und aufmerksame Herangehensweise bekannt.\n\n## Lage\nDas Restaurant befindet sich in der C/ del Socors, 23, in der ruhigen Gegend von Sa Gerreria in Palma. Diese ruhige Seitenstraße bietet eine friedliche Atmosphäre, mit einer kleinen Außenterrasse, auf der Gäste ihre Mahlzeiten genießen können.\n\n## Nutzererfahrungen\nGäste loben vor allem die Qualität des Essens und den freundlichen Service. Besonders geschätzt wird das wöchentlich wechselnde Menü. Allerdings haben einige Gäste bemerkt, dass der Service gelegentlich etwas langsam sein kann, insbesondere in Stoßzeiten. Trotzdem macht die intime und einladende Atmosphäre des Restaurants diese kleinen Verzögerungen wett.\n\n## AI-Rating\nBasierend auf Nutzerbewertungen und der gesamten Erfahrung erhält Vida Meva eine **4,5/5** Bewertung. Es besticht durch hohe Essensqualität und Kundenservice, mit kleinen Abstrichen bei der Servicegeschwindigkeit.\n\n|  **Pro**        |  **Contra**             |\n|-----------------|-------------------------|\n| 🟢 Hochwertige, frische Zutaten | 🔴 Gelegentlich langsamer Service |\n| 🟢 Herzliches und einladendes Ambiente | 🔴 Nur zum Mittagessen geöffnet |\n| 🟢 Kreative, wechselnde Menüs  | 🔴 Kleine Sitzplatzkapazität |\n\n## Abschluss\nVida Meva ist ein kleines Juwel in Palma für alle, die mediterrane Küche mit persönlichem Flair suchen. Dank der familiären Atmosphäre und des Engagements für Qualität ist es ein Muss für das Mittagessen. Eine Reservierung wird aufgrund der begrenzten Sitzplätze und der hohen Nachfrage empfohlen.\n",
+      "address": "C/ del Socors, 23, bajo izquierda, Distrito Centro, 07002 Palma",
+      "mail": "",
+      "website": "",
+      "phone": "+34971576299",
+      "googleMapsLink": "https://maps.app.goo.gl/HWTCMpLBC6dUje6Z8",
+      "aiRating": 4.5,
+      "photos": [],
+      "mainCategory": {
+        "name": "🍽️ Restaurant",
+        "slug": "restaurant"
+      },
+      "subCategories": [
+        {
+          "name": "🌊 Mittelmeerküche",
+          "slug": "mediterranean"
+        }
+      ],
+      "location": {
+        "latitude": 39.5695032,
+        "longitude": 2.6557699
+      }
+    },
+    {
+      "_publishedAt": "2024-09-20T10:21:04+02:00",
+      "_firstPublishedAt": "2024-09-19T17:27:17+02:00",
+      "id": "Ha-Nv9-OQH-qUUp7bx9YKA",
+      "name": "Bella Verde Jardín Gastronómico",
+      "description": "## Übersicht\nDas Bella Verde Jardín Gastronómico ist ein bekanntes vegetarisches und veganes Restaurant in Port de Pollença, Mallorca. Es bietet ein idyllisches Ambiente inmitten eines üppigen Gartens und verwendet ausschließlich biologisch angebaute, lokale Zutaten. Die Speisekarte kombiniert mediterrane und europäische Einflüsse und spricht sowohl Vegetarier als auch Fleischesser an.\n\n## Services\nDas Restaurant bietet eine Vielzahl an veganen und vegetarischen Gerichten, die vom Frühstück bis zum Abendessen reichen. Es werden auch glutenfreie Optionen angeboten. Die Gäste können ihre Mahlzeiten im Freien unter jahrhundertealten Feigenbäumen genießen. Bella Verde ist zudem eine beliebte Location für Events wie Hochzeiten, dank seiner entspannten Atmosphäre und der biologischen Küche.\n\n## Lage\nBella Verde befindet sich in der Carrer de les Monges im charmanten Städtchen Port de Pollença, nur wenige Straßen von der Strandpromenade entfernt. Die Gartenumgebung schafft eine ruhige Atmosphäre, fernab der belebteren Promenaden Mallorcas.\n\n## Nutzererfahrungen\nDie meisten Besucher loben die Atmosphäre und die frischen, hochwertigen Gerichte. Besonders die Kreativität der veganen Gerichte wird oft hervorgehoben. Einige Nutzer erwähnen jedoch, dass der Service während Stoßzeiten etwas langsam sein kann, was oft der Tatsache zugeschrieben wird, dass die Speisen frisch zubereitet werden.\n\n## AI-Bewertung\nBasierend auf den Bewertungen überzeugt Bella Verde mit Atmosphäre, Speisenqualität und ökologischen Werten. Gelegentliche Serviceverzögerungen und eine begrenzte Speisekarte in der Nebensaison wirken sich jedoch auf das Gesamtergebnis aus.\n\n**AI-Bewertung: 4,5/5**\n\n## Pro und Contra\n| Pro | Contra |\n|-----|--------|\n| 🌿 Wunderschöne Gartenatmosphäre | ❌ Service kann langsam sein |\n| 🌿 Ausgezeichnete vegane und vegetarische Gerichte | ❌ Begrenzte Speisekarte in der Nebensaison |\n| 🌿 Biologisch und lokal angebaut | ❌ Höhere Preisklasse |\n\n## Abschluss\nBella Verde ist ein Muss für diejenigen, die ein friedliches kulinarisches Erlebnis suchen, das sich auf Nachhaltigkeit und pflanzenbasierte Küche konzentriert. Mit seinem beeindruckenden Setting und dem Engagement für Bio-Lebensmittel gehört es zu den Top-Vegetarier-Restaurants auf Mallorca.",
+      "address": "Carrer de les Monges, 14, 07470 Pollença",
+      "mail": "info@restaurantebellaverde.com",
+      "website": "https://www.restaurantebellaverde.com",
+      "phone": "+34675602528",
+      "googleMapsLink": "https://maps.app.goo.gl/Gt7PDgayEL8doF116",
+      "aiRating": 4.5,
+      "photos": [],
+      "mainCategory": {
+        "name": "🍽️ Restaurant",
+        "slug": "restaurant"
+      },
+      "subCategories": [
+        {
+          "name": "🌱 Vegan",
+          "slug": "vegan"
+        },
+        {
+          "name": "🍃 Vegetarisch",
+          "slug": "vegetarian"
+        }
+      ],
+      "location": {
+        "latitude": 39.9059383,
+        "longitude": 3.081258
+      }
+    },
+    {
+      "_publishedAt": "2024-09-20T10:20:54+02:00",
+      "_firstPublishedAt": "2024-09-19T17:30:42+02:00",
+      "id": "Rt81NuZDR1q7uVVYRANnhw",
+      "name": "Ca n'Ela Vegan Restaurant",
+      "description": "## Übersicht\nCa n'Ela ist ein vollständig veganes Restaurant im Herzen von Palma de Mallorca. Das Restaurant ist bekannt für seine kreativen pflanzlichen Gerichte und bietet eine Mischung aus mediterraner und internationaler Küche. Es legt großen Wert auf Nachhaltigkeit und verwendet Bio-Zutaten sowie saisonale Menüs. Hervorragende Bewertungen bestätigen die Qualität der Speisen und den Kundenservice.\n\n## Services\nCa n'Ela bietet ein vielseitiges Menü zum Mittag- und Abendessen, darunter ein Vier-Gänge-Menü zum Mittagessen. Zu den Gerichten gehören unter anderem vegane Carbonara, Seitan und glutenfreie Optionen. Es gibt auch ein Degustationsmenü, und das Restaurant bietet eine gemütliche Atmosphäre, ideal für ein entspanntes Essen oder besondere Anlässe.\n\n## Lage\nDas Restaurant liegt in der Altstadt von Palma an der Carrer de la Mar 16, nur wenige Gehminuten von der berühmten Kathedrale von Palma entfernt. Seine zentrale Lage macht es sowohl für Einheimische als auch für Touristen zu einem idealen Ziel.\n\n## Nutzererfahrungen\nDie Bewertungen des Restaurants sind durchweg positiv. Gäste loben die geschmackvollen Gerichte, das aufmerksame Personal und das gemütliche Ambiente. Besonders hervorgehoben werden der vegane Burger und die cremige Carbonara, während einige die glutenfreien Optionen schätzen. Einziges Manko: Das Restaurant ist klein, und Reservierungen sind in Stoßzeiten empfohlen.\n\n## AI-Bewertung\nBasierend auf den Nutzerbewertungen erhält Ca n'Ela eine sehr gute Bewertung von 9/10 für die Qualität der Speisen, den Service und das Ambiente.\n\n## Pro und Contra\n\n| Pro                           | Contra                        |\n|-------------------------------|-------------------------------|\n| 🟢 Leckere und kreative Gerichte | 🔴 Kleiner Raum, begrenzte Plätze|\n| 🟢 Freundliches und aufmerksames Personal | 🔴 Reservierung empfohlen    |\n| 🟢 Zentrale Lage                |                               |\n\n## Abschluss\nCa n'Ela ist ein absolutes Muss für vegane Feinschmecker in Palma. Mit seinem Fokus auf Qualität, Nachhaltigkeit und leckeren Gerichten überzeugt es auf ganzer Linie.",
+      "address": "Carrer de la Mar, 16, Centre, 07012 Palma",
+      "mail": "",
+      "website": "",
+      "phone": "+34871776653",
+      "googleMapsLink": "https://maps.app.goo.gl/3bTbratvQo8CxCwe6",
+      "aiRating": 4.5,
+      "photos": [],
+      "mainCategory": {
+        "name": "🍽️ Restaurant",
+        "slug": "restaurant"
+      },
+      "subCategories": [
+        {
+          "name": "🍃 Vegetarisch",
+          "slug": "vegetarian"
+        },
+        {
+          "name": "🌱 Vegan",
+          "slug": "vegan"
+        }
+      ],
+      "location": {
+        "latitude": 39.5657104,
+        "longitude": 2.6530103
+      }
+    },
+    {
+      "_publishedAt": "2024-09-20T10:20:38+02:00",
+      "_firstPublishedAt": "2024-09-19T17:35:44+02:00",
+      "id": "eWiO_ac2RsS02SwiuLHsBQ",
+      "name": "Re Organic",
+      "description": "## Übersicht\nRe Organic ist ein 100% ökologisches Restaurant und Markt in Sóller, Mallorca. Es bietet eine Speiseerfahrung, die auf biologischen, lokalen und saisonalen Produkten basiert, mit dem Ziel, Nachhaltigkeit und einen minimalen ökologischen Fußabdruck zu hinterlassen. Das familiengeführte Unternehmen kombiniert ein Restaurant mit einem Bio-Markt, der gesundes Leben fördert und lokale Bauern unterstützt. Ihr Konzept dreht sich um Plastikreduktion und einen nachhaltigen Lebensstil.\n\n## Services\nDas Restaurant bietet eine vollständig ökologische Speiseerfahrung mit gesunden Gerichten, die aus lokal beschafften Zutaten bestehen. Zudem betreibt Re Organic einen Markt, der eine Vielzahl von Bio-Produkten wie frische Lebensmittel, Snacks und umweltfreundliche Haushaltsartikel anbietet. Das Unternehmen bietet auch Dienstleistungen im Bereich nachhaltiges Interior Design und Biokonstruktion an, wobei recycelte und natürliche Materialien verwendet werden.\n\n## Lage\nRe Organic befindet sich in der Carrer de Sa Mar 43, 07100 Sóller, Mallorca, einer malerischen Stadt auf den Balearen. Die Lage bietet den Besuchern eine ruhige Umgebung, um ihre Mahlzeit zu genießen, umgeben von der Natur. Das Restaurant verfügt auch über Sitzgelegenheiten im Freien, was es zu einem friedlichen Ort macht, um den Blick auf die charmanten Straßen von Sóller zu genießen.\n\n## Nutzererfahrungen\nKundenbewertungen von Re Organic sind überwiegend positiv. Viele Besucher loben die hochwertige, geschmackvolle Bio-Küche und den freundlichen, aufmerksamen Service. Gäste schätzen auch das Engagement des Restaurants für Nachhaltigkeit. Einige haben jedoch angemerkt, dass die Preise aufgrund der Konzentration auf biologische und lokale Zutaten etwas höher sein können. Trotz dieser Kritik hinterlassen das Ambiente und die Philosophie des Restaurants einen bleibenden Eindruck.\n\n## AI-Rating\nBasierend auf Nutzerbewertungen und Online-Stimmung erhält Re Organic eine **AI-Bewertung von 4.6/5**. Die hohe Bewertung spiegelt die Qualität der Speisen, den Kundenservice und das gesamte Esserlebnis wider, wobei Preisüberlegungen die Bewertung leicht beeinflussen.\n\n### Pro und Contra\n| Pro | Contra |\n|-----|--------|\n| 🟢 100% bio und nachhaltiges Essen | 🔴 Preise können höher sein |\n| 🟢 Freundlicher und aufmerksamer Service | 🔴 Begrenzte Menüoptionen für bestimmte Ernährungsbedürfnisse |\n| 🟢 Unterstützung lokaler Bauern und umweltfreundlicher Produkte | 🔴 Begrenzte Außenplätze in Stoßzeiten |\n\n## Abschluss\nRe Organic bietet ein einzigartiges, umweltbewusstes Esserlebnis, das Wert auf Qualität und Nachhaltigkeit legt. Obwohl es teurer sein kann als andere Optionen, stimmt das Gesamterlebnis mit der Mission überein, gesunde, biologische und lokal erzeugte Lebensmittel zu fördern.",
+      "address": "Carrer de Sa Mar, 43, 07100 Sóller",
+      "mail": "info@reorganic.es",
+      "website": "https://reorganic.es",
+      "phone": "+34971638992",
+      "googleMapsLink": "https://maps.app.goo.gl/X1qdxcKDCpnfjn4R8",
+      "aiRating": 4.6,
+      "photos": [],
+      "mainCategory": {
+        "name": "🍽️ Restaurant",
+        "slug": "restaurant"
+      },
+      "subCategories": [
+        {
+          "name": "🍃 Vegetarisch",
+          "slug": "vegetarian"
+        },
+        {
+          "name": "🌱 Vegan",
+          "slug": "vegan"
+        }
+      ],
+      "location": {
+        "latitude": 39.7675644,
+        "longitude": 2.7126596
+      }
+    },
+    {
+      "_publishedAt": "2024-09-20T10:20:27+02:00",
+      "_firstPublishedAt": "2024-09-19T17:40:08+02:00",
+      "id": "NeV8uofVQgyHeOdv8bN_lw",
+      "name": "La Mar de Vins",
+      "description": "\n## Übersicht\nLa Mar de Vins ist ein angesehenes Restaurant in Artà, Spanien, das mediterrane und europäische Küche mit vegetarischen Optionen anbietet. Besonders geschätzt wird das charmante Ambiente, einschließlich eines reizvollen Gartens, der sowohl Touristen als auch Einheimische anzieht.\n\n## Services\nDie Speisekarte bietet mediterran inspirierte Gerichte, darunter Meeresfrüchte, Burger und vegetarische Optionen. Das Restaurant verfügt über Innen- und Außenbereiche, akzeptiert Kreditkarten und bietet Wi-Fi, jedoch keinen Lieferdienst.\n\n## Lage\nLa Mar de Vins befindet sich in der Carrer d'Antoni Blanes Joan 34, 07570 Artà, Illes Balears, und liegt zentral in der Stadt, umgeben von historischen und natürlichen Sehenswürdigkeiten.\n\n## Nutzererfahrungen\nGäste loben die Atmosphäre, den exzellenten Service und die frischen Speisen. Besonders der gemütliche Garten und die abwechslungsreiche Speisekarte werden häufig positiv hervorgehoben.\n\n## AI-Rating\nBasierend auf den Nutzerbewertungen erzielt La Mar de Vins eine **4,7/5**, was auf durchweg positive Kundenerfahrungen hinweist.\n\n## Pro und Contra\n| Pro | Contra |\n|-----|--------|\n| 🟢 Gemütliches Gartenambiente | 🔴 Kein Lieferdienst |\n| 🟢 Vielfältige Menüoptionen (vegetarisch, Meeresfrüchte) | 🔴 Oft ausgebucht |\n| 🟢 Freundlicher und professioneller Service | 🔴 Begrenzte Parkmöglichkeiten |\n\n## Abschluss\nLa Mar de Vins ist eine ausgezeichnete Wahl für Liebhaber mediterraner Küche in einem entspannten und malerischen Ambiente. Es bietet eine großartige Kombination aus Geschmack, Ambiente und Service.",
+      "address": "Carrer d'Antoni Blanes Joan, 34, 07570 Artà",
+      "mail": "",
+      "website": "",
+      "phone": "+34971596410",
+      "googleMapsLink": "https://maps.app.goo.gl/xYbDq5VyRVJDRhQR9",
+      "aiRating": 4.7,
+      "photos": [],
+      "mainCategory": {
+        "name": "🍽️ Restaurant",
+        "slug": "restaurant"
+      },
+      "subCategories": [
+        {
+          "name": "🍃 Vegetarisch",
+          "slug": "vegetarian"
+        },
+        {
+          "name": "🌱 Vegan",
+          "slug": "vegan"
+        },
+        {
+          "name": "🌊 Mittelmeerküche",
+          "slug": "mediterranean"
+        }
+      ],
+      "location": {
+        "latitude": 39.69373390000001,
+        "longitude": 3.3502336
+      }
+    },
+    {
+      "_publishedAt": "2024-09-20T10:20:17+02:00",
+      "_firstPublishedAt": "2024-09-19T17:44:23+02:00",
+      "id": "H1QSXnUYRq6pxqMP6PP0zA",
+      "name": "La Mujer De Verde - Bon Lloc - Restaurante vegano",
+      "description": "## Übersicht\nLa Mujer de Verde ist ein veganes Restaurant in Palma, Mallorca, gegründet von den Machern des berühmten Bon Lloc, dem ersten vegetarischen Restaurant auf der Insel, das 1978 eröffnet wurde. Das Restaurant kombiniert Innovation, Geschmack und Nachhaltigkeit und bietet ein kreatives veganes Speiseerlebnis mit saisonalen und regionalen Zutaten. Die Speisekarte wechselt monatlich und verspricht eine abwechslungsreiche, gesunde und zugleich geschmackvolle Küche&#8203;:contentReference[oaicite:7]{index=7}&#8203;:contentReference[oaicite:8]{index=8}.\n\n## Services\nDas Restaurant bietet ein abwechslungsreiches Menü, das monatlich wechselt, sowie Mittags- und Abendessen. Die Gerichte sind sorgfältig zusammengestellt, um den Ansprüchen verschiedener Ernährungsgewohnheiten gerecht zu werden. Die Öffnungszeiten sind von Dienstag bis Samstag, und es gibt auch eine breite Auswahl an Getränken, darunter lokale Weine&#8203;:contentReference[oaicite:9]{index=9}&#8203;:contentReference[oaicite:10]{index=10}.\n\n## Lage\nLa Mujer de Verde befindet sich am Plaça de la Porta de Santa Catalina 1, im Herzen von Palma, in der Nähe des historischen Zentrums. Die zentrale Lage macht es sowohl für Einheimische als auch für Touristen leicht zugänglich&#8203;:contentReference[oaicite:11]{index=11}.\n\n## Nutzererfahrungen\nGäste loben häufig die gemütliche und moderne Atmosphäre sowie die hohe Qualität der veganen Küche. Besonders hervorgehoben wird die Kreativität der Gerichte, wobei einige Gäste anmerken, dass die Portionen etwas größer sein könnten. Insgesamt erhält das Restaurant für seinen hervorragenden Service und sein nachhaltiges Konzept viel positive Rückmeldung&#8203;:contentReference[oaicite:12]{index=12}&#8203;:contentReference[oaicite:13]{index=13}.\n\n## AI-Rating\nBasierend auf Nutzerbewertungen und Online-Rezensionen erhält La Mujer de Verde eine solide **8/10**. Besonders positiv stechen die kreativen veganen Gerichte und die angenehme Atmosphäre hervor, während die Portionsgröße gelegentlich kritisiert wird.\n\n## Pro & Contra\n| ✅ Pro                             | ❌ Contra                          |\n|-----------------------------------|------------------------------------|\n| 🌱 Innovatives und saisonales Menü | 🍽️ Portionen könnten größer sein   |\n| 🏞️ Zentrale Lage                  | 💸 Preisniveau kann hoch erscheinen |\n| 🍷 Breite Getränkeauswahl          | 📅 Begrenzte Verfügbarkeit (Di-Sa)  |\n\n## Abschluss\nLa Mujer de Verde ist ein Muss für Veganer und Feinschmecker. Das Engagement für Qualität, Nachhaltigkeit und innovative Geschmäcker macht es zu einem herausragenden Ort in Palmas Gastronomieszene.",
+      "address": "Plaça de la Porta de Santa Catalina, 1 Distrito Centro 07012 Palma",
+      "mail": "paula@lamujerdeverde.com",
+      "website": "https://lamujerdeverde.com",
+      "phone": "+34871173739",
+      "googleMapsLink": "https://maps.app.goo.gl/yxthzw28cPjBkcS98",
+      "aiRating": 4,
+      "photos": [],
+      "mainCategory": {
+        "name": "🍽️ Restaurant",
+        "slug": "restaurant"
+      },
+      "subCategories": [
+        {
+          "name": "🌱 Vegan",
+          "slug": "vegan"
+        },
+        {
+          "name": "🍃 Vegetarisch",
+          "slug": "vegetarian"
+        }
+      ],
+      "location": {
+        "latitude": 39.5706249,
+        "longitude": 2.6427325
+      }
+    },
+    {
+      "_publishedAt": "2024-09-20T10:20:03+02:00",
+      "_firstPublishedAt": "2024-09-19T17:49:49+02:00",
+      "id": "auVHeC0kT5WzZ2mHP5JF9Q",
+      "name": "Santina Brunch",
+      "description": "\n## Übersicht\nSantina Brunch & More ist ein beliebter Brunch-Ort im Viertel Santa Catalina in Palma, Mallorca. Bekannt für seine kreative Speisekarte, bietet Santina eine entspannte, einladende Atmosphäre mit einem Fokus auf frische, gesunde und internationale Gerichte. Das Restaurant ist ideal für Brunch-Liebhaber und bietet eine lebendige Mischung aus mediterraner und europäischer Küche mit vielen vegetarischen, veganen und glutenfreien Optionen.\n\n## Services\nSantina bietet ganztägige Brunch-Dienstleistungen an und verfügt über eine umfangreiche Speisekarte, die Pancakes, Super-Frucht-Bowls, Smoothies, Tacos, Pad Thai und mehr umfasst. Es gibt Innen- und Außenbereiche, die Möglichkeit zum Mitnehmen und es ist haustierfreundlich. Zudem eignet sich das Restaurant für Familien, bietet Hochstühle und kostenloses WLAN. Kreditkarten werden akzeptiert, und es gibt Alkohol, einschließlich Wein und Bier.\n\n## Lage\nDas Restaurant liegt in der Carrer d'Anníbal, 19, im lebhaften Viertel Santa Catalina, zentral in Palma. Dieses lebhafte Viertel verleiht dem Ort zusätzlichen Charme, und es bietet einen gemütlichen Raum, in dem sowohl Einheimische als auch Touristen ein erfrischendes Essen oder Getränk genießen können.\n\n## Nutzererfahrungen\nGäste loben Santina oft für die gemütliche Atmosphäre und das freundliche Personal. Das Essen wird oft als geschmackvoll und gesund beschrieben, es gibt jedoch gelegentlich Beschwerden über langsamen Service während Stoßzeiten. Das moderne, aber entspannte Dekor trägt zum positiven Esserlebnis bei und macht es zu einem beliebten Ort für zwanglose Mahlzeiten und kleinere Events.\n\n## AI-Rating\nBasierend auf den Nutzerbewertungen und allgemeinen Erfahrungen erhält Santina Brunch & More eine **8/10** für das köstliche Essen, die einladende Atmosphäre und das vielseitige Menü. Der Punktabzug erfolgt aufgrund einiger Beschwerden über die Geschwindigkeit des Services.\n\n## Pro und Contra\n\n| **Pro** | **Contra** |\n|--------|------------|\n| 🟢 Köstliche und gesunde Speisen | 🔴 Service kann langsam sein |\n| 🟢 Gemütliche und einladende Atmosphäre | 🔴 Kann zu Stoßzeiten überfüllt sein |\n| 🟢 Haustier- und familienfreundlich | 🔴 Einige Gerichte etwas teuer |\n\n## Abschluss\nSantina Brunch & More ist eine hervorragende Wahl für Brunch in Palma und bietet eine wunderbare Mischung aus gesunden Optionen und entspannter Umgebung. Obwohl es gelegentlich Probleme mit der Servicegeschwindigkeit gibt, bleibt das Gesamterlebnis äußerst positiv.",
+      "address": "Carrer d'Anníbal, 19, Ponent, 07013 Palma",
+      "mail": "Info@santina-palma.com",
+      "website": "https://www.santinabrunch.com",
+      "phone": "+34674995795",
+      "googleMapsLink": "https://maps.app.goo.gl/FAjTH8qM2pW7iuZH9",
+      "aiRating": 4,
+      "photos": [],
+      "mainCategory": {
+        "name": "🍽️ Restaurant",
+        "slug": "restaurant"
+      },
+      "subCategories": [
+        {
+          "name": "🍳 Brunch",
+          "slug": "brunch"
+        }
+      ],
+      "location": {
+        "latitude": 39.5715283,
+        "longitude": 2.6378549
+      }
+    },
+    {
+      "_publishedAt": "2024-09-20T10:19:31+02:00",
+      "_firstPublishedAt": "2024-09-19T17:53:22+02:00",
+      "id": "VakCHr7XTfiuEsLWd3G2DA",
+      "name": "Badal Corner",
+      "description": "\n## Übersicht\nBadal Corner ist ein beliebtes Burgerrestaurant an der Plaça del Comtat del Rosselló in Palma, Mallorca. Es bietet eine Vielzahl von Gourmet-Burgern an, darunter auch vegane und vegetarische Optionen. Mit einer entspannten, aber lebendigen Atmosphäre zieht das Lokal sowohl Einheimische als auch Touristen an, die auf der Suche nach kreativen Burger-Variationen und großen Portionen sind.\n\n## Services\nDas Restaurant spezialisiert sich auf Gourmet-Burger und bietet eine Auswahl an Fleisch-, Beyond Meat-, Seitan- und Kichererbsen-Patties. Es gibt die Möglichkeit zum Vor-Ort-Essen sowie zur Lieferung über Glovo. Neben Burgern gibt es Beilagen wie Süßkartoffelpommes und Edamame. Der Service ist in der Regel zügig.\n\n## Lage\nBadal Corner befindet sich im Herzen von Palma an der belebten Plaça del Comtat del Rosselló. Es ist leicht zugänglich und eignet sich sowohl für einen schnellen Snack als auch für ein entspanntes Essen nach einer Stadtbesichtigung.\n\n## Nutzererfahrungen\nDie Kundenbewertungen sind überwiegend positiv, besonders die veganen und vegetarischen Burger werden hervorgehoben. Einige Gäste finden die Menükarte jedoch verwirrend, und an Tagen mit hohem Andrang kann der Service langsamer sein. Das Restaurant ist bei Veganern und Nicht-Veganern gleichermaßen beliebt und wird für seine frischen Zutaten und geschmackvollen Gerichte gelobt.\n\n## AI-Rating\n**4.3/5**\nBasierend auf Kundenbewertungen erhält Badal Corner eine hohe Punktzahl für die Vielfalt und Qualität der Speisen, mit leichten Abzügen für gelegentliche Verzögerungen im Service und unübersichtliche Menükarten.\n\n| Pros | Cons |\n| ---- | ---- |\n| 🟢 Vegane und vegetarische Optionen | 🔴 Verwirrende Menükarte |\n| 🟢 Große Portionen | 🔴 Kann bei viel Andrang langsam sein |\n| 🟢 Schnelle Zubereitung | 🔴 Begrenzte vegane Auswahl |\n\n## Abschluss\nBadal Corner ist eine hervorragende Wahl für Burgerliebhaber, die sowohl traditionelle als auch vegane Optionen suchen. Die zentrale Lage und das qualitativ hochwertige Angebot machen es zu einem Muss in Palma, auch wenn es zu Stoßzeiten etwas voller werden kann.",
+      "address": "Plaça del Comtat del Rosselló, 7, Centre, 07002 Palma",
+      "mail": " info@badalcorner.com",
+      "website": "https://www.badalcorner.com",
+      "phone": "+34871238462",
+      "googleMapsLink": "https://maps.app.goo.gl/AreyoZvN3pBx1JmE8",
+      "aiRating": 4.3,
+      "photos": [],
+      "mainCategory": {
+        "name": "🍽️ Restaurant",
+        "slug": "restaurant"
+      },
+      "subCategories": [
+        {
+          "name": "🍔 Burger",
+          "slug": "burger"
+        },
+        {
+          "name": "🍃 Vegetarisch",
+          "slug": "vegetarian"
+        },
+        {
+          "name": "🌱 Vegan",
+          "slug": "vegan"
+        }
+      ],
+      "location": {
+        "latitude": 39.5737004,
+        "longitude": 2.6544002
+      }
+    },
+    {
+      "_publishedAt": "2024-09-20T10:19:20+02:00",
+      "_firstPublishedAt": "2024-09-19T17:58:39+02:00",
+      "id": "YUUoKl2LRZKEfMSEIvI3uQ",
+      "name": "Basico Steak House",
+      "description": "## Übersicht\nDas Basico Steak House ist ein Restaurant in Alcúdia, Illes Balears, Spanien, das sich auf Steaks spezialisiert hat. Es bietet ein robustes und zufriedenstellendes kulinarisches Erlebnis. Obwohl keine Website vorhanden ist, hat das Restaurant durch verschiedene Online-Plattformen Aufmerksamkeit erregt.\n\n## Services\nDas Steakhouse bietet eine Vielzahl von Rindersteaks und eine umfassende Speisekarte, die Fleischliebhaber anspricht. Neben den Hauptgerichten gibt es auch eine Auswahl an Beilagen, Saucen und Desserts. Der Service wird im Allgemeinen als aufmerksam beschrieben, mit dem Ziel, ein angenehmes Esserlebnis zu gewährleisten.\n\n## Lage\nDas Basico Steak House befindet sich in der Carrer d'En Serra, in einem beliebten Viertel von Alcúdia. Die Lage ist leicht erreichbar und liegt in der Nähe anderer lokaler Attraktionen, was es zu einer bequemen Wahl für Einheimische und Touristen macht.\n\n## Nutzererfahrungen\nDie Bewertungen des Basico Steak House sind gemischt, tendieren jedoch zu positiven Rückmeldungen. Viele Gäste schätzen die Qualität der Steaks und das Gesamtambiente des Restaurants. Einige haben jedoch Probleme mit der Geschwindigkeit des Services und den Preisen erwähnt, was Verbesserungsbedarf anzeigen könnte.\n\n## AI-Rating\nBasierend auf Nutzerbewertungen und verfügbaren Informationen erhält das Basico Steak House eine **3,8/5** Bewertung. Dieses Rating spiegelt eine allgemein günstige Rezeption wider, mit einigen Bereichen, die verbessert werden könnten.\n\n## Pro und Contra\n\n| Pro 🍏                        | Contra 🍎                      |\n|-------------------------------|-------------------------------|\n| Hochwertige Steaks            | Servicegeschwindigkeit         |\n| Aufmerksamer Service          | Preise könnten hoch erscheinen |\n| Angenehmes Ambiente           |                               |\n\n## Fazit\nDas Basico Steak House bietet ein empfehlenswertes Steak-Dining-Erlebnis mit hochwertigem Fleisch und angenehmem Ambiente. Obwohl die allgemeine Rezeption positiv ist, könnten Verbesserungen bei der Servicegeschwindigkeit und der Preisgestaltung die Kundenzufriedenheit weiter steigern. Für diejenigen, die in Alcúdia ein gutes Steak suchen, bleibt es eine lohnenswerte Option, könnte jedoch von einigen Anpassungen profitieren, um das Erlebnis weiter zu verbessern.",
+      "address": "Carrer d'En Serra, 07400 Alcúdia",
+      "mail": "",
+      "website": "",
+      "phone": "+34871047849",
+      "googleMapsLink": "https://maps.app.goo.gl/GienFrFMMtXSzB2Y6",
+      "aiRating": 3.8,
+      "photos": [],
+      "mainCategory": {
+        "name": "🍽️ Restaurant",
+        "slug": "restaurant"
+      },
+      "subCategories": [
+        {
+          "name": "🔥 Grill",
+          "slug": "grill"
+        }
+      ],
+      "location": {
+        "latitude": 39.85236949999999,
+        "longitude": 3.1219398
+      }
+    },
+    {
+      "_publishedAt": "2024-09-20T10:19:09+02:00",
+      "_firstPublishedAt": "2024-09-19T18:07:13+02:00",
+      "id": "VyyMhEIzSu25WOsIzMuudg",
+      "name": "Restaurante Hórreo Veinti3",
+      "description": "## Übersicht\nDas Restaurante Hórreo Veinti3 ist ein angesehenes Restaurant in Palma, Illes Balears, Spanien. Es ist bekannt für seine moderne Interpretation traditioneller spanischer Küche und bietet ein einzigartiges gastronomisches Erlebnis, das lokale Zutaten mit innovativen Kochtechniken kombiniert.\n\n## Services\nDas Restaurant bietet eine vielfältige Speisekarte, die sowohl à la carte Optionen als auch Menüvorschläge umfasst. Sie legen Wert auf frische, saisonale Zutaten und haben eine Auswahl an Gerichten, die verschiedene diätetische Vorlieben berücksichtigen. Neben dem Essen verfügt Hórreo Veinti3 über eine gut ausgewählte Weinkarte und einen aufmerksamen Service.\n\n## Lage\nGelegen in der C. de la Fàbrica, 23 im Stadtteil Ponent von Palma, profitiert Hórreo Veinti3 von einer zentralen Lage, die leicht erreichbar ist. Die Umgebung des Restaurants ist für ihre lebhafte Atmosphäre bekannt, was es zu einem beliebten Ort für Einheimische und Touristen macht.\n\n## Nutzererfahrungen\nKunden loben allgemein das Restaurant für seine qualitativ hochwertigen Speisen und die einladende Atmosphäre. Das moderne Dekor und der aufmerksame Service werden häufig hervorgehoben. Einige Bewertungen erwähnen, dass die Preise eher hoch sind, doch viele empfinden die Qualität als gerechtfertigt.\n\n## AI-Rating\nBasierend auf den Nutzerbewertungen und der allgemeinen Stimmung beträgt das AI-Rating für Restaurante Hórreo Veinti3 4,5 von 5 Sternen.\n\n## Pro und Contra\n\n**Pro**  \n- 🟢 Hochwertiges Essen  \n- 🟢 Modernes Dekor  \n- 🟢 Aufmerksamer Service  \n\n**Contra**  \n- 🔴 Höhere Preise  \n- 🔴 Begrenzte Menüoptionen für spezielle Diäten\n\n## Fazit\nDas Restaurante Hórreo Veinti3 überzeugt durch seine hohe Qualität der Speisen, innovative Küche und exzellenten Service. Auch wenn die Preise höher sind als bei anderen Optionen, macht das insgesamt hochwertige Dining-Erlebnis, einschließlich des Ambientes und der Frische der Zutaten, den Besuch lohnenswert. Besonders empfehlenswert für diejenigen, die ein anspruchsvolles Dining-Erlebnis in einer lebhaften Umgebung suchen.",
+      "address": "C. de la Fàbrica, 23, Ponent, 07013 Palma",
+      "mail": "",
+      "website": "https://horreoveinti3restaurante.es",
+      "phone": "+34685913700",
+      "googleMapsLink": "https://maps.app.goo.gl/ix9SLhWSUeNDKxS68",
+      "aiRating": 4.5,
+      "photos": [],
+      "mainCategory": {
+        "name": "🍽️ Restaurant",
+        "slug": "restaurant"
+      },
+      "subCategories": [
+        {
+          "name": "🌊 Mittelmeerküche",
+          "slug": "mediterranean"
+        },
+        {
+          "name": "🔥 Grill",
+          "slug": "grill"
+        }
+      ],
+      "location": {
+        "latitude": 39.5722657,
+        "longitude": 2.6387515
+      }
+    },
+    {
+      "_publishedAt": "2024-09-20T10:18:56+02:00",
+      "_firstPublishedAt": "2024-09-19T18:02:59+02:00",
+      "id": "R0s_sutFRZ-wq7y0700SbQ",
+      "name": "Es Babot",
+      "description": "## Übersicht\nEs Babot ist ein vielseitiges Unternehmen in Felanitx, Illes Balears, Spanien. Es kombiniert Elemente eines Restaurants, Hotels und Lifestyle-Raums, um den Gästen und Besuchern ein umfassendes Erlebnis zu bieten. Die Website deutet auf einen Schwerpunkt auf kulinarischen Genüssen, komfortablen Unterkünften und einer besonderen Lifestyle-Atmosphäre hin.\n\n## Services\nZu den angebotenen Dienstleistungen von Es Babot gehören eine hochwertige Gastronomie mit einem Menü, das lokale und internationale Küche bietet. Der Hotelbereich bietet gemütliche und gut eingerichtete Zimmer, die einen entspannenden Aufenthalt ermöglichen. Zudem könnte der Lifestyle-Bereich verschiedene Veranstaltungen oder Aktivitäten umfassen, die unterschiedliche Interessen und Vorlieben ansprechen.\n\n## Lage\nDas Es Babot befindet sich an der Plaça Sant Isidre, 5, Felanitx, und liegt zentral in der Region, was einfachen Zugang zu lokalen Attraktionen und Annehmlichkeiten bietet. Die Umgebung zeichnet sich durch eine Mischung aus traditionellen und modernen Einflüssen aus, was zu einer einzigartigen Atmosphäre beiträgt.\n\n## Nutzererfahrungen\nBewertungen deuten darauf hin, dass Es Babot für seinen aufmerksamen Service und die angenehme Atmosphäre geschätzt wird. Gäste heben oft die Qualität des Essens und den Komfort der Unterkünfte hervor. Einige Bewertungen erwähnen jedoch, dass die Preise eher hoch sein können und gelegentliche Serviceverzögerungen berichtet wurden.\n\n## AI-Rating\nBasierend auf Nutzerbewertungen und verfügbaren Informationen erhält Es Babot insgesamt eine positive Bewertung von 4.5/5. Das Unternehmen ist für seine Qualität und seinen Service bekannt, hat jedoch einige Verbesserungsmöglichkeiten.\n\n## Pro und Contra\n\n| Pro ✅                        | Contra ❌                          |\n|-------------------------------|-----------------------------------|\n| Hochwertiges Essen            | Höhere Preise                     |\n| Bequeme Unterkünfte           | Gelegentliche Serviceverzögerungen |\n| Angenehme Atmosphäre          |                                   |\n\n## Fazit\nEs Babot in Felanitx bietet eine überzeugende Kombination aus Gastronomie, Unterkunft und Lifestyle-Erlebnissen. Es zeichnet sich durch qualitativ hochwertiges Essen und komfortable Unterkünfte aus, was es zu einem attraktiven Ziel für Mahlzeiten und Übernachtungen macht. Allerdings sollten potenzielle Besucher sich der höheren Preise und gelegentlichen Serviceverzögerungen bewusst sein. Insgesamt bietet es ein angenehmes Erlebnis, könnte jedoch einige Anpassungen vornehmen, um kleinere Mängel zu beheben.",
+      "address": "Plaça Sant Isidre, 5, 07669 Felanitx",
+      "mail": "restaurant@esbabot.com",
+      "website": "https://www.esbabot.com/en/",
+      "phone": "+34971162187",
+      "googleMapsLink": "https://maps.app.goo.gl/CVVb5EzsAUB38Ket8",
+      "aiRating": 4.5,
+      "photos": [],
+      "mainCategory": {
+        "name": "🍽️ Restaurant",
+        "slug": "restaurant"
+      },
+      "subCategories": [
+        {
+          "name": "🌊 Mittelmeerküche",
+          "slug": "mediterranean"
+        },
+        {
+          "name": "🍔 Burger",
+          "slug": "burger"
+        }
+      ],
+      "location": {
+        "latitude": 39.407475,
+        "longitude": 3.2087516
+      }
+    },
+    {
+      "_publishedAt": "2024-09-20T10:17:02+02:00",
+      "_firstPublishedAt": "2024-09-19T18:11:43+02:00",
+      "id": "Y6ex4e-AQ_K_cA2VRZgnfw",
+      "name": "La Posada",
+      "description": "## Übersicht\nLa Posada ist ein vielseitiges Etablissement in der malerischen Stadt Valldemossa auf den Balearischen Inseln, Spanien. Dieses Lokal kombiniert die Funktionen eines Restaurants, Hotels und Lifestyle-Ortes und bietet den Besuchern ein einzigartiges Erlebnis.\n\n## Services\nLa Posada bietet eine Vielzahl von Dienstleistungen, darunter Essensoptionen mit Schwerpunkt auf lokaler und mediterraner Küche. Der Hotelbereich bietet komfortable Unterkünfte mit charmantem Dekor, und der Lifestyle-Aspekt umfasst verschiedene Erlebnisse, die darauf abzielen, den Gästen die Zeit zu verschönern, von Veranstaltungen bis zu maßgeschneiderten Aktivitäten.\n\n## Lage\nDas La Posada befindet sich an der Plaça Miranda des Lladoners, 3, Local 6, 07170 Valldemossa. Die Lage ist ideal, um die ruhige und historische Umgebung dieser malerischen Stadt zu erkunden. Die zentrale Position ermöglicht einen einfachen Zugang zu lokalen Attraktionen und schönen Landschaften.\n\n## Nutzererfahrungen\nBesucher schätzen La Posada im Allgemeinen für seine gemütliche Atmosphäre und den freundlichen Service. Das Restaurant erhält positives Feedback für seine hochwertige Küche und authentischen Aromen. Das Hotel wird für seinen Komfort und das elegante Design gelobt. Einige Nutzer haben jedoch angemerkt, dass der Ort etwas teuer und während der Spitzenzeiten recht voll sein kann.\n\n## AI-Rating\nBasierend auf Nutzerbewertungen hat La Posada ein AI-Rating von 4,2 von 5 Sternen.\n\n## Pro und Contra\n\n### Pro\n- 🟢 Hochwertige Speisen und Essens-Erlebnis\n- 🟢 Komfortable und stilvolle Unterkünfte\n- 🟢 Freundliches und hilfsbereites Personal\n\n### Contra\n- 🔴 Kann teuer sein\n- 🔴 Kann während der Spitzenzeiten überfüllt sein\n\n## Fazit\nLa Posada bietet ein unvergessliches Erlebnis, das hervorragende lokale Küche, stilvolle Unterkünfte und eine freundliche Atmosphäre vereint. Die Lage in Valldemossa trägt zum Charme bei und macht es zu einer hervorragenden Wahl für Besucher, die die Balearen erkunden. Auch wenn es etwas teuer und während der Spitzenzeiten voll sein kann, machen die insgesamt hohe Servicequalität und das einzigartige Ambiente den Aufenthalt lohnenswert. Wer Wert auf ein hochwertiges Speiseerlebnis und einen komfortablen Aufenthalt legt, sollte La Posada definitiv in Betracht ziehen.",
+      "address": "Plaça Miranda des Lladoners, 3, Local 6, 07170 Valldemossa",
+      "mail": "",
+      "website": "https://valldemossa.restaurant",
+      "phone": "+34630978700",
+      "googleMapsLink": "https://maps.app.goo.gl/LEKj8MHXSzJ1khdg6",
+      "aiRating": 4.2,
+      "photos": [],
+      "mainCategory": {
+        "name": "🍽️ Restaurant",
+        "slug": "restaurant"
+      },
+      "subCategories": [
+        {
+          "name": "🍃 Vegetarisch",
+          "slug": "vegetarian"
+        },
+        {
+          "name": "🔥 Grill",
+          "slug": "grill"
+        }
+      ],
+      "location": {
+        "latitude": 39.7091214,
+        "longitude": 2.6231857
+      }
+    },
+    {
+      "_publishedAt": "2024-09-20T10:16:50+02:00",
+      "_firstPublishedAt": "2024-09-19T18:15:35+02:00",
+      "id": "WNoiru19RiqWPXIOuGxJtg",
+      "name": "Lume&Co Restaurante",
+      "description": "## Übersicht\nLume&Co Restaurante in Palma ist ein modernes Restaurant, das für seine elegante Atmosphäre und hochwertige, lokal bezogene Küche bekannt ist. Das Restaurant bietet eine Reihe von Dienstleistungen, darunter à la carte Essen und die Ausrichtung von Veranstaltungen, mit einem Schwerpunkt auf personalisiertem Kundenservice. Es liegt zentral und ist gut mit den lokalen Attraktionen verbunden.\n\n## Services\nDas Restaurant bietet eine Vielzahl von Dienstleistungen an, darunter à la carte Essen, die Ausrichtung privater Veranstaltungen und Catering-Optionen. Das Lume&Co legt großen Wert auf ein personalisiertes Esserlebnis, das verschiedenen diätetischen Vorlieben gerecht wird, und bietet einen hohen Kundenservice.\n\n## Lage\nDas Restaurant befindet sich in der Camí dels Reis, 64, Ponent, 07015 Palma, Illes Balears. Diese Lage ist zentral und damit sowohl für Einheimische als auch für Besucher gut erreichbar. Die Umgebung des Restaurants bietet eine angenehme Atmosphäre und ist gut an die wichtigsten Sehenswürdigkeiten von Palma angebunden.\n\n## Nutzererfahrungen\nDie Nutzerbewertungen loben in der Regel das hohe Niveau der Speisen und die elegante Einrichtung von Lume&Co Restaurante. Gäste schätzen den aufmerksamen Service und die Fähigkeit des Restaurants, verschiedenen diätetischen Bedürfnissen gerecht zu werden. Einige Bewertungen erwähnen jedoch, dass die Preise höher sein können und aufgrund der hohen Nachfrage oft Reservierungen erforderlich sind.\n\n## AI-Rating\nBasierend auf den Nutzerbewertungen und dem Gesamteindruck liegt das AI-Rating für Lume&Co Restaurante bei 4,2 von 5 Sternen.\n\n## Pro und Contra\n\n**Pro**:\n- 🟢 Hochwertiges Essen\n- 🟢 Elegante Atmosphäre\n- 🟢 Aufmerksamer Service\n- 🟢 Geeignet für besondere Anlässe\n\n**Contra**:\n- 🔴 Höhere Preisklasse\n- 🔴 Erfordert Reservierungen aufgrund hoher Nachfrage\n\n## Fazit\nLume&Co Restaurante ist eine sehr empfehlenswerte Wahl für diejenigen, die ein erstklassiges Esserlebnis in Palma suchen, vorausgesetzt, sie planen im Voraus für Reservierungen.\n",
+      "address": "Camí dels Reis, 64, Ponent, 07015 Palma",
+      "mail": "reservas@lumerestaurante.com",
+      "website": "https://www.lumerestaurante.com/en/",
+      "phone": "+34971 104295",
+      "googleMapsLink": "https://maps.app.goo.gl/e249kR9v3Q7qEyj18",
+      "aiRating": 4.2,
+      "photos": [],
+      "mainCategory": {
+        "name": "🍽️ Restaurant",
+        "slug": "restaurant"
+      },
+      "subCategories": [
+        {
+          "name": "🔥 Grill",
+          "slug": "grill"
+        },
+        {
+          "name": "🌊 Mittelmeerküche",
+          "slug": "mediterranean"
+        }
+      ],
+      "location": {
+        "latitude": 39.5687668,
+        "longitude": 2.6039369
+      }
+    },
+    {
+      "_publishedAt": "2024-09-20T10:16:31+02:00",
+      "_firstPublishedAt": "2024-09-19T19:29:09+02:00",
+      "id": "G4mf9Ak5TgC_c0ITATsWLg",
+      "name": "Maleva Mallorca",
+      "description": "## Übersicht\nMaleva Mallorca ist ein aufstrebendes Ziel in Palma, das eine einzigartige Kombination aus Gastronomie, Unterkunft und Lifestyle-Erlebnissen bietet. In der pulsierenden Innenstadt gelegen, verspricht dieser Ort eine ruhige Auszeit mit einem Hauch von lokalem Charme.\n\n## Services\nDie Einrichtung bietet eine Vielzahl von Dienstleistungen, darunter Gourmet-Dining mit Fokus auf mediterrane Küche, stilvolle Unterkünfte und kuratierte Lifestyle-Erlebnisse, die das Beste von Mallorca hervorheben. Gäste können einen aufmerksamen Service und eine einladende Atmosphäre erwarten.\n\n## Lage\nDie Lage in der Carrer de Can Salat versetzt Maleva Mallorca in eine hervorragende Position in Palma, was es sowohl für Einheimische als auch für Touristen zugänglich macht. Die Nähe zu wichtigen Sehenswürdigkeiten und der schönen Mittelmeerküste erhöht die Attraktivität.\n\n## Nutzererfahrungen\nNutzer haben Maleva Mallorca für die hervorragende Qualität der Speisen und das ästhetische Ambiente gelobt. Viele hoben das aufmerksame Personal und die insgesamt entspannende Atmosphäre hervor. Einige Bewertungen erwähnten jedoch, dass die Preise für bestimmte Dienstleistungen auf der höheren Seite liegen können.\n\n## AI-Rating\nBasierend auf den Nutzerbewertungen erhält Maleva Mallorca ein AI-Rating von 4,5 von 5, was die starke Reputation und hohe Kundenzufriedenheit widerspiegelt.\n\n### Pro und Contra\n\n| Pro                          | Contra                        |\n|-------------------------------|------------------------------|\n| 🌟 Hervorragende Speisenqualität | ❌ Höhere Preise             |\n| 🌟 Aufmerksames Personal      | ❌ Eingeschränkte Parkmöglichkeiten |\n| 🌟 Wunderschönes Ambiente     | ❌ Reservierung empfohlen     |\n\n## Abschluss\nInsgesamt hebt sich Maleva Mallorca als bemerkenswertes Ziel für alle hervor, die feine Gastronomie und eine entspannende Atmosphäre genießen möchten. Mit seiner erstklassigen Lage und hochwertigen Dienstleistungen hinterlässt es bei seinen Besuchern sicherlich einen bleibenden Eindruck.\n",
+      "address": "Carrer de Can Salat, 1, Centre, 07002 Palma",
+      "mail": "",
+      "website": "",
+      "phone": "+34971017760",
+      "googleMapsLink": "https://maps.app.goo.gl/CzJbHomWyTudJkmQ8",
+      "aiRating": 4.5,
+      "photos": [],
+      "mainCategory": {
+        "name": "🍽️ Restaurant",
+        "slug": "restaurant"
+      },
+      "subCategories": [
+        {
+          "name": "🔥 Grill",
+          "slug": "grill"
+        }
+      ],
+      "location": {
+        "latitude": 39.5710043,
+        "longitude": 2.6552932
+      }
+    },
+    {
+      "_publishedAt": "2024-09-20T10:16:21+02:00",
+      "_firstPublishedAt": "2024-09-19T19:32:45+02:00",
+      "id": "Cm4qfctQRrCYFzZn9bYEoA",
+      "name": "Raimundo Burger",
+      "description": "# Übersicht\nRaimundo Burger ist ein beliebtes Restaurant im Herzen von Palma, Mallorca. Bekannt für seine einladende Atmosphäre und ein abwechslungsreiches Menü, zielt es darauf ab, sowohl Einheimischen als auch Touristen ein köstliches Burger-Erlebnis zu bieten.\n\n# Services\nDas Restaurant bietet eine Vielzahl von Gourmet-Burgern sowie Beilagen wie Pommes und Salate an. Zusätzlich gibt es vegetarische und vegane Optionen, die sicherstellen, dass alle diätetischen Vorlieben berücksichtigt werden. Der Service wird allgemein für seine Freundlichkeit und Aufmerksamkeit gelobt, was das Gesamterlebnis verbessert.\n\n# Lage\nGelegen an der Plaça de Raimundo Clar, ist dieses Lokal leicht erreichbar und stellt einen bequemen Halt für Besucher dar, die die Stadt erkunden. Die zentrale Lage ermöglicht es den Gästen, ihr Essen zu genießen und gleichzeitig die lebendige Atmosphäre Palmas zu erleben.\n\n# Nutzererfahrungen\nKunden loben häufig die Qualität des Essens, insbesondere die Frische der Zutaten und die geschmackvollen Kombinationen. Einige Bewertungen weisen jedoch auf gelegentliche Wartezeiten während der Hauptverkehrszeiten hin. Insgesamt neigt das Feedback zur positiven Seite und hebt ein zufriedenstellendes Esserlebnis hervor.\n\n# AI-Rating\nBasierend auf Nutzerbewertungen und dem allgemeinen Sentiment erhält Raimundo Burger ein AI-Rating von 4,5/5.\n\n# Pro und Contra\n| Pro 😊                     | Contra 😞                      |\n|---------------------------|---------------------------------|\n| Köstliche Gourmet-Burger   | Gelegentliche lange Wartezeiten  |\n| Freundliches und aufmerksames Personal| Begrenzte Sitzplätze während der Stoßzeiten|\n| Vegetarische und vegane Optionen|                             |\n| Zentrale Lage             |                                 |\n\n# Fazit\nZusammenfassend lässt sich sagen, dass Raimundo Burger eine ausgezeichnete Wahl für alle ist, die hochwertige Burger in Palma genießen möchten. Mit seiner einladenden Atmosphäre, dem vielfältigen Menü und dem aufmerksamen Service spricht es ein breites Publikum an. Obwohl gelegentliche Wartezeiten ein Anliegen sein können, machen das insgesamt positive Feedback und die Qualität des Esserlebnisses es zu einem Muss für Burgerliebhaber.",
+      "address": "Plaça de Raimundo Clar, 14, Centre, 07002 Palma",
+      "mail": "",
+      "website": "http://www.raimundoburger.com",
+      "phone": "+34692211160",
+      "googleMapsLink": "https://maps.app.goo.gl/VEM7PPtsLdeHtQEo9",
+      "aiRating": 4.5,
+      "photos": [],
+      "mainCategory": {
+        "name": "🍽️ Restaurant",
+        "slug": "restaurant"
+      },
+      "subCategories": [
+        {
+          "name": "🍔 Burger",
+          "slug": "burger"
+        }
+      ],
+      "location": {
+        "latitude": 39.57049,
+        "longitude": 2.65505
+      }
+    },
+    {
+      "_publishedAt": "2024-09-20T10:16:11+02:00",
+      "_firstPublishedAt": "2024-09-19T19:39:09+02:00",
+      "id": "LZuLh7YkR6K7sQ66aqh-Tw",
+      "name": "Patrón Lunares",
+      "description": "# Übersicht\nPatrón Lunares ist ein einladendes Restaurant und Lifestyle-Objekt in Palma, Mallorca. Bekannt für seine lebendige Atmosphäre und kulinarische Kreativität, bietet es eine einzigartige Mischung aus lokalen Aromen und modernem Design. Der Betrieb hat sich schnell zu einem Favoriten unter Einheimischen und Touristen entwickelt, die ein außergewöhnliches Esserlebnis suchen.\n\n# Services\nDas Restaurant bietet ein abwechslungsreiches Menü mit mediterranen und spanischen Gerichten, die aus frischen, lokal bezogenen Zutaten zubereitet werden. Patrón Lunares bietet auch Veranstaltungsdienste an, um private Feiern und Firmenveranstaltungen auszurichten. Das aufmerksame Personal sorgt dafür, dass die Gäste während ihres Besuchs erstklassigen Service erhalten.\n\n# Lage\nBequem gelegen in der C. de la Fàbrica im Stadtteil Ponent ist Patrón Lunares sowohl für Einheimische als auch für Besucher leicht erreichbar. Die Lage bietet eine charmante Atmosphäre, umgeben von der kulturellen Vielfalt Palmas, und macht es zu einem idealen Ort für gemütliche Mahlzeiten und Feierlichkeiten.\n\n# Nutzererfahrungen\nDie Bewertungen heben die lebhafte Atmosphäre, die hervorragende Lebensmittelqualität und den freundlichen Service des Restaurants hervor. Viele Gäste schätzen die innovativen Menüoptionen und die Liebe zum Detail bei der Präsentation der Speisen und beim Esserlebnis. Einige Nutzer haben jedoch erwähnt, dass Reservierungen zu Stoßzeiten schwierig sein können.\n\n# AI-Rating\nBasierend auf Nutzerbewertungen und allgemeinem Sentiment erhält Patrón Lunares ein AI-Rating von 4,5 von 5.\n\n# Pro und Contra\n\n| Pro ✔️                        | Contra ❌                    |\n|-------------------------------|------------------------------|\n| Köstliches und innovatives Menü| Reservierungen können schwierig sein|\n| Freundliches und aufmerksames Personal| Kann während der Hauptzeiten überfüllt sein|\n| Tolle Atmosphäre              | Eingeschränkte Parkmöglichkeiten in der Nähe|\n\n# Fazit\nInsgesamt sticht Patrón Lunares als eines der besten Restaurantziele in Palma hervor und bietet ein wunderbares Erlebnis durch seine Küche und Atmosphäre. Es wird jedem empfohlen, der die kulinarische Szene Mallorcas erkunden möchte.",
+      "address": "C. de la Fàbrica, 30, Ponent, 07013 Palma",
+      "mail": "",
+      "website": "http://patronlunares.com",
+      "phone": "+34971577154",
+      "googleMapsLink": "https://maps.app.goo.gl/qHRan9qKJsMXPbmx5",
+      "aiRating": 4.5,
+      "photos": [],
+      "mainCategory": {
+        "name": "🍽️ Restaurant",
+        "slug": "restaurant"
+      },
+      "subCategories": [
+        {
+          "name": "🌊 Mittelmeerküche",
+          "slug": "mediterranean"
+        }
+      ],
+      "location": {
+        "latitude": 39.572829,
+        "longitude": 2.6371266
+      }
+    },
+    {
+      "_publishedAt": "2024-09-20T10:16:00+02:00",
+      "_firstPublishedAt": "2024-09-19T19:45:22+02:00",
+      "id": "ctvUS8gDS1egZyIOo5LcZw",
+      "name": "Ca n'Eduardo",
+      "description": "# Übersicht\nCa n'Eduardo ist ein charmantes Etablissement in Palma, auf den Balearischen Inseln, das für seine einzigartige Kombination aus Restaurant, Hotel und Lifestyle-Angeboten bekannt ist. Mit dem Ziel, unvergessliche Erlebnisse zu schaffen, spricht es sowohl Einheimische als auch Touristen an, die authentische balearische Gastfreundschaft suchen.\n\n# Services\nDas Lokal bietet eine vielfältige Palette an Dienstleistungen, darunter ein gehobenes Restaurant mit lokaler Küche, komfortable Hotelunterkünfte und Lifestyle-Annehmlichkeiten, die auf Wellness und Freizeit ausgerichtet sind. Die Gäste können exquisite Gerichte genießen, die aus frischen, lokalen Zutaten zubereitet werden, sowie einen persönlichen Service, der ihren Aufenthalt bereichert.\n\n# Lage\nCa n'Eduardo liegt in einem lebhaften Teil von Palma und ist leicht erreichbar, umgeben von einem reichen kulturellen Erbe. Die Lage bietet Nähe zu lokalen Attraktionen, Stränden und Einkaufsgebieten, was es zu einem idealen Ort für Besucher macht, die die Schönheit der Balearischen Inseln erkunden möchten.\n\n# Nutzererfahrungen\nBewertungen heben die außergewöhnliche Qualität des Essens und das freundliche, aufmerksame Personal hervor. Viele Gäste schätzen die gemütliche Atmosphäre und die geschmackvoll gestalteten Innenräume, die zu einem angenehmen Speise- und Übernachtungserlebnis beitragen. Einige erwähnen jedoch gelegentliche Probleme mit Wartezeiten während der Hauptverkehrszeiten.\n\n# AI-Rating\nBasierend auf den Nutzerbewertungen erhält Ca n'Eduardo ein solides AI-Rating von 4,5 von 5, was die hohe Zufriedenheit der Gäste widerspiegelt, insbesondere hinsichtlich der kulinarischen Angebote und des Kundenservices.\n\n## Pro und Contra\n| Pro 😊                       | Contra 😞                    |\n|------------------------------|------------------------------|\n| Hervorragende Essensqualität | Wartezeiten können lang sein  |\n| Freundliches und aufmerksames Personal | Eingeschränkte Parkmöglichkeiten |\n| Gemütliche und charmante Atmosphäre | Einige Gerichte könnten teuer sein |\n\n# Abschluss\nInsgesamt sticht Ca n'Eduardo als bemerkenswerter Ort in Palma hervor, der Gastronomie und Gastfreundschaft mit einem Hauch von lokaler Note kombiniert. Das Engagement für Qualität und Kundenzufriedenheit macht es zu einer lohnenswerten Wahl für jeden Besucher der Balearischen Inseln. Ob beim Essen oder Übernachten, die Gäste können ein erfreuliches Erlebnis erwarten, das das Wesen der Region einfängt.",
+      "address": "C/ Contramuelle Mollet, 3, 07012 Palma",
+      "mail": "info@caneduardo.com",
+      "website": "http://www.caneduardo.com/",
+      "phone": "+34971721182",
+      "googleMapsLink": "https://maps.app.goo.gl/zixYpmF8p28ZqMkj9",
+      "aiRating": 4.5,
+      "photos": [],
+      "mainCategory": {
+        "name": "🍽️ Restaurant",
+        "slug": "restaurant"
+      },
+      "subCategories": [
+        {
+          "name": "🥘 Spanisch",
+          "slug": "spanish"
+        }
+      ],
+      "location": {
+        "latitude": 39.5684507,
+        "longitude": 2.6406613
+      }
+    },
+    {
+      "_publishedAt": "2024-09-20T10:15:50+02:00",
+      "_firstPublishedAt": "2024-09-19T19:48:50+02:00",
+      "id": "YT_wn1YzQo2LL62ScY6JNg",
+      "name": "Restaurante Casa Fernando",
+      "description": "# Übersicht\nDas Restaurante Casa Fernando ist ein charmantes Restaurant in Platja de Palma, Mallorca. Bekannt für seine einladende Atmosphäre und authentische mediterrane Küche, bietet es ein angenehmes Erlebnis für Einheimische und Touristen. Besonders geschätzt werden die frischen Meeresfrüchte und traditionellen spanischen Gerichte, die es zu einem beliebten Ort für Liebhaber der Inselküche machen.\n\n# Services\nCasa Fernando bietet ein abwechslungsreiches Menü mit verschiedenen Optionen, darunter vegetarische und glutenfreie Gerichte. Die Gäste können sowohl drinnen als auch draußen sitzen, was ein angenehmes Essen bei jedem Wetter ermöglicht. Das Personal wird für seine Freundlichkeit und Aufmerksamkeit gelobt, was zur warmen und einladenden Atmosphäre beiträgt.\n\n# Lage\nDas Restaurant liegt in der Carrer de Trafalgar, ideal in der Nähe des Strandes, was es zu einem perfekten Stopp für eine Mahlzeit nach einem Tag in der Sonne macht. Die Nähe zu lokalen Attraktionen erhöht die Anziehungskraft und zieht Besucher an, die eine praktische und gleichzeitig angenehme Essensoption suchen.\n\n# Nutzererfahrungen\nDie Bewertungen der Kunden heben die Qualität der Speisen und die Aufmerksamkeit des Personals hervor. Viele Gäste schwärmen von der Paella und dem gegrillten Fisch, während andere die gemütliche Atmosphäre schätzen. Einige Bewertungen erwähnen jedoch längere Wartezeiten zu Stoßzeiten, die das Gesamterlebnis beeinträchtigen könnten.\n\n# AI-Rating\nBasierend auf Nutzerbewertungen und allgemeiner Zufriedenheit erhält das Restaurante Casa Fernando 4,5 von 5 Sternen. \n\n| Pro  | Contra  |\n|------|---------|\n| 🥗 Frische und geschmackvolle Gerichte | ⏳ Längere Wartezeiten während der Hauptzeiten |\n| 🍷 Freundlicher und aufmerksamer Service | 💸 Preise könnten für manche etwas hoch sein |\n| 🌊 Wunderschöne Lage am Meer | 🚶‍♂️ Begrenzte Parkmöglichkeiten in der Nähe |\n\n# Abschluss\nDas Restaurante Casa Fernando ist eine sehr empfehlenswerte Wahl für alle, die Platja de Palma besuchen. Mit exzellenter Küche, freundlichem Service und einladender Atmosphäre hebt es sich als Top-Ziel für Liebhaber mediterraner Küche hervor. Trotz kleinerer Nachteile ist das Gesamterlebnis überwiegend positiv und macht es zu einem Muss während Ihres Aufenthalts auf der Insel.\n",
+      "address": "Carrer de Trafalgar, 27, Platja de Palma, 07007 Palma",
+      "mail": "",
+      "website": "http://www.restaurantecasafernando.com/",
+      "phone": "+34971265417",
+      "googleMapsLink": "https://maps.app.goo.gl/CPmPfq4fW9Tnvdya9",
+      "aiRating": 4.5,
+      "photos": [],
+      "mainCategory": {
+        "name": "🍽️ Restaurant",
+        "slug": "restaurant"
+      },
+      "subCategories": [
+        {
+          "name": "🔥 Grill",
+          "slug": "grill"
+        },
+        {
+          "name": "🌊 Mittelmeerküche",
+          "slug": "mediterranean"
+        },
+        {
+          "name": "🍷 Wein",
+          "slug": "wine"
+        }
+      ],
+      "location": {
+        "latitude": 39.5516284,
+        "longitude": 2.6922658
+      }
+    },
+    {
+      "_publishedAt": "2024-09-20T10:11:39+02:00",
+      "_firstPublishedAt": "2024-09-19T19:53:22+02:00",
+      "id": "MqA5aqK6So6ugbKNkyfYUg",
+      "name": "Restaurante Ola del Mar",
+      "description": "## Übersicht\nDas Restaurante Ola del Mar ist ein lebhaftes Restaurant in Platja de Palma, das eine Mischung aus traditioneller und moderner mediterraner Küche bietet. Bekannt für seine einladende Atmosphäre und die atemberaubende Aussicht auf das Meer, zieht es sowohl Einheimische als auch Touristen an, die ein unvergessliches kulinarisches Erlebnis suchen.\n\n## Services\nDas Restaurant bietet ein vielfältiges Menü mit frischen Meeresfrüchten, gegrilltem Fleisch und verschiedenen vegetarischen Optionen. Zudem bietet Ola del Mar Catering-Services für besondere Anlässe sowie eine gut ausgewählte Weinkarte, die jedes Gericht perfekt ergänzt.\n\n## Lage\nGelegen in der Carrer del Vicari Joaquim Fuster ist das Restaurant leicht zu erreichen und nur einen kurzen Spaziergang vom Strand entfernt. Die erstklassige Lage ermöglicht es den Gästen, die lebendige Umgebung von Platja de Palma beim Essen zu genießen.\n\n## Nutzererfahrungen\nBesucher loben häufig den aufmerksamen Service und die Qualität der Speisen, wobei die Frische der Zutaten und die Kreativität der Gerichte hervorgehoben werden. Viele Bewertungen erwähnen die entspannende Atmosphäre, während einige von gelegentlichen Wartezeiten zu Stoßzeiten berichten.\n\n## AI-Rating\nBasierend auf Nutzerbewertungen erhält das Restaurante Ola del Mar eine solide Bewertung von 4,5 von 5 Sternen, was seine Beliebtheit und das insgesamt positive Feedback von Gästen widerspiegelt.\n\n### Pro/Contra Tabelle\n\n| Pro (✅)                       | Contra (❌)                   |\n|-------------------------------|-------------------------------|\n| Köstliche und frische Speisen | Gelegentliche Wartezeiten    |\n| Aufmerksames und freundliches Personal | Überfüllt zu Stoßzeiten       |\n| Wunderschöne Meerblick        | Eingeschränkte Parkmöglichkeiten |\n| Vielfältige Menüoptionen      | Höhere Preise im Vergleich zu lokalen Restaurants |\n\n## Fazit\nInsgesamt hebt sich das Restaurante Ola del Mar als fantastisches Restaurant in Platja de Palma hervor. Mit köstlichem Essen, aufmerksamem Service und einer schönen Lage verspricht es ein angenehmes Erlebnis für alle Gäste. Auch wenn es zu Stoßzeiten gelegentlich Wartezeiten geben kann, macht die hohe Qualität einen Besuch durchaus lohnenswert.",
+      "address": "Carrer del Vicari Joaquim Fuster, 1, Platja de Palma, 07006 Palma, Illes Balears, Spanien",
+      "mail": " event@oladelmar.es",
+      "website": "http://www.oladelmar.es/",
+      "phone": "+34971274275",
+      "googleMapsLink": "https://maps.app.goo.gl/eZBY9tDWnCAzAgN9A",
+      "aiRating": 4.5,
+      "photos": [],
+      "mainCategory": {
+        "name": "🍽️ Restaurant",
+        "slug": "restaurant"
+      },
+      "subCategories": [
+        {
+          "name": "🥘 Spanisch",
+          "slug": "spanish"
+        },
+        {
+          "name": "🌊 Mittelmeerküche",
+          "slug": "mediterranean"
+        }
+      ],
+      "location": {
+        "latitude": 39.5605797,
+        "longitude": 2.6710379
+      }
+    },
+    {
+      "_publishedAt": "2024-09-20T10:11:22+02:00",
+      "_firstPublishedAt": "2024-08-08T20:39:31+02:00",
+      "id": "Xk97s4piQ0qp1CGcXdh8pg",
+      "name": "MarChica Palma",
+      "description": "## Übersicht\nMarChica Palma, in Palma de Mallorca, Spanien, ist ein stilvolles Restaurant, das eine Fusion aus asiatischer und mediterraner Küche bietet. Bekannt für seine lebhafte Atmosphäre, Live-DJs und kunstvolle Cocktails, ist es ein beliebter Treffpunkt für Einheimische und Touristen. Die kreativen Gerichte, die vom Küchenchef Junior Machado zubereitet werden, machen es zu einem besonderen gastronomischen Ziel auf den Balearen.\n\n## Services\nMarChica Palma bietet eine Vielzahl von Dienstleistungen, darunter ein beeindruckendes Essen auf der Dachterrasse mit begrenzten Plätzen, Event-Gastronomie für private und geschäftliche Feiern sowie eine Cocktailbar mit Schwerpunkt auf Mixologie. Gruppenmenüs eignen sich ideal zum gemeinsamen Speisen, und das Restaurant ist von Dienstag bis Samstag geöffnet und bietet eine ausgewogene Auswahl an Getränken und Weinen zu den Mahlzeiten.\n\n## Lage\nDas Restaurant befindet sich in der Carrer Torre de Paraires, 1 im Stadtteil Ponent von Palma, einem malerischen Ort mit Blick auf das Mittelmeer. Durch die Dachterrasse erhält der Ort eine exklusive Note und ist perfekt für besondere Anlässe oder zwanglose Abende mit Freunden.\n\n## Nutzererfahrungen\nDie Bewertungen für MarChica Palma sind überwiegend positiv. Die Gäste loben oft die exzellente Fusion der Geschmacksrichtungen, den aufmerksamen Service und die lebendige Atmosphäre, insbesondere die Live-Musik. Einige Besucher empfinden das Restaurant als etwas teuer, doch die meisten sind sich einig, dass die Qualität der Speisen und das Gesamterlebnis den Preis rechtfertigen. Der einzige Nachteil ist die begrenzte Anzahl an Plätzen auf der Terrasse, weshalb eine frühzeitige Reservierung empfohlen wird.\n\n## AI-Rating\nBasierend auf den Kundenbewertungen und dem allgemeinen Eindruck vergebe ich MarChica Palma eine **4,7/5**. Die kreativen kulinarischen Angebote und die lebhafte Atmosphäre stechen heraus, obwohl die gehobenen Preise und die begrenzten Sitzplätze auf der Terrasse verbesserungswürdig sein könnten.\n\n## Pro & Contra\n\n| Pro | Contra |\n|-----|--------|\n| 🟢 Exzellente Fusion aus asiatischer und mediterraner Küche | 🔴 Für einige Gäste etwas teuer |\n| 🟢 Atemberaubende Dachterrasse | 🔴 Begrenzte Sitzplätze auf der Terrasse |\n| 🟢 Tolle Atmosphäre mit Live-DJ und Musik | 🔴 Nicht ideal für ruhige Abendessen |\n\n## Abschluss\nMarChica Palma ist ein Muss für jeden, der eine einzigartige Mischung aus asiatisch-mediterraner Küche in einem lebhaften, stilvollen Ambiente erleben möchte. Das Essen auf der Terrasse und die außergewöhnlichen Cocktails machen es zu einem Hotspot für entspannte und festliche Mahlzeiten.\n",
+      "address": "Carrer Torre de Paraires, 1, Ponent, 07015 Palma, Illes Balears, Spanien",
+      "mail": "reservas@marchicapalma.com",
+      "website": "https://marchicapalma.com",
+      "phone": "+34971593902",
+      "googleMapsLink": "https://maps.app.goo.gl/emXJBKVMy7HVrQ5C9",
+      "aiRating": 4.7,
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1723143550-marchica-palma-01.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1723143545-marchica-palma-02.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1723143540-marchica-palma-03.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🍽️ Restaurant",
+        "slug": "restaurant"
+      },
+      "subCategories": [
+        {
+          "name": "🍣 Sushi",
+          "slug": "sushi"
+        },
+        {
+          "name": "🍱 Fusion",
+          "slug": "fusion"
+        },
+        {
+          "name": "🍹 Cocktail",
+          "slug": "cocktail"
+        },
+        {
+          "name": "🍸 Bar",
+          "slug": "bar"
+        }
+      ],
+      "location": {
+        "latitude": 39.5508258,
+        "longitude": 2.6230203
+      }
+    },
+    {
+      "_publishedAt": "2024-09-20T08:56:33+02:00",
+      "_firstPublishedAt": "2024-09-17T18:24:59+02:00",
+      "id": "ZeQim-kcSwWXVNminc-gww",
+      "name": "Artmadams",
+      "description": "## Übersicht\nDas Hotel Artmadams ist ein Vier-Sterne-Hotel in Palma de Mallorca, Spanien. Es besticht durch sein künstlerisches Design und eine lebendige Atmosphäre. Gäste schätzen die modernen Annehmlichkeiten, die Kunstwerke im gesamten Gebäude und die zentrale Lage nahe den Sehenswürdigkeiten Palmas.\n\n## Services\nDas Hotel bietet zahlreiche Dienstleistungen, darunter einen Außenpool, Spa, Fitnessstudio und ein stilvolles Restaurant. WLAN ist kostenlos verfügbar, ebenso wie eine Dachterrasse mit Blick über die Stadt.\n\n## Lage\nDas Hotel liegt in der Carrer del Marquès de la Sènia 34 im Stadtteil Ponent. Es ist nahe den wichtigsten Attraktionen Palmas wie der Kathedrale und dem Castell de Bellver gelegen, was es besonders attraktiv für Touristen macht.\n\n## Nutzererfahrungen\nViele Gäste loben das künstlerische Ambiente und den freundlichen Service, bemängeln jedoch teils die veralteten Zimmer. Besonders die Dachterrasse und die zentrale Lage werden als Pluspunkte hervorgehoben. Einige berichten allerdings von Lärmproblemen aufgrund der Lage.\n\n## AI-Rating\n**4/5**  \nDas Hotel erhält hohe Bewertungen für sein künstlerisches Flair und seine Lage, jedoch wird die Zimmerqualität und der Lärm als Verbesserungspotenzial genannt.\n\n| Pro | Contra |\n| --- | --- |\n| 🟢 Zentrale Lage nahe Sehenswürdigkeiten | 🔴 Lärmprobleme |\n| 🟢 Künstlerische und einzigartige Dekoration | 🔴 Zimmer könnten renoviert werden |\n| 🟢 Exzellente Dachterrasse | 🔴 Begrenzte Parkmöglichkeiten |\n\n## Abschluss\nDas Hotel Artmadams eignet sich ideal für Reisende, die eine kreative und lebendige Unterkunft in Palma suchen. Lärm und Zimmerzustand sollten jedoch bedacht werden.",
+      "address": "Carrer del Marquès de la Sènia, 34, Ponent, 07014 Palma, Illes Balears, Spanien",
+      "mail": "ARTMADAMS@HOTELARTMADAMS.COM",
+      "website": "https://www.hotelartmadams.com/",
+      "phone": "+34971222121",
+      "googleMapsLink": "",
+      "aiRating": 4,
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726590264-habitacion-hotel-artmadams-2.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726590263-escultura-hotel-artmadams.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726590263-piscina-exterior-artmadams.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🏨 Hotel",
+        "slug": "hotel"
+      },
+      "subCategories": [
+        {
+          "name": "🤫 Lärmpegel",
+          "slug": "quiet"
+        },
+        {
+          "name": "🌇 Dachterasse",
+          "slug": "rooftop"
+        },
+        {
+          "name": "🏋️‍♂️ Fitnessstudio",
+          "slug": "gym"
+        },
+        {
+          "name": "🪷 Spa",
+          "slug": "spa"
+        },
+        {
+          "name": "🍽️ Restaurant im Hotel",
+          "slug": "in-house-dining"
+        }
+      ],
+      "location": {
+        "latitude": 39.56889340000001,
+        "longitude": 2.6304472
+      }
+    },
+    {
+      "_publishedAt": "2024-09-20T08:36:40+02:00",
+      "_firstPublishedAt": "2024-09-19T12:43:04+02:00",
+      "id": "a30eF5nZSCmGHCxUWs3R4w",
+      "name": "MUARÉ",
+      "description": "## Übersicht\nMUARÉ Cantina ist ein elegantes Restaurant in Palma, Illes Balears, das mediterrane und lateinamerikanische Küche in einer modernen, entspannten Umgebung anbietet.\n\n## Services\nDas Restaurant bietet eine Vielfalt an Gourmetgerichten mit frischen, lokalen Zutaten. Es gibt auch vegetarische Optionen, Spezialcocktails und eine umfangreiche Weinauswahl. Private Veranstaltungen können ebenfalls organisiert werden.\n\n## Lage\nMUARÉ Cantina befindet sich im Stadtteil Llevant von Palma und ist sowohl für Einheimische als auch Touristen leicht erreichbar.\n\n## Nutzererfahrungen\nGäste loben den freundlichen Service und die kreativen Gerichte. Die entspannte Atmosphäre und die lebhaften Aromen werden oft hervorgehoben. Einige bemängeln allerdings die etwas höheren Preise.\n\n## AI-Rating\n**Bewertung:** 4.6/5  \n**Pro & Contra:**\n\n| ✅ Pro                            | ❌ Contra                       |\n|-----------------------------------|---------------------------------|\n| 🟢 Hervorragender Service & Ambiente | 🔴 Etwas teuer                  |\n| 🟢 Einzigartige Menükreationen     | 🔴 Wenig Parkplätze              |\n| 🟢 Hochwertige Zutaten             | 🔴 Starker Andrang zu Stoßzeiten |\n\n## Abschluss\nMUARÉ Cantina bietet eine erstklassige kulinarische Erfahrung mit kreativen Gerichten und einer angenehmen Atmosphäre. Es ist eine ausgezeichnete Wahl für besondere Anlässe, auch wenn die Preise etwas höher sind.",
+      "address": "Carrer Francesc Barceló i Combis, 4, Llevant, 07006 Palma, Illes Balears, Spanien",
+      "mail": "hola@muarecantina.com",
+      "website": "https://www.muarecantina.com",
+      "phone": "+34971127572",
+      "googleMapsLink": "https://maps.app.goo.gl/5yWtKUJmAwuVYdch7",
+      "aiRating": 4.6,
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726754715-muarecantina-03.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726754715-muarecantina-02.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726754715-muarecantina-01.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🍽️ Restaurant",
+        "slug": "restaurant"
+      },
+      "subCategories": [
+        {
+          "name": "🌊 Mittelmeerküche",
+          "slug": "mediterranean"
+        }
+      ],
+      "location": {
+        "latitude": 39.5718681,
+        "longitude": 2.6613639
+      }
+    },
+    {
+      "_publishedAt": "2024-09-20T08:36:20+02:00",
+      "_firstPublishedAt": "2024-09-19T12:50:00+02:00",
+      "id": "BQg2w-LISASytMkXS4a0xQ",
+      "name": "NENI Mallorca | Port de Sóller",
+      "description": "# Übersicht\n**NENI Mallorca** ist ein lebhaftes und eklektisches Restaurant in **Port de Sóller**. Als Teil der globalen NENI-Familie bietet es eine Mischung aus mediterranen und nahöstlichen Aromen und folgt dem NENI-Prinzip des gemeinsamen Essens. Es befindet sich im **Bikini Island & Mountain Hotel** und bietet einen atemberaubenden Blick auf den Hafen sowie eine entspannte, farbenfrohe Atmosphäre.\n\n# Services\nDas NENI Mallorca spezialisiert sich auf mediterrane Fusionsküche, mit einem starken Fokus auf Gerichte zum Teilen. Das Menü ist stark von nahöstlichen Aromen inspiriert, mit Klassikern wie Hummus, Falafel und Shakshuka. Es bietet sowohl Tapas als auch größere Gerichte. Darüber hinaus gibt es eine exzellente Auswahl an Cocktails und lokalen Weinen. NENI bietet sowohl Innenbereiche als auch eine große Terrasse mit Aussicht.\n\n# Lage\nDas Restaurant befindet sich in der **Carrer de Migjorn, 2** in **Port de Sóller**, Mallorca. Es liegt im **Bikini Island & Mountain Hotel** und bietet sowohl Hotelgästen als auch Touristen eine erstklassige Location mit Blick auf das Meer und die Berge.\n\n# Nutzererfahrungen\nDie meisten Gäste loben die einzigartigen und geschmackvollen Gerichte, sowie die hohe Qualität der Zutaten. Besonders der Panoramablick wird oft als Höhepunkt erwähnt. Einige Rezensionen berichten von langen Wartezeiten und höheren Preisen im Vergleich zu lokalen Alternativen. Insgesamt sind die meisten Gäste jedoch von der Küche und dem Ambiente begeistert.\n\n# AI-Rating\n**4.5/5**  \nBasierend auf den Bewertungen erhält NENI Mallorca hohe Punkte für seine innovative Küche, das Ambiente und den Service. Die kleinen Nachteile liegen in den Preisen und den Wartezeiten.\n\n# Pro/Contra Tabelle\n\n|      | **Pro**          | **Contra**       |\n|------|------------------|------------------|\n| ✅   | Atemberaubende Aussicht | ❌ Teuer |\n| ✅   | Einzigartige Fusionküche | ❌ Lange Wartezeiten |\n| ✅   | Großartige Atmosphäre | ❌ Begrenzte Sitzplätze zu Spitzenzeiten |\n\n# Abschluss\nNENI Mallorca bietet ein herausragendes kulinarisches Erlebnis, das mediterrane und nahöstliche Aromen mit einer atemberaubenden Lage kombiniert. Obwohl es manchmal teuer und überfüllt sein kann, sind die Speisen und das Ambiente den Besuch wert.\n",
+      "address": "Carrer de Migjorn, 2, 07108 Port de Sóller",
+      "mail": "neni.portdesoller@bikini-hotels.com",
+      "website": "https://nenifood.com/restaurants/mallorca-es-trenc",
+      "phone": "+34971638370",
+      "googleMapsLink": "https://maps.app.goo.gl/vBCqRsmLfWaGSKeL9",
+      "aiRating": 4.5,
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726754896-neni-mallorca-port-de-soller-03.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726754896-neni-mallorca-port-de-soller-02.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726754896-neni-mallorca-port-de-soller-01.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🍽️ Restaurant",
+        "slug": "restaurant"
+      },
+      "subCategories": [
+        {
+          "name": "🌊 Mittelmeerküche",
+          "slug": "mediterranean"
+        }
+      ],
+      "location": {
+        "latitude": 39.8003579,
+        "longitude": 2.6950403
+      }
+    },
+    {
+      "_publishedAt": "2024-09-20T08:23:40+02:00",
+      "_firstPublishedAt": "2024-09-19T12:56:25+02:00",
+      "id": "MoaBiy0JQXStTvKyUgziLA",
+      "name": "Isaan Thai Cuisine",
+      "description": "## Übersicht\nIsaan Thai Cuisine ist ein beliebtes Restaurant in Palma, Mallorca, das sich auf authentische thailändische Gerichte spezialisiert hat. Es bietet ein gemütliches, entspanntes Ambiente mit frischen Zutaten und kräftigen Aromen. Nachhaltigkeit und vegane Optionen stehen im Fokus.\n\n## Services\nDas Restaurant bietet Speisen vor Ort, zum Mitnehmen und zur Lieferung an. Das Menü umfasst thailändische Klassiker wie Currys, Pfannengerichte und Nudeln, mit einem besonderen Schwerpunkt auf veganen Gerichten.\n\n## Lage\nIsaan Thai Cuisine befindet sich in der Carrer de la Pursiana, 14, im lebhaften Viertel Ponent, Palma. Es ist sowohl für Einheimische als auch Touristen gut erreichbar.\n\n## Nutzererfahrungen\nViele Gäste loben die Qualität der Speisen und bezeichnen sie als geschmackvoll und authentisch. Der Service wird als freundlich beschrieben, jedoch gibt es gelegentlich Wartezeiten.\n\n## AI-Rating\n**Bewertung: 4.6/5**\nBasierend auf den überwiegend positiven Bewertungen, der Qualität des Essens und des Services.\n\n| Pros | Cons |\n|------|------|\n| 🟢 Authentische Thai-Aromen | 🔴 Gelegentliche Wartezeiten |\n| 🟢 Vegane Optionen | 🔴 Etwas höhere Preise |\n\n## Abschluss\nIsaan Thai Cuisine bietet ein authentisches thailändisches Erlebnis in Palma und ist für Liebhaber der thailändischen Küche einen Besuch wert.",
+      "address": "Carrer de la Pursiana, 14, Ponent, 07013 Palma",
+      "mail": "info@isaanthaicuisine.com",
+      "website": "https://www.isaanthaicuisine.com/en/",
+      "phone": "+34971158679",
+      "googleMapsLink": "https://maps.app.goo.gl/GCXTNYo3FSh3868k6",
+      "aiRating": 4.6,
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726755193-isaan-04.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726755193-isaan-05.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726755193-isaan-02.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726755193-isaan-03.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726755193-isaan-01.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🍽️ Restaurant",
+        "slug": "restaurant"
+      },
+      "subCategories": [
+        {
+          "name": "🌴 Thailändische Küche",
+          "slug": "thai"
+        }
+      ],
+      "location": {
+        "latitude": 39.5718746,
+        "longitude": 2.6392642
+      }
+    },
+    {
       "_publishedAt": "2024-09-19T12:02:34+02:00",
       "_firstPublishedAt": "2024-09-19T11:42:30+02:00",
       "id": "N8iSSSHoT7KeOqsy9wTmZQ",
@@ -517,6 +1812,8 @@
       "mail": "sumaqrestaurante@gmail.com",
       "website": "https://restaurantesumaq.com",
       "phone": "+34696526758",
+      "googleMapsLink": "https://maps.app.goo.gl/thWppWusFpBRfkP8A",
+      "aiRating": null,
       "photos": [
         {
           "responsiveImage": {
@@ -566,6 +1863,8 @@
       "mail": "reservas@lavieja.net",
       "website": "https://www.lavieja.net",
       "phone": "+34871531731",
+      "googleMapsLink": "https://maps.app.goo.gl/VcX9gYdMoY1tfcxc8",
+      "aiRating": null,
       "photos": [
         {
           "responsiveImage": {
@@ -619,6 +1918,8 @@
       "mail": "info@restaurantsumailla.com",
       "website": "https://www.restaurantsumailla.com",
       "phone": "+34971238785",
+      "googleMapsLink": "https://maps.app.goo.gl/2QbbD76vVAU3Z7TT9",
+      "aiRating": null,
       "photos": [
         {
           "responsiveImage": {
@@ -684,6 +1985,8 @@
       "mail": "",
       "website": "https://www.japosantacatalina.com/en/home/",
       "phone": "+34971738321",
+      "googleMapsLink": "https://maps.app.goo.gl/ni86jPYzsqYAPkus6",
+      "aiRating": null,
       "photos": [
         {
           "responsiveImage": {
@@ -759,6 +2062,8 @@
       "mail": "japanlabmallorca@gmail.com",
       "website": "https://japanlabmallorca.com",
       "phone": "+34971949231",
+      "googleMapsLink": "https://maps.app.goo.gl/eNhN6bMJtWALvpDJ8",
+      "aiRating": null,
       "photos": [
         {
           "responsiveImage": {
@@ -812,6 +2117,8 @@
       "mail": "",
       "website": "https://www.bghotels.com/bg-caballero.html",
       "phone": "+34971260050",
+      "googleMapsLink": "https://maps.app.goo.gl/Ngw2xdLaASpwXzPq7",
+      "aiRating": null,
       "photos": [
         {
           "responsiveImage": {
@@ -861,6 +2168,8 @@
       "mail": "",
       "website": "https://kasuirestaurante.com/",
       "phone": "+34971677780",
+      "googleMapsLink": "https://maps.app.goo.gl/LwVtiXHpp6VKCc9i6",
+      "aiRating": null,
       "photos": [
         {
           "responsiveImage": {
@@ -918,6 +2227,8 @@
       "mail": "reservas@emilio-innobar.com",
       "website": "http://www.emilio-innobar.com/",
       "phone": "+34696639179",
+      "googleMapsLink": "https://maps.app.goo.gl/mFqqh2AkLQX6f7BN9",
+      "aiRating": null,
       "photos": [
         {
           "responsiveImage": {
@@ -965,6 +2276,8 @@
       "mail": "",
       "website": "",
       "phone": "+34697457473",
+      "googleMapsLink": "https://maps.app.goo.gl/mquSDbC2XLaUmZuv8",
+      "aiRating": null,
       "photos": [
         {
           "responsiveImage": {
@@ -1018,6 +2331,8 @@
       "mail": "",
       "website": "https://www.instagram.com/nola.palma/",
       "phone": "+34971667006",
+      "googleMapsLink": "https://maps.app.goo.gl/5Kp6jGtm6zGmJprY7",
+      "aiRating": null,
       "photos": [
         {
           "responsiveImage": {
@@ -1081,6 +2396,8 @@
       "mail": "",
       "website": "",
       "phone": "+34971093495",
+      "googleMapsLink": "",
+      "aiRating": null,
       "photos": [
         {
           "responsiveImage": {
@@ -1106,6 +2423,8 @@
       "mail": "info@tomeumarti.com",
       "website": "http://www.tomeumarti.com",
       "phone": "+34971214121",
+      "googleMapsLink": "",
+      "aiRating": null,
       "photos": [
         {
           "responsiveImage": {
@@ -1138,6 +2457,204 @@
       },
       "subCategories": [],
       "location": null
+    },
+    {
+      "_publishedAt": "2024-09-18T10:40:59+02:00",
+      "_firstPublishedAt": "2024-09-17T13:57:58+02:00",
+      "id": "Pv3GT8uBTvmqQNULg8b0PA",
+      "name": "Abbaco Natural Food",
+      "description": "Unser Restaurant in Puerto Pollensa, Abbaco Natural Food, ist ein Lokal direkt am Meer, in dem Sie eine große Auswahl an gesunden und ausgewogenen Gerichten mit einem besonderen orientalischen Touch genießen können. Abbaco Natural Food&Sushi ist ideal für alle, die guten Geschmack in einem natürlichen und pflanzlichen Umfeld suchen, mit Optionen für jeden Geschmack.",
+      "address": "Passeig Saralegui, 110, 07470 Port de Pollença, Illes Balears, Spanien",
+      "mail": " info@abbaconaturalfood.com",
+      "website": "http://abbaconaturalfood.com/",
+      "phone": "+34971865741",
+      "googleMapsLink": "",
+      "aiRating": null,
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726574312-mg_8194b-2048x1365.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726574312-mg_8217b-2048x1365.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🍽️ Restaurant",
+        "slug": "restaurant"
+      },
+      "subCategories": [],
+      "location": null
+    }
+  ],
+  "allMainCategories": [
+    {
+      "id": "E5sTr18jRLWGiJdgtZI0rg",
+      "name": "🎨 Lifestyle",
+      "slug": "lifestyle",
+      "_firstPublishedAt": "2024-09-18T10:17:11+02:00",
+      "_publishedAt": "2024-09-18T10:23:28+02:00"
+    },
+    {
+      "id": "PWIGNzMASXiORHFXvdlZqA",
+      "name": "🍽️ Restaurant",
+      "slug": "restaurant",
+      "_firstPublishedAt": "2024-09-18T10:16:56+02:00",
+      "_publishedAt": "2024-09-18T10:23:08+02:00"
+    },
+    {
+      "id": "AhcbURkMT1akCDMPJy1D9A",
+      "name": "🏨 Hotel",
+      "slug": "hotel",
+      "_firstPublishedAt": "2024-09-18T10:15:41+02:00",
+      "_publishedAt": "2024-09-18T10:18:11+02:00"
+    }
+  ],
+  "allSubcategories": [
+    {
+      "id": "FVT37X8ATC2N3uDn466VxQ",
+      "name": "🛋️ Boutique",
+      "slug": "boutique",
+      "_firstPublishedAt": "2024-09-20T13:00:00+02:00",
+      "_publishedAt": "2024-09-20T13:00:00+02:00"
+    },
+    {
+      "id": "PBlncSqVSbyI237Tz_gwpg",
+      "name": "☕ Frühstück",
+      "slug": "breakfast",
+      "_firstPublishedAt": "2024-09-20T12:54:43+02:00",
+      "_publishedAt": "2024-09-20T12:54:43+02:00"
+    },
+    {
+      "id": "VwPe3KFkQCOWWmKfqStkUQ",
+      "name": "Korean. Barbecue",
+      "slug": "korean-bbq",
+      "_firstPublishedAt": "2024-09-20T12:50:40+02:00",
+      "_publishedAt": "2024-09-20T12:50:40+02:00"
+    },
+    {
+      "id": "dyijMo_uQSK9BMRW2I8z3Q",
+      "name": "💎 Luxus",
+      "slug": "luxury",
+      "_firstPublishedAt": "2024-09-20T12:36:24+02:00",
+      "_publishedAt": "2024-09-20T12:36:24+02:00"
+    },
+    {
+      "id": "IGLvxM-DRIC3-yzba3ASQQ",
+      "name": "💃 Club",
+      "slug": "club",
+      "_firstPublishedAt": "2024-09-20T12:33:09+02:00",
+      "_publishedAt": "2024-09-20T12:33:09+02:00"
+    },
+    {
+      "id": "EGkvtGEnQK2_OIVsEQna3g",
+      "name": "🍽️ Restaurant im Hotel",
+      "slug": "in-house-dining",
+      "_firstPublishedAt": "2024-09-20T08:35:56+02:00",
+      "_publishedAt": "2024-09-20T08:35:56+02:00"
+    },
+    {
+      "id": "UufRotjITPqavpZYhHppkA",
+      "name": "🪷 Spa",
+      "slug": "spa",
+      "_firstPublishedAt": "2024-09-20T08:34:15+02:00",
+      "_publishedAt": "2024-09-20T08:34:15+02:00"
+    },
+    {
+      "id": "GFyGlpG-QRyYLA3jIuvbyg",
+      "name": "🏋️‍♂️ Fitnessstudio",
+      "slug": "gym",
+      "_firstPublishedAt": "2024-09-20T08:33:39+02:00",
+      "_publishedAt": "2024-09-20T08:33:39+02:00"
+    },
+    {
+      "id": "Qkvf39_SQiGrVGvykTZvIA",
+      "name": "🧹 Sauber",
+      "slug": "clean",
+      "_firstPublishedAt": "2024-09-20T08:31:58+02:00",
+      "_publishedAt": "2024-09-20T08:31:58+02:00"
+    },
+    {
+      "id": "FcQHpg3nQfW6GEF1eBF8mg",
+      "name": "🌇 Dachterasse",
+      "slug": "rooftop",
+      "_firstPublishedAt": "2024-09-20T08:31:36+02:00",
+      "_publishedAt": "2024-09-20T08:31:36+02:00"
+    },
+    {
+      "id": "cG6TCKUhScaMgGARlTRnFg",
+      "name": "🤫 Lärmpegel",
+      "slug": "quiet",
+      "_firstPublishedAt": "2024-09-20T08:30:22+02:00",
+      "_publishedAt": "2024-09-20T08:30:22+02:00"
+    },
+    {
+      "id": "f6457qQ4QyCvMar-2v1iqw",
+      "name": "🍔 Burger",
+      "slug": "burger",
+      "_firstPublishedAt": "2024-09-19T17:52:09+02:00",
+      "_publishedAt": "2024-09-19T17:52:09+02:00"
+    },
+    {
+      "id": "etxNkkIMTlugQxrTpQ_ADw",
+      "name": "🍳 Brunch",
+      "slug": "brunch",
+      "_firstPublishedAt": "2024-09-19T17:47:35+02:00",
+      "_publishedAt": "2024-09-19T17:47:35+02:00"
+    },
+    {
+      "id": "K2ckE8oxRkid00EQfaZALw",
+      "name": "🍃 Vegetarisch",
+      "slug": "vegetarian",
+      "_firstPublishedAt": "2024-09-19T17:26:36+02:00",
+      "_publishedAt": "2024-09-19T17:26:36+02:00"
+    },
+    {
+      "id": "RbkobsRcSwKn6_QuKi6L7g",
+      "name": "🌱 Vegan",
+      "slug": "vegan",
+      "_firstPublishedAt": "2024-09-19T17:24:32+02:00",
+      "_publishedAt": "2024-09-19T17:24:32+02:00"
+    },
+    {
+      "id": "ftZiImywQX2eQBn4L6wd3g",
+      "name": "🌴 Thailändische Küche",
+      "slug": "thai",
+      "_firstPublishedAt": "2024-09-19T12:54:22+02:00",
+      "_publishedAt": "2024-09-19T12:54:22+02:00"
+    },
+    {
+      "id": "Ujb2DGTtSvi58QtE8WmZ3w",
+      "name": "🌊 Mittelmeerküche",
+      "slug": "mediterranean",
+      "_firstPublishedAt": "2024-09-19T12:39:50+02:00",
+      "_publishedAt": "2024-09-19T12:39:50+02:00"
+    },
+    {
+      "id": "HrpeIezqR5CZVhBKy1V5Xg",
+      "name": "🤿 Tauchen",
+      "slug": "diving",
+      "_firstPublishedAt": "2024-09-19T12:34:18+02:00",
+      "_publishedAt": "2024-09-19T12:34:18+02:00"
+    },
+    {
+      "id": "K2kHyYmkQRSKw_2fLR1Q9A",
+      "name": "🥙 Hummus",
+      "slug": "hummus",
+      "_firstPublishedAt": "2024-09-19T12:30:28+02:00",
+      "_publishedAt": "2024-09-19T12:30:28+02:00"
+    },
+    {
+      "id": "QOWO9obmRji73qEDTOGH1g",
+      "name": "🚫 Nur Erwachsene",
+      "slug": "adults-only",
+      "_firstPublishedAt": "2024-09-19T11:49:27+02:00",
+      "_publishedAt": "2024-09-19T11:49:27+02:00"
     }
   ]
 }
