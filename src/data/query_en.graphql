@@ -30,14 +30,14 @@
       longitude
     }
   }
-  allMainCategories {
+  allMainCategories(first: 100) {
     id
     name
     slug
     _firstPublishedAt
     _publishedAt
   }
-  allSubcategories {
+  allSubcategories(first: 100) {
     id
     name
     slug

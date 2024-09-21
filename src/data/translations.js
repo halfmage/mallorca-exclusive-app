@@ -3,6 +3,7 @@ module.exports = {
         index: {
             welcome: "Welcome"
         },
+        all: "All",
         category: "Category",
         categories: "Categories",
         allCategories: "All categories"
@@ -11,6 +12,7 @@ module.exports = {
         index: {
             welcome: "Willkommen"
         },
+        all: "Alle",
         category: "Kategorie",
         categories: "Kategorien",
         allCategories: "Alle Kategorien"

@@ -1,6 +1,1637 @@
 {
   "allProviders": [
     {
+      "_publishedAt": "2024-09-21T15:29:01+02:00",
+      "_firstPublishedAt": "2024-09-21T13:59:02+02:00",
+      "id": "cE8MBZltRCS1yavOxKbaCw",
+      "name": "Bikkini Beach",
+      "description": "Entdecken Sie den neuen Beach Club „Bali House“ an der Playa de Palma. Ein am Meer gelegener Veranstaltungsort mit organischem Design, der Sie direkt nach Indonesien versetzt. Seine Gastronomie basiert auf der sehr berühmten „kalifornischen Diät“ mit Gerichten der Westküste. Er ist spezialisiert auf Poke Bowls, Fleisch aus Nebraska, Gourmet-Sandwiches und Gerichte der gesunden Art mit Fisch, Salaten und exotischen Köstlichkeiten. Außerdem berühmt für seine Booster, vitaminreichen Säfte im Bali-Stil und die Signature Cocktails.\n\n\n## Übersicht\nDas Bikkini Beach ist ein eleganter Beach Club an der Carrer d’Acapulco 1 in Playa de Palma, Mallorca. Bekannt für sein von Bali inspiriertes Ambiente, bietet es eine entspannte Strandatmosphäre mit gesunden, organischen Gerichten, trendigen Cocktails und wunderschönem Meerblick. Der Ort zieht sowohl Einheimische als auch Touristen an und ist besonders bei Sonnenuntergang sehr beliebt.\n\n## Services\nDas Restaurant bietet eine vielfältige Speisekarte mit Einflüssen aus der Westküstenküche der USA und Südostasien. Zu den Gerichten gehören Poke Bowls, Sushi, Salate und vegetarische Optionen. Die Getränkekarte bietet neben Bali-inspirierten Vitamin-Säften auch eine Auswahl an Signature-Cocktails, ideal, um den Sonnenuntergang zu genießen.\n\n## Lage\nDas Bikkini Beach liegt direkt am Strand von Playa de Palma und bietet atemberaubende Ausblicke auf das Meer. Es ist gut erreichbar und eine perfekte Option für Strandbesucher oder Gäste aus umliegenden Hotels.\n\n## Nutzererfahrungen\nDie Bewertungen für Bikkini Beach sind überwiegend positiv und loben das tolle Ambiente und den freundlichen Service. Gäste schätzen das frische, leckere Essen und die Aussicht, aber einige bemängeln den Service und die hohen Preise. Besonders empfohlen für Gruppenbesuche und Abendessen bei Sonnenuntergang, doch es gibt Berichte über schwankende Qualität.\n\n## AI-Rating\n**4/5**\nDas Bikkini Beach erhält eine solide Bewertung für sein stylisches Ambiente, frische Küche und die Lage direkt am Meer. Serviceprobleme und hohe Preise verhindern jedoch eine höhere Bewertung.\n\n| Pro ✅ | Contra ❌ |\n|--------|---------|\n| 🌿 Frische, gesunde Gerichte | 💸 Relativ teuer |\n| 🌅 Schöner Strandblick | 🕒 Unbeständige Servicequalität |\n| 🍹 Trendige Cocktails und Säfte | 🍔 Kleine Portionen |\n\n## Abschluss\nDas Bikkini Beach ist eine großartige Wahl für alle, die einen stilvollen, entspannten Beachclub auf Mallorca suchen. Mit dem Fokus auf gesunde Ernährung und Signature-Drinks ist es ideal für ein zwangloses, aber trendiges Esserlebnis.",
+      "address": "Carrer d’Acapulco, 1 07610 Playa de Palma",
+      "mail": "bikkinibeach@enjoygroup.es",
+      "website": "https://www.palmabeach.com/bikkini-beach/765/",
+      "phone": "+34 971 07 17 11",
+      "googleMapsLink": "https://maps.app.goo.gl/BGK5ckRhrLaahhfz5",
+      "aiRating": 4.6,
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726925291-bikkini-beach-03.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726925293-bikkini-beach-04.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726925294-bikkini-beach-01.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726925295-bikkini-beach-02.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🍽️ Restaurant",
+        "slug": "restaurant"
+      },
+      "subCategories": [
+        {
+          "name": "💙 Palma Beach Partner",
+          "slug": "palma-beach-partner"
+        },
+        {
+          "name": "🍲 Poke Bowls",
+          "slug": "poke-bowls"
+        },
+        {
+          "name": "🍔 Burger",
+          "slug": "burger"
+        },
+        {
+          "name": "🦞 Meeresfrüchte",
+          "slug": "seafood"
+        },
+        {
+          "name": "🐟 Fisch",
+          "slug": "fish"
+        },
+        {
+          "name": "🍃 Vegetarisch",
+          "slug": "vegetarian"
+        },
+        {
+          "name": "🍹 Cocktail",
+          "slug": "cocktail"
+        }
+      ],
+      "location": {
+        "latitude": 39.5228695,
+        "longitude": 2.7385259
+      }
+    },
+    {
+      "_publishedAt": "2024-09-21T15:23:27+02:00",
+      "_firstPublishedAt": "2024-09-21T15:23:27+02:00",
+      "id": "McSdC4y3RuyB8wo-6Li6Uw",
+      "name": "Aubamar Suites & Spa",
+      "description": "Das 5-Sterne-Hotel Aubamar Suites & Spa in Playa de Palma ist der perfekte Ort, um das Meer, die Stadt Palma und ganz Mallorca zu jeder Jahreszeit zu genießen. Es ist in der Nähe von allem: fünf Minuten vom Flughafen entfernt, nur wenige Meter von einem der schönsten Strände der Insel und fünfzehn Autominuten von der Hauptstadt der Balearen.\n\n\n## Übersicht\nAubamar Suites & Spa ist ein 5-Sterne-Luxushotel in Playa de Palma, Mallorca. Es ist für seinen zeitgenössischen Stil bekannt und bietet moderne Annehmlichkeiten, geräumige Suiten und weitläufige Gärten. Es bietet einen ruhigen Rückzugsort mit hervorragenden Wellnesseinrichtungen, darunter ein Spa mit umfassendem Service.\n\n## Dienstleistungen\nDas Hotel verfügt über zwei Außenpools, ein gut bewertetes Spa, ein Fitnesscenter und ein Restaurant mit mediterraner Küche. Gäste können auch direkten Zugang zu nahe gelegenen Stränden und personalisierte Dienstleistungen wie private Balkone und Spa-Behandlungen genießen.\n\n## Lage\nDas Hotel liegt nur 300 Meter vom Strand Playa de Palma entfernt und ist nur eine kurze Fahrt vom Flughafen Palma de Mallorca und dem Stadtzentrum entfernt, sodass es für Touristen leicht erreichbar ist. Es ist ideal für diejenigen, die sowohl Strandnähe als auch städtische Annehmlichkeiten wünschen.\n\n## Benutzererfahrungen\nGäste heben das freundliche Personal, die geräumigen Zimmer und die Sauberkeit des Hotels hervor. Während die meisten Bewertungen positiv sind, bemerkten einige Gäste Probleme mit der Servicegeschwindigkeit und der Restaurantqualität. Die Spa- und Pooleinrichtungen erhalten jedoch durchweg großes Lob.\n\n## AI-Bewertung\nBasierend auf Nutzerbewertungen erhält Aubamar Suites & Spa solide **4,3/5**. Das Hotel zeichnet sich durch Kundenservice, Spa-Einrichtungen und Lage aus, könnte sich aber in Bezug auf Speiseerlebnisse und Zimmerwartung verbessern.\n\n| **Vorteile** | **Nachteile** |\n|------------------------------|------------------------------|\n| ✅ Freundliches Personal | ❌ Inkonsistentes Restaurant |\n| ✅ Geräumige, saubere Zimmer | ❌ Langsame Wartung |\n| ✅ Ausgezeichnete Spa-Einrichtungen | ❌ Einige Zimmerprobleme gemeldet |\n| ✅ Praktische Lage | |\n\n## Fazit\nAubamar Suites & Spa ist eine solide Option für Reisende, die eine Mischung aus Entspannung und Luxus am Strand suchen. Mit seinen hervorragenden Wellnessangeboten und dem freundlichen Personal bietet es ein gutes Preis-Leistungs-Verhältnis, obwohl Verbesserungen in der Servicekonsistenz das Erlebnis noch weiter verbessern würden.",
+      "address": "Calle Misión de San Diego, 17 07600 Palma, Illes Balears",
+      "mail": "",
+      "website": "https://www.palmabeach.com/hotel-aubamar-suites-spa-5/2868/",
+      "phone": "+34971724347",
+      "googleMapsLink": "https://maps.app.goo.gl/4ZdVUEPt8HfMJHG69",
+      "aiRating": 4.3,
+      "photos": [],
+      "mainCategory": {
+        "name": "🏨 Hotel",
+        "slug": "hotel"
+      },
+      "subCategories": [
+        {
+          "name": "💙 Palma Beach Partner",
+          "slug": "palma-beach-partner"
+        },
+        {
+          "name": "🪷 Spa",
+          "slug": "spa"
+        },
+        {
+          "name": "🏋️‍♂️ Fitnessstudio",
+          "slug": "gym"
+        },
+        {
+          "name": "🍽️ Restaurant im Hotel",
+          "slug": "in-house-dining"
+        },
+        {
+          "name": "🏊🏻 Schwimmbad",
+          "slug": "swimming-pool"
+        }
+      ],
+      "location": {
+        "latitude": 39.51701449999999,
+        "longitude": 2.7489633
+      }
+    },
+    {
+      "_publishedAt": "2024-09-21T15:14:27+02:00",
+      "_firstPublishedAt": "2024-09-21T15:14:27+02:00",
+      "id": "fwtN2kbyQ3KIaDGNfgS-Cg",
+      "name": "Playa de Palma Palace",
+      "description": "Das Hipotels Playa de Palma Palace ist ein spektakuläres 5-Sterne-Hotel in Playa de Palma auf Mallorca. Ein neu erbautes Hotel, perfekt für einen Urlaub oder eine Geschäftsreise, mit einem luxuriösen Spa und speziellen Angeboten für diejenigen, die eine Partie Golf spielen möchten. Ein elegantes und modernes Interieur mit geräumigen Designerzimmern bietet Ihnen den perfekten Urlaub mit allen ergänzenden Freizeitmöglichkeiten, die Playa de Palma bietet. Verpassen Sie nicht die Chill-out-Zone im obersten Stockwerk des Hotels, unsere Heaven Rooftop Bar mit einzigartigem Blick über die Bucht von Palma und einen Sonnenuntergang, der, begleitet von einem köstlichen Cocktail und Live-Musik, sicherlich zu einem der unvergesslichsten Momente Ihres Urlaubs wird.\n\n\n## Übersicht\nDas Hipotels Playa de Palma Palace ist ein luxuriöses 5-Sterne-Hotel in Playa de Palma, Mallorca, nur 200 Meter vom Strand entfernt. Das moderne Hotel mit 227 Zimmern bietet gehobenen Komfort und eignet sich ideal für Paare, Familien und Geschäftsreisende.\n\n## Services\nDas Hotel verfügt über zahlreiche Annehmlichkeiten wie Innen- und Außenpools, ein umfassendes Spa, Fitnesscenter und eine Dachterrasse mit Bar. Es gibt Abendunterhaltung, Frühstücksbuffet und einen hoteleigenen Parkplatz. Die Zimmer sind modern ausgestattet mit Klimaanlage, Minibar und privaten Balkonen.\n\n## Lage\nNur 200 Meter vom Playa de Palma Strand entfernt, wird die Lage des Hotels hoch gelobt. In der Nähe befinden sich Bars, Restaurants und Attraktionen wie der Mega Park Nachtclub. Der Flughafen Palma de Mallorca ist ebenfalls in der Nähe und bequem erreichbar.\n\n## Nutzererfahrungen\nGäste loben die Sauberkeit, moderne Einrichtungen und den freundlichen Service. Besonders positiv hervorgehoben werden die Dachterrassenbar, die geräumigen Zimmer und das Spa. Kritisiert wurden kleinere Probleme, wie langsamer Service im Restaurant oder fehlende Kaffeezubereitungsmöglichkeiten auf den Zimmern.\n\n## AI-Bewertung\nBasierend auf den Bewertungen der Nutzer gebe ich dem Hipotels Playa de Palma Palace eine Bewertung von 4.6/5, dank des hervorragenden Services, der Lage und des Gesamterlebnisses.\n\n\n| ✅ **Vorteile**                                 | ❌ **Nachteile**                                  |\n|-------------------------------------------------|--------------------------------------------------|\n| 🟢 Moderne und saubere Zimmer                   | 🔴 Begrenzte Zimmerausstattung (z.B. kein Wasserkocher) |\n| 🟢 Dachterrassenbar mit tollem Ausblick         | 🔴 Langsamer Restaurantservice                    |\n| 🟢 Strandnahe Lage und Attraktionen             | 🔴 Kostenpflichtiger Privatparkplatz              |\n| 🟢 Voll ausgestattetes Spa und Fitnesscenter    | 🔴 Überfüllt in der Hochsaison                   |\n\n## Fazit\nDas Hipotels Playa de Palma Palace ist eine erstklassige Wahl für Reisende, die ein luxuriöses Strandhotel mit vielen Annehmlichkeiten und hohem Serviceanspruch suchen.",
+      "address": "Edificio Gran Playa, Prolongación Carrer de las Canyes 07600 Playa de Palma",
+      "mail": "",
+      "website": "https://www.palmabeach.com/hipotels-playa-de-palma-palace/2863/",
+      "phone": "+34971260528",
+      "googleMapsLink": "https://maps.app.goo.gl/1UEtHzP3ggfs1xxh8",
+      "aiRating": 4.6,
+      "photos": [],
+      "mainCategory": {
+        "name": "🏨 Hotel",
+        "slug": "hotel"
+      },
+      "subCategories": [
+        {
+          "name": "💙 Palma Beach Partner",
+          "slug": "palma-beach-partner"
+        },
+        {
+          "name": "🪷 Spa",
+          "slug": "spa"
+        },
+        {
+          "name": "🏋️‍♂️ Fitnessstudio",
+          "slug": "gym"
+        },
+        {
+          "name": "🏊🏻 Schwimmbad",
+          "slug": "swimming-pool"
+        },
+        {
+          "name": "🍽️ Restaurant im Hotel",
+          "slug": "in-house-dining"
+        }
+      ],
+      "location": {
+        "latitude": 39.5149711,
+        "longitude": 2.7489274
+      }
+    },
+    {
+      "_publishedAt": "2024-09-21T15:05:19+02:00",
+      "_firstPublishedAt": "2024-09-21T15:05:19+02:00",
+      "id": "b_U5K3kbSvaqRWakjzkk6A",
+      "name": "Chalet Siena",
+      "description": "Ohne Zweifel der berühmteste Veranstaltungsort der Playa de Palma, „The place to be“. Mit seiner einzigartigen Architektur ist es das einzige Chalet aus den 1930er Jahren, das direkt am Meer vollständig erhalten geblieben ist. Umfangreich renoviert mit einem tropischen und kolonialen Design, wobei sein Wesen und Charakter unberührt geblieben sind. Der Veranstaltungsort liegt direkt am Meer mit unglaublicher Aussicht, zwei vorderen Terrassen, einer Seitenterrasse und einem Innenbereich mit Tischen aus hundertjährigem Wurzelholz von der indonesischen Insel Bali. Das Geschäft beginnt sehr früh am Morgen mit Frühstück im Miami-Stil und geht bis spät in die Nacht. Die Küche ist den ganzen Tag geöffnet, während der Resident-DJ täglich von Sonnenuntergang bis Mitternacht beginnt und das Restaurant in einen lebhaften Ort mit einer erstklassigen Cocktailbar im Freien und einem spektakulären Ambiente verwandelt. Da es 365 Tage im Jahr geöffnet ist, ist es ein Muss für jeden.\n\n\n## Übersicht\nChalet Siena ist ein elegantes Restaurant in Playa de Palma, Mallorca, das für sein gehobenes Ambiente und den Blick auf das Mittelmeer bekannt ist. Es bietet ein internationales Menü mit hochwertigen Zutaten und zeichnet sich durch erstklassiges Fleisch, frischen Fisch und eine entspannte, aber raffinierte Atmosphäre aus.\n\n## Services\nDas Chalet Siena bietet eine vielfältige Auswahl an Premium-Steaks, Meeresfrüchten und vegetarischen Optionen. Auf der Speisekarte stehen Wagyu-Rind, iberisches Schwein und mediterraner Fisch. Die Bar bietet sorgfältig zubereitete Cocktails und eine umfangreiche Weinauswahl mit über 50 Sorten. Mit Außensitzplätzen, DJ-Musik und Eventservices eignet sich das Restaurant sowohl für zwanglose als auch besondere Anlässe.\n\n## Lage\nDas Restaurant befindet sich in der Carrer de la Missió de San Diego, 1 in Playa de Palma und bietet eine erstklassige Lage direkt am Strand. Die Dekoration vereint tropische Eleganz mit mediterranem Charme und bietet einen atemberaubenden Blick auf das Meer, was es sowohl bei Touristen als auch Einheimischen beliebt macht.\n\n## Nutzererfahrungen\nDie Bewertungen für das Chalet Siena sind überwiegend positiv und loben die hervorragende Qualität des Essens und die Atmosphäre. Gäste schätzen die Kombination aus guter Musik, professionellem Personal und gut abgestimmtem Service. Einige bemängeln jedoch, dass die Preise hoch sind und die Portionen manchmal etwas klein ausfallen. Insgesamt hat das Restaurant eine Bewertung von 4,3 Sternen basierend auf über 900 Bewertungen.\n\n## AI-Rating\nBasierend auf den Nutzerbewertungen bewerte ich das Chalet Siena mit **4/5**. Es punktet durch seine Atmosphäre und die Qualität der Speisen, aber die Kritik an den Preisen mindert den Gesamteindruck etwas.\n\n| Pro                               | Contra                           |\n|-----------------------------------|----------------------------------|\n| 🟢 Fantastische Lage am Strand     | 🔴 Preise sind relativ hoch      |\n| 🟢 Große Auswahl an Premium-Gerichten | 🔴 Einige Portionen sind klein  |\n| 🟢 Entspannte Atmosphäre mit Live-DJ | 🔴 Begrenzte Parkmöglichkeiten   |\n\n## Abschluss\nDas Chalet Siena ist eine ausgezeichnete Wahl für alle, die eine Kombination aus Luxus, gutem Essen und einem Stranderlebnis suchen. Obwohl es etwas teurer sein kann, lohnt sich der Besuch für einen besonderen Abend.",
+      "address": "Carrer de la Missió de San Diego, 1 07600 Playa de Palma",
+      "mail": "chaletsiena@enjoygroup.es",
+      "website": "https://www.palmabeach.com/chalet-siena/785/",
+      "phone": "+34 971 74 56 90",
+      "googleMapsLink": "https://maps.app.goo.gl/sfToPHvjxhnDekVFA",
+      "aiRating": 4,
+      "photos": [],
+      "mainCategory": {
+        "name": "🍽️ Restaurant",
+        "slug": "restaurant"
+      },
+      "subCategories": [
+        {
+          "name": "💙 Palma Beach Partner",
+          "slug": "palma-beach-partner"
+        },
+        {
+          "name": "🐟 Fisch",
+          "slug": "fish"
+        },
+        {
+          "name": "🦞 Meeresfrüchte",
+          "slug": "seafood"
+        },
+        {
+          "name": "🍔 Burger",
+          "slug": "burger"
+        },
+        {
+          "name": "🍹 Cocktail",
+          "slug": "cocktail"
+        }
+      ],
+      "location": {
+        "latitude": 39.5155304,
+        "longitude": 2.7458047
+      }
+    },
+    {
+      "_publishedAt": "2024-09-21T14:55:44+02:00",
+      "_firstPublishedAt": "2024-09-21T14:55:44+02:00",
+      "id": "dY3kbTMWRpSRdsZC8x3_-Q",
+      "name": "Bonito",
+      "description": "Ein Ort, dessen Name schon beschreibt, was er ist. Tagsüber ist es ein Ort mit Seele, einer besonderen Energie, die es schafft, zu entspannen und sich in das Mittelmeer hineinzuversetzen. Nachts ist es magisch, das gesamte Gebäude ist mit einem Hausautomationssystem ausgestattet, das den Ort mit seinen DJs zu einer Show aus Lichtern, Farben und Spektakeln macht. Ihre Küche ist ein Show-Cooking voller Aromen und Erlebnisse. Er unternimmt eine Tour durch viele Orte der Welt und betont Südostasien als Referenz des weltweiten „Street Food“. Innerhalb seiner großen Auswahl an Tequilas ist er für seine Margaritas berühmt, nach Meinung vieler Kunden die besten auf Mallorca. Die Küche ist den ganzen Tag geöffnet.\n\n\n## Übersicht\nBonito Kitchen & Cocktails ist ein stilvolles Restaurant an der Carretera de l’Arenal, 36 in Playa de Palma, Mallorca. Es ist bekannt für seine lebendige Atmosphäre und bietet eine interessante Mischung aus internationalem Streetfood, frischem Sushi und einer Vielzahl von Cocktails. Vor allem Touristen und Einheimische schätzen es als trendigen Spot, der exzellente Aussichten auf das Meer bietet.\n\n## Services\nDas Restaurant bietet eine breite Auswahl internationaler Gerichte, darunter vegane und vegetarische Optionen sowie Streetfood. Besonders beliebt sind der vegane Burrito, Sushi und die kreativen Cocktails. Das stilvolle Ambiente mit Außenterrasse und Meerblick lädt zum Verweilen ein, vor allem bei Sonnenuntergang.\n\n## Lage\nBonito liegt ideal in Playa de Palma, einem beliebten Strandort auf Mallorca. Die Strandnähe und der Meerblick machen es zu einem attraktiven Ort für Gäste, die gutes Essen und eine wunderschöne Aussicht genießen möchten.\n\n## Nutzererfahrungen\nDie meisten Bewertungen loben die angenehme Atmosphäre, das freundliche Personal und die großartige Lage. Besonders hervorgehoben werden die Cocktails und einige vegane Gerichte wie Burritos. Allerdings wird auch oft darauf hingewiesen, dass die Preise für Streetfood recht hoch sind, was es weniger attraktiv für Gäste mit begrenztem Budget macht. Trotzdem empfinden viele das Gesamtpaket aus Ambiente, Ausblick und Essen als lohnenswert.\n\n## AI-Bewertung\nBasierend auf den Nutzerbewertungen erhält Bonito eine AI-Bewertung von 4/5. Die Atmosphäre und der Service sind sehr beliebt, jedoch werden die hohen Preise oft kritisiert.\n\n| Vorteile | Nachteile |\n|:--------:|:---------:|\n| 🟢 Trendige Atmosphäre | 🔴 Teuer für die Portionsgröße |\n| 🟢 Vegane Optionen verfügbar | 🔴 Einige Gerichte haben wenig Geschmack |\n| 🟢 Meerblick | 🔴 Begrenzte Parkmöglichkeiten |\n\n## Abschluss\nBonito Kitchen & Cocktails ist ein lebhaftes Restaurant, das ein trendiges Essens- und Trinkerlebnis mit hervorragender Aussicht bietet. Trotz der höheren Preise rechtfertigen Ambiente und Service für viele Besucher den Besuch.",
+      "address": "Carretera de l’Arenal, 36 07610 Playa de Palma",
+      "mail": "bonito@enjoygroup.es",
+      "website": "https://www.palmabeach.com/bonito/781/",
+      "phone": "+34 971 745 663",
+      "googleMapsLink": "https://maps.app.goo.gl/g7pLWCjC49mZZALj6",
+      "aiRating": 4,
+      "photos": [],
+      "mainCategory": {
+        "name": "🍽️ Restaurant",
+        "slug": "restaurant"
+      },
+      "subCategories": [
+        {
+          "name": "🍹 Cocktail",
+          "slug": "cocktail"
+        },
+        {
+          "name": "🌮 Mexikanisch",
+          "slug": "mexican"
+        },
+        {
+          "name": "🍔 Burger",
+          "slug": "burger"
+        },
+        {
+          "name": "💙 Palma Beach Partner",
+          "slug": "palma-beach-partner"
+        }
+      ],
+      "location": {
+        "latitude": 39.5184506,
+        "longitude": 2.7427377
+      }
+    },
+    {
+      "_publishedAt": "2024-09-21T13:36:48+02:00",
+      "_firstPublishedAt": "2024-09-20T20:28:01+02:00",
+      "id": "B-1UTr2WTE28rZGeQ2np-w",
+      "name": "Palma Jump",
+      "description": "Palma Jump ist Mallorcas erster Indoor-Trampolinpark in Son Valentí, Palma. Er bietet verschiedene Aktivitäten und Fitnesskurse rund ums Trampolin und ist damit ein unterhaltsames Ziel für Familien, Sportbegeisterte und Partygruppen. Er ist täglich geöffnet und bietet besondere Angebote wie Ninja-Warrior-Herausforderungen und Fitnesskurse für alle Altersgruppen.\n\n## Dienstleistungen\nPalma Jump bietet zahlreiche Aktivitäten wie offene Springkurse, Buchungen für Geburtstagsfeiern und Fitnesskurse. Der Veranstaltungsort verfügt über miteinander verbundene Trampoline, einen Völkerballbereich, Slacklines und einen Schaumstoff-Airbag für weiche Landungen. Außerdem gibt es einen Ninja-Park, der für Beweglichkeit und Fitness konzipiert ist und bei den Besuchern besonders beliebt ist. Für Erfrischungen gibt es ein Café vor Ort, das Snacks und Getränke anbietet.\n\n## Lage\nPalma Jump befindet sich in Son Valentí, Palma, genauer gesagt in der Calle Textil, Solar 33. Es ist bequem erreichbar und nur eine kurze Fahrt vom Zentrum Palmas entfernt. Die Lage ist ideal für Familien und Besucher, die Sport mit Entspannung in einer der ruhigeren Gegenden von Palma verbinden möchten.\n\n## Benutzererfahrungen\nBenutzer berichten im Allgemeinen von einer positiven Erfahrung und heben die unterhaltsame und ansprechende Atmosphäre für Kinder und Erwachsene hervor. Die Sauberkeit der Anlage, das hilfsbereite Personal und die Vielfalt der angebotenen Aktivitäten werden geschätzt. Einige Besucher haben jedoch die hohen Kosten für zusätzliche Dienstleistungen wie Socken und Erfrischungen sowie die gelegentliche Überfüllung an Wochenenden oder Feiertagen kommentiert.\n\n## AI-Bewertung\nBasierend auf dem Gesamtfeedback der Benutzer erhält Palma Jump **4/5**. Die unterhaltsamen Aktivitäten, die Qualität der Einrichtungen und die Freundlichkeit des Personals tragen zu seiner hohen Bewertung bei, während gelegentliche Beschwerden über Preise und Menschenmengenmanagement die Bewertung etwas nach unten ziehen.\n\n| Vorteile | Nachteile |\n| --- | --- |\n| 🟢 Vielfalt der Aktivitäten | 🔴 Teure Extras (Socken, Essen) |\n| 🟢 Familienfreundliche Umgebung | 🔴 Kann am Wochenende überfüllt sein |\n| 🟢 Sauber und gut gepflegt | 🔴 Begrenzte Zeitfenster während der Stoßzeiten |\n| 🟢 Hilfsbereites und freundliches Personal | 🔴 Für einige Aktivitäten gelten möglicherweise Altersbeschränkungen |\n\n## Fazit\nPalma Jump ist ein angesehener Trampolinpark auf Mallorca, der sowohl Einheimischen als auch Touristen ein unterhaltsames, energiegeladenes Erlebnis bietet. Während einige die zusätzlichen Kosten für Dienstleistungen und die Menschenmassen während der Stoßzeiten als Nachteil empfinden, bleibt es ein beliebtes Ziel für Familienausflüge und Fitnessbegeisterte.",
+      "address": "Son Valentí, C/ textil, solar 33, 3, 07011 Palma",
+      "mail": "",
+      "website": "http://www.palmajump.com/",
+      "phone": "+34871903892",
+      "googleMapsLink": "https://maps.app.goo.gl/eEaQALVMrP7g4W4M9",
+      "aiRating": 4,
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726917492-palmajump-03.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726917492-palmajump-04.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726917492-palmajump-01.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726917492-palmajump-05.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726917492-palmajump-02.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "✨ Lifestyle",
+        "slug": "lifestyle"
+      },
+      "subCategories": [
+        {
+          "name": "🏃‍♀️ Aktivität",
+          "slug": "activity"
+        },
+        {
+          "name": "💥 Action",
+          "slug": "action"
+        }
+      ],
+      "location": {
+        "latitude": 39.5916535,
+        "longitude": 2.6355558
+      }
+    },
+    {
+      "_publishedAt": "2024-09-21T13:20:52+02:00",
+      "_firstPublishedAt": "2024-09-20T19:44:53+02:00",
+      "id": "e_4Ik1wPQB61lOxuT4VXgA",
+      "name": "Hammam Al Ándalus",
+      "description": "## Übersicht\nDas Hammam Al Ándalus in Palma de Mallorca bietet ein luxuriöses Spa-Erlebnis mit traditionellen arabischen Bädern. Der Ort kombiniert alte andalusische Rituale mit modernem Komfort und umfasst einen Wasserpfad mit heißen, warmen und kalten Bädern, Dampfbädern und Massagen. Es ist Teil einer renommierten Kette, zu der auch Hammams in Madrid, Granada und Córdoba gehören.\n\n## Services\nDas Spa bietet verschiedene Entspannungsservices, darunter Massagen, einen Wasserzirkel mit Thermalbecken und Dampfbäder. Gäste können aus verschiedenen Massagen wie der *Mimma*-Ganzkörpermassage wählen oder spezialisierte Behandlungen wie das *Aromas Ritual* genießen, bei dem ätherische Öle verwendet werden. Außerdem werden Hautpflegebehandlungen wie Peelings angeboten. Die meisten Pakete beinhalten Zugang zu den Thermalbädern und Dampfbädern, was eine ganzheitliche Wellness-Reise ermöglicht.\n\n## Lage\nDas Hammam befindet sich in der C. de Costa i Llobera, 20, Llevant, 07005 Palma, Illes Balears, Spanien. Es liegt zentral in Palma und bietet eine friedliche Oase fernab vom Trubel der Stadt. Die ruhige Atmosphäre spiegelt die historischen arabischen Einflüsse der Insel wider und verleiht dem Erlebnis eine kulturelle Tiefe.\n\n## Nutzererfahrungen\nInsgesamt loben die Nutzer die friedliche und ruhige Atmosphäre. Viele Bewertungen heben den exzellenten Service hervor und betonen die Freundlichkeit und Professionalität des Personals. Die Massagen werden oft als herausragend und sehr entspannend beschrieben. Einige kritisieren jedoch die kleinen Umkleideräume und bemängeln die Hygiene, da keine Hausschuhe bereitgestellt werden.\n\n## AI-Bewertung\nAuf Basis des Nutzerfeedbacks würde ich das Hammam Al Ándalus Palma mit **4.3/5** bewerten. Die Atmosphäre und der Service werden hoch gelobt, jedoch könnten die Einrichtungen und die Hygiene noch verbessert werden.\n\n## Pro und Kontra\n| Pro ✅ | Kontra ❌ |\n| --- | --- |\n| Wunderschöne, ruhige Atmosphäre | Kleine Umkleideräume |\n| Hervorragende Massagen | Keine bereitgestellten Hausschuhe |\n| Freundliches und professionelles Personal | Keine Klimaanlage in den Umkleiden |\n\n## Abschluss\nDas Hammam Al Ándalus in Palma ist ideal für alle, die Entspannung mit einem kulturellen Touch suchen. Trotz kleinerer Mängel bei den Einrichtungen ist das Gesamt-Erlebnis tief entspannend und sehr zu empfehlen für jeden, der Palma besucht.",
+      "address": "C. de Costa i Llobera, 20, Llevant, 07005 Palma",
+      "mail": "",
+      "website": "https://palma.hammamalandalus.com/",
+      "phone": "+34971412860",
+      "googleMapsLink": "https://maps.app.goo.gl/dhZJxygpUWrzvumN6",
+      "aiRating": 4.3,
+      "photos": [],
+      "mainCategory": {
+        "name": "✨ Lifestyle",
+        "slug": "lifestyle"
+      },
+      "subCategories": [
+        {
+          "name": "🧘‍♀️ Wellness",
+          "slug": "wellness"
+        },
+        {
+          "name": "🪷 Spa",
+          "slug": "spa"
+        }
+      ],
+      "location": {
+        "latitude": 39.57480169999999,
+        "longitude": 2.657397500000001
+      }
+    },
+    {
+      "_publishedAt": "2024-09-21T13:15:36+02:00",
+      "_firstPublishedAt": "2024-09-20T20:21:57+02:00",
+      "id": "ekKIY20dRPqWmoO4yM2m8w",
+      "name": "Western Water Park",
+      "description": "## Übersicht\nDer Western Water Park in Magaluf, Mallorca, Spanien, bietet ein spannendes Erlebnis mit verschiedenen Wasserattraktionen. Der Park ist im Wildwest-Stil gestaltet und richtet sich an Besucher aller Altersgruppen, von actiongeladenen Rutschen bis hin zu familienfreundlichen Aktivitäten. Mit 16 großen Wasserrutschen, Pools und Kinderbereichen ist er ein beliebtes Ziel für Familien, Gruppen und Abenteuerlustige.\n\n## Services\nZu den Highlights gehören aufregende Rutschen wie \"The Beast\" und \"Cola Del Diablo\" sowie entspanntere Angebote wie der \"Wild River.\" Es gibt zahlreiche Essensmöglichkeiten sowie die Möglichkeit, Sonnenliegen und Schließfächer zu mieten. Besucher können auch einen Fast-Pass erwerben, um Wartezeiten zu verkürzen.\n\n## Lage\nDer Park befindet sich am Camí Cala Figuera, 12-22, in Calvià, Mallorca, in der Nähe anderer beliebter Attraktionen von Magaluf. Dank guter Verkehrsanbindung ist der Park leicht erreichbar.\n\n## Nutzererfahrungen\nBesucher loben vor allem die Vielfalt der Attraktionen und die familienfreundliche Atmosphäre. Allerdings gibt es auch Kritikpunkte, wie lange Wartezeiten und hohe Preise für Speisen und Getränke. Einige Besucher vermissen zudem die früheren Live-Shows.\n\n## AI-Bewertung\n**Bewertung:** 4.2/5  \nAuf Grundlage der Nutzerbewertungen bietet der Western Water Park ein großartiges Erlebnis, insbesondere für Familien und Adrenalin-Junkies. Die Preise für Speisen und Getränke sowie gelegentlich lange Wartezeiten schmälern jedoch etwas den Gesamteindruck.\n\n### Pro und Contra:\n| ✅ Pro                                   | ❌ Contra                              |\n|------------------------------------------|----------------------------------------|\n| 🟢 Große Auswahl an Attraktionen für alle Altersgruppen | 🔴 Lange Wartezeiten an Attraktionen |\n| 🟢 Gut gepflegte Pools und Rutschen      | 🔴 Hohe Preise für Essen und Trinken   |\n| 🟢 Tolle Wildwest-Atmosphäre             | 🔴 Einige Attraktionen nicht mehr verfügbar |\n\n## Abschluss\nDer Western Water Park ist eine ausgezeichnete Wahl für Familien, die einen aufregenden Tag in Mallorca verbringen möchten. Trotz einiger Nachteile, wie Preisgestaltung und Wartezeiten, ist das Gesamterlebnis positiv und unterhaltsam.",
+      "address": "Camí Cala Figuera, 12-22, 07181 Calvià",
+      "mail": "",
+      "website": "http://www.westernpark.com/",
+      "phone": "+34971131203",
+      "googleMapsLink": "https://maps.app.goo.gl/pSStG2kENFzajkEo8",
+      "aiRating": 4.2,
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726917328-westernpark-01.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726917329-westernpark-03.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726917329-westernpark-02.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726917329-westernpark-04.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726917329-westernpark-05.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "✨ Lifestyle",
+        "slug": "lifestyle"
+      },
+      "subCategories": [
+        {
+          "name": "🛝 Wasserpark",
+          "slug": "aquapark"
+        }
+      ],
+      "location": {
+        "latitude": 39.5057077,
+        "longitude": 2.5187329
+      }
+    },
+    {
+      "_publishedAt": "2024-09-21T13:12:49+02:00",
+      "_firstPublishedAt": "2024-09-20T20:42:35+02:00",
+      "id": "X3pksKVUQ1WgKL0FJJfiZQ",
+      "name": "TirolinasGo Mallorca Forestal Park",
+      "description": "# Übersicht\nTirolinasGo Mallorca Forestal Park ist ein Abenteuerpark in der malerischen Platja de Palma, Mallorca. Bekannt für seine aufregenden Seilrutschen und Hindernisparcours, bietet der Park eine einzigartige Möglichkeit, die schöne Umgebung zu erkunden und gleichzeitig an Outdoor-Aktivitäten teilzunehmen. Er ist sowohl für Familien als auch für Abenteuerlustige geeignet und verspricht einen unterhaltsamen Tag in der Natur.\n\n# Services\nDer Park bietet verschiedene Seilrutschen-Kurse, die auf unterschiedliche Fähigkeitsstufen abgestimmt sind, von Anfängern bis zu Fortgeschrittenen. Neben den Seilrutschen können die Besucher auch Baumwipfelpfade, Kletterwände und andere Abenteueraktivitäten genießen. Die Sicherheit hat oberste Priorität, mit erfahrenem Personal, das sicherstellt, dass alle Teilnehmer mit der notwendigen Ausrüstung und Anweisungen ausgestattet sind.\n\n# Lage\nDer Park befindet sich günstig an der Avinguda de Fra Joan Llabrés und ist leicht für sowohl Einheimische als auch Touristen zu erreichen. Die Nähe zum Strand und anderen Attraktionen in Palma macht ihn zu einer ausgezeichneten Wahl für einen abenteuerlichen Tag ohne große Entfernungen zur Stadt.\n\n# Nutzererfahrungen\nDie Bewertungen von Besuchern heben das freundliche Personal und die gut gepflegten Einrichtungen hervor. Viele Gäste schätzen den Adrenalinkick der Seilrutschen und die atemberaubende Aussicht von den Baumwipfeln. Familien genießen besonders die Vielzahl von Aktivitäten, die für alle Altersgruppen geeignet sind. Einige Nutzer erwähnen jedoch lange Wartezeiten während der Hauptsaison.\n\n# AI-Rating\nBasierend auf Nutzerbewertungen und Gesamteindrücken erhält TirolinasGo Mallorca Forestal Park ein AI-Rating von 4,5 von 5.\n\n# Pro und Contra\n\n| Pro  | Contra  |\n|-------|-------|\n| 🟢 Freundliches und hilfsbereites Personal | 🔴 Lange Wartezeiten in der Hauptsaison |\n| 🟢 Vielfalt an aufregenden Aktivitäten | 🔴 Einige Kurse könnten für Anfänger herausfordernd sein |\n| 🟢 Schöne natürliche Umgebung | 🔴 Eingeschränkte Verpflegungsmöglichkeiten vor Ort |\n\n# Abschluss\nInsgesamt hebt sich TirolinasGo Mallorca Forestal Park als spannendes Ziel für Abenteuerlustige in Mallorca hervor. Mit hervorragendem Service und einer vielfältigen Auswahl an Aktivitäten ist er ein Muss für Adrenalinjunkies und Familien gleichermaßen.\n\n",
+      "address": "Avinguda de Fra Joan Llabrés, Nº1, Platja de Palma, 07600 Palma",
+      "mail": "mallorca@tirolinasgo.com",
+      "website": "http://www.tirolinasgo.com/mallorca",
+      "phone": "+34606816249",
+      "googleMapsLink": "https://maps.app.goo.gl/hSnHj86qA6c8jnii9",
+      "aiRating": 4.5,
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726917158-tirolinasgo-01.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726917158-tirolinasgo-03.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726917158-tirolinasgo-04.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726917158-tirolinasgo-02.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726917158-tirolinasgo-05.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "✨ Lifestyle",
+        "slug": "lifestyle"
+      },
+      "subCategories": [
+        {
+          "name": "🏃‍♀️ Aktivität",
+          "slug": "activity"
+        },
+        {
+          "name": "🌳 Park",
+          "slug": "park"
+        }
+      ],
+      "location": {
+        "latitude": 39.5149711,
+        "longitude": 2.7489274
+      }
+    },
+    {
+      "_publishedAt": "2024-09-21T13:06:06+02:00",
+      "_firstPublishedAt": "2024-09-21T01:14:48+02:00",
+      "id": "ayADh0z4QVikoo0mLHwCyQ",
+      "name": "Son Manera Retreat Finca",
+      "description": "## Übersicht\nDas Son Manera Retreat Finca ist ein ruhiges Wellness-Retreat in Montuïri, Mallorca. Bekannt für seine idyllische Lage und den Ausblick auf die ländliche Umgebung, bietet es einen Ort zur Erholung durch Yoga, Meditation und Wellness-Behandlungen. Die Finca vereint rustikalen Charme mit modernem Komfort und ist ideal für Erholungssuchende und spirituelle Erneuerung.\n\n## Services\nDas Retreat bietet eine Vielzahl an Services, darunter tägliche Yoga-Kurse, ein Spa sowie verschiedene Wellness-Pakete. Gäste können Massagen, Saunen und den großen Außenpool genießen. Es stehen Einzel-, Doppel- und Superior-Zimmer zur Verfügung, die jeweils einen friedlichen Ausblick auf die Gärten oder die Landschaft bieten. Vegetarische Mahlzeiten stehen im Fokus, mit gesunder und nachhaltiger Küche.\n\n## Lage\nAuf einem Hügel am Rande von Montuïri gelegen, bietet das Son Manera Retreat Finca atemberaubende Panoramablicke. Es liegt nur 30 Minuten von Palma de Mallorca entfernt und bietet leichten Zugang zu den Stränden und kulturellen Highlights der Insel.\n\n## Nutzererfahrungen\nDie meisten Bewertungen loben die ruhige Umgebung, das freundliche Personal und die hochwertigen Yoga-Sessions. Die Zimmer werden für ihre Sauberkeit und ihren Komfort gelobt, ebenso wie die Wellness-Angebote. Einige Gäste erwähnen jedoch, dass das Retreat überwiegend deutschsprachige Gäste anspricht, was für andere Besucher einschränkend sein könnte.\n\n## AI-Rating\n**8,5/10**  \nBasierend auf den Bewertungen ist das Retreat für seine entspannende Atmosphäre, die Wellness-Angebote und die Servicequalität hoch bewertet. Begrenzte Sprachoptionen und relativ hohe Preise wurden als verbesserungswürdige Punkte genannt.\n\n## Pro und Contra\n\n| Pro | Contra |\n|------|------|\n| 🟢 Wunderschöne Lage mit toller Aussicht | 🔴 Hauptsächlich deutschsprachiges Publikum |\n| 🟢 Hochwertige Yoga- und Wellnessprogramme | 🔴 Etwas teuer im Vergleich zu anderen Retreats |\n| 🟢 Exzellente Spa- und Massageangebote | 🔴 Begrenzte Menüoptionen für Nicht-Vegetarier |\n| 🟢 Geräumige, saubere und komfortable Zimmer | 🔴 Wenige Aktivitäten außerhalb von Wellness |\n\n## Abschluss\nDas Son Manera Retreat Finca bietet eine ruhige Oase im Herzen Mallorcas. Mit seinem Fokus auf Wellness und Yoga ist es der ideale Ort zur Entspannung, jedoch könnten Sprach- und Preisüberlegungen die Erfahrung einiger Gäste beeinflussen.",
+      "address": "Ctra. Montuïri - Lloret, 0, 07230 Montuïri",
+      "mail": "office@sonmanera.com",
+      "website": "https://www.sonmanera.com/",
+      "phone": "+34634313200",
+      "googleMapsLink": "https://maps.app.goo.gl/e7jEw2Ddv28Psm8h8",
+      "aiRating": 4.3,
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726916754-sonmanera-01.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726916753-sonmanera-05.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726916753-sonmanera-02.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726916754-sonmanera-03.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726916753-sonmanera-04.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "✨ Lifestyle",
+        "slug": "lifestyle"
+      },
+      "subCategories": [
+        {
+          "name": "🧘 Yoga",
+          "slug": "yoga"
+        },
+        {
+          "name": "🧘‍♀️ Wellness",
+          "slug": "wellness"
+        },
+        {
+          "name": "🪷 Spa",
+          "slug": "spa"
+        },
+        {
+          "name": "🏡 Finca",
+          "slug": "finca"
+        },
+        {
+          "name": "♻️ Nachhaltigkeit",
+          "slug": "sustainability"
+        }
+      ],
+      "location": {
+        "latitude": 39.57530029999999,
+        "longitude": 2.9816184
+      }
+    },
+    {
+      "_publishedAt": "2024-09-21T13:02:47+02:00",
+      "_firstPublishedAt": "2024-09-19T19:32:45+02:00",
+      "id": "Cm4qfctQRrCYFzZn9bYEoA",
+      "name": "Raimundo Burger",
+      "description": "# Übersicht\nRaimundo Burger ist ein beliebtes Restaurant im Herzen von Palma, Mallorca. Bekannt für seine einladende Atmosphäre und ein abwechslungsreiches Menü, zielt es darauf ab, sowohl Einheimischen als auch Touristen ein köstliches Burger-Erlebnis zu bieten.\n\n# Services\nDas Restaurant bietet eine Vielzahl von Gourmet-Burgern sowie Beilagen wie Pommes und Salate an. Zusätzlich gibt es vegetarische und vegane Optionen, die sicherstellen, dass alle diätetischen Vorlieben berücksichtigt werden. Der Service wird allgemein für seine Freundlichkeit und Aufmerksamkeit gelobt, was das Gesamterlebnis verbessert.\n\n# Lage\nGelegen an der Plaça de Raimundo Clar, ist dieses Lokal leicht erreichbar und stellt einen bequemen Halt für Besucher dar, die die Stadt erkunden. Die zentrale Lage ermöglicht es den Gästen, ihr Essen zu genießen und gleichzeitig die lebendige Atmosphäre Palmas zu erleben.\n\n# Nutzererfahrungen\nKunden loben häufig die Qualität des Essens, insbesondere die Frische der Zutaten und die geschmackvollen Kombinationen. Einige Bewertungen weisen jedoch auf gelegentliche Wartezeiten während der Hauptverkehrszeiten hin. Insgesamt neigt das Feedback zur positiven Seite und hebt ein zufriedenstellendes Esserlebnis hervor.\n\n# AI-Rating\nBasierend auf Nutzerbewertungen und dem allgemeinen Sentiment erhält Raimundo Burger ein AI-Rating von 4,5/5.\n\n# Pro und Contra\n| Pro 😊                     | Contra 😞                      |\n|---------------------------|---------------------------------|\n| Köstliche Gourmet-Burger   | Gelegentliche lange Wartezeiten  |\n| Freundliches und aufmerksames Personal| Begrenzte Sitzplätze während der Stoßzeiten|\n| Vegetarische und vegane Optionen|                             |\n| Zentrale Lage             |                                 |\n\n# Fazit\nZusammenfassend lässt sich sagen, dass Raimundo Burger eine ausgezeichnete Wahl für alle ist, die hochwertige Burger in Palma genießen möchten. Mit seiner einladenden Atmosphäre, dem vielfältigen Menü und dem aufmerksamen Service spricht es ein breites Publikum an. Obwohl gelegentliche Wartezeiten ein Anliegen sein können, machen das insgesamt positive Feedback und die Qualität des Esserlebnisses es zu einem Muss für Burgerliebhaber.",
+      "address": "Plaça de Raimundo Clar, 14, Centre, 07002 Palma",
+      "mail": "",
+      "website": "http://www.raimundoburger.com",
+      "phone": "+34692211160",
+      "googleMapsLink": "https://maps.app.goo.gl/VEM7PPtsLdeHtQEo9",
+      "aiRating": 4.5,
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726916526-raimundoburger-01.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726916526-raimundoburger-02.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726916526-raimundoburger-04.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726916526-raimundoburger-05.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726916529-raimundoburger-03.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🍽️ Restaurant",
+        "slug": "restaurant"
+      },
+      "subCategories": [
+        {
+          "name": "🍔 Burger",
+          "slug": "burger"
+        },
+        {
+          "name": "🔥 Grill",
+          "slug": "grill"
+        }
+      ],
+      "location": {
+        "latitude": 39.57049,
+        "longitude": 2.65505
+      }
+    },
+    {
+      "_publishedAt": "2024-09-21T12:59:14+02:00",
+      "_firstPublishedAt": "2024-09-19T19:39:09+02:00",
+      "id": "LZuLh7YkR6K7sQ66aqh-Tw",
+      "name": "Patrón Lunares",
+      "description": "# Übersicht\nPatrón Lunares ist ein einladendes Restaurant und Lifestyle-Objekt in Palma, Mallorca. Bekannt für seine lebendige Atmosphäre und kulinarische Kreativität, bietet es eine einzigartige Mischung aus lokalen Aromen und modernem Design. Der Betrieb hat sich schnell zu einem Favoriten unter Einheimischen und Touristen entwickelt, die ein außergewöhnliches Esserlebnis suchen.\n\n# Services\nDas Restaurant bietet ein abwechslungsreiches Menü mit mediterranen und spanischen Gerichten, die aus frischen, lokal bezogenen Zutaten zubereitet werden. Patrón Lunares bietet auch Veranstaltungsdienste an, um private Feiern und Firmenveranstaltungen auszurichten. Das aufmerksame Personal sorgt dafür, dass die Gäste während ihres Besuchs erstklassigen Service erhalten.\n\n# Lage\nBequem gelegen in der C. de la Fàbrica im Stadtteil Ponent ist Patrón Lunares sowohl für Einheimische als auch für Besucher leicht erreichbar. Die Lage bietet eine charmante Atmosphäre, umgeben von der kulturellen Vielfalt Palmas, und macht es zu einem idealen Ort für gemütliche Mahlzeiten und Feierlichkeiten.\n\n# Nutzererfahrungen\nDie Bewertungen heben die lebhafte Atmosphäre, die hervorragende Lebensmittelqualität und den freundlichen Service des Restaurants hervor. Viele Gäste schätzen die innovativen Menüoptionen und die Liebe zum Detail bei der Präsentation der Speisen und beim Esserlebnis. Einige Nutzer haben jedoch erwähnt, dass Reservierungen zu Stoßzeiten schwierig sein können.\n\n# AI-Rating\nBasierend auf Nutzerbewertungen und allgemeinem Sentiment erhält Patrón Lunares ein AI-Rating von 4,5 von 5.\n\n# Pro und Contra\n\n| Pro ✔️                        | Contra ❌                    |\n|-------------------------------|------------------------------|\n| Köstliches und innovatives Menü| Reservierungen können schwierig sein|\n| Freundliches und aufmerksames Personal| Kann während der Hauptzeiten überfüllt sein|\n| Tolle Atmosphäre              | Eingeschränkte Parkmöglichkeiten in der Nähe|\n\n# Fazit\nInsgesamt sticht Patrón Lunares als eines der besten Restaurantziele in Palma hervor und bietet ein wunderbares Erlebnis durch seine Küche und Atmosphäre. Es wird jedem empfohlen, der die kulinarische Szene Mallorcas erkunden möchte.",
+      "address": "C. de la Fàbrica, 30, Ponent, 07013 Palma",
+      "mail": "",
+      "website": "http://patronlunares.com",
+      "phone": "+34971577154",
+      "googleMapsLink": "https://maps.app.goo.gl/qHRan9qKJsMXPbmx5",
+      "aiRating": 4.5,
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726916325-patronlunares-03.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726916325-patronlunares-04.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726916325-patronlunares-05.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726916325-patronlunares-01.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726916325-patronlunares-02.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🍽️ Restaurant",
+        "slug": "restaurant"
+      },
+      "subCategories": [
+        {
+          "name": "🌊 Mittelmeerküche",
+          "slug": "mediterranean"
+        },
+        {
+          "name": "🐟 Fisch",
+          "slug": "fish"
+        },
+        {
+          "name": "🦞 Meeresfrüchte",
+          "slug": "seafood"
+        }
+      ],
+      "location": {
+        "latitude": 39.572829,
+        "longitude": 2.6371266
+      }
+    },
+    {
+      "_publishedAt": "2024-09-21T12:14:22+02:00",
+      "_firstPublishedAt": "2024-09-19T19:45:22+02:00",
+      "id": "ctvUS8gDS1egZyIOo5LcZw",
+      "name": "Ca n'Eduardo",
+      "description": "## Übersicht\nCa n'Eduardo ist ein charmantes Etablissement in Palma, auf den Balearischen Inseln, das für seine einzigartige Kombination aus Restaurant, Hotel und Lifestyle-Angeboten bekannt ist. Mit dem Ziel, unvergessliche Erlebnisse zu schaffen, spricht es sowohl Einheimische als auch Touristen an, die authentische balearische Gastfreundschaft suchen.\n\n## Services\nDas Lokal bietet eine vielfältige Palette an Dienstleistungen, darunter ein gehobenes Restaurant mit lokaler Küche, komfortable Hotelunterkünfte und Lifestyle-Annehmlichkeiten, die auf Wellness und Freizeit ausgerichtet sind. Die Gäste können exquisite Gerichte genießen, die aus frischen, lokalen Zutaten zubereitet werden, sowie einen persönlichen Service, der ihren Aufenthalt bereichert.\n\n## Lage\nCa n'Eduardo liegt in einem lebhaften Teil von Palma und ist leicht erreichbar, umgeben von einem reichen kulturellen Erbe. Die Lage bietet Nähe zu lokalen Attraktionen, Stränden und Einkaufsgebieten, was es zu einem idealen Ort für Besucher macht, die die Schönheit der Balearischen Inseln erkunden möchten.\n\n## Nutzererfahrungen\nBewertungen heben die außergewöhnliche Qualität des Essens und das freundliche, aufmerksame Personal hervor. Viele Gäste schätzen die gemütliche Atmosphäre und die geschmackvoll gestalteten Innenräume, die zu einem angenehmen Speise- und Übernachtungserlebnis beitragen. Einige erwähnen jedoch gelegentliche Probleme mit Wartezeiten während der Hauptverkehrszeiten.\n\n## AI-Rating\nBasierend auf den Nutzerbewertungen erhält Ca n'Eduardo ein solides AI-Rating von 4,5 von 5, was die hohe Zufriedenheit der Gäste widerspiegelt, insbesondere hinsichtlich der kulinarischen Angebote und des Kundenservices.\n\n### Pro und Contra\n| Pro 😊                       | Contra 😞                    |\n|------------------------------|------------------------------|\n| Hervorragende Essensqualität | Wartezeiten können lang sein  |\n| Freundliches und aufmerksames Personal | Eingeschränkte Parkmöglichkeiten |\n| Gemütliche und charmante Atmosphäre | Einige Gerichte könnten teuer sein |\n\n## Abschluss\nInsgesamt sticht Ca n'Eduardo als bemerkenswerter Ort in Palma hervor, der Gastronomie und Gastfreundschaft mit einem Hauch von lokaler Note kombiniert. Das Engagement für Qualität und Kundenzufriedenheit macht es zu einer lohnenswerten Wahl für jeden Besucher der Balearischen Inseln. Ob beim Essen oder Übernachten, die Gäste können ein erfreuliches Erlebnis erwarten, das das Wesen der Region einfängt.",
+      "address": "C/ Contramuelle Mollet, 3, 07012 Palma",
+      "mail": "info@caneduardo.com",
+      "website": "http://www.caneduardo.com/",
+      "phone": "+34971721182",
+      "googleMapsLink": "https://maps.app.goo.gl/zixYpmF8p28ZqMkj9",
+      "aiRating": 4.5,
+      "photos": [],
+      "mainCategory": {
+        "name": "🍽️ Restaurant",
+        "slug": "restaurant"
+      },
+      "subCategories": [
+        {
+          "name": "🥘 Spanisch",
+          "slug": "spanish"
+        }
+      ],
+      "location": {
+        "latitude": 39.5684507,
+        "longitude": 2.6406613
+      }
+    },
+    {
+      "_publishedAt": "2024-09-21T12:01:11+02:00",
+      "_firstPublishedAt": "2024-09-19T19:48:50+02:00",
+      "id": "YT_wn1YzQo2LL62ScY6JNg",
+      "name": "Restaurante Casa Fernando",
+      "description": "# Übersicht\nDas Restaurante Casa Fernando ist ein charmantes Restaurant in Platja de Palma, Mallorca. Bekannt für seine einladende Atmosphäre und authentische mediterrane Küche, bietet es ein angenehmes Erlebnis für Einheimische und Touristen. Besonders geschätzt werden die frischen Meeresfrüchte und traditionellen spanischen Gerichte, die es zu einem beliebten Ort für Liebhaber der Inselküche machen.\n\n# Services\nCasa Fernando bietet ein abwechslungsreiches Menü mit verschiedenen Optionen, darunter vegetarische und glutenfreie Gerichte. Die Gäste können sowohl drinnen als auch draußen sitzen, was ein angenehmes Essen bei jedem Wetter ermöglicht. Das Personal wird für seine Freundlichkeit und Aufmerksamkeit gelobt, was zur warmen und einladenden Atmosphäre beiträgt.\n\n# Lage\nDas Restaurant liegt in der Carrer de Trafalgar, ideal in der Nähe des Strandes, was es zu einem perfekten Stopp für eine Mahlzeit nach einem Tag in der Sonne macht. Die Nähe zu lokalen Attraktionen erhöht die Anziehungskraft und zieht Besucher an, die eine praktische und gleichzeitig angenehme Essensoption suchen.\n\n# Nutzererfahrungen\nDie Bewertungen der Kunden heben die Qualität der Speisen und die Aufmerksamkeit des Personals hervor. Viele Gäste schwärmen von der Paella und dem gegrillten Fisch, während andere die gemütliche Atmosphäre schätzen. Einige Bewertungen erwähnen jedoch längere Wartezeiten zu Stoßzeiten, die das Gesamterlebnis beeinträchtigen könnten.\n\n# AI-Rating\nBasierend auf Nutzerbewertungen und allgemeiner Zufriedenheit erhält das Restaurante Casa Fernando 4,5 von 5 Sternen. \n\n| Pro  | Contra  |\n|------|---------|\n| 🥗 Frische und geschmackvolle Gerichte | ⏳ Längere Wartezeiten während der Hauptzeiten |\n| 🍷 Freundlicher und aufmerksamer Service | 💸 Preise könnten für manche etwas hoch sein |\n| 🌊 Wunderschöne Lage am Meer | 🚶‍♂️ Begrenzte Parkmöglichkeiten in der Nähe |\n\n# Abschluss\nDas Restaurante Casa Fernando ist eine sehr empfehlenswerte Wahl für alle, die Platja de Palma besuchen. Mit exzellenter Küche, freundlichem Service und einladender Atmosphäre hebt es sich als Top-Ziel für Liebhaber mediterraner Küche hervor. Trotz kleinerer Nachteile ist das Gesamterlebnis überwiegend positiv und macht es zu einem Muss während Ihres Aufenthalts auf der Insel.\n",
+      "address": "Carrer de Trafalgar, 27, Platja de Palma, 07007 Palma",
+      "mail": "",
+      "website": "http://www.restaurantecasafernando.com/",
+      "phone": "+34971265417",
+      "googleMapsLink": "https://maps.app.goo.gl/CPmPfq4fW9Tnvdya9",
+      "aiRating": 4.5,
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726906230-restaurantecasafernando-01.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726906230-restaurantecasafernando-02.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726906229-restaurantecasafernando-04.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726906229-restaurantecasafernando-05.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726906230-restaurantecasafernando-03.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🍽️ Restaurant",
+        "slug": "restaurant"
+      },
+      "subCategories": [
+        {
+          "name": "🔥 Grill",
+          "slug": "grill"
+        },
+        {
+          "name": "🌊 Mittelmeerküche",
+          "slug": "mediterranean"
+        },
+        {
+          "name": "🍷 Wein",
+          "slug": "wine"
+        },
+        {
+          "name": "🐟 Fisch",
+          "slug": "fish"
+        },
+        {
+          "name": "🦞 Meeresfrüchte",
+          "slug": "seafood"
+        }
+      ],
+      "location": {
+        "latitude": 39.5516284,
+        "longitude": 2.6922658
+      }
+    },
+    {
+      "_publishedAt": "2024-09-21T10:06:17+02:00",
+      "_firstPublishedAt": "2024-09-19T19:53:22+02:00",
+      "id": "MqA5aqK6So6ugbKNkyfYUg",
+      "name": "Restaurante Ola del Mar",
+      "description": "## Übersicht\nDas Restaurante Ola del Mar ist ein lebhaftes Restaurant in Platja de Palma, das eine Mischung aus traditioneller und moderner mediterraner Küche bietet. Bekannt für seine einladende Atmosphäre und die atemberaubende Aussicht auf das Meer, zieht es sowohl Einheimische als auch Touristen an, die ein unvergessliches kulinarisches Erlebnis suchen.\n\n## Services\nDas Restaurant bietet ein vielfältiges Menü mit frischen Meeresfrüchten, gegrilltem Fleisch und verschiedenen vegetarischen Optionen. Zudem bietet Ola del Mar Catering-Services für besondere Anlässe sowie eine gut ausgewählte Weinkarte, die jedes Gericht perfekt ergänzt.\n\n## Lage\nGelegen in der Carrer del Vicari Joaquim Fuster ist das Restaurant leicht zu erreichen und nur einen kurzen Spaziergang vom Strand entfernt. Die erstklassige Lage ermöglicht es den Gästen, die lebendige Umgebung von Platja de Palma beim Essen zu genießen.\n\n## Nutzererfahrungen\nBesucher loben häufig den aufmerksamen Service und die Qualität der Speisen, wobei die Frische der Zutaten und die Kreativität der Gerichte hervorgehoben werden. Viele Bewertungen erwähnen die entspannende Atmosphäre, während einige von gelegentlichen Wartezeiten zu Stoßzeiten berichten.\n\n## AI-Rating\nBasierend auf Nutzerbewertungen erhält das Restaurante Ola del Mar eine solide Bewertung von 4,5 von 5 Sternen, was seine Beliebtheit und das insgesamt positive Feedback von Gästen widerspiegelt.\n\n### Pro/Contra Tabelle\n\n| Pro (✅)                       | Contra (❌)                   |\n|-------------------------------|-------------------------------|\n| Köstliche und frische Speisen | Gelegentliche Wartezeiten    |\n| Aufmerksames und freundliches Personal | Überfüllt zu Stoßzeiten       |\n| Wunderschöne Meerblick        | Eingeschränkte Parkmöglichkeiten |\n| Vielfältige Menüoptionen      | Höhere Preise im Vergleich zu lokalen Restaurants |\n\n## Fazit\nInsgesamt hebt sich das Restaurante Ola del Mar als fantastisches Restaurant in Platja de Palma hervor. Mit köstlichem Essen, aufmerksamem Service und einer schönen Lage verspricht es ein angenehmes Erlebnis für alle Gäste. Auch wenn es zu Stoßzeiten gelegentlich Wartezeiten geben kann, macht die hohe Qualität einen Besuch durchaus lohnenswert.",
+      "address": "Carrer del Vicari Joaquim Fuster, 1, Platja de Palma, 07006 Palma, Illes Balears, Spanien",
+      "mail": " event@oladelmar.es",
+      "website": "http://www.oladelmar.es/",
+      "phone": "+34971274275",
+      "googleMapsLink": "https://maps.app.goo.gl/eZBY9tDWnCAzAgN9A",
+      "aiRating": 4.5,
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726905893-oladelmar-02.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726905893-oladelmar-04.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726905893-oladelmar-01.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726905892-oladelmar-05.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726905893-oladelmar-03.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🍽️ Restaurant",
+        "slug": "restaurant"
+      },
+      "subCategories": [
+        {
+          "name": "🥘 Spanisch",
+          "slug": "spanish"
+        },
+        {
+          "name": "🌊 Mittelmeerküche",
+          "slug": "mediterranean"
+        },
+        {
+          "name": "🦞 Meeresfrüchte",
+          "slug": "seafood"
+        },
+        {
+          "name": "🐟 Fisch",
+          "slug": "fish"
+        }
+      ],
+      "location": {
+        "latitude": 39.5605797,
+        "longitude": 2.6710379
+      }
+    },
+    {
+      "_publishedAt": "2024-09-20T20:37:32+02:00",
+      "_firstPublishedAt": "2024-09-20T20:37:32+02:00",
+      "id": "fSve3hdURa2QQwvrpNj9Vw",
+      "name": "Piraten Park Peguera",
+      "description": "## Übersicht\nDer Piraten Park Peguera ist ein familienfreundlicher Kletterpark in Peguera, Mallorca. Er bietet spannende Parcours in einer malerischen Umgebung und richtet sich sowohl an Kinder als auch Erwachsene. Das besondere Piratenthema und die verschiedenen Schwierigkeitsgrade der Strecken machen den Park zu einem beliebten Ziel für Touristen und Einheimische.\n\n## Services\nDer Park bietet drei Kletterparcours auf Höhen zwischen 2,5 und 6 Metern an. Jeder Parcours verfügt über eine Seilrutsche für zusätzliche Spannung. Der Park ist von April bis Oktober geöffnet und vermietet zudem Stand-up-Paddle-Boards. Gruppenreservierungen und ermäßigte Preise für Familien sind ebenfalls verfügbar. Auch außerhalb der regulären Öffnungszeiten können Termine vereinbart werden&#8203;:contentReference[oaicite:4]{index=4}&#8203;:contentReference[oaicite:5]{index=5}.\n\n## Lage\nDer Piraten Park Peguera befindet sich an der Carrer Pinaret 1, 07160 Peguera, Illes Balears, Spanien. Die Nähe zum Strand ermöglicht es den Besuchern, den Kletterspaß mit einem Tag am Meer zu verbinden. Die mediterrane Landschaft sorgt dabei für eine besondere Atmosphäre und bietet malerische Aussichten während des Klettererlebnisses&#8203;:contentReference[oaicite:6]{index=6}.\n\n## Nutzererfahrungen\nViele Besucher loben den gut gepflegten Park und die abwechslungsreichen Kletterstrecken. Das Personal wird als freundlich und hilfsbereit beschrieben. Besonders für Familien mit Kindern wird der Park als ideal bewertet. Einige Gäste wünschen sich jedoch zusätzliche Aktivitäten oder flexiblere Preismodelle. Insgesamt hat der Park einen sehr guten Ruf für ein unterhaltsames Familienerlebnis&#8203;:contentReference[oaicite:7]{index=7}.\n\n## AI-Rating\nAuf Basis der gesammelten Bewertungen vergebe ich dem Piraten Park Peguera eine Wertung von 4 von 5 Sternen. Obwohl der Park spannende Erlebnisse und eine schöne Lage bietet, könnte er sein Angebot durch mehr Aktivitäten oder flexiblere Ticketoptionen erweitern.\n\n## Pro und Contra\n\n| Pro | Contra |\n| ---- | ---- |\n| 🟢 Malerische Lage nahe am Strand | 🔴 Wenige zusätzliche Aktivitäten |\n| 🟢 Familienfreundliche Preise | 🔴 Nur von April bis Oktober geöffnet |\n| 🟢 Spannende Parcours für alle Altersgruppen | 🔴 Einige finden die Preise für kurze Besuche hoch |\n\n## Abschluss\nDer Piraten Park Peguera ist eine ausgezeichnete Wahl für Familien, die ein Abenteuer im Freien auf Mallorca suchen. Das Piratenthema, die vielfältigen Parcours und die schöne Lage machen den Besuch zu einem besonderen Erlebnis, auch wenn einige Verbesserungen den Park noch attraktiver gestalten könnten.",
+      "address": "Carrer Pinaret, 1, 07160 Peguera",
+      "mail": "info@piraten-park-paguera.es",
+      "website": "http://www.piraten-park-paguera.es/",
+      "phone": "+34699108628",
+      "googleMapsLink": "https://maps.app.goo.gl/Hbx5Shm8uEZvSygm8",
+      "aiRating": 4,
+      "photos": [],
+      "mainCategory": {
+        "name": "✨ Lifestyle",
+        "slug": "lifestyle"
+      },
+      "subCategories": [
+        {
+          "name": "🏃‍♀️ Aktivität",
+          "slug": "activity"
+        }
+      ],
+      "location": {
+        "latitude": 39.5355369,
+        "longitude": 2.4575461
+      }
+    },
+    {
+      "_publishedAt": "2024-09-20T20:31:00+02:00",
+      "_firstPublishedAt": "2024-09-20T20:31:00+02:00",
+      "id": "f50W411dS1qliLd1v9VDKw",
+      "name": "Jungle Parc",
+      "description": "## Übersicht\nDer Jungle Parc ist ein Outdoor-Abenteuerpark in Santa Ponça, Mallorca. Berühmt für seine Baumkletterstrecken, bietet der Park aufregende Aktivitäten für Kinder und Erwachsene. Mit über 100 Plattformen und verschiedenen Parcours ist er ein beliebtes Ziel für Familien und Abenteuerlustige.\n\n## Services\nDer Park bietet verschiedene Parcours, die sich an unterschiedliche Altersgruppen richten. Der „Pirates“-Parcours ist für Kinder ab 4 Jahren geeignet, während „Explorer“ und „Extreme“ für Erwachsene und mutige Teilnehmer gedacht sind. Zu den Aktivitäten gehören Seilrutschen, Hängebrücken und Balancierstrecken in luftiger Höhe.\n\n## Lage\nDer Jungle Parc liegt in einem 9 Hektar großen Wald an der Avenida Jaime I, 40A, in Santa Ponça, Mallorca. Der Park ist leicht mit den Buslinien 104 und 110B zu erreichen. Dank seiner Lage in der Nähe der Küste ist er ein idealer Zwischenstopp während eines Urlaubs auf Mallorca.\n\n## Nutzererfahrungen\nDie meisten Besucher loben die aufregenden Parcours, die Sicherheitsvorkehrungen und das professionelle und freundliche Personal. Familien mit Kindern schätzen besonders den „Pirates“-Parcours. Allerdings erwähnten einige Besucher, dass die fortgeschritteneren Parcours körperlich herausfordernd sein können und nicht für jeden geeignet sind.\n\n## AI-Rating\nBasierend auf Nutzerbewertungen erhält Jungle Parc eine Gesamtbewertung von 4,5 von 5. Die aufregenden Parcours und das professionelle Personal machen ihn zu einem Favoriten bei Familien und Abenteuerliebhabern.\n\n## Pro und Contra\n| Pro | Contra |\n| --- | --- |\n| 🟢 Verschiedene Parcours für alle Altersgruppen | 🔴 Einige Parcours sind körperlich anspruchsvoll |\n| 🟢 Wunderschöne natürliche Umgebung | 🔴 Kann in Stoßzeiten überfüllt sein |\n| 🟢 Professionelles und freundliches Personal | 🔴 Begrenzte Essens- und Getränkeoptionen |\n\n## Abschluss\nJungle Parc bietet ein aufregendes Erlebnis für Abenteurer aller Altersgruppen und ist ein Muss für Mallorca-Besucher. Es ist ein unterhaltsamer und herausfordernder Tagesausflug, auch wenn einige Parcours körperlich anspruchsvoll sein können.",
+      "address": "Avenida Jaime I, 40, A, 07180 Santa Ponça",
+      "mail": "mallorca@jungleparc.es",
+      "website": "http://www.jungleparc.es/",
+      "phone": "+34630948295",
+      "googleMapsLink": "https://maps.app.goo.gl/nsjN6VrTyFdnPUWk9",
+      "aiRating": 4.5,
+      "photos": [],
+      "mainCategory": {
+        "name": "✨ Lifestyle",
+        "slug": "lifestyle"
+      },
+      "subCategories": [
+        {
+          "name": "🏃‍♀️ Aktivität",
+          "slug": "activity"
+        }
+      ],
+      "location": {
+        "latitude": 39.5078458,
+        "longitude": 2.4684043
+      }
+    },
+    {
+      "_publishedAt": "2024-09-20T20:23:58+02:00",
+      "_firstPublishedAt": "2024-09-20T20:23:58+02:00",
+      "id": "DmQFW2oWS-mWH6Gk1YzvHA",
+      "name": "Hidropark",
+      "description": "# Übersicht\nDer Hidropark Alcúdia ist ein familienfreundlicher Wasserpark im Norden von Mallorca, in Port d'Alcúdia. Auf einer Fläche von 40.000 Quadratmetern bietet er eine Vielzahl von Wasserattraktionen und Aktivitäten für Besucher aller Altersgruppen. Bekannt ist der Park für seine Rutschen, Wellenbecken und Erholungszonen, was ihn zu einem idealen Ort für Spaß und Entspannung macht.\n\n# Services\nZu den Angeboten gehören mehrere Pools, aufregende Rutschen wie die Kamikaze und eine spezielle Zone für kleine Kinder. Außerdem gibt es Minigolf, Restaurants und Liegebereiche, was den Park zu einem ganztägigen Erlebnis macht.\n\n# Lage\nDer Hidropark befindet sich an der Avenida Inglaterra, Av. Tucà, s/n, 07400 Port d'Alcúdia, Illes Balears. Die Nähe zum Strand und seine zentrale Lage in Alcúdia machen ihn gut erreichbar für Einheimische und Touristen. Der Park ist sowohl mit dem Auto als auch mit öffentlichen Verkehrsmitteln leicht zugänglich.\n\n# Nutzererfahrungen\nLaut Bewertungen ist der Hidropark vor allem bei Familien mit kleinen Kindern beliebt. Positiv hervorgehoben werden die Vielfalt der Wasserattraktionen und die Möglichkeit, einen ganzen Tag dort zu verbringen. Einige Besucher bemängeln jedoch lange Warteschlangen und die hohen Preise für Essen und Getränke im Park. Auch wird erwähnt, dass die Einrichtungen etwas in die Jahre gekommen sind und renoviert werden könnten.\n\n# AI-Rating\nBasierend auf Nutzerbewertungen erhält der Hidropark Alcúdia eine Bewertung von **3,5/5**. Diese Bewertung berücksichtigt die familienfreundliche Atmosphäre und das breite Angebot an Attraktionen sowie Kritikpunkte in Bezug auf Preise und Zustand der Anlagen.\n\n| **Pro** ✅ | **Contra** ❌ |\n|------------------|------------------|\n| 🟢 Ideal für Familien mit Kindern | 🔴 Hohe Preise für Essen und Getränke |\n| 🟢 Große Auswahl an Rutschen und Pools | 🔴 Lange Warteschlangen in der Hochsaison |\n| 🟢 Gute Lage in Strandnähe | 🔴 Veraltete Einrichtungen |\n\n# Abschluss\nDer Hidropark Alcúdia bietet einen aufregenden Tagesausflug für Familien und Gruppen, mit einer Vielzahl an Wasserattraktionen, die für Unterhaltung sorgen. Trotz Verbesserungspotenzial bei den Preisen und der Infrastruktur bleibt der Park eine beliebte Wahl für Urlauber im Norden von Mallorca.",
+      "address": "Avenida Inglaterra, Av. Tucà, s/n, 07400 Port d'Alcúdia",
+      "mail": "hidropark@hidroparkalcudia.com",
+      "website": "http://www.hidroparkalcudia.com/",
+      "phone": "+34971891672",
+      "googleMapsLink": "https://maps.app.goo.gl/UkU97LfLLJRuqE7B9",
+      "aiRating": 3.5,
+      "photos": [],
+      "mainCategory": {
+        "name": "✨ Lifestyle",
+        "slug": "lifestyle"
+      },
+      "subCategories": [
+        {
+          "name": "🛝 Wasserpark",
+          "slug": "aquapark"
+        }
+      ],
+      "location": {
+        "latitude": 39.8408261,
+        "longitude": 3.1142804
+      }
+    },
+    {
+      "_publishedAt": "2024-09-20T19:48:31+02:00",
+      "_firstPublishedAt": "2024-09-20T19:48:31+02:00",
+      "id": "GKPAe8AlSsqovILWnn9M3w",
+      "name": "Aqualand El Arenal",
+      "description": "\n## Übersicht\nAqualand El Arenal ist ein großes Wasserpark in Mallorca, Spanien. Es bietet eine Vielzahl von Wasserrutschen und Attraktionen für Familien, Kinder und Abenteuerlustige. Der Park ist bekannt für seine aufregenden Rutschen und großzügigen Grünflächen, ein beliebtes Ziel für einen erfrischenden Tag.\n\n## Services\nDer Park bietet verschiedene Services, darunter zahlreiche Wasserrutschen, Pools und Wellenmaschinen. Es gibt Essensstände und Restaurants, wobei viele Besucher die Preise als hoch empfinden. Fast-Pässe sind erhältlich, um Wartezeiten zu verkürzen.\n\n## Lage\nAqualand befindet sich in El Arenal, Mallorca, und ist über die Palma-Arenal-Autobahn leicht zu erreichen. Die genaue Adresse lautet Autovia Palma a, salida 13, Km 15, 07600 El Arenal, Balearen, Spanien.\n\n## Nutzererfahrungen\nDie Bewertungen sind gemischt. Viele loben die Wasserrutschen und die Vielfalt, während einige die hohen Preise, langen Warteschlangen und geschlossenen Attraktionen kritisieren. In der Hauptsaison ist es besonders voll, aber Fast-Pässe erleichtern das Anstehen.\n\n## AI-Rating\n**Bewertung**: 3,5/5  \nBasierend auf den Bewertungen bietet Aqualand El Arenal ein unterhaltsames Erlebnis, leidet jedoch unter unregelmäßigem Service und hohen Kosten in der Hochsaison.\n\n## Pro & Contra\n| **Pro** ✅    | **Contra** ❌  |\n|--------------|---------------|\n| Große Auswahl an Rutschen 🟢  | Hohe Eintritts- und Essenspreise 🔴 |\n| Spaß für alle Altersgruppen 🟢 | Lange Warteschlangen in der Hochsaison 🔴 |\n| Große Grünflächen 🟢           | Einige Attraktionen ohne Vorankündigung geschlossen 🔴 |\n\n## Abschluss\nAqualand El Arenal eignet sich gut für Familien, die einen abenteuerlichen Tag im Wasserpark verbringen möchten. Es kann jedoch voll und teuer werden. Prüfen Sie im Voraus, welche Attraktionen geöffnet sind, und überlegen Sie den Kauf eines Fast-Passes für ein besseres Erlebnis.",
+      "address": "Autovia Palma a, salida 13, Km 15, 07600 El Arenal",
+      "mail": "",
+      "website": "https://www.aqualand.es/elarenal",
+      "phone": "+34696158177",
+      "googleMapsLink": "https://maps.app.goo.gl/Msbsu6Bnff7hwcye8",
+      "aiRating": 3.5,
+      "photos": [],
+      "mainCategory": {
+        "name": "✨ Lifestyle",
+        "slug": "lifestyle"
+      },
+      "subCategories": [
+        {
+          "name": "🛝 Wasserpark",
+          "slug": "aquapark"
+        }
+      ],
+      "location": {
+        "latitude": 39.4964387,
+        "longitude": 2.7590159
+      }
+    },
+    {
+      "_publishedAt": "2024-09-20T18:59:26+02:00",
+      "_firstPublishedAt": "2024-09-20T16:31:35+02:00",
+      "id": "IZdePBV7RNiUMpH46joDBg",
+      "name": "Keida - Kayak - Paddle Surf",
+      "description": "## Übersicht\nKeida Enjoy Mallorca ist ein Anbieter von Outdoor-Aktivitäten auf Mallorca, Balearen, mit Sitz in Sant Elm. Das Unternehmen bietet eine Vielzahl von Abenteuern an, darunter Kajakfahren, Stand-up-Paddling (SUP), Mountainbiken und Wandern. Ihr Ziel ist es, Teilnehmern aufregende Aktivitäten zu ermöglichen und dabei die natürliche Schönheit der Küste und Berge Mallorcas näherzubringen.\n\n## Services\nKeida bietet die Vermietung von Ausrüstung und geführte Touren an. Besucher können Einzel- oder Doppelkajaks, Stand-up-Paddleboards (SUP) oder Mountainbikes mieten. Zu den geführten Ausflügen zählen Wanderungen in den Tramuntana-Bergen und Kajaktouren rund um die Insel Dragonera. Ein Highlight ist die Sonnenuntergangstour, bei der ein Picknick und atemberaubende Ausblicke geboten werden.\n\n## Lage\nKeida Enjoy Mallorca befindet sich an der Plaça de na Caragola 3 in Sant Elm, einem malerischen Küstendorf auf Mallorca. Die Lage bietet Zugang zu atemberaubenden Landschaften und ruhigen Gewässern und ist der ideale Ausgangspunkt für Outdoor-Aktivitäten. Die Nähe zum Naturschutzgebiet Dragonera erhöht den Reiz.\n\n## Nutzererfahrungen\nNutzer loben oft die freundlichen und sachkundigen Guides und heben besonders die Sonnenuntergangs-Kajaktour und die Stand-up-Paddle-Erfahrungen hervor. Viele Besucher schätzen die klare Wasserqualität und die Schönheit der Landschaft, was Keida sowohl bei Einheimischen als auch Touristen beliebt macht. Die Flexibilität der Aktivitäten wird ebenfalls positiv bewertet, mit Optionen für Anfänger und Fortgeschrittene.\n\n## AI-Rating\n**AI Bewertung: 4.7/5**  \nBasierend auf den überwältigend positiven Bewertungen schneidet Keida aufgrund der Lage, des Service und der Vielfalt der Aktivitäten sehr gut ab. Einige Nutzer erwähnen, dass Windverhältnisse das Paddeln erschweren können, aber insgesamt wird die Erfahrung als hervorragend bewertet.\n\n## Pro/Contra\n| Pro | Contra |\n|-----|--------|\n| 🟢 Wunderschöne Lage und Landschaft | 🔴 Windige Bedingungen können das Paddeln erschweren |\n| 🟢 Freundliche und erfahrene Guides | 🔴 Begrenzte Verfügbarkeit in der Hochsaison |\n| 🟢 Vielzahl von Aktivitäten für jedes Niveau | 🔴 Parken kann in der Hauptsaison schwierig sein |\n\n## Abschluss\nKeida Enjoy Mallorca ist die perfekte Wahl für Abenteuerlustige, die eine landschaftlich reizvolle Küste erkunden möchten. Mit ausgezeichneten Dienstleistungen, atemberaubenden Touren und einem freundlichen Team bietet es die ideale Kombination aus Fitness, Spaß und Entspannung in der Natur.",
+      "address": "Plaça de na Caragola 3, 07159 Sant Elm",
+      "mail": "booking@keida.es",
+      "website": "http://www.keida.es/",
+      "phone": "+34971239124",
+      "googleMapsLink": "https://maps.app.goo.gl/mYeyG6J4gPZ6Ejtv9",
+      "aiRating": 4.7,
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726851427-keida-03.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726851427-keida-01.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726851427-keida-05.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726851427-keida-04.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726851427-keida-02.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "✨ Lifestyle",
+        "slug": "lifestyle"
+      },
+      "subCategories": [
+        {
+          "name": "🏄‍♂️ Surfen",
+          "slug": "surfing"
+        },
+        {
+          "name": "🚵 Mountain Bike",
+          "slug": "mountain-bike"
+        },
+        {
+          "name": "🥾 Wandern",
+          "slug": "hiking"
+        }
+      ],
+      "location": {
+        "latitude": 39.5795233,
+        "longitude": 2.3502962
+      }
+    },
+    {
+      "_publishedAt": "2024-09-20T16:49:08+02:00",
+      "_firstPublishedAt": "2024-09-20T16:49:08+02:00",
+      "id": "LODaKGWJTwmyX5TEz3-TPA",
+      "name": "Mallorca Wakepark",
+      "description": "\n## Übersicht\nDer Mallorca Wakepark in Alcúdia ist das einzige Wakeboard-Kabelsystem auf den Balearen. Seit seiner Gründung im Jahr 2011 hat er sich zu einem beliebten Ziel für Anfänger und erfahrene Wakeboarder entwickelt, mit exklusiven Sessions für Einzelpersonen oder Gruppen.\n\n## Dienstleistungen\nDer Park bietet ein einzigartiges Wakeboard-Erlebnis mit einem System 2.0 Kabel. Gäste erhalten eine Einweisung und professionelles Coaching. Die Ausrüstung ist in den Paketen enthalten, und es gibt Angebote für alle Altersgruppen, einschließlich Paddleboarding.\n\n## Lage\nDer Mallorca Wakepark befindet sich an einem günstigen Standort in Alcúdia, nur wenige Gehminuten von öffentlichen Verkehrsmitteln entfernt. Die Nähe zu Hotels und Stränden macht ihn zu einem attraktiven Ziel für Wassersportliebhaber.\n\n## Nutzererfahrungen\nDie Bewertungen sind überwiegend positiv und loben die Professionalität des Personals sowie die einladende Atmosphäre. Besonders Anfänger und Familien schätzen das maßgeschneiderte Coaching.\n\n## AI-Bewertung\n**4.8/5**  \nBasierend auf Nutzerfeedback überzeugt der Mallorca Wakepark durch hohe Kundenzufriedenheit, Sicherheit und das Gesamtangebot.\n\n## Pro und Contra\n\n| Pro | Contra |\n|:----:|:----:|\n| 🟢 Freundliches und professionelles Personal | 🔴 Vorausbuchung erforderlich |\n| 🟢 Geeignet für alle Erfahrungsstufen | 🔴 Begrenzte Aktivitäten für Nicht-Wakeboarder |\n| 🟢 Private und exklusive Sessions | 🔴 In der Hochsaison sehr belebt |\n\n## Abschluss\nDer Mallorca Wakepark ist ein erstklassiges Ziel für Wakeboard-Fans auf Mallorca. Mit professionellem Coaching und einer unterhaltsamen Umgebung ist es für Anfänger und Fortgeschrittene gleichermaßen ideal.",
+      "address": "Carrer de L'Estany Petit, 8, 07400 Alcúdia",
+      "mail": "info@mallorcawakepark.com",
+      "website": "http://mallorcawakepark.com/",
+      "phone": "+34633664439",
+      "googleMapsLink": "https://maps.app.goo.gl/iaY8yMpXuchmEcph6",
+      "aiRating": 4.8,
+      "photos": [],
+      "mainCategory": {
+        "name": "✨ Lifestyle",
+        "slug": "lifestyle"
+      },
+      "subCategories": [
+        {
+          "name": "🏄‍♂️ Surfen",
+          "slug": "surfing"
+        }
+      ],
+      "location": {
+        "latitude": 39.8347203,
+        "longitude": 3.1070407
+      }
+    },
+    {
+      "_publishedAt": "2024-09-20T16:46:34+02:00",
+      "_firstPublishedAt": "2024-09-20T16:46:34+02:00",
+      "id": "LhFTvrkfSBum70bkz2I3vA",
+      "name": "Mallorca Kiteboarding",
+      "description": "# Mallorca Kiteboarding\n\n## Übersicht\nMallorca Kiteboarding befindet sich im malerischen PortBlue Club Pollentia Resort in Alcúdia, Mallorca. Die Kitesurfschule genießt einen ausgezeichneten Ruf und liegt in einem Resort, das sowohl Natur- als auch Abenteueraktivitäten bietet – ideal für Sportbegeisterte und Familien. Das Resort bietet umfangreiche Einrichtungen wie Pools, Wellnessoptionen und Fahrradverleih, was es für aktive Reisende attraktiv macht.\n\n## Services\nMallorca Kiteboarding bietet verschiedene Kitesurfing-Kurse an, die sich an Anfänger und Fortgeschrittene richten. Sie stellen die notwendige Ausrüstung und Sicherheitsanweisungen bereit, um den Gästen ein sicheres und unterhaltsames Erlebnis auf dem Wasser zu garantieren. Das Resort bietet zudem zahlreiche Outdoor-Aktivitäten wie Radfahren und Schwimmen sowie umfassende Wellnessangebote.\n\n## Lage\nDie Schule liegt in Alcúdia zwischen der Bucht von Pollença und dem Naturpark Albufereta, mit atemberaubender Aussicht und in der Nähe von Naturattraktionen. Dank günstiger Windverhältnisse und den weitläufigen Stränden in der Nähe ist die Lage ideal zum Kitesurfen. Vom Flughafen Palma de Mallorca aus ist das Resort etwa 46 Kilometer entfernt und mit Shuttle oder Mietwagen gut erreichbar.\n\n## Nutzererfahrungen\nGäste loben die Schule für ihre Professionalität und die freundlichen Lehrer. Besonders Anfängern wird die strukturierte und unterstützende Lernumgebung zugutekommen. Einige Gäste erwähnten jedoch zusätzliche Gebühren für Premium-Services sowie die Notwendigkeit eines eigenen Fahrzeugs, um die Umgebung zu erkunden.\n\n## AI-Rating\n**4.3/5**  \nBasierend auf den Nutzerbewertungen erhält Mallorca Kiteboarding hohe Bewertungen für Lage, Servicequalität und Gesamterfahrung. Geringe Nachteile betreffen zusätzliche Gebühren und die Erreichbarkeit von Attraktionen.\n\n## Pro und Contra\n| Pro | Contra |\n| :---: | :---: |\n| 🟢 Professionelle Lehrer | 🔴 Zusätzliche Gebühren für Premium-Services |\n| 🟢 Malerische Naturkulisse | 🔴 Erfordernis eines eigenen Fahrzeugs |\n| 🟢 Vielfältige Outdoor-Aktivitäten | |\n\n## Abschluss\nMallorca Kiteboarding bietet eine hervorragende Kombination aus Abenteuersport und Entspannung. Die wunderschöne Umgebung und der erstklassige Service machen es zu einer starken Wahl für aktive Urlauber auf Mallorca.\n",
+      "address": "Hotel Port Blue Club Pollentia Resort Carretera Alcúdia-Port de Pollença Km.2, 07400 Alcúdia",
+      "mail": "",
+      "website": "http://www.mallorcakiteboarding.com/",
+      "phone": "+34686425234",
+      "googleMapsLink": "https://maps.app.goo.gl/Xavvt7zDYseU9gUj8",
+      "aiRating": 4.3,
+      "photos": [],
+      "mainCategory": {
+        "name": "✨ Lifestyle",
+        "slug": "lifestyle"
+      },
+      "subCategories": [
+        {
+          "name": "🏄‍♂️ Surfen",
+          "slug": "surfing"
+        }
+      ],
+      "location": {
+        "latitude": 39.8635939,
+        "longitude": 3.0932989
+      }
+    },
+    {
+      "_publishedAt": "2024-09-20T16:43:27+02:00",
+      "_firstPublishedAt": "2024-09-20T16:43:27+02:00",
+      "id": "XqkmrFJcRqa-2SKSxBVcgw",
+      "name": "LAOLA",
+      "description": "## Übersicht\nDas LAOLA Surf Camp auf Fuerteventura, Spanien, bietet eine Lifestyle-Oase für Surfer und Reisende, die Abenteuer und Entspannung kombinieren möchten. Mit einer Mischung aus aktiven Freizeitaktivitäten, atemberaubenden Aussichten und einer umweltfreundlichen Unterkunft zieht das Camp zahlreiche Gäste an, die sowohl sportliche Herausforderungen als auch Erholung suchen.\n\n## Services\nDas LAOLA Surf Camp bietet Surfstunden für alle Levels an, von Anfängern bis hin zu fortgeschrittenen Surfern. Im Angebot der Wochenpakete sind Unterkunft, Verpflegung, Yogakurse, E-Bike-Touren und Zugang zu einem Surf-Skatepark enthalten. Die Zimmer sind geräumig und verfügen über private Badezimmer sowie Annehmlichkeiten wie einen Pool und ein Yoga-Studio. Zudem gibt es private Surf-Coachings und eine 14 Meter lange Betonwelle zum Surfskaten. Das Camp setzt auf Nachhaltigkeit und ist zu 100 % solarbetrieben.\n\n## Lage\nDas Camp befindet sich auf Fuerteventura, das oft als „Hawaii Europas“ bezeichnet wird, dank seiner konstanten Wellen und Surfkultur. Die Insel genießt das ganze Jahr über warme Temperaturen und bietet eine Vielzahl von Wellen, die für Surfer jeden Niveaus geeignet sind. Das Surf Camp liegt in La Oliva und bietet eine entspannte Atmosphäre sowie Zugang zu wunderschönen Stränden und vulkanischen Landschaften.\n\n## Nutzererfahrungen\nGäste loben häufig die freundliche Atmosphäre, die personalisierte Betreuung und die Schönheit der Lage. Besonders positiv wird die Kombination aus professionellem Surfunterricht und einem entspannten, sozialen Ambiente hervorgehoben, was das Camp besonders für Alleinreisende attraktiv macht. Einige Gäste erwähnen kleine Kritikpunkte wie die Zusatzkosten für private Zimmer und die windigen Bedingungen in der Sommerzeit.\n\n## AI-Rating\n**4.7/5**  \nBasierend auf Nutzerbewertungen wird das LAOLA Surf Camp für seine professionelle Surfschulung, umweltfreundlichen Einrichtungen und die entspannte Atmosphäre hoch geschätzt. Die Betonung auf Gemeinschaft und hochwertige Services machen das Camp zu einem besonderen Reiseziel, obwohl die windigen Bedingungen im Sommer einige Aktivitäten beeinträchtigen können.\n\n| **Vorteile**                  | **Nachteile**                         |\n|-------------------------------|---------------------------------------|\n| 🟢 Freundliche und soziale Atmosphäre | 🔴 Zusätzliche Kosten für private Zimmer |\n| 🟢 Umweltfreundliche Unterkünfte | 🔴 Windige Bedingungen im Sommer         |\n| 🟢 Hervorragende Surfschulung  |                                       |\n\n## Abschluss\nDas LAOLA Surf Camp bietet eine ideale Mischung aus Abenteuer, Entspannung und nachhaltigem Lebensstil, was es zu einer hervorragenden Wahl für Surfer und Naturliebhaber macht. Ob für einen Surf-Urlaub oder zum Yoga am Meer, das LAOLA Camp bietet ein umfassendes und erfüllendes Erlebnis.",
+      "address": "C. Cerco de Tío Alberto, 2, 35650 La Oliva",
+      "mail": "",
+      "website": "https://laolasurfcamp.com/",
+      "phone": "+34690148223",
+      "googleMapsLink": "https://maps.app.goo.gl/ns4TNZcgFbV3cvFq7",
+      "aiRating": 4.7,
+      "photos": [],
+      "mainCategory": {
+        "name": "✨ Lifestyle",
+        "slug": "lifestyle"
+      },
+      "subCategories": [
+        {
+          "name": "🏄‍♂️ Surfen",
+          "slug": "surfing"
+        }
+      ],
+      "location": {
+        "latitude": 28.6811122,
+        "longitude": -13.9482918
+      }
+    },
+    {
+      "_publishedAt": "2024-09-20T16:36:57+02:00",
+      "_firstPublishedAt": "2024-09-20T16:36:57+02:00",
+      "id": "OOS7zIK1T6ipMrmCydtCsA",
+      "name": "Port Calanova",
+      "description": "## Übersicht\nPort Calanova liegt in Palma de Mallorca und ist ein Freizeit- und Wassersportzentrum mit einer modernen Marina, einem Hotel und Restaurants. 1976 eröffnet, ist es nur 5 km vom Stadtzentrum entfernt und bietet zahlreiche maritime Dienstleistungen.\n\n## Services\nDas Angebot umfasst Bootsanleger, Bootsvermietungen und eine große Auswahl an Wassersportarten wie Segeln und Kajakfahren. Zudem gibt es zwei Restaurants, eine Sportresidenz, ein Fitnessstudio und Veranstaltungsräume.\n\n## Lage\nPort Calanova befindet sich an der Avinguda de Joan Miró, 327, in Palma. Der Hafen ist ideal gelegen, nur wenige Minuten von Stränden und der Innenstadt entfernt.\n\n## Nutzererfahrungen\nGäste loben die Professionalität des Personals und die Vielfalt an Aktivitäten. Einige bemängeln jedoch überfüllte Bereiche und Verzögerungen in der Hochsaison. Insgesamt ist die Resonanz positiv, besonders für den Wassersport.\n\n## AI-Bewertung\n**Bewertung:** 4.2/5  \nPort Calanova punktet mit einer tollen Lage, umfangreichen Aktivitäten und gutem Service, allerdings gibt es gelegentlich Probleme bei Überbuchungen und Wartezeiten.\n\n| Pros | Cons |\n| ---- | ---- |\n| 🟢 Tolle Lage nahe Palma | 🔴 Verzögerungen in der Hochsaison |\n| 🟢 Vielfältige Wassersportmöglichkeiten | 🔴 Überfüllung zu Spitzenzeiten |\n| 🟢 Professionelles Personal | 🔴 Begrenzte Parkmöglichkeiten |\n\n## Abschluss\nPort Calanova bietet eine gute Mischung aus Erholung, Wassersport und exzellenter Gastronomie in wunderschöner Lage. Es ist ideal für Familien und Einzelreisende, jedoch könnten Verbesserungen im Service das Erlebnis optimieren.",
+      "address": "Avinguda de Joan Miró, 327, Ponent, 07015 Palma",
+      "mail": "info@portcalanova.com",
+      "website": "https://www.portcalanova.com/en",
+      "phone": "+34971402512",
+      "googleMapsLink": "https://maps.app.goo.gl/ACDCFpCooFoVLQ1W7",
+      "aiRating": 4.2,
+      "photos": [],
+      "mainCategory": {
+        "name": "✨ Lifestyle",
+        "slug": "lifestyle"
+      },
+      "subCategories": [
+        {
+          "name": "🏄‍♂️ Surfen",
+          "slug": "surfing"
+        }
+      ],
+      "location": {
+        "latitude": 39.5498276,
+        "longitude": 2.5988588
+      }
+    },
+    {
+      "_publishedAt": "2024-09-20T16:33:48+02:00",
+      "_firstPublishedAt": "2024-09-20T16:33:48+02:00",
+      "id": "cfVLjFfGRICAttPw3PLCZA",
+      "name": "El Niño Surf Center",
+      "description": "# Übersicht\nDas El Niño Surf Center in Can Pastilla, Mallorca, bietet eine Vielzahl an Wassersportaktivitäten wie Paddleboarding, Windsurfen, Kajakfahren und Surfen. Mit seiner Lage direkt am Strand von Playa de Palma zieht es sowohl Anfänger als auch erfahrene Wassersportler an. Das Zentrum ist das ganze Jahr über geöffnet und bietet Ausrüstungsverleih, Kurse und Ausflüge an.\n\n# Services\nDas Zentrum bietet Ausrüstungsverleih und Unterricht in verschiedenen Wassersportarten an, darunter Stand Up Paddle (SUP), Windsurfen, Kitesurfen und Kajakfahren. Zusätzlich gibt es organisierte SUP-Ausflüge entlang der Küste Mallorcas sowie Gruppenstunden, Surfcamps für Kinder und personalisiertes Coaching.\n\n# Lage\nDas El Niño Surf Center befindet sich in der Carrer del Vaixell, 2, in Can Pastilla, direkt am Strand. Es ist sowohl von Palma aus als auch vom nahegelegenen Flughafen gut zu erreichen, was es zu einem beliebten Ziel für Touristen und Einheimische macht.\n\n# Nutzererfahrungen\nBesucher loben häufig das freundliche Personal und die gut gewartete, moderne Ausrüstung. Besonders hervorgehoben wird die schöne Lage und die einfache Buchung von Ausflügen. Einige Nutzer bemängeln jedoch, dass Gruppenstunden in der Hochsaison überfüllt sein können und es gelegentlich zu Verzögerungen bei der Verfügbarkeit der Ausrüstung kommt.\n\n# AI-Rating\nBasierend auf Nutzerbewertungen und verfügbaren Informationen erhält das El Niño Surf Center eine Bewertung von **4.3/5**. Das positive Feedback zu Freundlichkeit des Personals und Vielfalt der angebotenen Aktivitäten überwiegt, wobei es kleinere Verbesserungsmöglichkeiten in Stoßzeiten gibt.\n\n| Vorteile | Nachteile |\n| :--- | :--- |\n| 🟢 Freundliches und erfahrenes Personal | 🔴 Kann in der Hochsaison überfüllt sein |\n| 🟢 Breites Angebot an Wassersportaktivitäten | 🔴 Gelegentliche Engpässe bei der Ausrüstung |\n| 🟢 Lage direkt am Strand | 🔴 Begrenzte Parkmöglichkeiten im Sommer |\n\n# Abschluss\nDas El Niño Surf Center ist ein erstklassiger Ort für Wassersport auf Mallorca. Es bietet eine Vielzahl von Aktivitäten in einer hervorragenden Strandlage. Auch wenn es in der Hochsaison voller werden kann, bleibt es bei Einheimischen und Touristen gleichermaßen beliebt.",
+      "address": "Carrer del Vaixell, 2, Platja de Palma, 07610 Can Pastilla",
+      "mail": "info@elninomallorca.com",
+      "website": "http://www.paddlesurfmallorca.com/",
+      "phone": "+34971490811",
+      "googleMapsLink": "https://maps.app.goo.gl/3LipKqBCPxhZcFuw6",
+      "aiRating": 4.3,
+      "photos": [],
+      "mainCategory": {
+        "name": "✨ Lifestyle",
+        "slug": "lifestyle"
+      },
+      "subCategories": [
+        {
+          "name": "🏄‍♂️ Surfen",
+          "slug": "surfing"
+        }
+      ],
+      "location": {
+        "latitude": 39.5346705,
+        "longitude": 2.7218685
+      }
+    },
+    {
+      "_publishedAt": "2024-09-20T16:27:35+02:00",
+      "_firstPublishedAt": "2024-09-20T16:27:35+02:00",
+      "id": "fJpUu7bNT_-0rIOROvpdVw",
+      "name": "Aventura IB Colonia de Sant Jordi",
+      "description": "## Überblick\nAventura IB ist ein Wassersport- und Abenteuerunternehmen in Colònia de Sant Jordi, Mallorca, Spanien. Es bietet eine Vielzahl von Meeresaktivitäten wie Tauchkurse, Schnorcheltouren und Bootsausflüge an. Das Unternehmen ist bekannt für seine gut organisierten Touren im Cabrera-Nationalpark und bietet sowohl Anfängern als auch erfahrenen Tauchern unvergessliche Erlebnisse.\n\n## Dienstleistungen\nAventura IB bietet eine breite Palette an Wasseraktivitäten, darunter Schnupper-Tauchkurse, Schnorcheltouren und Bootsfahrten für halbe oder ganze Tage. Die Angebote richten sich an Familien, Einzelpersonen und private Gruppen, einschließlich Yachten und Superyachten. Es werden PADI- und SSI-Zertifizierungen, Tauchausrüstung zum Verleih und ein kostenloser Abholservice angeboten.\n\n## Lage\nAventura IB befindet sich in der Carrer Gabriel Roca, 24, Colònia de Sant Jordi, Mallorca. Die Lage bietet direkten Zugang zu den kristallklaren Gewässern rund um den Nationalpark Cabrera, ideal für Meereserkundungen und den Besuch versteckter Strände.\n\n## Nutzererfahrungen\nBewertungen auf Plattformen wie TripAdvisor loben das professionelle Personal, die ausgezeichnete Ausrüstung und die atemberaubenden Tauchplätze. Besonders Anfänger schätzen die freundliche und geduldige Betreuung. Einige Nutzer erwähnen kleinere logistische Probleme, insgesamt wird das Erlebnis jedoch als unvergesslich beschrieben.\n\n## AI-Bewertung\nBasierend auf Kundenbewertungen erhält Aventura IB eine Gesamtbewertung von **4,6/5**. Die Nutzer loben besonders das professionelle Team, die Schönheit der Tauchplätze und die Qualität der Ausrüstung.\n\n| Pro | Contra |\n|:---|:---|\n| 🟢 Professionelles und freundliches Team | 🔴 Kleinere logistische Probleme |\n| 🟢 Wunderschöne Tauch- und Schnorchelplätze | 🔴 Gelegentlich Verzögerungen beim Abholservice |\n| 🟢 Hervorragende Ausrüstung und Sicherheitsstandards | 🔴 Nicht geeignet für Landaktivitäten |\n\n## Abschluss\nAventura IB ist eine ausgezeichnete Wahl für alle, die die Meereswelt Mallorcas erkunden möchten. Mit einer Vielzahl von Dienstleistungen, die auf unterschiedliche Erfahrungsstufen zugeschnitten sind, und einem klaren Fokus auf Kundenzufriedenheit, ist es die perfekte Option für Abenteurer.",
+      "address": "Carrer Gabriel Roca, 24, 07638 Colònia de Sant Jordi",
+      "mail": "info@aventuraib.com",
+      "website": "http://www.aventuraib.com/",
+      "phone": "+34673334003",
+      "googleMapsLink": "https://maps.app.goo.gl/3WPxcMLFgw4sP7fcA",
+      "aiRating": 4.6,
+      "photos": [],
+      "mainCategory": {
+        "name": "✨ Lifestyle",
+        "slug": "lifestyle"
+      },
+      "subCategories": [
+        {
+          "name": "🤿 Tauchen",
+          "slug": "diving"
+        }
+      ],
+      "location": {
+        "latitude": 39.315727,
+        "longitude": 2.9964847
+      }
+    },
+    {
+      "_publishedAt": "2024-09-20T16:24:44+02:00",
+      "_firstPublishedAt": "2024-09-20T16:24:44+02:00",
+      "id": "Yynb7zcmTUSc4xot5UiRgQ",
+      "name": "Albatros Diving",
+      "description": "## Übersicht\nAlbatros Diving ist ein etabliertes Tauchzentrum in Cala Bona, Mallorca. Gegründet 1993, bietet es eine Vielzahl von Taucherlebnissen für unterschiedliche Fähigkeitsstufen an, darunter auch PADI-Zertifizierungskurse. Mit einer 5-Sterne-Bewertung von PADI legt das Zentrum großen Wert auf Sicherheit und Professionalität.\n\n## Services\nDas Zentrum bietet geführte Tauchausflüge, Ausrüstungsverleih und PADI-Kurse an. Zudem gibt es spezielle Ausflüge wie Schnorcheltouren und Tiefseetauchen, um ein abwechslungsreiches Unterwassererlebnis zu bieten.\n\n## Lage\nAlbatros Diving befindet sich in der Carrer del Xaloc, 5, in Cala Bona, Spanien. Die Nähe zum Hafen ermöglicht bequemen Zugang zu den regelmäßigen Bootsausflügen für Tauchgänge in den klaren Gewässern Mallorcas.\n\n## Nutzererfahrungen\nDie meisten Bewertungen sind positiv und loben das freundliche, professionelle Team. Die Tauchguides werden als sachkundig beschrieben, und die Ausrüstung ist in gutem Zustand. Einige Nutzer merken jedoch an, dass die Verfügbarkeit zu Stoßzeiten verbessert werden könnte.\n\n## AI-Rating\nBasierend auf den Nutzerbewertungen erhält Albatros Diving **4.3/5** Punkte. Die Gäste schätzen den aufmerksamen Service, erwähnen jedoch geringfügige Verbesserungen bei der Verfügbarkeit in der Hochsaison.\n\n| Pro | Contra |\n| ---- | ---- |\n| 🟢 Freundliches und sachkundiges Personal | 🔴 Eingeschränkte Verfügbarkeit im Zeitplan |\n| 🟢 Gut gewartete Ausrüstung | 🔴 Saisonal eingeschränkt |\n| 🟢 Geeignet für Anfänger und Profis |  |\n\n## Abschluss\nAlbatros Diving ist eine ausgezeichnete Wahl für Anfänger und erfahrene Taucher. Das professionelle Team und die ideale Lage in Cala Bona machen es zu einem empfehlenswerten Tauchzentrum auf Mallorca.",
+      "address": "Carrer del Xaloc, 5, 07559 Cala Bona",
+      "mail": "info@albatros-diving.com",
+      "website": "https://www.albatros-diving.com/",
+      "phone": "+34621251940",
+      "googleMapsLink": "https://maps.app.goo.gl/v4uxGbZiWNiuh1Ww8",
+      "aiRating": 4.3,
+      "photos": [],
+      "mainCategory": {
+        "name": "✨ Lifestyle",
+        "slug": "lifestyle"
+      },
+      "subCategories": [
+        {
+          "name": "🤿 Tauchen",
+          "slug": "diving"
+        }
+      ],
+      "location": {
+        "latitude": 39.6131082,
+        "longitude": 3.3917201
+      }
+    },
+    {
+      "_publishedAt": "2024-09-20T16:22:15+02:00",
+      "_firstPublishedAt": "2024-09-20T16:22:15+02:00",
+      "id": "NBHG1ceHTaKE7KuELcFyaw",
+      "name": "Tramuntana Diving & Adventure",
+      "description": "# Übersicht\n**Tramuntana Diving & Adventure** ist ein hochgelobtes Tauchzentrum in Port de Pollença, Mallorca. Es bietet Tauchkurse und Abenteueraktivitäten für Anfänger und erfahrene Taucher. Das Zentrum ist für seine familiäre Atmosphäre und professionelle Betreuung bekannt, wobei der Fokus auf Sicherheit und Umweltschutz liegt. Mit über 30 Tauchplätzen in einer der schönsten Buchten Mallorcas ist es ein beliebtes Ziel für Outdoor-Enthusiasten.\n\n# Services\nTramuntana Diving bietet eine Vielzahl von Aktivitäten im Wasser und an Land. Hauptattraktion ist das Tauchen, es werden jedoch auch **Freitauchen**, **Schnorcheln** und **SUP (Stand-up-Paddling)** angeboten. Für Abenteuerlustige gibt es zudem **Canyoning**, **Klippenspringen** und **Klettern**. Das Team legt großen Wert auf Sicherheit und den Schutz der Meere, was sich in ihren Kursen und Aktivitäten widerspiegelt.\n\n# Lage\nDas Zentrum befindet sich in der **Carrer d'Elcano, 9, 07470 Port de Pollença**, im Nordosten von Mallorca. Die Region ist bekannt für ihre atemberaubenden Landschaften und das klare, ruhige Wasser der Pollença-Bucht, was sie ideal für Tauch- und Abenteueraktivitäten macht.\n\n# Nutzererfahrungen\nDie Kundenbewertungen heben oft das freundliche und professionelle Personal hervor, das die Gäste sicher und gut betreut. Viele schätzen die persönliche Betreuung und die kleinen Gruppen, was für eine entspannte und angenehme Erfahrung sorgt. Besonders **Lucas**, ein Tauchlehrer, wird häufig für seine Geduld und Kompetenz gelobt. Insgesamt sind die Erfahrungen der Nutzer sehr positiv, und viele empfehlen das Zentrum für seine tolle Atmosphäre und die großartigen Tauchgänge.\n\n# AI-Rating\nBasierend auf zahlreichen Bewertungen erhält **Tramuntana Diving & Adventure** eine **AI-Bewertung von 4,8/5**. Die meisten Nutzer waren mit ihrem Erlebnis sehr zufrieden, lobten die Professionalität des Teams und die Schönheit der Tauchplätze.\n\n# Pro & Contra Tabelle\n| Pros                          | Contras                          |\n|-------------------------------|-----------------------------------|\n| 🟢 Freundliches und kompetentes Personal | 🔴 Begrenzte Verfügbarkeit in der Hochsaison |\n| 🟢 Sichere Tauchgänge in kleinen Gruppen | 🔴 Kann für Nicht-Schwimmer herausfordernd sein |\n| 🟢 Malerische und vielfältige Tauchplätze | 🔴 Wenig Parkmöglichkeiten vor Ort             |\n\n# Abschluss\nTramuntana Diving & Adventure ist eine hervorragende Wahl für Abenteuerlustige und Ruhesuchende. Ob kompletter Anfänger oder erfahrener Taucher – dieses Zentrum bietet sichere, unterhaltsame und unvergessliche Erlebnisse in einer wunderschönen Umgebung.",
+      "address": "Carrer d'Elcano, 9, 07470 Port de Pollença",
+      "mail": "info@tramuntanadiving.com",
+      "website": "http://www.tramuntanadiving.com/",
+      "phone": "+34971876279",
+      "googleMapsLink": "https://maps.app.goo.gl/nZvtooy77mgDQMpV7",
+      "aiRating": 4.8,
+      "photos": [],
+      "mainCategory": {
+        "name": "✨ Lifestyle",
+        "slug": "lifestyle"
+      },
+      "subCategories": [
+        {
+          "name": "🤿 Tauchen",
+          "slug": "diving"
+        }
+      ],
+      "location": {
+        "latitude": 39.9049819,
+        "longitude": 3.0807806
+      }
+    },
+    {
+      "_publishedAt": "2024-09-20T16:20:12+02:00",
+      "_firstPublishedAt": "2024-09-20T16:20:12+02:00",
+      "id": "Uxo-V0msTPCqUzhSfpS8cw",
+      "name": "West Coast Divers Mallorca",
+      "description": "## Übersicht\nWest Coast Divers Mallorca ist ein PADI-zertifiziertes Tauchzentrum im Hotel Bonanza Playa & Spa in Ses Illetes, Mallorca. Es bietet eine Vielzahl von Tauchmöglichkeiten für alle Erfahrungsstufen, von Anfängern bis hin zu Fortgeschrittenen. Mit seiner atemberaubenden Lage am Meer können Taucher berühmte Tauchplätze wie die Wracks von Palma, die Porto Pi-Höhlen und die Isla del Toro erkunden.\n\n## Services\nWest Coast Divers bietet Schnuppertauchen, Anfänger- und Fortgeschrittenenkurse sowie aufregende Ausflüge für zertifizierte Taucher an. Das Zentrum organisiert spezielle Tauchtrips zu Wracks und Meeresschutzgebieten und sorgt mit modernen Einrichtungen und professionellen Guides für Sicherheit und Spaß.\n\n## Lage\nDas Tauchzentrum liegt direkt im Hotel Bonanza Playa & Spa und bietet einen direkten Zugang zum Meer. Das Hotel befindet sich in der Nähe des Illetas-Strandes, nur 6 km von Palma entfernt, und bietet somit eine ideale Kombination aus Tauchen und Erholung. Der nahegelegene Real Club de Golf Bendinat und weitere Attraktionen runden die Lage ab.\n\n## Nutzererfahrungen\nBewertungen loben das freundliche und sachkundige Personal, die gut gepflegte Ausrüstung und die angenehmen Tauchausflüge. Viele Besucher schätzen die Nähe zu erstklassigen Tauchplätzen und den hohen Professionalitätsgrad. Allerdings erwähnten einige Gäste gelegentliche Terminprobleme oder eingeschränkte Verfügbarkeit in der Hochsaison, daher wird eine frühzeitige Buchung empfohlen.\n\n## AI-Rating\nBasierend auf den Nutzerbewertungen erhält West Coast Divers Mallorca eine Bewertung von **4.5/5**. Die Kombination aus hervorragendem Service, Lage und abwechslungsreichen Tauchmöglichkeiten macht es zu einer Top-Wahl für Taucher auf Mallorca.\n\n## Pro & Contra\n| Pro 🟢 | Contra 🔴 |\n|-------------------|---------------------|\n| 🌊 Tolle Lage direkt am Strand | ⏰ Gelegentliche Terminprobleme |\n| 🛥️ Hochwertige Ausrüstung | 🚪 Begrenzte Verfügbarkeit in der Hochsaison |\n| 🌍 Verschiedene Tauchplätze | |\n\n## Abschluss\nWest Coast Divers Mallorca ist eine ausgezeichnete Wahl für Taucher aller Erfahrungsstufen, die die Gewässer rund um Mallorca erkunden möchten. Mit seiner traumhaften Lage und dem professionellen Team bietet es ein unvergessliches Taucherlebnis.",
+      "address": "Hotel Bonanza Playa & Spa, Passeig Illetes, s/n, 07181 ses Illetes",
+      "mail": "info@buceoenmallorca.com",
+      "website": "http://www.westcoastdivers.de/",
+      "phone": "+34664592946",
+      "googleMapsLink": "https://maps.app.goo.gl/sgznRhSSNix1WhFf8",
+      "aiRating": 4.5,
+      "photos": [],
+      "mainCategory": {
+        "name": "✨ Lifestyle",
+        "slug": "lifestyle"
+      },
+      "subCategories": [
+        {
+          "name": "🤿 Tauchen",
+          "slug": "diving"
+        }
+      ],
+      "location": {
+        "latitude": 39.5410219,
+        "longitude": 2.5937116
+      }
+    },
+    {
+      "_publishedAt": "2024-09-20T16:17:50+02:00",
+      "_firstPublishedAt": "2024-09-20T16:17:50+02:00",
+      "id": "XzPI_tfxR_6mDBme3-I8IQ",
+      "name": "Big Blue Diving Mallorca",
+      "description": "### Übersicht\nBig Blue Diving Mallorca, gelegen in Palmanova, Spanien, ist ein hochbewertetes Tauchzentrum, das eine Vielzahl von Tauchdienstleistungen für Anfänger und Fortgeschrittene anbietet. Die Tauchschule ist bekannt für ihr professionelles, mehrsprachiges Team und ihre vielseitigen Tauchplätze, was sie zu einem beliebten Ziel für Touristen und Tauchbegeisterte auf Mallorca macht.\n\n### Services\nBig Blue Diving bietet verschiedene Tauchkurse an, von Einsteiger- bis Fortgeschrittenen-Level, die von PADI und SSI zertifiziert sind. Es werden geführte Bootstauchgänge zu bekannten Tauchplätzen wie El Toro organisiert, das für sein geschütztes Meeresleben bekannt ist. Zudem gibt es Leihausrüstung und erste Taucherfahrungen, und das mehrsprachige Personal sorgt für ein komfortables Erlebnis&#8203;:contentReference[oaicite:5]{index=5}&#8203;:contentReference[oaicite:6]{index=6}.\n\n### Lage\nDas Tauchzentrum befindet sich in Palmanova, Mallorca, und ist somit leicht für Besucher im Südwesten der Insel zugänglich. Die Lage bietet direkten Zugang zu bekannten Tauchplätzen wie den Palma-Wracks und Punta Cala Figuera, die beeindruckende Unterwasserabenteuer ermöglichen&#8203;:contentReference[oaicite:7]{index=7}.\n\n### Nutzererfahrungen\nDie Bewertungen loben durchgehend die Professionalität und Freundlichkeit des Personals. Nutzer berichten von einem hohen Sicherheitsgefühl und gut geführten Tauchgängen, wobei viele die Vielfalt der Meereslebewesen, insbesondere am El Toro, hervorheben. Sowohl Anfänger als auch erfahrene Taucher schätzen die persönliche Betreuung durch die Tauchlehrer&#8203;:contentReference[oaicite:8]{index=8}&#8203;:contentReference[oaicite:9]{index=9}.\n\n### AI-Rating\nBasierend auf Nutzerbewertungen erhält Big Blue Diving Mallorca ein **4.5/5** für sein starkes Engagement in puncto Sicherheit, gut gewartete Ausrüstung und exzellenten Kundenservice.\n\n### Pro und Contra\n| Pro | Contra |\n| :---: | :---: |\n| ✅ Freundliches und professionelles Team | ❌ Einige Tauchplätze sind überlaufen |\n| ✅ Gut gewartete Ausrüstung | ❌ Begrenzte Verfügbarkeit in der Hochsaison |\n| ✅ Geeignet für Anfänger und Fortgeschrittene | ❌ Einige Tauchlehrer sprechen nur bestimmte Sprachen |\n\n### Abschluss\nBig Blue Diving Mallorca ist eine hervorragende Wahl für Taucher aller Erfahrungsstufen, die Mallorca besuchen. Mit einem engagierten Team und Zugang zu beeindruckenden Tauchplätzen bietet es ein sicheres, spannendes und professionelles Taucherlebnis.\n\n",
+      "address": "Carrer Martín Ros García, 6, 07181 Palmanova",
+      "mail": "info@bigbluediving.net",
+      "website": "https://www.bigbluediving.net/en/",
+      "phone": "+34971681686",
+      "googleMapsLink": "https://maps.app.goo.gl/LbdjVRrty9vaSKK18",
+      "aiRating": 4.5,
+      "photos": [],
+      "mainCategory": {
+        "name": "✨ Lifestyle",
+        "slug": "lifestyle"
+      },
+      "subCategories": [
+        {
+          "name": "🤿 Tauchen",
+          "slug": "diving"
+        }
+      ],
+      "location": {
+        "latitude": 39.5125618,
+        "longitude": 2.5404125
+      }
+    },
+    {
+      "_publishedAt": "2024-09-20T16:15:04+02:00",
+      "_firstPublishedAt": "2024-09-20T16:15:04+02:00",
+      "id": "HYX3IPddRM2XtolOUqjhZA",
+      "name": "Diving Dragonera",
+      "description": "## Übersicht\nDiving Dragonera in Port d'Andratx, Mallorca, ist ein renommiertes PADI 5-Sterne-Tauchcenter, das sowohl Anfängern als auch fortgeschrittenen Tauchern professionelle Dienstleistungen bietet. Das Zentrum überzeugt durch seine entspannte Atmosphäre und moderne Ausstattung, die ein unvergessliches Taucherlebnis in den Gewässern der Balearen garantiert&#8203;:contentReference[oaicite:4]{index=4}.\n\n## Services\nDas Tauchcenter bietet eine Vielzahl von Dienstleistungen an, darunter den Verleih von Ausrüstungen, Tauchkurse und geführte Touren. Vom Anfänger bis zum Fortgeschrittenen finden Taucher hier die passenden Angebote, mit modernen Geräten und Sicherheitsvorkehrungen auf allen Booten&#8203;:contentReference[oaicite:5]{index=5}&#8203;:contentReference[oaicite:6]{index=6}.\n\n## Lage\nDiving Dragonera liegt in Port d'Andratx, einer malerischen Küstenstadt auf Mallorca, und bietet Zugang zu einigen der besten Tauchspots der Insel. Geöffnet ist das Center von April bis November, täglich von 9 bis 18 Uhr&#8203;:contentReference[oaicite:7]{index=7}.\n\n## Nutzererfahrungen\nMit einer Bewertung von 4,7 von 5 Sternen basierend auf über 80 Rezensionen erfreut sich Diving Dragonera großer Beliebtheit. Kunden loben die Professionalität des Teams, die hochwertige Ausrüstung und die beeindruckenden Tauchgänge. Einige Bewertungen weisen darauf hin, dass das Personal hauptsächlich Englisch spricht, was für einige eine Hürde sein könnte&#8203;:contentReference[oaicite:8]{index=8}.\n\n## AI-Bewertung\nBasierend auf den Nutzerbewertungen erhält Diving Dragonera eine Bewertung von 4.4/5 in Bezug auf die Gesamterfahrung, die Expertise des Personals und die Zufriedenheit der Kunden.\n\n| Pros  | Cons  |\n|-------|-------|\n| 🟢 Freundliches und professionelles Personal | 🔴 Eingeschränkte Spanischkenntnisse des Personals |\n| 🟢 Hochwertige Tauchausrüstung | 🔴 Höhere Preise im Vergleich zu lokalen Anbietern |\n| 🟢 Schöne Tauchplätze  | 🔴 Saisonbetrieb (April-November) |\n\n## Abschluss\nDiving Dragonera bietet ein ausgezeichnetes Taucherlebnis für Taucher aller Niveaus. Mit freundlichem Personal, hervorragender Ausrüstung und atemberaubenden Tauchplätzen ist es eine erstklassige Wahl für Taucher auf Mallorca.",
+      "address": "Av. Almirante Riera Alemany, 23, 07157 Port d'Andratx",
+      "mail": "info@divingdragonera.de",
+      "website": "http://www.aqua-mallorca-diving.com/",
+      "phone": "+34971674376",
+      "googleMapsLink": "https://maps.app.goo.gl/jPkSekGMRxnaocLFA",
+      "aiRating": 4.4,
+      "photos": [],
+      "mainCategory": {
+        "name": "✨ Lifestyle",
+        "slug": "lifestyle"
+      },
+      "subCategories": [
+        {
+          "name": "🤿 Tauchen",
+          "slug": "diving"
+        }
+      ],
+      "location": {
+        "latitude": 39.5426811,
+        "longitude": 2.3856721
+      }
+    },
+    {
+      "_publishedAt": "2024-09-20T13:36:29+02:00",
+      "_firstPublishedAt": "2024-09-20T13:36:29+02:00",
+      "id": "Uq30sQgETMK6ETd6qRpX-w",
+      "name": "Iberostar Selection Playa de Palma",
+      "description": "### Übersicht\nDas Iberostar Selection Playa de Palma ist ein luxuriöses Hotel direkt am Strand im Herzen von Platja de Palma, Mallorca. Es ist bekannt für moderne Annehmlichkeiten und eine familienfreundliche Atmosphäre, die eine perfekte Kombination aus Entspannung und Unterhaltung für Gäste jeden Alters bietet.\n\n### Services\nDas Hotel bietet eine Vielzahl von Dienstleistungen, darunter mehrere Schwimmbäder, ein Wellnesscenter und vielfältige gastronomische Optionen, die verschiedenen kulinarischen Vorlieben gerecht werden. Gäste können Aktivitäten wie Wassersport, Kinderclubs und abendliche Unterhaltung genießen, die einen unvergesslichen Aufenthalt garantieren.\n\n### Lage\nNur wenige Schritte vom Sandstrand entfernt, bietet das Hotel einfachen Zugang zu lokalen Sehenswürdigkeiten und dem pulsierenden Nachtleben von Palma. Die Umgebung bietet Geschäfte, Restaurants und kulturelle Stätten, was es zu einer idealen Basis für die Erkundung der Insel macht.\n\n### Nutzererfahrungen\nGäste loben häufig das Hotel für seine sauberen Einrichtungen, das freundliche Personal und die hervorragende Lebensmittelqualität. Familien schätzen besonders die Kinderprogramme und die familienorientierte Umgebung. Einige Rezensenten erwähnen jedoch, dass die Hochsaison zu überfüllten Bereichen führen kann.\n\n### AI-Rating\n4.5/5\n\n### Pro und Contra\n\n| Pro                  | Contra                |\n|----------------------|-----------------------|\n| 🟢 Hervorragende Lebensmittelqualität | 🔴 Überfüllt in der Hochsaison |\n| 🟢 Freundliches Personal | 🔴 Begrenzte Parkmöglichkeiten |\n| 🟢 Familienfreundlich    | 🔴 Lärm durch Unterhaltung |\n\n### Abschluss\nDas Iberostar Selection Playa de Palma ist eine ausgezeichnete Wahl für Reisende, die ein luxuriöses und angenehmes Erlebnis in Mallorca suchen. Mit seiner schönen Lage und umfangreichen Annehmlichkeiten ist es sowohl für Familien als auch für Paare bestens geeignet.",
+      "address": "Carrer de Marbella, 36, Platja de Palma, 07610 Palma",
+      "mail": "",
+      "website": "https://www.iberostar.com/en/hotels/majorca/iberostar-playa-de-palma/?utm_source=google&utm_medium=organic&utm_campaign=IBSVOL_EMEA_SEOLOC_GMB_NA_EN_ESP_BAL_PMI_PDP_PULL_NA_NA_NA_NA_NA",
+      "phone": "+34971266450",
+      "googleMapsLink": "https://maps.app.goo.gl/vxsDNW7WYuCeQ24v7",
+      "aiRating": 4.5,
+      "photos": [],
+      "mainCategory": {
+        "name": "🏨 Hotel",
+        "slug": "hotel"
+      },
+      "subCategories": [],
+      "location": {
+        "latitude": 39.52335799999999,
+        "longitude": 2.7383303
+      }
+    },
+    {
+      "_publishedAt": "2024-09-20T13:33:51+02:00",
+      "_firstPublishedAt": "2024-09-20T13:33:51+02:00",
+      "id": "ENbA-tQnSlq9e3utEPzaOg",
+      "name": "Iberostar Selection Llaut",
+      "description": "# Übersicht\nIberostar Selection Llaut ist ein luxuriöses Hotel in Platja de Palma, Mallorca. Bekannt für sein modernes Design und komfortable Unterkünfte, bietet das Hotel den Gästen eine ideale Basis für Entspannung und Erkundung. Mit einem Fokus auf Nachhaltigkeit und außergewöhnlichen Service ist Iberostar Selection Llaut bestrebt, ein unvergessliches Erlebnis für alle Besucher zu bieten.\n\n# Services\nDas Hotel bietet eine Vielzahl von Annehmlichkeiten, darunter mehrere Schwimmbäder, ein Spa und ein Fitnesscenter. Gäste können in den hoteleigenen Restaurants internationale Küche genießen. Zudem gibt es einen Kinderclub, der es zu einer familienfreundlichen Option macht. Kostenloses WLAN und eine 24-Stunden-Rezeption gewährleisten den Komfort aller Gäste.\n\n# Lage\nNur einen kurzen Spaziergang vom Strand entfernt, bietet Iberostar Selection Llaut einfachen Zugang zu lokalen Attraktionen, Geschäften und dem Nachtleben. Die strategische Lage ermöglicht es den Besuchern, die lebendige Kultur von Palma zu erkunden und gleichzeitig die Ruhe eines Strandhotels zu genießen.\n\n# Nutzererfahrungen\nBewertungen heben das freundliche Personal und die Sauberkeit der Einrichtungen hervor. Viele Gäste schätzen die Vielfalt der verfügbaren Speisen und die Gesamtatmosphäre des Hotels. Einige Gäste haben jedoch angemerkt, dass das Hotel in der Hochsaison überfüllt sein kann, was die Servicezeiten beeinträchtigt.\n\n# AI-Rating\nBasierend auf Nutzerbewertungen beträgt das AI-Rating für Iberostar Selection Llaut 4,5/5.\n\n| Pro 👍 | Contra 👎 |\n|--------|-----------|\n| Ausgezeichneter Service | Kann in Spitzenzeiten überfüllt sein |\n| Wunderschöne Lage | Eingeschränkte Parkmöglichkeiten |\n| Hochwertige Gastronomie | Geräuschpegel kann variieren |\n\n# Abschluss\nIberostar Selection Llaut ist eine hervorragende Wahl für Reisende, die Luxus und Komfort in Mallorca suchen. Mit einer Mischung aus erstklassigen Dienstleistungen, einer fantastischen Lage und positiven Nutzererfahrungen bleibt es ein starker Anwärter für jeden, der die Gegend besucht.\n",
+      "address": "Av. d'Amèrica, 2, Platja de Palma, 07600 Palma",
+      "mail": "",
+      "website": "https://www.iberostar.com/en/hotels/majorca/iberostar-llaut-palma/?utm_source=google&utm_medium=organic&utm_campaign=IBSVOL_EMEA_SEOLOC_GMB_NA_EN_ESP_BAL_PMI_LLT_PULL_NA_NA_NA_NA_NA",
+      "phone": "+34971596070",
+      "googleMapsLink": "https://maps.app.goo.gl/uJZW9rMao8pFmKtu5",
+      "aiRating": 4.5,
+      "photos": [],
+      "mainCategory": {
+        "name": "🏨 Hotel",
+        "slug": "hotel"
+      },
+      "subCategories": [],
+      "location": {
+        "latitude": 39.5133666,
+        "longitude": 2.7512318
+      }
+    },
+    {
+      "_publishedAt": "2024-09-20T13:29:53+02:00",
+      "_firstPublishedAt": "2024-09-20T13:29:53+02:00",
+      "id": "QdC0VIcOQHCAkhx8VupK-g",
+      "name": "Hotel Cappuccino",
+      "description": "# Übersicht\nDas Hotel Cappuccino ist ein Boutique-Hotel im Herzen von Palma, Balearische Inseln. Bekannt für sein stilvolles Design und die gemütliche Atmosphäre, bietet es eine einzigartige Mischung aus modernem Luxus und traditionellem Charme. Das Hotel zieht sowohl Freizeit- als auch Geschäftsreisende an und bietet einen einladenden Rückzugsort inmitten der lebhaften Stadt.\n\n# Services\nGäste des Hotels Cappuccino können eine Reihe von Dienstleistungen genießen, darunter einen Rooftop-Pool, Spa-Einrichtungen und ein gut ausgestattetes Fitnessstudio. Das Hotel verfügt außerdem über ein hauseigenes Restaurant, das eine Vielzahl von lokalen und internationalen Gerichten serviert. Kostenfreies WLAN und Zimmerservice stehen ebenfalls zur Verfügung, um das Gästeerlebnis zu verbessern.\n\n# Lage\nDas Hotel liegt an der Plaça de Cort und bietet eine erstklassige Lage in der Nähe wichtiger Sehenswürdigkeiten wie der Kathedrale von Santa Maria und der Altstadt. Die zentrale Lage ermöglicht einen einfachen Zugang zu verschiedenen Geschäften, Cafés und kulturellen Wahrzeichen, was es ideal macht, Palma zu Fuß zu erkunden.\n\n# Nutzererfahrungen\nBewertungen von Gästen heben den außergewöhnlichen Service und das freundliche Personal im Hotel Cappuccino hervor. Viele Besucher schätzen die komfortablen Zimmer und die elegante Einrichtung. Einige haben jedoch angemerkt, dass bestimmte Annehmlichkeiten in der Hochsaison begrenzt sein können, was die allgemeine Zufriedenheit beeinträchtigt.\n\n# AI-Rating\nBasierend auf Nutzerbewertungen erhält das Hotel Cappuccino eine Bewertung von 4,5 von 5 Sternen. Das Hotel wird aufgrund seiner Atmosphäre, seines Services und seiner Lage sehr empfohlen.\n\n## Pro/Contra Tabelle\n| Pro ✅                          | Contra ❌                        |\n|-------------------------------|----------------------------------|\n| Stilvolles und modernes Design | Eingeschränkte Annehmlichkeiten in der Hochsaison |\n| Zentrale Lage                 | Etwas Lärm durch den Straßenverkehr |\n| Freundliches und aufmerksames Personal | Parkmöglichkeiten können herausfordernd sein |\n| Hervorragende Speisemöglichkeiten |                                |\n\n# Abschluss\nDas Hotel Cappuccino bietet ein wunderbares Erlebnis für diejenigen, die in den Charme Palmas eintauchen möchten. Mit seiner erstklassigen Lage, modernen Annehmlichkeiten und außergewöhnlichem Service sticht es als erstklassige Wahl für Reisende hervor, die einen unvergesslichen Aufenthalt auf den Balearischen Inseln suchen.",
+      "address": "Plaça de Cort, Distrito Centro, 07001 Palma",
+      "mail": "info@hotelcappuccino.com",
+      "website": "http://www.hotelcappuccino.com//?partner=5235utm_source=google&utm_medium=organic&utm_campaign=MyBusiness&utm",
+      "phone": "+34871037437",
+      "googleMapsLink": "https://maps.app.goo.gl/t3okezRNKSrNSroo7",
+      "aiRating": 4.5,
+      "photos": [],
+      "mainCategory": {
+        "name": "🏨 Hotel",
+        "slug": "hotel"
+      },
+      "subCategories": [],
+      "location": {
+        "latitude": 39.5697159,
+        "longitude": 2.649874
+      }
+    },
+    {
+      "_publishedAt": "2024-09-20T13:26:57+02:00",
+      "_firstPublishedAt": "2024-09-20T13:26:57+02:00",
+      "id": "JeHs8QwcS_Ge6oxYX8h_Bg",
+      "name": "Hotel Victoria Gran Meliá",
+      "description": "# Übersicht\nDas Hotel Victoria Gran Meliá ist ein luxuriöses Etablissement in Palma, Mallorca. Bekannt für sein elegantes Design und erstklassige Annehmlichkeiten, bietet dieses Hotel einen ruhigen Rückzugsort für Reisende, die sowohl Entspannung als auch Abenteuer suchen. Es verfügt über moderne Architektur, üppige Gärten und atemberaubende Ausblicke auf das Mittelmeer.\n\n# Services\nDas Hotel bietet eine Vielzahl von Dienstleistungen, darunter ein Wellnessbereich, Außenpools und gehobene Dining-Optionen. Gäste können personalisierte Concierge-Services, Fitnesseinrichtungen und verschiedene Freizeitaktivitäten genießen, die ein umfassendes und zufriedenes Erlebnis gewährleisten.\n\n# Lage\nDas Hotel befindet sich an der Avinguda de Joan Miró und bietet eine ideale Lage in der Nähe kultureller Sehenswürdigkeiten und schöner Strände. Es ist günstig gelegen, um die lebhafte Stadt Palma zu erkunden, und eignet sich somit perfekt als Basis für Freizeit- und Geschäftsreisende.\n\n# Nutzererfahrungen\nGäste loben häufig den hervorragenden Service, die atemberaubenden Ausblicke und die luxuriösen Unterkünfte des Hotels. Viele heben das aufmerksame Personal und die Qualität des Essens in den Hotelrestaurants hervor. Einige Bewertungen erwähnen gelegentliche Geräusche von nahegelegenen Veranstaltungen als geringfügigen Nachteil.\n\n# AI-Rating\nBasierend auf den Nutzerbewertungen erhält das Hotel Victoria Gran Meliá eine AI-Bewertung von 4,7 von 5 Sternen.\n\n| Pro ✅                      | Contra ❌                 |\n|----------------------------|---------------------------|\n| Außergewöhnlicher Service   | Gelegentliche Lärmbelästigung |\n| Wunderschöne Lage           | Hoher Preis               |\n| Luxuriöse Annehmlichkeiten   | Eingeschränkte Parkmöglichkeiten |\n\n# Abschluss\nInsgesamt wird das Hotel Victoria Gran Meliá für alle, die einen luxuriösen Urlaub in Mallorca suchen, sehr empfohlen. Mit seiner schönen Umgebung und erstklassigen Dienstleistungen verspricht es ein unvergessliches Erlebnis für seine Gäste.",
+      "address": "Avinguda de Joan Miró, 21, Ponent, 07014 Palma",
+      "mail": "",
+      "website": "https://www.melia.com/en/hotels/spain/majorca/victoria-gran-melia?utm_medium=organic&utm_source=directories&utm_campaign=google&utm_content=0754",
+      "phone": "+34971732542",
+      "googleMapsLink": "https://maps.app.goo.gl/oCWXYFFiEnBstR9T9",
+      "aiRating": 4.7,
+      "photos": [],
+      "mainCategory": {
+        "name": "🏨 Hotel",
+        "slug": "hotel"
+      },
+      "subCategories": [],
+      "location": {
+        "latitude": 39.5638014,
+        "longitude": 2.6261071
+      }
+    },
+    {
+      "_publishedAt": "2024-09-20T13:24:35+02:00",
+      "_firstPublishedAt": "2024-09-20T13:24:35+02:00",
+      "id": "B9sfhVSWRDO8cNPlLdOINQ",
+      "name": "GPRO Valparaiso Palace & SPA",
+      "description": "# Übersicht\nDas GPRO Valparaiso Palace & SPA ist ein luxuriöses Hotel in Palma, Mallorca. Es bietet atemberaubende Ausblicke auf das Mittelmeer und ist bekannt für sein elegantes Design und hochwertige Annehmlichkeiten. Das Hotel kombiniert Komfort und Raffinesse und ist eine beliebte Wahl für Reisende, die Entspannung und Genuss suchen.\n\n# Services\nDas Hotel verfügt über eine Vielzahl von Dienstleistungen, darunter ein voll ausgestatteter Wellnessbereich, Außen- und Innenpools sowie verschiedene Gastronomieangebote, die unterschiedlichen Geschmäckern gerecht werden. Die Gäste können Wellness-Programme, Fitnesseinrichtungen und personalisierte Services genießen, die ein umfassendes Luxus-Erlebnis gewährleisten.\n\n# Lage\nIn der ruhigen Gegend von Ponent gelegen, ist das Hotel günstig in der Nähe des lebhaften Stadtzentrums von Palma. Seine erhöhte Lage bietet atemberaubende Ausblicke und ermöglicht einfachen Zugang zu lokalen Sehenswürdigkeiten, Stränden und kulturellen Stätten, was es zu einer idealen Basis für Erkundungen macht.\n\n# Nutzererfahrungen\nViele Gäste schwärmen von dem aufmerksamen Personal, der Sauberkeit der Einrichtungen und der Qualität der gastronomischen Angebote. In den Bewertungen wird oft die ruhige Atmosphäre und die schönen Ausblicke vom Hotel hervorgehoben. Einige Besucher bemerken jedoch, dass bestimmte Annehmlichkeiten teuer sein können und dass das Hotel etwas abseits vom pulsierenden Nachtleben Palmas liegt.\n\n# AI-Rating\nBasierend auf den Nutzerbewertungen erhält das GPRO Valparaiso Palace & SPA ein AI-Rating von 4,5 von 5 Sternen. Die Gäste heben häufig die hochwertigen Dienstleistungen und die Gesamtatmosphäre hervor, was zu dieser positiven Bewertung beiträgt.\n\n## Pro/Contra\n| Pro 🟢                          | Contra 🔴                         |\n|-------------------------------|----------------------------------|\n| Exzellente Wellness-Angebote   | Höhere Preisklasse               |\n| Atemberaubende Ausblicke       | Etwas abseits vom Nachtleben     |\n| Aufmerksames und freundliches Personal | Eingeschränkte lokale Gastronomie  |\n| Luxuriöse Unterkünfte          |                                  |\n\n# Abschluss\nDas GPRO Valparaiso Palace & SPA ist eine ausgezeichnete Wahl für alle, die einen luxuriösen Aufenthalt in Palma suchen und hochwertige Dienstleistungen sowie eine ruhige Umgebung schätzen. Auch wenn es nicht die erschwinglichste Option ist, machen Qualität und Ambiente den Aufenthalt unvergesslich.",
+      "address": "C/ de Francesc Vidal i Sureda, 23, Ponent, 07015 Palma",
+      "mail": "valparaiso@gprovalparaiso.com",
+      "website": "http://www.gprovalparaiso.com/",
+      "phone": "+34971400300",
+      "googleMapsLink": "https://maps.app.goo.gl/zmGnyuMhHC66vKjVA",
+      "aiRating": 4.5,
+      "photos": [],
+      "mainCategory": {
+        "name": "🏨 Hotel",
+        "slug": "hotel"
+      },
+      "subCategories": [],
+      "location": {
+        "latitude": 39.5553568,
+        "longitude": 2.6193149
+      }
+    },
+    {
+      "_publishedAt": "2024-09-20T13:22:44+02:00",
+      "_firstPublishedAt": "2024-09-20T13:22:44+02:00",
+      "id": "K0cfGqEjRryNlg71XEDlBQ",
+      "name": "Hotel Glòria de Sant Jaume",
+      "description": "# Übersicht\nHotel Glòria de Sant Jaume ist ein Boutique-Hotel im Herzen von Palma, Mallorca. Mit seinem historischen Charme und modernen Annehmlichkeiten bietet das Hotel eine einzigartige Atmosphäre für Reisende, die Komfort und Stil suchen. Die liebevoll gestalteten Innenräume sind bekannt für ihre Gastfreundschaft und Liebe zum Detail.\n\n# Services\nDas Hotel bietet eine Vielzahl von Dienstleistungen, darunter einen Dachpool, ein Fitnesscenter und ein Gourmetrestaurant, das mediterrane Küche serviert. Gäste können auch kostenloses WLAN, Zimmerservice und ein Spa genießen, um einen entspannenden Aufenthalt zu gewährleisten. Das Hotel richtet sich sowohl an Freizeitreisende als auch an Geschäftsreisende mit verfügbaren Konferenzeinrichtungen.\n\n# Lage\nIn der Carrer de Sant Jaume gelegen, bietet das Hotel eine erstklassige Lage in der Nähe der wichtigsten Sehenswürdigkeiten von Palma. Gäste können lokale Geschäfte, Restaurants und historische Stätten, darunter die berühmte Kathedrale von Santa Maria und den lebhaften Plaza Mayor, bequem zu Fuß erkunden.\n\n# Nutzererfahrungen\nBewertungen von Gästen heben den hervorragenden Service und die exquisite Einrichtung des Hotels hervor. Viele schätzen die ruhige Atmosphäre und die bequeme Lage, die es einfach macht, die Stadt zu erkunden. Einige Nutzer erwähnen kleinere Probleme mit der Zimmergröße, sind aber insgesamt sehr zufrieden mit ihrem Aufenthalt.\n\n# AI-Rating\nBasierend auf den Nutzerbewertungen erhält das Hotel Glòria de Sant Jaume ein AI-Rating von 4,7 von 5 für seinen außergewöhnlichen Service, die Qualität und die Lage.\n\n## Pro und Contra\n\n| Pro 🌟                    | Contra ❌                    |\n|---------------------------|-----------------------------|\n| Wunderschön gestaltete Zimmer | Einige Zimmer sind klein    |\n| Exzellente Lage           | Eingeschränkte Parkmöglichkeiten |\n| Freundliches Personal      | Lärm von der Straße gelegentlich |\n| Tolles Restaurant         | Höherer Preis für einige    |\n\n# Abschluss\nHotel Glòria de Sant Jaume ist eine ideale Wahl für Reisende, die eine Kombination aus Luxus und lokalem Charme in Palma suchen. Mit seiner erstklassigen Lage und hervorragenden Dienstleistungen bietet es ein unvergessliches Erlebnis für sowohl Freizeit- als auch Geschäftsreisende.",
+      "address": "Carrer de Sant Jaume, 18, Centre, 07012 Palma",
+      "mail": "info@gloriasantjaume.com",
+      "website": "https://www.gloriasantjaume.com/",
+      "phone": "+34971717997",
+      "googleMapsLink": "https://maps.app.goo.gl/UCo4nuQKYg2Xgiey7",
+      "aiRating": 4.7,
+      "photos": [],
+      "mainCategory": {
+        "name": "🏨 Hotel",
+        "slug": "hotel"
+      },
+      "subCategories": [],
+      "location": {
+        "latitude": 39.5733841,
+        "longitude": 2.6479941
+      }
+    },
+    {
+      "_publishedAt": "2024-09-20T13:20:08+02:00",
+      "_firstPublishedAt": "2024-09-20T13:20:08+02:00",
+      "id": "XV6PnOOdTEuCaEgY6XFstg",
+      "name": "Es Princep",
+      "description": "# Übersicht\nEs Princep ist ein luxuriöses Hotel in Palma, Mallorca, das für sein elegantes Design und die atemberaubende Aussicht auf das Mittelmeer bekannt ist. Die Unterkunft verbindet moderne Annehmlichkeiten mit einem Hauch traditionellem mallorquinischem Charme und bietet den Gästen einen ruhigen und anspruchsvollen Rückzugsort.\n\n# Services\nDas Hotel bietet eine Vielzahl von hochwertigen Dienstleistungen, darunter ein Spa, ein Fitnesscenter und einen Infinity-Pool auf dem Dach. Die Gäste können lokale Küche in erstklassigen Restaurants genießen und auf einen persönlichen Concierge-Service zurückgreifen, der bei Ausflügen und Aktivitäten behilflich ist.\n\n# Lage\nIm Herzen von Palma gelegen, ist Es Princep günstig in der Nähe wichtiger Sehenswürdigkeiten, Einkaufsviertel und eines lebhaften Nachtlebens. Die Lage am Wasser ermöglicht einfachen Zugang zum Strand und bietet atemberaubende Küstenblicke.\n\n# Nutzererfahrungen\nViele Gäste loben das Hotel für seinen hervorragenden Service, das freundliche Personal und die schöne Atmosphäre. Einige Bewertungen erwähnen jedoch den höheren Preis, der möglicherweise nicht für alle Reisenden geeignet ist. Insgesamt hebt das Feedback eine unvergessliche und luxuriöse Erfahrung hervor.\n\n# AI-Rating\nBasierend auf den Nutzerbewertungen erhält Es Princep ein AI-Rating von 4,5 von 5 für seinen herausragenden Service, die Annehmlichkeiten und die Lage.\n\n| Pro ✅                | Contra ❌              |\n|----------------------|-----------------------|\n| Ausgezeichneter Service| Höherer Preis          |\n| Wunderschöne Lage     | Eingeschränkte Speiseoptionen |\n| Elegantes Design      |                       |\n\n# Abschluss\nEs Princep hebt sich als exquisites Ziel für Reisende hervor, die Luxus und Komfort in Mallorca suchen. Mit seiner erstklassigen Lage und hervorragenden Dienstleistungen ist es eine fantastische Wahl für diejenigen, die bereit sind, in ein erstklassiges Erlebnis zu investieren.",
+      "address": "Carrer de Bala Roja, 1, Centre, 07001 Palma",
+      "mail": "info@esprincep.com",
+      "website": "http://www.esprincep.com/en",
+      "phone": "+34971720000",
+      "googleMapsLink": "https://maps.app.goo.gl/bpnB4QHKeenKSJRy9",
+      "aiRating": 4.5,
+      "photos": [],
+      "mainCategory": {
+        "name": "🏨 Hotel",
+        "slug": "hotel"
+      },
+      "subCategories": [],
+      "location": {
+        "latitude": 39.5656525,
+        "longitude": 2.6552605
+      }
+    },
+    {
+      "_publishedAt": "2024-09-20T13:13:58+02:00",
+      "_firstPublishedAt": "2024-09-20T13:13:58+02:00",
+      "id": "Hqi9-fvyT466M_BJPUtOfw",
+      "name": "El Llorenç Parc de la Mar",
+      "description": "# Übersicht\nEl Llorenç Parc de la Mar ist ein luxuriöses Hotel im Herzen von Palma, Mallorca. Dieses moderne Etablissement vereint zeitgenössisches Design mit historischem Charme und bietet Gästen ein einzigartiges und komfortables Erlebnis. Mit seiner eleganten Architektur und stilvoll eingerichteten Zimmern hebt es sich als ideales Ziel für Reisende hervor, die sowohl Entspannung als auch Abenteuer suchen.\n\n# Services\nDas Hotel bietet eine Vielzahl von hochwertigen Dienstleistungen, darunter ein Spa, ein Fitnesscenter und einen Dachpool mit atemberaubendem Blick auf das Mittelmeer. Gäste können im hoteleigenen Restaurant speisen, das lokale Zutaten und mediterrane Küche betont. Weitere Dienstleistungen umfassen Concierge-Hilfe, Zimmerservice und Veranstaltungsräume für Meetings oder Feiern.\n\n# Lage\nDas Hotel liegt günstig an der Plaça de Llorenç Villalonga, in der Nähe wichtiger Sehenswürdigkeiten in Palma, wie der Kathedrale Santa Maria und der historischen Altstadt. Die erstklassige Lage ermöglicht es den Gästen, die lebendige lokale Kultur, Geschäfte und das Nachtleben in Fußnähe zu erkunden.\n\n# Nutzererfahrungen\nBewertungen von Gästen heben den außergewöhnlichen Service, die Sauberkeit und die Annehmlichkeiten hervor. Viele schätzen das aufmerksame Personal und die ruhige Atmosphäre. Einige Nutzer bemerken jedoch, dass das Hotel etwas teurer sein kann, was möglicherweise nicht für jedes Budget geeignet ist. Insgesamt spiegelt das Feedback eine überwiegend positive Erfahrung wider.\n\n# AI-Rating\nBasierend auf Nutzerbewertungen und Gesamteindrücken erhält El Llorenç Parc de la Mar eine Bewertung von 4,5 von 5 Sternen.\n\n| Pro ✅                       | Contra ❌                          |\n|-----------------------------|------------------------------------|\n| Außergewöhnlicher Service    | Höherer Preis                      |\n| Wunderschönes Design         | Eingeschränkte Essensmöglichkeiten  |\n| Exzellente Lage              | Einige Zimmer können klein sein    |\n| Tolle Annehmlichkeiten       | Gelegentlicher Lärm von der Straße  |\n\n# Abschluss\nEl Llorenç Parc de la Mar bietet eine Kombination aus Luxus, Komfort und erstklassiger Lage, was es zu einer attraktiven Option für Besucher von Palma macht. Obwohl es teurer als andere Optionen sein kann, macht die Qualität des Services und der Annehmlichkeiten es zu einer lohnenswerten Wahl für einen unvergesslichen Aufenthalt.",
+      "address": "Plaça de Llorenç Villalonga, 4, Centre, 07001 Palma",
+      "mail": "info@elllorenc.com",
+      "website": "https://www.elllorenc.com/es/home.html",
+      "phone": "+34971677770",
+      "googleMapsLink": "https://maps.app.goo.gl/EbDj2CmJtWL4nfKE7",
+      "aiRating": 4.5,
+      "photos": [],
+      "mainCategory": {
+        "name": "🏨 Hotel",
+        "slug": "hotel"
+      },
+      "subCategories": [],
+      "location": {
+        "latitude": 39.5657104,
+        "longitude": 2.6530103
+      }
+    },
+    {
+      "_publishedAt": "2024-09-20T13:11:13+02:00",
+      "_firstPublishedAt": "2024-09-20T13:11:13+02:00",
+      "id": "Ncdc0ZX5SC2rbaR9L1cG2Q",
+      "name": "Hotel Cort",
+      "description": "## Übersicht\nDas Hotel Cort ist ein stilvolles Boutique-Hotel im Herzen von Palma, Balearen. Mit einer Kombination aus modernen Annehmlichkeiten und traditionellem Charme bietet es Gästen eine einladende Atmosphäre zur Entspannung und Erkundung.\n\n## Services\nDas Hotel bietet eine Vielzahl von Dienstleistungen, darunter kostenloses WLAN, eine Dachterrasse mit Pool, ein Restaurant mit lokaler Küche und Concierge-Services, die bei Aktivitäten und Buchungen helfen. Zudem stehen Zimmerservice und Einrichtungen für Geschäftsreisende zur Verfügung.\n\n## Lage\nDas Hotel befindet sich an der Plaça de Cort und bietet eine hervorragende Lage in unmittelbarer Nähe zu Hauptattraktionen wie der Kathedrale von Palma und der historischen Altstadt. Gäste können leicht Zugang zu Einkaufsmöglichkeiten, Gastronomie und kulturellen Erlebnissen finden.\n\n## Nutzererfahrungen\nViele Gäste loben das Hotel Cort für seinen außergewöhnlichen Service, komfortable Zimmer und die zentrale Lage. Bewertungen heben das freundliche Personal und die schön gestalteten Innenräume hervor. Einige Gäste erwähnen jedoch gelegentlichen Lärm von der Straße und begrenzte Parkmöglichkeiten.\n\n## AI-Rating\nBasierend auf Nutzerbewertungen erhält das Hotel Cort ein AI-Rating von 4,5 von 5, was die starke Leistung in den Bereichen Service und Lage widerspiegelt.\n\n| Pro                  | Contra                  |\n|----------------------|------------------------|\n| ✅ Freundliches Personal | ❌ Straßengeräusche     |\n| ✅ Zentrale Lage      | ❌ Begrenzte Parkmöglichkeiten |\n| ✅ Komfortable Zimmer  | ❌ Kleiner Poolbereich  |\n\n## Abschluss\nDas Hotel Cort hebt sich als ideale Wahl für Reisende hervor, die ein einzigartiges Erlebnis in Palma suchen. Mit seiner ausgezeichneten Lage und dem aufmerksamen Service vereint es Luxus und Komfort und ist somit eine beliebte Option unter Besuchern.",
+      "address": "Plaça de Cort, 11, Distrito Centro, 07001 Palma",
+      "mail": "info@hotelcort.com",
+      "website": "http://www.hotelcort.com/",
+      "phone": "+34971213300",
+      "googleMapsLink": "https://maps.app.goo.gl/8J6W9J9VZUP5veFEA",
+      "aiRating": 4.5,
+      "photos": [],
+      "mainCategory": {
+        "name": "🏨 Hotel",
+        "slug": "hotel"
+      },
+      "subCategories": [],
+      "location": {
+        "latitude": 39.569819,
+        "longitude": 2.6498663
+      }
+    },
+    {
+      "_publishedAt": "2024-09-20T13:08:43+02:00",
+      "_firstPublishedAt": "2024-09-20T13:08:43+02:00",
+      "id": "VKZV1THtQviPFBS8RSpYlA",
+      "name": "Convent de la Missió, grand luxury boutique hotel",
+      "description": "# Übersicht\nDas Hotel Continental ist eine charmante Unterkunft im Herzen von Palma, Mallorca. Mit einer Mischung aus traditionellem mediterranen Stil und modernen Annehmlichkeiten bietet es eine einladende Atmosphäre für sowohl Freizeit- als auch Geschäftsreisende. Das Hotel legt großen Wert auf Komfort und hochwertigen Service, was es zu einer beliebten Wahl unter den Besuchern macht.\n\n# Services\nDas Hotel bietet eine Vielzahl von Services, darunter kostenloses WLAN, ein gut ausgestattetes Fitnesscenter und eine gemütliche Bar, in der sich die Gäste entspannen können. Darüber hinaus gibt es ein hauseigenes Restaurant, das eine Auswahl an lokalen und internationalen Gerichten serviert. Das aufmerksame Personal ist für seine Gastfreundschaft bekannt und sorgt dafür, dass sich die Gäste während ihres Aufenthalts wohlfühlen.\n\n# Lage\nDas Hotel liegt in der Carrer de la Indústria und bietet eine erstklassige Lage in der Nähe der wichtigsten Sehenswürdigkeiten von Palma, darunter die beeindruckende Kathedrale und die lebhaften Einkaufsviertel. Die Gegend ist gut mit öffentlichen Verkehrsmitteln angebunden, sodass die Gäste die Insel bequem erkunden können.\n\n# Nutzererfahrungen\nDie Bewertungen von Gästen heben die Sauberkeit des Hotels und die Freundlichkeit des Personals hervor. Viele schätzen die komfortablen Zimmer und das gute Preis-Leistungs-Verhältnis. Einige Rückmeldungen erwähnen Lärm von der Straße, aber insgesamt überwiegen die positiven Erfahrungen.\n\n# AI-Rating\nBasierend auf Nutzerbewertungen erhält das Hotel Continental ein AI-Rating von 4,5 von 5. Die Gäste loben häufig die Servicequalität, die Lage und die allgemeine Atmosphäre des Hotels.\n\n# Abschluss\nZusammenfassend lässt sich sagen, dass das Hotel Continental als hervorragende Option für Reisende, die Komfort und Bequemlichkeit in Palma suchen, heraussticht. Mit seiner einladenden Umgebung und durchdachten Annehmlichkeiten ist es gut geeignet für verschiedene Arten von Besuchern.\n\n## Pro/Contra Tabelle\n| Pro ✅                   | Contra ❌                   |\n|------------------------|----------------------------|\n| Freundliches Personal   | Etwas Straßenlärm         |\n| Sauber und komfortabel  | Begrenzte Parkmöglichkeiten|\n| Zentrale Lage          | Einfache Frühstücksoptionen|\n",
+      "address": "Carrer de la Missió, 7A, Centre, 07003 Palma",
+      "mail": "hotel@conventdelamissio.com",
+      "website": "http://www.conventdelamissio.com/",
+      "phone": "+34971227347",
+      "googleMapsLink": "https://maps.app.goo.gl/RPNu1GKBftRJTixx6",
+      "aiRating": 4.5,
+      "photos": [],
+      "mainCategory": {
+        "name": "🏨 Hotel",
+        "slug": "hotel"
+      },
+      "subCategories": [],
+      "location": {
+        "latitude": 39.573574,
+        "longitude": 2.6513869
+      }
+    },
+    {
+      "_publishedAt": "2024-09-20T13:06:30+02:00",
+      "_firstPublishedAt": "2024-09-20T13:06:30+02:00",
+      "id": "EKm0aZKXSpOck0Fkuo2mxA",
+      "name": "Hotel Continental",
+      "description": "# Übersicht\nDas Hotel Continental ist eine charmante Unterkunft im Herzen von Palma, Mallorca. Mit einer Mischung aus traditionellem mediterranen Stil und modernen Annehmlichkeiten bietet es eine einladende Atmosphäre für sowohl Freizeit- als auch Geschäftsreisende. Das Hotel legt großen Wert auf Komfort und hochwertigen Service, was es zu einer beliebten Wahl unter den Besuchern macht.\n\n# Services\nDas Hotel bietet eine Vielzahl von Services, darunter kostenloses WLAN, ein gut ausgestattetes Fitnesscenter und eine gemütliche Bar, in der sich die Gäste entspannen können. Darüber hinaus gibt es ein hauseigenes Restaurant, das eine Auswahl an lokalen und internationalen Gerichten serviert. Das aufmerksame Personal ist für seine Gastfreundschaft bekannt und sorgt dafür, dass sich die Gäste während ihres Aufenthalts wohlfühlen.\n\n# Lage\nDas Hotel liegt in der Carrer de la Indústria und bietet eine erstklassige Lage in der Nähe der wichtigsten Sehenswürdigkeiten von Palma, darunter die beeindruckende Kathedrale und die lebhaften Einkaufsviertel. Die Gegend ist gut mit öffentlichen Verkehrsmitteln angebunden, sodass die Gäste die Insel bequem erkunden können.\n\n# Nutzererfahrungen\nDie Bewertungen von Gästen heben die Sauberkeit des Hotels und die Freundlichkeit des Personals hervor. Viele schätzen die komfortablen Zimmer und das gute Preis-Leistungs-Verhältnis. Einige Rückmeldungen erwähnen Lärm von der Straße, aber insgesamt überwiegen die positiven Erfahrungen.\n\n# AI-Rating\nBasierend auf Nutzerbewertungen erhält das Hotel Continental ein AI-Rating von 4,5 von 5. Die Gäste loben häufig die Servicequalität, die Lage und die allgemeine Atmosphäre des Hotels.\n\n# Abschluss\nZusammenfassend lässt sich sagen, dass das Hotel Continental als hervorragende Option für Reisende, die Komfort und Bequemlichkeit in Palma suchen, heraussticht. Mit seiner einladenden Umgebung und durchdachten Annehmlichkeiten ist es gut geeignet für verschiedene Arten von Besuchern.\n\n## Pro/Contra Tabelle\n| Pro ✅                   | Contra ❌                   |\n|------------------------|----------------------------|\n| Freundliches Personal   | Etwas Straßenlärm         |\n| Sauber und komfortabel  | Begrenzte Parkmöglichkeiten|\n| Zentrale Lage          | Einfache Frühstücksoptionen|",
+      "address": "Carrer de la Indústria, 10, 07013 Palma",
+      "mail": "reservas@hotelcontinentalmallorca.es",
+      "website": "https://www.hotelcontinentalmallorca.com/",
+      "phone": "+34971780100",
+      "googleMapsLink": "https://maps.app.goo.gl/UyMd9pCowF39H2nc6",
+      "aiRating": 4.5,
+      "photos": [],
+      "mainCategory": {
+        "name": "🏨 Hotel",
+        "slug": "hotel"
+      },
+      "subCategories": [],
+      "location": {
+        "latitude": 39.5738201,
+        "longitude": 2.6398125
+      }
+    },
+    {
+      "_publishedAt": "2024-09-20T13:04:36+02:00",
+      "_firstPublishedAt": "2024-09-20T13:04:20+02:00",
+      "id": "GXdGUtIyQ8G5DST2ocy2iw",
+      "name": "Concepció by Nobis",
+      "description": "# Übersicht\nConcepció by Nobis ist ein elegantes Hotel im Herzen von Palma, Mallorca. Es vereint modernen Luxus mit lokalem Charme und bietet eine einzigartige Erfahrung für Reisende, die sowohl Entspannung als auch Erkundung suchen. Die Unterkunft zeichnet sich durch stilvolle Zimmer und eine elegante Atmosphäre aus, was es zu einem begehrenswerten Ziel für Touristen und Geschäftsreisende macht.\n\n# Services\nDas Hotel bietet eine Vielzahl von Dienstleistungen, um das Gästeerlebnis zu verbessern. Dazu gehören geräumige und gut ausgestattete Zimmer, ein Restaurant mit gehobener Küche, eine Bar, ein Wellnesscenter und Veranstaltungsräume für Besprechungen und Feiern. Gäste können auch persönliche Concierge-Services und eine Dachterrasse mit atemberaubendem Blick auf die Stadt genießen.\n\n# Lage\nDas Hotel liegt an der C/ de la Concepció und ist strategisch günstig gelegen, um einfachen Zugang zur lebhaften Kultur und den Attraktionen von Palma zu erhalten. Die Gäste können in der Nähe Einkaufsmöglichkeiten, historische Stätten und schöne Strände erkunden, was es zu einer idealen Basis für die Entdeckung der Schönheit Mallorcas macht.\n\n# Nutzererfahrungen\nNutzerbewertungen heben den außergewöhnlichen Service und die Liebe zum Detail im Concepció by Nobis hervor. Viele Gäste loben das freundliche Personal und die luxuriöse Atmosphäre des Hotels. Einige erwähnen jedoch, dass die Zimmerpreise besonders in der Hochsaison höher sein können. Insgesamt spiegelt das Feedback ein hohes Maß an Zufriedenheit unter den Besuchern wider.\n\n# AI-Rating\nBasierend auf den Nutzerbewertungen erhält Concepció by Nobis ein AI-Rating von 4,5/5. Die Kombination aus Luxus, Service und Lage trägt zu seinem starken Ruf bei.\n\n| Pro                       | Contra                        |\n|---------------------------|-------------------------------|\n| ✅ Außergewöhnlicher Service | ❌ Höhere Zimmerpreise        |\n| ✅ Stilvolle Unterkünfte    | ❌ Eingeschränkte Parkmöglichkeiten |\n| ✅ Zentrale Lage           | ❌ Etwas Lärm von der Straße   |\n\n# Abschluss\nConcepció by Nobis hebt sich als erstklassige Wahl für Besucher von Palma hervor und bietet eine exquisite Mischung aus Luxus und Komfort. Mit seinen herausragenden Dienstleistungen und der zentralen Lage ist es ideal für jeden, der das Beste von Mallorca erleben möchte.",
+      "address": "C/ de la Concepció, 34, Centre, 07012 Palma",
+      "mail": "info@concepciobynobis.com",
+      "website": "https://www.concepciobynobis.com/",
+      "phone": "+34971915025",
+      "googleMapsLink": "https://maps.app.goo.gl/XkEjKabYywAowdtS8",
+      "aiRating": 4.5,
+      "photos": [],
+      "mainCategory": {
+        "name": "🏨 Hotel",
+        "slug": "hotel"
+      },
+      "subCategories": [],
+      "location": {
+        "latitude": 39.574501,
+        "longitude": 2.6456798
+      }
+    },
+    {
+      "_publishedAt": "2024-09-20T13:02:42+02:00",
+      "_firstPublishedAt": "2024-09-20T13:02:42+02:00",
+      "id": "GQYo0vfmSp-smQ4YfxLRSA",
+      "name": "Hotel Ciutat Jardi",
+      "description": "# Übersicht\nDas Hotel Ciutat Jardi ist ein charmantes Hotel in Platja de Palma, Mallorca. Bekannt für seine einladende Atmosphäre bietet es einen entspannenden Rückzugsort für Freizeit- und Geschäftsreisende. Mit modernen Annehmlichkeiten und einem Fokus auf Komfort bedient es eine vielfältige Klientel, die qualitativ hochwertigen Service und schöne Umgebung sucht.\n\n# Services\nDas Hotel bietet eine Vielzahl von Dienstleistungen, darunter ein Restaurant, das lokale und internationale Küche serviert, kostenloses WLAN, einen Außenpool und einen einfachen Zugang zum Strand. Gäste können verschiedene Aktivitäten genießen, wie Fahrradverleih und geführte Touren, um die atemberaubende Landschaft Mallorcas zu erkunden.\n\n# Lage\nDas Hotel liegt in der Carrer de l'Illa de Malta und bietet eine erstklassige Lage nur einen kurzen Spaziergang vom Strand entfernt. Die Nähe zu lokalen Attraktionen, Geschäften und Restaurants macht es zu einem idealen Ort für diejenigen, die die lebendige Kultur Palmas erleben möchten.\n\n# Nutzererfahrungen\nBewertungen heben das freundliche Personal und die sauberen Unterkünfte hervor, wobei viele Gäste die ruhige Umgebung des Hotels loben. Einige Besucher berichten jedoch, dass der Lärm von den nahegelegenen Straßen gelegentlich ihren Aufenthalt stören kann. Insgesamt spiegeln die meisten Erfahrungen einen positiven Eindruck wider, der das gute Preis-Leistungs-Verhältnis und den Komfort betont.\n\n# AI-Rating\nBasierend auf den Nutzerbewertungen erhält das Hotel Ciutat Jardi eine Bewertung von 4,2/5, was auf eine hohe Zufriedenheit der Gäste hinweist, insbesondere in Bezug auf Service und Lage.\n\n| Pro 🌟                  | Contra ❌                |\n|------------------------|-------------------------|\n| Freundliches Personal   | Lärm von der Straße      |\n| Sauber und komfortabel  | Eingeschränkte Parkmöglichkeiten |\n| Tolle Lage             | Gelegentliche Wartungsprobleme |\n\n# Abschluss\nDas Hotel Ciutat Jardi ist eine hervorragende Option für Reisende, die einen gemütlichen Aufenthalt auf Mallorca suchen. Mit seinem ausgezeichneten Service und der zentralen Lage erfüllt es gut die Bedürfnisse seiner Gäste und ist eine beliebte Wahl unter Reisenden.",
+      "address": "Carrer de l'Illa de Malta, 14, Platja de Palma, 07007 Palma",
+      "mail": "booking@hciutatj.es",
+      "website": "http://www.hciutatj.es/",
+      "phone": "+34971746070",
+      "googleMapsLink": "https://maps.app.goo.gl/GgXTUeVAW28CMXCf7",
+      "aiRating": 4.2,
+      "photos": [],
+      "mainCategory": {
+        "name": "🏨 Hotel",
+        "slug": "hotel"
+      },
+      "subCategories": [],
+      "location": {
+        "latitude": 39.5523957,
+        "longitude": 2.6911005
+      }
+    },
+    {
       "_publishedAt": "2024-09-20T13:00:41+02:00",
       "_firstPublishedAt": "2024-09-20T13:00:41+02:00",
       "id": "ctGn28tTTsS4l55VZBc5Cg",
@@ -253,7 +1884,7 @@
           "slug": "asian"
         },
         {
-          "name": "Korean. Barbecue",
+          "name": "🥓 Korean. Barbecue",
           "slug": "korean-bbq"
         }
       ],
@@ -706,7 +2337,7 @@
         }
       ],
       "mainCategory": {
-        "name": "🎨 Lifestyle",
+        "name": "✨ Lifestyle",
         "slug": "lifestyle"
       },
       "subCategories": [
@@ -1373,158 +3004,6 @@
       "location": {
         "latitude": 39.5710043,
         "longitude": 2.6552932
-      }
-    },
-    {
-      "_publishedAt": "2024-09-20T10:16:21+02:00",
-      "_firstPublishedAt": "2024-09-19T19:32:45+02:00",
-      "id": "Cm4qfctQRrCYFzZn9bYEoA",
-      "name": "Raimundo Burger",
-      "description": "# Übersicht\nRaimundo Burger ist ein beliebtes Restaurant im Herzen von Palma, Mallorca. Bekannt für seine einladende Atmosphäre und ein abwechslungsreiches Menü, zielt es darauf ab, sowohl Einheimischen als auch Touristen ein köstliches Burger-Erlebnis zu bieten.\n\n# Services\nDas Restaurant bietet eine Vielzahl von Gourmet-Burgern sowie Beilagen wie Pommes und Salate an. Zusätzlich gibt es vegetarische und vegane Optionen, die sicherstellen, dass alle diätetischen Vorlieben berücksichtigt werden. Der Service wird allgemein für seine Freundlichkeit und Aufmerksamkeit gelobt, was das Gesamterlebnis verbessert.\n\n# Lage\nGelegen an der Plaça de Raimundo Clar, ist dieses Lokal leicht erreichbar und stellt einen bequemen Halt für Besucher dar, die die Stadt erkunden. Die zentrale Lage ermöglicht es den Gästen, ihr Essen zu genießen und gleichzeitig die lebendige Atmosphäre Palmas zu erleben.\n\n# Nutzererfahrungen\nKunden loben häufig die Qualität des Essens, insbesondere die Frische der Zutaten und die geschmackvollen Kombinationen. Einige Bewertungen weisen jedoch auf gelegentliche Wartezeiten während der Hauptverkehrszeiten hin. Insgesamt neigt das Feedback zur positiven Seite und hebt ein zufriedenstellendes Esserlebnis hervor.\n\n# AI-Rating\nBasierend auf Nutzerbewertungen und dem allgemeinen Sentiment erhält Raimundo Burger ein AI-Rating von 4,5/5.\n\n# Pro und Contra\n| Pro 😊                     | Contra 😞                      |\n|---------------------------|---------------------------------|\n| Köstliche Gourmet-Burger   | Gelegentliche lange Wartezeiten  |\n| Freundliches und aufmerksames Personal| Begrenzte Sitzplätze während der Stoßzeiten|\n| Vegetarische und vegane Optionen|                             |\n| Zentrale Lage             |                                 |\n\n# Fazit\nZusammenfassend lässt sich sagen, dass Raimundo Burger eine ausgezeichnete Wahl für alle ist, die hochwertige Burger in Palma genießen möchten. Mit seiner einladenden Atmosphäre, dem vielfältigen Menü und dem aufmerksamen Service spricht es ein breites Publikum an. Obwohl gelegentliche Wartezeiten ein Anliegen sein können, machen das insgesamt positive Feedback und die Qualität des Esserlebnisses es zu einem Muss für Burgerliebhaber.",
-      "address": "Plaça de Raimundo Clar, 14, Centre, 07002 Palma",
-      "mail": "",
-      "website": "http://www.raimundoburger.com",
-      "phone": "+34692211160",
-      "googleMapsLink": "https://maps.app.goo.gl/VEM7PPtsLdeHtQEo9",
-      "aiRating": 4.5,
-      "photos": [],
-      "mainCategory": {
-        "name": "🍽️ Restaurant",
-        "slug": "restaurant"
-      },
-      "subCategories": [
-        {
-          "name": "🍔 Burger",
-          "slug": "burger"
-        }
-      ],
-      "location": {
-        "latitude": 39.57049,
-        "longitude": 2.65505
-      }
-    },
-    {
-      "_publishedAt": "2024-09-20T10:16:11+02:00",
-      "_firstPublishedAt": "2024-09-19T19:39:09+02:00",
-      "id": "LZuLh7YkR6K7sQ66aqh-Tw",
-      "name": "Patrón Lunares",
-      "description": "# Übersicht\nPatrón Lunares ist ein einladendes Restaurant und Lifestyle-Objekt in Palma, Mallorca. Bekannt für seine lebendige Atmosphäre und kulinarische Kreativität, bietet es eine einzigartige Mischung aus lokalen Aromen und modernem Design. Der Betrieb hat sich schnell zu einem Favoriten unter Einheimischen und Touristen entwickelt, die ein außergewöhnliches Esserlebnis suchen.\n\n# Services\nDas Restaurant bietet ein abwechslungsreiches Menü mit mediterranen und spanischen Gerichten, die aus frischen, lokal bezogenen Zutaten zubereitet werden. Patrón Lunares bietet auch Veranstaltungsdienste an, um private Feiern und Firmenveranstaltungen auszurichten. Das aufmerksame Personal sorgt dafür, dass die Gäste während ihres Besuchs erstklassigen Service erhalten.\n\n# Lage\nBequem gelegen in der C. de la Fàbrica im Stadtteil Ponent ist Patrón Lunares sowohl für Einheimische als auch für Besucher leicht erreichbar. Die Lage bietet eine charmante Atmosphäre, umgeben von der kulturellen Vielfalt Palmas, und macht es zu einem idealen Ort für gemütliche Mahlzeiten und Feierlichkeiten.\n\n# Nutzererfahrungen\nDie Bewertungen heben die lebhafte Atmosphäre, die hervorragende Lebensmittelqualität und den freundlichen Service des Restaurants hervor. Viele Gäste schätzen die innovativen Menüoptionen und die Liebe zum Detail bei der Präsentation der Speisen und beim Esserlebnis. Einige Nutzer haben jedoch erwähnt, dass Reservierungen zu Stoßzeiten schwierig sein können.\n\n# AI-Rating\nBasierend auf Nutzerbewertungen und allgemeinem Sentiment erhält Patrón Lunares ein AI-Rating von 4,5 von 5.\n\n# Pro und Contra\n\n| Pro ✔️                        | Contra ❌                    |\n|-------------------------------|------------------------------|\n| Köstliches und innovatives Menü| Reservierungen können schwierig sein|\n| Freundliches und aufmerksames Personal| Kann während der Hauptzeiten überfüllt sein|\n| Tolle Atmosphäre              | Eingeschränkte Parkmöglichkeiten in der Nähe|\n\n# Fazit\nInsgesamt sticht Patrón Lunares als eines der besten Restaurantziele in Palma hervor und bietet ein wunderbares Erlebnis durch seine Küche und Atmosphäre. Es wird jedem empfohlen, der die kulinarische Szene Mallorcas erkunden möchte.",
-      "address": "C. de la Fàbrica, 30, Ponent, 07013 Palma",
-      "mail": "",
-      "website": "http://patronlunares.com",
-      "phone": "+34971577154",
-      "googleMapsLink": "https://maps.app.goo.gl/qHRan9qKJsMXPbmx5",
-      "aiRating": 4.5,
-      "photos": [],
-      "mainCategory": {
-        "name": "🍽️ Restaurant",
-        "slug": "restaurant"
-      },
-      "subCategories": [
-        {
-          "name": "🌊 Mittelmeerküche",
-          "slug": "mediterranean"
-        }
-      ],
-      "location": {
-        "latitude": 39.572829,
-        "longitude": 2.6371266
-      }
-    },
-    {
-      "_publishedAt": "2024-09-20T10:16:00+02:00",
-      "_firstPublishedAt": "2024-09-19T19:45:22+02:00",
-      "id": "ctvUS8gDS1egZyIOo5LcZw",
-      "name": "Ca n'Eduardo",
-      "description": "# Übersicht\nCa n'Eduardo ist ein charmantes Etablissement in Palma, auf den Balearischen Inseln, das für seine einzigartige Kombination aus Restaurant, Hotel und Lifestyle-Angeboten bekannt ist. Mit dem Ziel, unvergessliche Erlebnisse zu schaffen, spricht es sowohl Einheimische als auch Touristen an, die authentische balearische Gastfreundschaft suchen.\n\n# Services\nDas Lokal bietet eine vielfältige Palette an Dienstleistungen, darunter ein gehobenes Restaurant mit lokaler Küche, komfortable Hotelunterkünfte und Lifestyle-Annehmlichkeiten, die auf Wellness und Freizeit ausgerichtet sind. Die Gäste können exquisite Gerichte genießen, die aus frischen, lokalen Zutaten zubereitet werden, sowie einen persönlichen Service, der ihren Aufenthalt bereichert.\n\n# Lage\nCa n'Eduardo liegt in einem lebhaften Teil von Palma und ist leicht erreichbar, umgeben von einem reichen kulturellen Erbe. Die Lage bietet Nähe zu lokalen Attraktionen, Stränden und Einkaufsgebieten, was es zu einem idealen Ort für Besucher macht, die die Schönheit der Balearischen Inseln erkunden möchten.\n\n# Nutzererfahrungen\nBewertungen heben die außergewöhnliche Qualität des Essens und das freundliche, aufmerksame Personal hervor. Viele Gäste schätzen die gemütliche Atmosphäre und die geschmackvoll gestalteten Innenräume, die zu einem angenehmen Speise- und Übernachtungserlebnis beitragen. Einige erwähnen jedoch gelegentliche Probleme mit Wartezeiten während der Hauptverkehrszeiten.\n\n# AI-Rating\nBasierend auf den Nutzerbewertungen erhält Ca n'Eduardo ein solides AI-Rating von 4,5 von 5, was die hohe Zufriedenheit der Gäste widerspiegelt, insbesondere hinsichtlich der kulinarischen Angebote und des Kundenservices.\n\n## Pro und Contra\n| Pro 😊                       | Contra 😞                    |\n|------------------------------|------------------------------|\n| Hervorragende Essensqualität | Wartezeiten können lang sein  |\n| Freundliches und aufmerksames Personal | Eingeschränkte Parkmöglichkeiten |\n| Gemütliche und charmante Atmosphäre | Einige Gerichte könnten teuer sein |\n\n# Abschluss\nInsgesamt sticht Ca n'Eduardo als bemerkenswerter Ort in Palma hervor, der Gastronomie und Gastfreundschaft mit einem Hauch von lokaler Note kombiniert. Das Engagement für Qualität und Kundenzufriedenheit macht es zu einer lohnenswerten Wahl für jeden Besucher der Balearischen Inseln. Ob beim Essen oder Übernachten, die Gäste können ein erfreuliches Erlebnis erwarten, das das Wesen der Region einfängt.",
-      "address": "C/ Contramuelle Mollet, 3, 07012 Palma",
-      "mail": "info@caneduardo.com",
-      "website": "http://www.caneduardo.com/",
-      "phone": "+34971721182",
-      "googleMapsLink": "https://maps.app.goo.gl/zixYpmF8p28ZqMkj9",
-      "aiRating": 4.5,
-      "photos": [],
-      "mainCategory": {
-        "name": "🍽️ Restaurant",
-        "slug": "restaurant"
-      },
-      "subCategories": [
-        {
-          "name": "🥘 Spanisch",
-          "slug": "spanish"
-        }
-      ],
-      "location": {
-        "latitude": 39.5684507,
-        "longitude": 2.6406613
-      }
-    },
-    {
-      "_publishedAt": "2024-09-20T10:15:50+02:00",
-      "_firstPublishedAt": "2024-09-19T19:48:50+02:00",
-      "id": "YT_wn1YzQo2LL62ScY6JNg",
-      "name": "Restaurante Casa Fernando",
-      "description": "# Übersicht\nDas Restaurante Casa Fernando ist ein charmantes Restaurant in Platja de Palma, Mallorca. Bekannt für seine einladende Atmosphäre und authentische mediterrane Küche, bietet es ein angenehmes Erlebnis für Einheimische und Touristen. Besonders geschätzt werden die frischen Meeresfrüchte und traditionellen spanischen Gerichte, die es zu einem beliebten Ort für Liebhaber der Inselküche machen.\n\n# Services\nCasa Fernando bietet ein abwechslungsreiches Menü mit verschiedenen Optionen, darunter vegetarische und glutenfreie Gerichte. Die Gäste können sowohl drinnen als auch draußen sitzen, was ein angenehmes Essen bei jedem Wetter ermöglicht. Das Personal wird für seine Freundlichkeit und Aufmerksamkeit gelobt, was zur warmen und einladenden Atmosphäre beiträgt.\n\n# Lage\nDas Restaurant liegt in der Carrer de Trafalgar, ideal in der Nähe des Strandes, was es zu einem perfekten Stopp für eine Mahlzeit nach einem Tag in der Sonne macht. Die Nähe zu lokalen Attraktionen erhöht die Anziehungskraft und zieht Besucher an, die eine praktische und gleichzeitig angenehme Essensoption suchen.\n\n# Nutzererfahrungen\nDie Bewertungen der Kunden heben die Qualität der Speisen und die Aufmerksamkeit des Personals hervor. Viele Gäste schwärmen von der Paella und dem gegrillten Fisch, während andere die gemütliche Atmosphäre schätzen. Einige Bewertungen erwähnen jedoch längere Wartezeiten zu Stoßzeiten, die das Gesamterlebnis beeinträchtigen könnten.\n\n# AI-Rating\nBasierend auf Nutzerbewertungen und allgemeiner Zufriedenheit erhält das Restaurante Casa Fernando 4,5 von 5 Sternen. \n\n| Pro  | Contra  |\n|------|---------|\n| 🥗 Frische und geschmackvolle Gerichte | ⏳ Längere Wartezeiten während der Hauptzeiten |\n| 🍷 Freundlicher und aufmerksamer Service | 💸 Preise könnten für manche etwas hoch sein |\n| 🌊 Wunderschöne Lage am Meer | 🚶‍♂️ Begrenzte Parkmöglichkeiten in der Nähe |\n\n# Abschluss\nDas Restaurante Casa Fernando ist eine sehr empfehlenswerte Wahl für alle, die Platja de Palma besuchen. Mit exzellenter Küche, freundlichem Service und einladender Atmosphäre hebt es sich als Top-Ziel für Liebhaber mediterraner Küche hervor. Trotz kleinerer Nachteile ist das Gesamterlebnis überwiegend positiv und macht es zu einem Muss während Ihres Aufenthalts auf der Insel.\n",
-      "address": "Carrer de Trafalgar, 27, Platja de Palma, 07007 Palma",
-      "mail": "",
-      "website": "http://www.restaurantecasafernando.com/",
-      "phone": "+34971265417",
-      "googleMapsLink": "https://maps.app.goo.gl/CPmPfq4fW9Tnvdya9",
-      "aiRating": 4.5,
-      "photos": [],
-      "mainCategory": {
-        "name": "🍽️ Restaurant",
-        "slug": "restaurant"
-      },
-      "subCategories": [
-        {
-          "name": "🔥 Grill",
-          "slug": "grill"
-        },
-        {
-          "name": "🌊 Mittelmeerküche",
-          "slug": "mediterranean"
-        },
-        {
-          "name": "🍷 Wein",
-          "slug": "wine"
-        }
-      ],
-      "location": {
-        "latitude": 39.5516284,
-        "longitude": 2.6922658
-      }
-    },
-    {
-      "_publishedAt": "2024-09-20T10:11:39+02:00",
-      "_firstPublishedAt": "2024-09-19T19:53:22+02:00",
-      "id": "MqA5aqK6So6ugbKNkyfYUg",
-      "name": "Restaurante Ola del Mar",
-      "description": "## Übersicht\nDas Restaurante Ola del Mar ist ein lebhaftes Restaurant in Platja de Palma, das eine Mischung aus traditioneller und moderner mediterraner Küche bietet. Bekannt für seine einladende Atmosphäre und die atemberaubende Aussicht auf das Meer, zieht es sowohl Einheimische als auch Touristen an, die ein unvergessliches kulinarisches Erlebnis suchen.\n\n## Services\nDas Restaurant bietet ein vielfältiges Menü mit frischen Meeresfrüchten, gegrilltem Fleisch und verschiedenen vegetarischen Optionen. Zudem bietet Ola del Mar Catering-Services für besondere Anlässe sowie eine gut ausgewählte Weinkarte, die jedes Gericht perfekt ergänzt.\n\n## Lage\nGelegen in der Carrer del Vicari Joaquim Fuster ist das Restaurant leicht zu erreichen und nur einen kurzen Spaziergang vom Strand entfernt. Die erstklassige Lage ermöglicht es den Gästen, die lebendige Umgebung von Platja de Palma beim Essen zu genießen.\n\n## Nutzererfahrungen\nBesucher loben häufig den aufmerksamen Service und die Qualität der Speisen, wobei die Frische der Zutaten und die Kreativität der Gerichte hervorgehoben werden. Viele Bewertungen erwähnen die entspannende Atmosphäre, während einige von gelegentlichen Wartezeiten zu Stoßzeiten berichten.\n\n## AI-Rating\nBasierend auf Nutzerbewertungen erhält das Restaurante Ola del Mar eine solide Bewertung von 4,5 von 5 Sternen, was seine Beliebtheit und das insgesamt positive Feedback von Gästen widerspiegelt.\n\n### Pro/Contra Tabelle\n\n| Pro (✅)                       | Contra (❌)                   |\n|-------------------------------|-------------------------------|\n| Köstliche und frische Speisen | Gelegentliche Wartezeiten    |\n| Aufmerksames und freundliches Personal | Überfüllt zu Stoßzeiten       |\n| Wunderschöne Meerblick        | Eingeschränkte Parkmöglichkeiten |\n| Vielfältige Menüoptionen      | Höhere Preise im Vergleich zu lokalen Restaurants |\n\n## Fazit\nInsgesamt hebt sich das Restaurante Ola del Mar als fantastisches Restaurant in Platja de Palma hervor. Mit köstlichem Essen, aufmerksamem Service und einer schönen Lage verspricht es ein angenehmes Erlebnis für alle Gäste. Auch wenn es zu Stoßzeiten gelegentlich Wartezeiten geben kann, macht die hohe Qualität einen Besuch durchaus lohnenswert.",
-      "address": "Carrer del Vicari Joaquim Fuster, 1, Platja de Palma, 07006 Palma, Illes Balears, Spanien",
-      "mail": " event@oladelmar.es",
-      "website": "http://www.oladelmar.es/",
-      "phone": "+34971274275",
-      "googleMapsLink": "https://maps.app.goo.gl/eZBY9tDWnCAzAgN9A",
-      "aiRating": 4.5,
-      "photos": [],
-      "mainCategory": {
-        "name": "🍽️ Restaurant",
-        "slug": "restaurant"
-      },
-      "subCategories": [
-        {
-          "name": "🥘 Spanisch",
-          "slug": "spanish"
-        },
-        {
-          "name": "🌊 Mittelmeerküche",
-          "slug": "mediterranean"
-        }
-      ],
-      "location": {
-        "latitude": 39.5605797,
-        "longitude": 2.6710379
       }
     },
     {
@@ -2495,10 +3974,10 @@
   "allMainCategories": [
     {
       "id": "E5sTr18jRLWGiJdgtZI0rg",
-      "name": "🎨 Lifestyle",
+      "name": "✨ Lifestyle",
       "slug": "lifestyle",
       "_firstPublishedAt": "2024-09-18T10:17:11+02:00",
-      "_publishedAt": "2024-09-18T10:23:28+02:00"
+      "_publishedAt": "2024-09-21T13:19:26+02:00"
     },
     {
       "id": "PWIGNzMASXiORHFXvdlZqA",
@@ -2517,6 +3996,132 @@
   ],
   "allSubcategories": [
     {
+      "id": "NT_YuJqkSn6-3cw2Z70Y5g",
+      "name": "🏊🏻 Schwimmbad",
+      "slug": "swimming-pool",
+      "_firstPublishedAt": "2024-09-21T15:12:25+02:00",
+      "_publishedAt": "2024-09-21T15:12:25+02:00"
+    },
+    {
+      "id": "F36WRYAaTkGdWM-sdlJ4NQ",
+      "name": "🌮 Mexikanisch",
+      "slug": "mexican",
+      "_firstPublishedAt": "2024-09-21T14:53:02+02:00",
+      "_publishedAt": "2024-09-21T14:53:02+02:00"
+    },
+    {
+      "id": "QxbAdyBkSEGH-wyaN-JlkQ",
+      "name": "🍲 Poke Bowls",
+      "slug": "poke-bowls",
+      "_firstPublishedAt": "2024-09-21T13:52:50+02:00",
+      "_publishedAt": "2024-09-21T13:52:50+02:00"
+    },
+    {
+      "id": "VNf1pD-CRf673RPUyC510A",
+      "name": "💙 Palma Beach Partner",
+      "slug": "palma-beach-partner",
+      "_firstPublishedAt": "2024-09-21T13:51:11+02:00",
+      "_publishedAt": "2024-09-21T13:51:11+02:00"
+    },
+    {
+      "id": "bJfRqGepRy6o17-Udwnu6w",
+      "name": "♻️ Nachhaltigkeit",
+      "slug": "sustainability",
+      "_firstPublishedAt": "2024-09-21T13:05:42+02:00",
+      "_publishedAt": "2024-09-21T13:35:38+02:00"
+    },
+    {
+      "id": "Sve-T-nVRMeg3-7Tu-te0g",
+      "name": "💥 Action",
+      "slug": "action",
+      "_firstPublishedAt": "2024-09-21T13:16:05+02:00",
+      "_publishedAt": "2024-09-21T13:16:05+02:00"
+    },
+    {
+      "id": "Oe4VtAbrRg2g4SfrMYZIWg",
+      "name": "🛝 Wasserpark",
+      "slug": "aquapark",
+      "_firstPublishedAt": "2024-09-20T19:47:02+02:00",
+      "_publishedAt": "2024-09-21T13:13:37+02:00"
+    },
+    {
+      "id": "Ezp3lUL9R4qzZdmUXsjayQ",
+      "name": "🏃‍♀️ Aktivität",
+      "slug": "activity",
+      "_firstPublishedAt": "2024-09-20T20:27:46+02:00",
+      "_publishedAt": "2024-09-21T13:09:51+02:00"
+    },
+    {
+      "id": "V2rUXE99TbqyE9IeMhahNg",
+      "name": "🌳 Park",
+      "slug": "park",
+      "_firstPublishedAt": "2024-09-21T13:08:21+02:00",
+      "_publishedAt": "2024-09-21T13:08:21+02:00"
+    },
+    {
+      "id": "LRAytcskSCigooFaACm21A",
+      "name": "🏡 Finca",
+      "slug": "finca",
+      "_firstPublishedAt": "2024-09-21T13:04:39+02:00",
+      "_publishedAt": "2024-09-21T13:04:39+02:00"
+    },
+    {
+      "id": "GWt6mvrxRhuH7ZGJg7mQzw",
+      "name": "🐟 Fisch",
+      "slug": "fish",
+      "_firstPublishedAt": "2024-09-21T10:06:15+02:00",
+      "_publishedAt": "2024-09-21T10:06:15+02:00"
+    },
+    {
+      "id": "JybdHiZNTNCyTrqrjS4N2A",
+      "name": "🦞 Meeresfrüchte",
+      "slug": "seafood",
+      "_firstPublishedAt": "2024-09-21T10:06:02+02:00",
+      "_publishedAt": "2024-09-21T10:06:02+02:00"
+    },
+    {
+      "id": "RuSiOgYZQAOOmO67r4Z7vQ",
+      "name": "🧘 Yoga",
+      "slug": "yoga",
+      "_firstPublishedAt": "2024-09-21T01:13:02+02:00",
+      "_publishedAt": "2024-09-21T01:13:02+02:00"
+    },
+    {
+      "id": "E778Jd9HQpCSUO4Elag-KQ",
+      "name": "🧘‍♀️ Wellness",
+      "slug": "wellness",
+      "_firstPublishedAt": "2024-09-20T19:42:24+02:00",
+      "_publishedAt": "2024-09-20T19:42:24+02:00"
+    },
+    {
+      "id": "OnBs9oXtRHqYvVgpbOCBfg",
+      "name": "🥾 Wandern",
+      "slug": "hiking",
+      "_firstPublishedAt": "2024-09-20T18:56:33+02:00",
+      "_publishedAt": "2024-09-20T18:56:33+02:00"
+    },
+    {
+      "id": "LtmH27f_QKa_nRBzmgvrJQ",
+      "name": "🚵 Mountain Bike",
+      "slug": "mountain-bike",
+      "_firstPublishedAt": "2024-09-20T18:56:03+02:00",
+      "_publishedAt": "2024-09-20T18:56:03+02:00"
+    },
+    {
+      "id": "VwPe3KFkQCOWWmKfqStkUQ",
+      "name": "🥓 Korean. Barbecue",
+      "slug": "korean-bbq",
+      "_firstPublishedAt": "2024-09-20T12:50:40+02:00",
+      "_publishedAt": "2024-09-20T18:53:49+02:00"
+    },
+    {
+      "id": "NZuvCfLlRqqZzdyEDlYtLA",
+      "name": "🏄‍♂️ Surfen",
+      "slug": "surfing",
+      "_firstPublishedAt": "2024-09-20T16:29:55+02:00",
+      "_publishedAt": "2024-09-20T16:29:55+02:00"
+    },
+    {
       "id": "FVT37X8ATC2N3uDn466VxQ",
       "name": "🛋️ Boutique",
       "slug": "boutique",
@@ -2529,13 +4134,6 @@
       "slug": "breakfast",
       "_firstPublishedAt": "2024-09-20T12:54:43+02:00",
       "_publishedAt": "2024-09-20T12:54:43+02:00"
-    },
-    {
-      "id": "VwPe3KFkQCOWWmKfqStkUQ",
-      "name": "Korean. Barbecue",
-      "slug": "korean-bbq",
-      "_firstPublishedAt": "2024-09-20T12:50:40+02:00",
-      "_publishedAt": "2024-09-20T12:50:40+02:00"
     },
     {
       "id": "dyijMo_uQSK9BMRW2I8z3Q",
@@ -2655,6 +4253,104 @@
       "slug": "adults-only",
       "_firstPublishedAt": "2024-09-19T11:49:27+02:00",
       "_publishedAt": "2024-09-19T11:49:27+02:00"
+    },
+    {
+      "id": "WEFxkXwUQhWl_dWuK6YEQQ",
+      "name": "🏖️ Strandnah",
+      "slug": "beach",
+      "_firstPublishedAt": "2024-09-19T11:41:03+02:00",
+      "_publishedAt": "2024-09-19T11:41:03+02:00"
+    },
+    {
+      "id": "ROAJbE8WTi-kMnBylUZNqQ",
+      "name": "🌄 Peruanisch",
+      "slug": "peruvian",
+      "_firstPublishedAt": "2024-09-19T10:37:48+02:00",
+      "_publishedAt": "2024-09-19T10:37:48+02:00"
+    },
+    {
+      "id": "F-Iki5wuR5Cm88CS79XUSg",
+      "name": "🍥 Japanisch",
+      "slug": "japanese",
+      "_firstPublishedAt": "2024-09-19T09:59:05+02:00",
+      "_publishedAt": "2024-09-19T09:59:05+02:00"
+    },
+    {
+      "id": "evHj5jdmSKij51hPJarNWg",
+      "name": "🍶 Sake",
+      "slug": "sake",
+      "_firstPublishedAt": "2024-09-19T09:57:09+02:00",
+      "_publishedAt": "2024-09-19T09:57:09+02:00"
+    },
+    {
+      "id": "XfDoRkkdSJ-L6hoZJMBhSg",
+      "name": "🥢 Asiatisch",
+      "slug": "asian",
+      "_firstPublishedAt": "2024-09-19T09:54:47+02:00",
+      "_publishedAt": "2024-09-19T09:54:47+02:00"
+    },
+    {
+      "id": "MM3NMyB0Qz6AZ3kNpYN_uw",
+      "name": "🍱 Fusion",
+      "slug": "fusion",
+      "_firstPublishedAt": "2024-09-18T20:33:35+02:00",
+      "_publishedAt": "2024-09-18T20:33:35+02:00"
+    },
+    {
+      "id": "dPwEMs3iS8qTIStZebye2A",
+      "name": "🍷 Wein",
+      "slug": "wine",
+      "_firstPublishedAt": "2024-09-18T20:16:16+02:00",
+      "_publishedAt": "2024-09-18T20:16:16+02:00"
+    },
+    {
+      "id": "MPQ06773S9SwwdPySQ-uTA",
+      "name": "🍹 Cocktail",
+      "slug": "cocktail",
+      "_firstPublishedAt": "2024-09-18T19:46:09+02:00",
+      "_publishedAt": "2024-09-18T20:13:23+02:00"
+    },
+    {
+      "id": "Uq71ghH1SGiqvyjqG6uu5w",
+      "name": "🔥 Grill",
+      "slug": "grill",
+      "_firstPublishedAt": "2024-09-18T19:57:36+02:00",
+      "_publishedAt": "2024-09-18T20:13:09+02:00"
+    },
+    {
+      "id": "We7h4HUjT2aqL44bc4FKHQ",
+      "name": "🍸 Bar",
+      "slug": "bar",
+      "_firstPublishedAt": "2024-09-18T19:56:09+02:00",
+      "_publishedAt": "2024-09-18T20:13:01+02:00"
+    },
+    {
+      "id": "Uyyb2ElXQx-JuJn-YZSGBA",
+      "name": "🥘 Spanisch",
+      "slug": "spanish",
+      "_firstPublishedAt": "2024-09-18T10:25:42+02:00",
+      "_publishedAt": "2024-09-18T10:25:42+02:00"
+    },
+    {
+      "id": "KXOQxIbeRdqIMkWIhScr7w",
+      "name": "🍝 Italienisch",
+      "slug": "italian",
+      "_firstPublishedAt": "2024-09-18T10:24:59+02:00",
+      "_publishedAt": "2024-09-18T10:24:59+02:00"
+    },
+    {
+      "id": "AR6OHAndTGOmxuAFsiuoLg",
+      "name": "🧄 Feinkost",
+      "slug": "delicatessen",
+      "_firstPublishedAt": "2024-09-17T20:27:42+02:00",
+      "_publishedAt": "2024-09-18T10:24:34+02:00"
+    },
+    {
+      "id": "N_IBgNzXRhqFLO9WYZGMRw",
+      "name": "🍣 Sushi",
+      "slug": "sushi",
+      "_firstPublishedAt": "2024-09-17T20:22:16+02:00",
+      "_publishedAt": "2024-09-18T10:23:48+02:00"
     }
   ]
 }

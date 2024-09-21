@@ -7,9 +7,11 @@
 
 <div class="max-w-screen-xl mx-auto p-4">
     <h2 class="subheadline mb-4">{{translations[locale].allCategories}}</h2>
-    <div class="grid grid-cols-5 gap-4">
+    <div class="grid grid-cols-3 md:grid-cols-4 xl:grid-cols-5 gap-2 md:gap-4">
         {% for x in data.allSubcategories %}
-        <a class="border border-gray-200 rounded-full p-3 text-lg hover:bg-gray-200 text-center whitespace-nowrap shrink-0" href="/{{x.slug}}">{{x.name}}</a>
+        <a class="border truncate border-gray-200 rounded-lg p-3 text-sm md:text-base xl:text-lg hover:bg-gray-200 text-center whitespace-nowrap shrink-0" href="/{{x.slug}}">
+            {{x.name}}
+        </a>
         {% endfor %}
     </div>
 </div>

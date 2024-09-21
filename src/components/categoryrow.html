@@ -1,9 +1,15 @@
-<div class="flex p-4 pb-0 gap-1 md:text-base overflow-hidden">
-    <a class="border border-gray-200 text-sm rounded-full px-2.5 py-1.5 hover:bg-gray-200 whitespace-nowrap shrink-0" href="/categories">📁 {{translations[locale].allCategories}}</a>
+<div class="flex p-4 gap-1 md:text-base overflow-x-auto">
+    <a class="border-2 border-gray-400 text-sm rounded-lg px-2.5 py-1.5 hover:bg-gray-200 whitespace-nowrap shrink-0" href="/{% if locale == 'de' %}de/{% endif %}categories">
+        📁 {{translations[locale].all}}
+    </a>
     {% for x in data.allMainCategories %}
-    <a class="border border-gray-200 text-sm rounded-full px-2.5 py-1.5 hover:bg-gray-200 whitespace-nowrap shrink-0" href="/{{x.slug}}">{{x.name}}</a>
+    <a class="border border-gray-300 text-sm rounded-lg px-2.5 py-1.5 hover:bg-gray-200 whitespace-nowrap shrink-0" href="/{{x.slug}}">
+        {{x.name}}
+    </a>
     {% endfor %}
     {% for x in data.allSubcategories %}
-    <a class="border border-gray-200 text-sm rounded-full px-2.5 py-1.5 hover:bg-gray-200 whitespace-nowrap shrink-0" href="/{{x.slug}}">{{x.name}}</a>
+    <a class="border border-gray-200 text-sm rounded-lg px-2.5 py-1.5 hover:bg-gray-200 whitespace-nowrap shrink-0" href="/{{x.slug}}">
+        {{x.name}}
+    </a>
     {% endfor %}
 </div>
