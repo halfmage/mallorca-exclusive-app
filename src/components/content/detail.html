@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin=""/>
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
 
-<div class="max-w-screen-lg mx-auto p-4">
+<div class="container mx-auto p-4">
 
     <!-- Check if Palma Beach Partner START -->
     {% for subcategory in provider.subCategories %}
@@ -59,7 +59,7 @@
 
     <div x-data="{ activeTab: 1 }" class="">
         <!-- Tab Navigation -->
-        <div class="flex items-center w-full text-sm md:text-base *:whitespace-nowrap sticky top-16 z-30 bg-white">
+        <div class="flex items-center w-full text-sm md:text-base *:whitespace-nowrap bg-white">
             <div class="w-full text-center font-bold cursor-pointer border-b-4 py-2 px-4" :class="{'text-gray-950 border-gray-950': activeTab === 1}" @click="activeTab = 1">ℹ️ Info</div>
             <div class="w-full text-center font-bold cursor-pointer border-b-4 py-2 px-4" :class="{'text-gray-950 border-gray-950': activeTab === 2}" @click="activeTab = 2">📷 Photos</div>
             <div class="w-full text-center font-bold cursor-pointer border-b-4 py-2 px-4" :class="{'text-gray-950 border-gray-950': activeTab === 3}" @click="activeTab = 3">🎖️ Services</div>
@@ -92,7 +92,7 @@
                 <!-- Tab: Services -->
                 <div x-show="activeTab === 3">
                     <h2 class="subheadline mb-4">{{translations[locale].allCategories}}</h2>
-                    <div class="grid grid-cols-3 md:grid-cols-4 xl:grid-cols-5 gap-2 md:gap-4">
+                    <div class="grid grid-cols-3 gap-2 md:gap-4">
                         {% for subcategory in provider.subCategories %}
                         <a class="border truncate border-gray-200 rounded-full p-3 text-sm md:text-base xl:text-lg hover:bg-gray-200 text-center whitespace-nowrap shrink-0" href="/{{subcategory.slug}}">
                             {{subcategory.name}}

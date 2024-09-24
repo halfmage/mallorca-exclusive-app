@@ -4,37 +4,184 @@
     {% set data = datocms_data_en %}
 {% endif %}
 
-<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin=""/>
-<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+<script>
+    window.locale = "{{ locale }}";
+    window.providers = {{ data.allProviders | dump | safe }};
+    window.mainCategories = {{ data.allMainCategories | dump | safe }};
+    window.subCategories = {{ data.allSubcategories | dump | safe }};
+</script>
 
-<div class="relative">
-    {% include "categoryrow.html" %}
-    <div class="hidden md:block fixed right-0 bottom-0 top-16 z-20 w-[40vw] h-full" id="map"></div>
-    <div class="md:pr-[40vw]">
-        <div class="grid grid-cols-2 sm:grid-cols-3 gap-2 md:gap-4 p-4 overflow-y-auto">
-        {% for x in data.allProviders %}
-            {% include "provider.html" %}
-        {% endfor %}
-        </div>
-    </div>
+<div class="container mx-auto px-4">
+    <h2></h2>
 </div>
 
+<div x-data="sortableList()" class="container mx-auto">
+
+    <div class="xl:flex gap-4 p-4 pb-0 text-sm xl:text-base">
+        {% include "../search/maincategory.html" %}
+        {% include "../search/subcategory.html" %}
+        {% include "../search/search.html" %}
+        {% include "../search/sorting.html" %}
+    </div>
+
+    <!-- Iterate through the filtered and sorted items with Alpine.js -->
+    <div class="grid grid-cols-2 md:grid-cols-3 xl:grid-cols-4 gap-4 p-4">
+        <template x-for="provider in sortedAndFilteredProviders" :key="provider.id">
+            <div>
+                <!-- Include the provider card component -->
+                <a :href="(window.locale === 'de' ? '/de/' : '/') + provider.slug"
+                class="bg-gray-500 flex flex-col gap-4 items-center justify-center overflow-hidden px-4 md:px-8 text-center rounded-xl h-32 md:h-48 hover:ring-2 ring-orange-500 active:scale-95 transition-all group relative bg-cover">
+
+        
+                    <!-- Provider Name -->
+                    <h2 class="text-lg md:text-2xl text-white font-bold drop-shadow-provider line-clamp-2 z-10" x-text="provider.name"></h2>
+        
+                    <!-- Main Category -->
+                    <div class="bg-white rounded-lg py-1 px-2 absolute top-2 left-2 text-[10px] md:text-sm z-10" x-text="provider.mainCategory.name"></div>
+        
+                    <!-- AI Rating with Dynamic Colors -->
+                    <div 
+                        class="font-bold rounded-lg py-1 px-2 absolute top-2 right-2 text-[10px] md:text-sm z-10"
+                        :class="{
+                            'bg-red-500 text-red-950 ring-1 ring-offset-1 ring-offset-red-100 ring-red-500': provider.aiRating <= 3,
+                            'bg-orange-500 text-orange-950 ring-1 ring-offset-1 ring-offset-orange-100 ring-orange-500': provider.aiRating > 3 && provider.aiRating <= 4,
+                            'bg-lime-500 text-lime-950 ring-1 ring-offset-1 ring-offset-lime-100 ring-lime-500': provider.aiRating > 4 && provider.aiRating <= 4.5,
+                            'bg-green-500 text-green-950 ring-1 ring-offset-1 ring-offset-green-100 ring-green-500': provider.aiRating > 4.5 && provider.aiRating <= 5
+                        }"
+                    >
+                        <span x-text="provider.aiRating.toFixed(1)"></span>
+                    </div>
+        
+                    <!-- Provider Image -->
+                    <template x-if="provider.photos && provider.photos.length > 0">
+                        <img
+                            class="absolute inset-0 h-full w-full z-0 transition-transform scale-100 group-hover:scale-125 object-cover brightness-75"
+                            :src="provider.photos[0].responsiveImage.src"
+                            :alt="provider.name + ' cover'"
+                        />
+                    </template>
+                </a>
+            </div>
+        </template>
+    </div>
+ 
+    <!-- No Results Message and Reset Button -->
+    <div x-show="sortedAndFilteredProviders.length === 0" class="text-center p-4">
+        <p class="text-lg font-bold">No results found. Try adjusting your filters.</p>
+        <button @click="resetFilters()" class="bg-red-500 text-white px-4 py-2 rounded-full mt-2">
+            Reset All Filters
+        </button>
+    </div>
+
+</div>
 
 <script>
-    // Initialize the map with a default center and zoom level
-    var map = L.map('map').setView([39.56891,2.63395], 13);
+function sortableList() {
+    return {
+        providers: window.providers,
+        mainCategories: window.mainCategories,
+        subCategories: window.subCategories,
+        sortOrder: 'publishedAtDesc',  // Default sort order
+        searchQuery: '',          // Default search query
+        selectedMainCategory: '', // Default main category filter
+        selectedSubCategory: '',  // Default subcategory filter
+        sortedProviders: [],
+        sortedAndFilteredProviders: [],
 
-    // Add the OpenStreetMap tile layer
-    L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
-        maxZoom: 19,
-        attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
-    }).addTo(map);
+        // Initialize the sorted list, also read URL parameters if present
+        init() {
+            this.readUrlParams();  // Read URL parameters on page load
+            this.sortProviders();  // Sort the providers initially
+            this.filterProviders(); // Ensure the filters are applied properly
+        },
 
-    // Loop through the providers and add markers dynamically
-    {% for x in data.allProviders %}
-    var marker = L.marker([{{ x.location.latitude }}, {{ x.location.longitude }}]).addTo(map)
-    .bindPopup(
-            "<a class='flex items-center gap-2' href='/{% if locale == 'de' %}{{locale}}/{% endif %}{{x.name | slugify}}'><img class='size-16 shrink-0 rounded-lg border border-gray-200 object-cover' src='{{x.photos[1].responsiveImage.src}}' alt='{{x.name | slugify}}'><div class='text-gray-900'><strong class='text-lg/5 line-clamp-2 mb-1'>{{ x.name }}</strong><div class='line-clamp-2'>{{ x.address }}</div></div></a>"
-        );
-    {% endfor %}
+        // Read filter/sort/search parameters from URL
+        readUrlParams() {
+            const params = new URLSearchParams(window.location.search);
+
+            if (params.has('search')) {
+                this.searchQuery = params.get('search');
+            }
+            if (params.has('mainCategory')) {
+                this.selectedMainCategory = params.get('mainCategory');
+            }
+            if (params.has('subCategory')) {
+                this.selectedSubCategory = params.get('subCategory');
+            }
+            if (params.has('sortOrder')) {
+                this.sortOrder = params.get('sortOrder');
+            }
+        },
+
+        // Update URL parameters whenever filters change
+        updateUrlParams() {
+            const params = new URLSearchParams();
+
+            if (this.searchQuery) params.set('search', this.searchQuery);
+            if (this.selectedMainCategory) params.set('mainCategory', this.selectedMainCategory);
+            if (this.selectedSubCategory) params.set('subCategory', this.selectedSubCategory);
+            if (this.sortOrder) params.set('sortOrder', this.sortOrder);
+
+            const newUrl = `${window.location.pathname}?${params.toString()}`;
+            history.replaceState(null, '', newUrl);  // Update the URL without reloading the page
+        },
+
+        // Reset all filters, search, and sorting
+        resetFilters() {
+            this.searchQuery = '';          // Reset search query
+            this.selectedMainCategory = ''; // Reset main category filter
+            this.selectedSubCategory = '';  // Reset subcategory filter
+            this.sortOrder = 'publishedAtDesc';   // Reset to default sort order
+            this.sortProviders();           // Re-sort and re-filter the providers
+            this.updateUrlParams();         // Update URL parameters
+        },
+
+        // Sorting function
+        sortProviders() {
+            switch (this.sortOrder) {
+                case 'ratingAsc':
+                    this.sortedProviders = this.providers.sort((a, b) => a.aiRating - b.aiRating);
+                    break;
+                case 'ratingDesc':
+                    this.sortedProviders = this.providers.sort((a, b) => b.aiRating - a.aiRating);
+                    break;
+                case 'publishedAtAsc':
+                    this.sortedProviders = this.providers.sort((a, b) => new Date(a._publishedAt) - new Date(b._publishedAt));
+                    break;
+                case 'publishedAtDesc':
+                    this.sortedProviders = this.providers.sort((a, b) => new Date(b._publishedAt) - new Date(a._publishedAt));
+                    break;
+                case 'firstPublishedAtAsc':
+                    this.sortedProviders = this.providers.sort((a, b) => new Date(a._firstPublishedAt) - new Date(b._firstPublishedAt));
+                    break;
+                case 'firstPublishedAtDesc':
+                    this.sortedProviders = this.providers.sort((a, b) => new Date(b._firstPublishedAt) - new Date(a._firstPublishedAt));
+                    break;
+            }
+            this.filterProviders(); // Call filter function after sorting
+            this.updateUrlParams(); // Update URL after sorting
+        },
+
+        // Filtering function
+        filterProviders() {
+            this.sortedAndFilteredProviders = this.sortedProviders.filter((provider) => {
+                let matchesSearch = provider.name.toLowerCase().includes(this.searchQuery.toLowerCase());
+                let matchesMainCategory = this.selectedMainCategory === '' || provider.mainCategory.name === this.selectedMainCategory;
+                let matchesSubCategory = this.selectedSubCategory === '' || provider.subCategories.some(sub => sub.name === this.selectedSubCategory);
+                return matchesSearch && matchesMainCategory && matchesSubCategory;
+            });
+        },
+
+        // Count the number of providers for each main category
+        countProvidersByMainCategory(categoryName) {
+            return this.providers.filter(provider => provider.mainCategory.name === categoryName).length;
+        },
+
+        // Count the number of providers for each subcategory
+        countProvidersBySubCategory(subCategoryName) {
+            return this.providers.filter(provider => provider.subCategories.some(sub => sub.name === subCategoryName)).length;
+        }
+    }
+}
+
 </script>

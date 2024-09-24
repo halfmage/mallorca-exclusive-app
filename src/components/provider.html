@@ -21,7 +21,14 @@
         bg-green-500 text-green-950 ring-1 ring-offset-1 ring-offset-green-100 ring-green-500
     {% endif %}
     font-bold rounded-lg py-1 px-2 absolute top-2 right-2 text-[10px] md:text-sm z-10">
+    {% if x.aiRating == "1" %}1.0
+    {% elif x.aiRating == "2" %}2.0
+    {% elif x.aiRating == "3" %}3.0
+    {% elif x.aiRating == "4" %}4.0
+    {% elif x.aiRating == "5" %}5.0
+    {% else %}
     {{x.aiRating}}
+    {% endif %}
 </div>
 
 {% if x.photos and x.photos|length > 0 %}

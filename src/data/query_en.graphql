@@ -11,6 +11,7 @@
     phone
     googleMapsLink
     aiRating
+    slug
     photos {
       responsiveImage {
         src

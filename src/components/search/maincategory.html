@@ -1,0 +1,24 @@
+<!-- Filter by Main Category with Tabs -->
+<div class="flex space-x-2 whitespace-nowrap overflow-auto xl:overflow-visible pb-4 xl:pb-0">
+    <!-- Reset Button for "All Categories" -->
+    <label class="cursor-pointer">
+        <input type="radio" name="mainCategory" value="" x-model="selectedMainCategory" @change="filterProviders()" class="hidden" />
+        <div :class="{
+            'bg-blue-500 text-white': selectedMainCategory === '',
+            'bg-gray-200 text-gray-600': selectedMainCategory !== ''
+        }" class="px-4 py-2 rounded-full transition duration-300">
+            All
+        </div>
+    </label>
+    <template x-for="category in mainCategories" :key="category.id">
+        <label class="cursor-pointer">
+            <input type="radio" name="mainCategory" :value="category.name" x-model="selectedMainCategory" @change="filterProviders()" class="hidden" />
+            <div :class="{
+                'bg-blue-500 text-white': selectedMainCategory === category.name,
+                'bg-gray-200 text-gray-600': selectedMainCategory !== category.name
+            }" class="px-4 py-2 rounded-full transition duration-300">
+                <span x-text="category.name + ' (' + countProvidersByMainCategory(category.name) + ')'"></span>
+            </div>
+        </label>
+    </template>
+</div>

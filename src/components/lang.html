@@ -7,7 +7,7 @@
     {%- set activeClass = "" -%}
     {%- set activeAria = "" -%}
     {%- if lgg.locale === locale -%}
-    {%- set activeClass = "opacity:.25" -%}
+    {%- set activeClass = "hidden" -%}
     {%- set activeAria = 'aria-current="page"' | safe -%}
     {%- endif -%}
     {# loop through all the content of the site #}
@@ -17,7 +17,7 @@
         {%- set translatedUrl = item.url -%}
     {%- endif -%}
     {%- endfor-%}
-    <a style="{{ activeClass }}" href="{{ translatedUrl }}">{{ lgg.label }}</a> &nbsp;
+    <a class="{{ activeClass }}" href="{{ translatedUrl }}">{{ lgg.label }}</a> &nbsp;
     {%- if loop.last -%}
     {%- endif -%}
 {%- endfor -%}
