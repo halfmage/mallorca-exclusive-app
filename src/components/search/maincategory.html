@@ -5,8 +5,8 @@
         <input type="radio" name="mainCategory" value="" x-model="selectedMainCategory" @change="filterProviders()" class="hidden" />
         <div :class="{
             'bg-blue-500 text-white': selectedMainCategory === '',
-            'bg-gray-200 text-gray-600': selectedMainCategory !== ''
-        }" class="px-4 py-2 rounded-full transition duration-300">
+            'bg-white text-gray-600': selectedMainCategory !== ''
+        }" class="px-4 py-2 rounded-lg transition duration-300 border border-gray-200">
             All
         </div>
     </label>
@@ -15,8 +15,8 @@
             <input type="radio" name="mainCategory" :value="category.name" x-model="selectedMainCategory" @change="filterProviders()" class="hidden" />
             <div :class="{
                 'bg-blue-500 text-white': selectedMainCategory === category.name,
-                'bg-gray-200 text-gray-600': selectedMainCategory !== category.name
-            }" class="px-4 py-2 rounded-full transition duration-300">
+                'bg-white text-gray-600': selectedMainCategory !== category.name
+            }" class="px-4 py-2 rounded-lg transition duration-300 border border-gray-200">
                 <span x-text="category.name + ' (' + countProvidersByMainCategory(category.name) + ')'"></span>
             </div>
         </label>
