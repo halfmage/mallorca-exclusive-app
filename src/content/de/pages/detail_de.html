@@ -8,6 +8,7 @@ pagination:
 permalink: "/{{locale}}/{{provider.name | slugify}}/"
 eleventyComputed:
     translationKey: "{{provider.id}}"
+    title: "{{provider.name}}"
 ---
 
 {% include "content/detail.html" %}

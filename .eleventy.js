@@ -4,6 +4,10 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy({'./node_modules/alpinejs/dist/cdn.js': './js/alpine.js'})
   eleventyConfig.addPassthroughCopy({'./node_modules/fslightbox/index.js': './js/fslightbox.js'})
 
+  // PassthroughCopy for data
+  eleventyConfig.addPassthroughCopy({'src/data/datocms_data_en.json': './datocms_data_en.json'})
+  eleventyConfig.addPassthroughCopy({'src/data/datocms_data_de.json': './datocms_data_de.json'})
+
   return {
     markdownTemplateEngine: "njk",
     htmlTemplateEngine: "njk",

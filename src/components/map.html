@@ -1,23 +1,69 @@
+{% if locale === "de" %}
+    {% set data = datocms_data_de %}
+{% else %}
+    {% set data = datocms_data_en %}
+{% endif %}
+
+<!-- Leaflet CSS and JS -->
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin=""/>
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
 
+<!-- Map container -->
 <div class="hidden md:block absolute right-0 bottom-0 top-16 z-20 w-[40vw] h-full" id="map"></div>
 
 <script>
-    // Initialize the map with a default center and zoom level
-    var map = L.map('map').setView([39.56891,2.63395], 13);
+    document.addEventListener("DOMContentLoaded", function () {
+        // Initialize the map with a default center and zoom level
+        var map = L.map('map').setView([39.56891, 2.63395], 13);
 
-    // Add the OpenStreetMap tile layer
-    L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
-        maxZoom: 19,
-        attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
-    }).addTo(map);
+        // Add the OpenStreetMap tile layer
+        L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            maxZoom: 19,
+            attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+        }).addTo(map);
 
-    // Loop through the providers and add markers dynamically
-    {% for x in data.allProviders %}
-    var marker = L.marker([{{ x.location.latitude }}, {{ x.location.longitude }}]).addTo(map)
-    .bindPopup(
-            "<a class='flex items-center gap-2' href='/{% if locale == 'de' %}{{locale}}/{% endif %}{{x.name | slugify}}'><img class='size-16 shrink-0 rounded-lg border border-gray-200 object-cover' src='{{x.photos[1].responsiveImage.src}}' alt='{{x.name | slugify}}'><div class='text-gray-900'><strong class='text-lg/5 line-clamp-2 mb-1'>{{ x.name }}</strong><div class='line-clamp-2'>{{ x.address }}</div></div></a>"
-        );
-    {% endfor %}
+        // Function to calculate the distance between two coordinates (Haversine formula)
+        function calculateDistance(lat1, lon1, lat2, lon2) {
+            const R = 6371; // Radius of the Earth in km
+            const dLat = (lat2 - lat1) * Math.PI / 180;
+            const dLon = (lon2 - lon1) * Math.PI / 180;
+            const a = 
+                Math.sin(dLat / 2) * Math.sin(dLat / 2) +
+                Math.cos(lat1 * Math.PI / 180) * Math.cos(lat2 * Math.PI / 180) * 
+                Math.sin(dLon / 2) * Math.sin(dLon / 2); 
+            const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a)); 
+            return R * c; // Distance in km
+        }
+
+        // Get user's current location
+        navigator.geolocation.getCurrentPosition(function(position) {
+            var userLat = position.coords.latitude;
+            var userLon = position.coords.longitude;
+
+            // Add marker for the user's location
+            L.marker([userLat, userLon]).addTo(map).bindPopup("Your Location").openPopup();
+
+            // Loop through the providers and add markers dynamically
+            var providers = {{ data.allProviders | dump | safe }};
+            providers.forEach(function(provider) {
+                var providerLat = provider.location.latitude;
+                var providerLon = provider.location.longitude;
+                var distance = calculateDistance(userLat, userLon, providerLat, providerLon).toFixed(2); // Distance in km
+
+                var marker = L.marker([providerLat, providerLon]).addTo(map)
+                .bindPopup(
+                    "<a class='flex items-center gap-2' href='/{% if locale == 'de' %}{{locale}}/{% endif %}" + provider.name.slugify() + "'>" +
+                    "<img class='size-16 shrink-0 rounded-lg border border-gray-200 object-cover' src='" + provider.photos[1].responsiveImage.src + "' alt='" + provider.name.slugify() + "'>" +
+                    "<div class='text-gray-900'>" +
+                    "<strong class='text-lg/5 line-clamp-2 mb-1'>" + provider.name + "</strong>" +
+                    "<div class='line-clamp-2'>" + provider.address + "</div>" +
+                    "<div class='text-sm text-gray-700'>Distance: " + distance + " km</div>" +
+                    "</div></a>"
+                );
+            });
+
+        }, function(error) {
+            console.error("Error getting user's location:", error);
+        });
+    });
 </script>

@@ -1,0 +1,112 @@
+<div x-data="searchComponent()" class="relative w-full max-w-lg mx-auto" @click.away="closeDropdown()">
+    <!-- Search Bar -->
+    <input
+        type="text"
+        placeholder="Search providers, descriptions, subcategories..."
+        x-model="searchQuery"
+        @input="filterProviders()"
+        @focus="openDropdown()"
+        class="w-full py-2 px-4 border border-amber-500 my-2 xl:my-0 rounded-full"
+    />
+
+    <!-- Autocomplete Suggestions (scrollable with max height) -->
+    <ul x-show="isOpen && searchResults.length > 0" 
+        class="absolute left-0 top-full mt-2 w-full bg-white border border-gray-300 rounded shadow-lg z-50 max-h-[25rem] overflow-y-auto"
+        style="max-height: 15rem;" 
+    >
+        <template x-for="(result, index) in searchResults" :key="index">
+            <li
+                @click="selectProvider(result)"
+                class="cursor-pointer p-2 flex items-center hover:bg-gray-100"
+            >
+                <!-- Show the first image (if available) -->
+                <template x-if="result.photos && result.photos.length > 0">
+                    <img :src="result.photos[0].responsiveImage.src" alt="" class="w-12 h-12 rounded mr-3 object-cover">
+                </template>
+
+                <!-- Provider Name with highlighted search -->
+                <div class="flex-grow">
+                    <span x-html="highlightMatch(result.name)"></span><br>
+                
+                    <!-- Subcategories with links to respective URLs -->
+                    <span class="text-sm">
+                        <template x-for="subcategory in result.subCategories" :key="subcategory.slug">
+                            <a
+                                :href="'/' + subcategory.slug"
+                                class="text-blue-500 hover:underline"
+                                x-html="highlightMatch(subcategory.name)"
+                            ></a>
+                            <span x-show="!$last">, </span>
+                        </template>
+                    </span>
+                </div>
+            </li>
+        </template>
+    </ul>
+</div>
+
+
+<script>
+function searchComponent() {
+    return {
+        searchQuery: '',                // User input query
+        searchResults: [],              // Filtered results for autocomplete
+        isOpen: false,                  // Controls the visibility of the dropdown
+        providers: window.providers,    // The list of all providers (from your data)
+
+        // Normalize function to remove diacritics and special characters
+        normalizeText(text) {
+            return text.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+        },
+
+        // Filter providers based on search query
+        filterProviders() {
+            if (this.searchQuery.length > 0) {
+                const query = this.normalizeText(this.searchQuery); // Normalize the search query
+
+                // Filter the providers based on name, description, or subcategory
+                this.searchResults = this.providers.filter(provider => {
+                    const normalizedName = this.normalizeText(provider.name);
+                    const normalizedDescription = provider.description ? this.normalizeText(provider.description) : '';
+
+                    // Match the query against subcategory names
+                    const matchesSubcategories = provider.subCategories.some(subcategory => {
+                        const normalizedSubcategoryName = this.normalizeText(subcategory.name);
+                        return normalizedSubcategoryName.includes(query);
+                    });
+
+                    // Match based on name, description, or subcategory
+                    return (normalizedName.includes(query) || normalizedDescription.includes(query) || matchesSubcategories);
+                });
+
+                this.isOpen = true; // Open the dropdown when there are results
+            } else {
+                this.searchResults = []; // Clear search results when the query is empty
+                this.isOpen = false; // Close dropdown if query is empty
+            }
+        },
+
+        // Select a provider from the autocomplete list
+        selectProvider(provider) {
+            // Redirect or populate your selection logic here (e.g., navigate to provider page)
+            window.location.href = `/${window.locale === 'de' ? 'de/' : ''}${provider.slug}`;
+        },
+
+        // Helper to highlight search match in results
+        highlightMatch(text) {
+            const regex = new RegExp(`(${this.searchQuery})`, 'gi');
+            return text.replace(regex, "<strong class='text-orange-500'>$1</strong>");
+        },
+
+        // Open the dropdown
+        openDropdown() {
+            this.isOpen = true;
+        },
+
+        // Close the dropdown
+        closeDropdown() {
+            this.isOpen = false;
+        }
+    }
+}
+</script>

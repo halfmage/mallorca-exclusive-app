@@ -1,5 +1,5 @@
 <!-- Filter by Subcategory -->
-<select id="subCategory" x-model="selectedSubCategory" @change="filterProviders()" class="shrink-0 rounded w-full xl:w-auto">
+<select id="subCategory" x-model="selectedSubCategory" @change="filterProviders()" class="px-4 py-2 rounded-lg transition duration-300 border border-gray-200">
     <option value="">All Categories</option>
     <template x-for="subcategory in subCategories" :key="subcategory.id">
         <option :value="subcategory.name" x-text="subcategory.name + ' (' + countProvidersBySubCategory(subcategory.name) + ')'"></option>

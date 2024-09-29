@@ -1,0 +1,13 @@
+<!-- Make a card row with only one subCategories -->
+<div class="container mx-auto px-4 my-8">
+    <div class="text-3xl font-extrabold mb-4 font-sans tracking-tight">Seafood</div>
+    <div class="grid grid-cols-4 gap-4">
+        {% for x in data.allProviders %}
+            {% for y in x.subCategories %}
+                {% if y.slug === "seafood" and loop.index0 < 4 %}
+                    <!-- Card content -->
+                {% endif %}
+            {% endfor %}
+        {% endfor %}
+    </div>
+</div>

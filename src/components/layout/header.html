@@ -4,12 +4,22 @@
     {% set data = datocms_data_en %}
 {% endif %}
 
-<div class="py-4 border-b border-gray-200">
-    <div class="container px-4 flex items-center justify-between mx-auto">
+<script>
+    window.locale = "{{ locale }}";
+    window.providers = {{ data.allProviders | dump | safe }};
+    window.mainCategories = {{ data.allMainCategories | dump | safe }};
+    window.subCategories = {{ data.allSubcategories | dump | safe }};
+</script>
+
+<div class="py-4 border-b border-gray-200 bg-amber-400">
+    <div class="container px-4 sm:flex gap-4 items-center justify-between mx-auto">
         <a href="/{% if locale == 'de' %}de/{%endif%}" class="hover:opacity-80">
             <img src="/images/logo.svg" alt="Logo" class="h-6 md:h-8">
         </a>
-
-        <div>{% include "lang.html" %}</div>
+        {% include "../searchbar.html" %}
+        <div class="flex gap-2">
+            <a href="#">About</a>
+            {% include "lang.html" %}
+        </div>
     </div>
 </div>

@@ -17,7 +17,7 @@
         {%- set translatedUrl = item.url -%}
     {%- endif -%}
     {%- endfor-%}
-    <a class="{{ activeClass }}" href="{{ translatedUrl }}">{{ lgg.label }}</a> &nbsp;
+    <a class="{{ activeClass }}" href="{{ translatedUrl }}">{{ lgg.label }}</a>
     {%- if loop.last -%}
     {%- endif -%}
 {%- endfor -%}
