@@ -18,7 +18,7 @@
             <img src="/images/logo.svg" alt="Logo" class="h-6 md:h-8">
         </a>
 
-        <div x-data="searchComponent()" class="relative w-full">
+        <div x-data="searchComponent()" class="relative w-full max-w-lg">
             <input type="text" placeholder="Search providers, descriptions, subcategories..." x-model="searchQuery" @focus="openDropdown()" @input="performSearch()" @blur="hideDropdown()" class="w-full p-2 border border-gray-300 rounded"/>
         
             <!-- Autocomplete Dropdown -->
