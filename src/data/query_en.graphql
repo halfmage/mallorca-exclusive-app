@@ -10,8 +10,10 @@
     website
     phone
     googleMapsLink
-    aiRating
     slug
+    aiRating
+    proList
+    tipsList
     photos {
       responsiveImage {
         src

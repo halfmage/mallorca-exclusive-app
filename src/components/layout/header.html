@@ -11,15 +11,90 @@
     window.subCategories = {{ data.allSubcategories | dump | safe }};
 </script>
 
-<div class="py-4 border-b border-gray-200 bg-amber-400">
+<div class="py-4 border-b border-gray-200">
     <div class="container px-4 sm:flex gap-4 items-center justify-between mx-auto">
-        <a href="/{% if locale == 'de' %}de/{%endif%}" class="hover:opacity-80">
+
+        <a href="/{% if locale == 'de' %}de/{%endif%}" class="hover:opacity-80 shrink-0">
             <img src="/images/logo.svg" alt="Logo" class="h-6 md:h-8">
         </a>
-        {% include "../searchbar.html" %}
+
+        <div x-data="searchComponent()" class="relative w-full">
+            <input type="text" placeholder="Search providers, descriptions, subcategories..." x-model="searchQuery" @focus="openDropdown()" @input="performSearch()" @blur="hideDropdown()" class="w-full p-2 border border-gray-300 rounded"/>
+        
+            <!-- Autocomplete Dropdown -->
+            <div 
+                class="absolute left-0 top-full mt-2 w-full bg-white border border-gray-300 rounded shadow-lg z-50 max-h-96 overflow-y-auto"
+                x-show="isOpen && filteredProviders.length > 0"
+                @mousedown.away="hideDropdown()"
+            >
+                <template x-for="result in filteredProviders" :key="result.id">
+                    <a :href="'/' + result.slug" class="block p-2 hover:bg-gray-200">
+                        <div class="flex items-center gap-4">
+                            <!-- First provider image -->
+                            <img :src="result.photos.length > 0 ? result.photos[0].responsiveImage.src : 'default-image.jpg'" 
+                                 alt="result.name" 
+                                 class="w-12 h-12 object-cover rounded-md" />
+                            <div>
+                                <p class="font-bold" x-html="highlightMatch(result.name)"></p>
+                                <!-- Subcategories as text -->
+                                <p x-html="highlightMatch(result.subcategoryNames.join(', '))" class="text-sm text-gray-600"></p>
+                            </div>
+                        </div>
+                    </a>
+                </template>
+            </div>
+        </div>
+        
+
         <div class="flex gap-2">
             <a href="#">About</a>
             {% include "lang.html" %}
         </div>
     </div>
 </div>
+     
+<script>
+    function searchComponent() {
+        return {
+            searchQuery: '',
+            filteredProviders: [],
+            isOpen: false,
+    
+            providers: window.providers.map(provider => ({
+                ...provider,
+                subcategoryNames: provider.subCategories.map(sub => sub.name)  // Map subcategory names
+            })),
+    
+            performSearch() {
+                const query = this.searchQuery.toLowerCase();
+    
+                this.filteredProviders = this.providers.filter(provider => {
+                    const nameMatch = provider.name.toLowerCase().includes(query);
+                    const descriptionMatch = provider.description.toLowerCase().includes(query);
+                    const subcategoryMatch = provider.subcategoryNames.some(sub => sub.toLowerCase().includes(query));
+    
+                    return nameMatch || descriptionMatch || subcategoryMatch;
+                });
+    
+                // Only show dropdown if there are search results
+                this.isOpen = this.filteredProviders.length > 0;
+            },
+    
+            // Open the dropdown
+            openDropdown() {
+                this.isOpen = true;
+            },
+    
+            // Close the dropdown after a delay (to allow clicks)
+            hideDropdown() {
+                setTimeout(() => this.isOpen = false, 200);
+            },
+    
+            // Highlight the matching search term
+            highlightMatch(text) {
+                const regex = new RegExp(`(${this.searchQuery})`, 'gi');
+                return text.replace(regex, "<strong class='text-orange-500'>$1</strong>");
+            }
+        };
+    }
+</script>

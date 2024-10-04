@@ -1,15 +1,24 @@
-<div x-data="sortableList()" class="container mx-auto">
+{% if locale === "de" %}
+    {% set data = datocms_data_de %}
+{% else %}
+    {% set data = datocms_data_en %}
+{% endif %}
+
+<div x-data="sortableList()" class="container mx-auto px-4">
 
     <div class="xl:flex justify-between gap-4 px-4 pt-4 text-sm xl:text-base">
         <div class="xl:flex justify-between gap-2">
             {% include "../search/maincategory.html" %}
             {% include "../search/subcategory.html" %}
         </div>
+    </div>
+
+    <div class="flex justify-end w-full mb-4">
         {% include "../search/sorting.html" %}
     </div>
 
     <!-- Iterate through the filtered and sorted items with Alpine.js -->
-    <div class="grid grid-cols-2 md:grid-cols-3 xl:grid-cols-4 gap-4 p-4">
+    <div class="grid grid-cols-2 md:grid-cols-3 xl:grid-cols-4 gap-4">
         {% include "../search/providercard.html" %}
     </div>
  
@@ -107,7 +116,6 @@ function sortableList() {
                     break;
             }
             this.filterProviders(); // Call filter function after sorting
-            this.updateUrlParams(); // Update URL after sorting
         },
 
         // Filtering function

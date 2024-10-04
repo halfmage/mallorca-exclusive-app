@@ -1,101 +1,64 @@
-<div x-data="searchComponent()" class="relative w-full max-w-lg mx-auto" @click.away="closeDropdown()">
+<div x-data="searchComponent()" class="relative w-full max-w-lg mx-auto">
     <!-- Search Bar -->
     <input
         type="text"
         placeholder="Search providers, descriptions, subcategories..."
         x-model="searchQuery"
-        @input="filterProviders()"
         @focus="openDropdown()"
-        class="w-full py-2 px-4 border border-amber-500 my-2 xl:my-0 rounded-full"
+        @input="performSearch()"
+        @blur="hideDropdown()"
+        class="w-full p-2 border border-gray-300 rounded"
     />
 
-    <!-- Autocomplete Suggestions (scrollable with max height) -->
-    <ul x-show="isOpen && searchResults.length > 0" 
-        class="absolute left-0 top-full mt-2 w-full bg-white border border-gray-300 rounded shadow-lg z-50 max-h-[25rem] overflow-y-auto"
-        style="max-height: 15rem;" 
+    <!-- Autocomplete Dropdown -->
+    <div 
+        class="absolute left-0 top-full mt-2 w-full bg-white border border-gray-300 rounded shadow-lg z-50 max-h-60 overflow-y-auto"
+        x-show="isOpen && filteredProviders.length > 0"
+        @mousedown.away="hideDropdown()"
     >
-        <template x-for="(result, index) in searchResults" :key="index">
-            <li
-                @click="selectProvider(result)"
-                class="cursor-pointer p-2 flex items-center hover:bg-gray-100"
-            >
-                <!-- Show the first image (if available) -->
-                <template x-if="result.photos && result.photos.length > 0">
-                    <img :src="result.photos[0].responsiveImage.src" alt="" class="w-12 h-12 rounded mr-3 object-cover">
-                </template>
-
-                <!-- Provider Name with highlighted search -->
-                <div class="flex-grow">
-                    <span x-html="highlightMatch(result.name)"></span><br>
-                
-                    <!-- Subcategories with links to respective URLs -->
-                    <span class="text-sm">
-                        <template x-for="subcategory in result.subCategories" :key="subcategory.slug">
-                            <a
-                                :href="'/' + subcategory.slug"
-                                class="text-blue-500 hover:underline"
-                                x-html="highlightMatch(subcategory.name)"
-                            ></a>
-                            <span x-show="!$last">, </span>
-                        </template>
-                    </span>
+        <template x-for="result in filteredProviders" :key="result.id">
+            <a :href="'/' + result.slug" class="block p-2 hover:bg-gray-200">
+                <div class="flex items-center gap-4">
+                    <!-- First provider image -->
+                    <img :src="result.photos.length > 0 ? result.photos[0].responsiveImage.src : 'default-image.jpg'" 
+                         alt="result.name" 
+                         class="w-12 h-12 object-cover rounded-md" />
+                    <div>
+                        <p class="font-bold" x-html="highlightMatch(result.name)"></p>
+                        <!-- Subcategories as text -->
+                        <p x-html="highlightMatch(result.subcategoryNames.join(', '))" class="text-sm text-gray-600"></p>
+                    </div>
                 </div>
-            </li>
+            </a>
         </template>
-    </ul>
+    </div>
 </div>
-
 
 <script>
 function searchComponent() {
     return {
-        searchQuery: '',                // User input query
-        searchResults: [],              // Filtered results for autocomplete
-        isOpen: false,                  // Controls the visibility of the dropdown
-        providers: window.providers,    // The list of all providers (from your data)
+        searchQuery: '',
+        filteredProviders: [],
+        isOpen: false,
 
-        // Normalize function to remove diacritics and special characters
-        normalizeText(text) {
-            return text.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "");
-        },
+        providers: window.providers.map(provider => ({
+            ...provider,
+            subcategoryNames: provider.subCategories.map(sub => sub.name)  // Map subcategory names
+        })),
 
-        // Filter providers based on search query
-        filterProviders() {
-            if (this.searchQuery.length > 0) {
-                const query = this.normalizeText(this.searchQuery); // Normalize the search query
+        performSearch() {
+            const query = this.searchQuery.toLowerCase();
 
-                // Filter the providers based on name, description, or subcategory
-                this.searchResults = this.providers.filter(provider => {
-                    const normalizedName = this.normalizeText(provider.name);
-                    const normalizedDescription = provider.description ? this.normalizeText(provider.description) : '';
+            this.filteredProviders = this.providers.filter(provider => {
+                const nameMatch = provider.name.toLowerCase().includes(query);
+                const descriptionMatch = provider.description.toLowerCase().includes(query);
+                const subcategoryMatch = provider.subcategoryNames.some(sub => sub.toLowerCase().includes(query));
 
-                    // Match the query against subcategory names
-                    const matchesSubcategories = provider.subCategories.some(subcategory => {
-                        const normalizedSubcategoryName = this.normalizeText(subcategory.name);
-                        return normalizedSubcategoryName.includes(query);
-                    });
+                return nameMatch || descriptionMatch || subcategoryMatch;
+            });
 
-                    // Match based on name, description, or subcategory
-                    return (normalizedName.includes(query) || normalizedDescription.includes(query) || matchesSubcategories);
-                });
-
-                this.isOpen = true; // Open the dropdown when there are results
-            } else {
-                this.searchResults = []; // Clear search results when the query is empty
-                this.isOpen = false; // Close dropdown if query is empty
-            }
-        },
-
-        // Select a provider from the autocomplete list
-        selectProvider(provider) {
-            // Redirect or populate your selection logic here (e.g., navigate to provider page)
-            window.location.href = `/${window.locale === 'de' ? 'de/' : ''}${provider.slug}`;
-        },
-
-        // Helper to highlight search match in results
-        highlightMatch(text) {
-            const regex = new RegExp(`(${this.searchQuery})`, 'gi');
-            return text.replace(regex, "<strong class='text-orange-500'>$1</strong>");
+            // Only show dropdown if there are search results
+            this.isOpen = this.filteredProviders.length > 0;
         },
 
         // Open the dropdown
@@ -103,10 +66,16 @@ function searchComponent() {
             this.isOpen = true;
         },
 
-        // Close the dropdown
-        closeDropdown() {
-            this.isOpen = false;
+        // Close the dropdown after a delay (to allow clicks)
+        hideDropdown() {
+            setTimeout(() => this.isOpen = false, 200);
+        },
+
+        // Highlight the matching search term
+        highlightMatch(text) {
+            const regex = new RegExp(`(${this.searchQuery})`, 'gi');
+            return text.replace(regex, "<strong class='text-orange-500'>$1</strong>");
         }
-    }
+    };
 }
 </script>

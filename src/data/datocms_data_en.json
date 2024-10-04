@@ -1,6 +1,853 @@
 {
   "allProviders": [
     {
+      "_publishedAt": "2024-10-04T16:15:09+02:00",
+      "_firstPublishedAt": "2024-09-20T12:46:38+02:00",
+      "id": "WXG67JOERqWqcgXjRaGDtg",
+      "name": "Can Bordoy Grand House & Garden",
+      "description": "\n## Overview\nCan Bordoy Grand House & Garden is a luxury boutique hotel in Palma's historic La Lonja quarter. Housed in a beautifully restored 16th-century building, it offers a unique mix of vintage décor, modern amenities, and exceptional service. With only 24 suites, the hotel provides an intimate and luxurious experience that includes a lush garden, spa, rooftop pool, and gourmet dining.\n\n## Services\nGuests enjoy a wide array of services, from a full-service spa with wellness treatments and yoga classes to two pools, including a rooftop pool with panoramic views. The hotel also boasts a restaurant offering high-end Mediterranean cuisine, a library, and a lounge with a fireplace. Concierge services, airport transfers, and boat rentals for coastal excursions are available.\n\n## Location\nSituated in the heart of Palma, the hotel’s location is ideal for exploring nearby landmarks such as La Seu Cathedral and the royal L'Almudaina Palace. It’s also within walking distance of Palma Port and close to many popular markets, museums, and vibrant nightlife spots.\n\n## User Experiences\nOverall, the hotel has excellent reviews, with guests praising its stunning design, tranquil atmosphere, and attentive service. Users highlight the comfort of the rooms, the garden’s beauty, and the central yet peaceful location. However, some reviews mention that the price is on the higher side compared to similar accommodations.\n\n## AI-Rating\nBased on user reviews, Can Bordoy Grand House & Garden receives an **AI-Rating of 4.6/5** for its service, location, and unique atmosphere, though some guests felt the price-to-value ratio could be improved.\n\n| Pros | Cons |\n| ---- | ---- |\n| 🟢 Beautiful design and garden | 🔴 High price |\n| 🟢 Excellent service and staff | 🔴 Limited dining options |\n| 🟢 Central location | 🔴 Some rooms may feel dark |\n\n## Conclusion\nCan Bordoy Grand House & Garden is an exquisite option for those looking to immerse themselves in luxury, comfort, and style in the heart of Palma. With its blend of historic charm and modern amenities, it's perfect for couples and individuals seeking relaxation and top-tier service.",
+      "address": "Carrer del Forn de la Glòria, 14, Centre, 07012 Palma",
+      "mail": "info@canbordoy.com",
+      "website": "https://www.canbordoy.com/",
+      "phone": "+34871871202",
+      "googleMapsLink": "https://maps.app.goo.gl/ahxx6fm7pbLkD3Vc9",
+      "slug": "can-bordoy-grand-house-garden",
+      "aiRating": 4.6,
+      "proList": "",
+      "tipsList": "",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1728051301-canbordoy-02.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1728051301-canbordoy-06.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1728051302-canbordoy-09.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1728051302-canbordoy-03.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1728051302-canbordoy-13.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1728051302-canbordoy-08.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1728051301-canbordoy-07.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1728051301-canbordoy-10.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1728051302-canbordoy-04.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1728051302-canbordoy-05.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1728051301-canbordoy-11.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1728051302-canbordoy-01.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1728051301-canbordoy-12.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🏨 Hotel",
+        "slug": "hotel"
+      },
+      "subCategories": [
+        {
+          "name": "🪷 Spa",
+          "slug": "spa"
+        },
+        {
+          "name": "🧘‍♀️ Wellness",
+          "slug": "wellness"
+        },
+        {
+          "name": "🍽️ In-house dining",
+          "slug": "in-house-dining"
+        }
+      ],
+      "location": {
+        "latitude": 39.5696809,
+        "longitude": 2.644409
+      }
+    },
+    {
+      "_publishedAt": "2024-10-04T16:10:43+02:00",
+      "_firstPublishedAt": "2024-09-19T16:41:21+02:00",
+      "id": "DJeWpZHvS_GfGuiVD5l4dw",
+      "name": "Mola Santa Catalina",
+      "description": "## Overview\nMola Santa Catalina is a trendy restaurant located in the vibrant Santa Catalina neighborhood of Palma, Mallorca. The venue combines gourmet fusion cuisine with a welcoming atmosphere, making it a popular destination for food lovers. Its creative dishes and modern ambiance have earned it a strong reputation since its establishment in 2021.\n\n## Services\nMola Santa Catalina offers a menu featuring a mix of international flavors and locally sourced ingredients. They are known for their excellent service and personalized attention. Along with dining, the venue hosts events and private gatherings, making it a versatile spot for both casual meals and special occasions. Additionally, they offer catering services for events.\n\n## Location\nSituated at Plaça de la Navegació, 17, in the heart of Ponent, Palma, the restaurant benefits from a central location, right in front of the Santa Catalina Market. This setting provides a lively atmosphere, with the sun streaming through large windows, creating a warm and inviting space for guests.\n\n## User Experiences\nVisitors consistently praise the fusion cuisine and the modern yet cozy setting. The staff's friendliness and the quality of service are highly rated. Many reviews highlight the creative food presentations and fresh ingredients, while some mention that reservations are necessary due to the restaurant's popularity.\n\n## AI-Rating\nBased on user reviews and feedback, Mola Santa Catalina receives a solid 4.5/5. Customers rave about the unique menu, great atmosphere, and attentive service, with minor concerns primarily related to availability and high demand.\n\n| Pros | Cons |\n| --- | --- |\n| 🟢 Excellent fusion cuisine | 🔴 High demand, often requiring reservations |\n| 🟢 Friendly and attentive staff | 🔴 Limited seating |\n| 🟢 Central location near Santa Catalina Market | 🔴 Slightly higher price point |\n\n## Conclusion\nMola Santa Catalina stands out as a top choice for fusion dining in Palma, offering high-quality dishes, a prime location, and excellent service. Whether for a casual dinner or a special event, it’s a spot that combines great food with a memorable atmosphere.\n",
+      "address": "Plaça de la Navegació, 17, Ponent, 07013 Palma",
+      "mail": "reservation.sc@grupomola.com",
+      "website": "https://www.grupomola.com/en",
+      "phone": "+34680808078",
+      "googleMapsLink": "https://maps.app.goo.gl/ybydGpCEaBT9ocKv6",
+      "slug": "mola-santa-catalina",
+      "aiRating": 4.5,
+      "proList": "",
+      "tipsList": "",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1728051028-grupomola-03.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1728051028-grupomola-02.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1728051028-grupomola-04.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1728051028-grupomola-01.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🍽️ Restaurant",
+        "slug": "restaurant"
+      },
+      "subCategories": [
+        {
+          "name": "🍷 Wine",
+          "slug": "wine"
+        }
+      ],
+      "location": {
+        "latitude": 39.5715679,
+        "longitude": 2.6383136
+      }
+    },
+    {
+      "_publishedAt": "2024-10-04T16:05:49+02:00",
+      "_firstPublishedAt": "2024-09-19T17:53:22+02:00",
+      "id": "VakCHr7XTfiuEsLWd3G2DA",
+      "name": "Badal Corner",
+      "description": "## Overview\nBadal Corner is a popular burger spot located at Plaça del Comtat del Rosselló in Palma, Mallorca. It offers gourmet-style burgers with a variety of options including vegan and vegetarian choices, attracting both locals and tourists alike. Known for its casual yet vibrant atmosphere, Badal Corner stands out for its creative takes on traditional burgers and generous portion sizes.\n\n## Services\nThe restaurant specializes in gourmet burgers, offering a mix of traditional and vegan-friendly options. Patrons can choose from beef, Beyond Meat, seitan, or chickpea patties. The restaurant provides dine-in services and also offers delivery via Glovo. The menu includes sides like sweet potato fries and edamame, and the service is noted for its efficiency.\n\n## Location\nSituated in the bustling heart of Palma, Badal Corner is located at Plaça del Comtat del Rosselló, making it easily accessible. The area is vibrant and central, offering a perfect spot for both a quick bite or a relaxed meal after exploring the city.\n\n## User Experiences\nCustomer reviews are generally positive, particularly highlighting the quality of the vegan and vegetarian burgers. However, some diners mention that the menu can be confusing, and on busy days, service may be slow. The restaurant is popular among both vegans and non-vegans, praised for its fresh ingredients and flavorful dishes.\n\n## AI-Rating\n**4.3/5**\nBased on user feedback, Badal Corner scores highly for its diverse menu and quality, with slight deductions for occasional service delays and menu clarity.\n\n| Pros | Cons |\n| ---- | ---- |\n| 🟢 Vegan and vegetarian options | 🔴 Confusing menu |\n| 🟢 Large portions | 🔴 Can be busy with slow service |\n| 🟢 Quick food preparation | 🔴 Limited vegan choices |\n\n## Conclusion\nBadal Corner is an excellent choice for burger enthusiasts looking for both traditional and vegan options. Its central location and quality offerings make it a must-visit spot in Palma, though be prepared for a busy atmosphere at peak times.",
+      "address": "Plaça del Comtat del Rosselló, 7, Centre, 07002 Palma",
+      "mail": " info@badalcorner.com",
+      "website": "https://www.badalcorner.com",
+      "phone": "+34871238462",
+      "googleMapsLink": "https://maps.app.goo.gl/AreyoZvN3pBx1JmE8",
+      "slug": "badal-corner",
+      "aiRating": 4.3,
+      "proList": "",
+      "tipsList": "",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1728050744-badalcorner-03.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1728050744-badalcorner-02.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1728050744-badalcorner-04.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1728050744-badalcorner-01.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🍽️ Restaurant",
+        "slug": "restaurant"
+      },
+      "subCategories": [
+        {
+          "name": "🍔 Burger",
+          "slug": "burger"
+        },
+        {
+          "name": "🍃 Vegetarian",
+          "slug": "vegetarian"
+        },
+        {
+          "name": "🌱 Vegan",
+          "slug": "vegan"
+        }
+      ],
+      "location": {
+        "latitude": 39.5737004,
+        "longitude": 2.6544002
+      }
+    },
+    {
+      "_publishedAt": "2024-10-04T16:02:43+02:00",
+      "_firstPublishedAt": "2024-09-19T19:45:22+02:00",
+      "id": "ctvUS8gDS1egZyIOo5LcZw",
+      "name": "Ca n'Eduardo",
+      "description": "## Overview\nCa n'Eduardo is a charming establishment located in Palma, Balearic Islands, renowned for its unique blend of restaurant, hotel, and lifestyle offerings. With a focus on creating memorable experiences, it appeals to both locals and tourists seeking a taste of authentic Balearic hospitality.\n\n## Services\nThe venue provides a diverse range of services, including a fine dining restaurant featuring local cuisine, comfortable hotel accommodations, and lifestyle amenities that cater to wellness and leisure. Guests can enjoy exquisite meals crafted from fresh, local ingredients, along with personalized service that enhances their stay.\n\n## Location\nSituated in the vibrant area of Palma, Ca n'Eduardo is easily accessible and surrounded by a rich cultural heritage. The location offers proximity to local attractions, beaches, and shopping areas, making it an ideal spot for visitors looking to explore the beauty of the Balearic Islands.\n\n## User Experiences\nReviews highlight the exceptional quality of the food and the friendly, attentive staff. Many guests appreciate the cozy atmosphere and well-decorated interiors, which contribute to a pleasant dining and staying experience. However, some mention occasional issues with wait times during peak hours.\n\n## AI Rating\nBased on user reviews, Ca n'Eduardo receives a solid AI Rating of 4.5 out of 5, reflecting high satisfaction among patrons, particularly for its culinary offerings and customer service.\n\n| Pros 😊                       | Cons 😞                      |\n|------------------------------|------------------------------|\n| Excellent food quality       | Wait times can be long      |\n| Friendly and attentive staff  | Limited parking availability  |\n| Cozy and charming atmosphere  | Some dishes may be pricey   |\n\n## Conclusion\nOverall, Ca n'Eduardo stands out as a notable destination in Palma, combining gastronomy and hospitality with a touch of local flair. Its commitment to quality and customer satisfaction makes it a worthwhile choice for anyone visiting the Balearic Islands. Whether dining or staying overnight, guests can expect a delightful experience that captures the essence of the region.",
+      "address": "C/ Contramuelle Mollet, 3, 07012 Palma",
+      "mail": "info@caneduardo.com",
+      "website": "http://www.caneduardo.com/",
+      "phone": "+34971721182",
+      "googleMapsLink": "https://maps.app.goo.gl/zixYpmF8p28ZqMkj9",
+      "slug": "ca-neduardo",
+      "aiRating": 4.5,
+      "proList": "",
+      "tipsList": "",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1728050554-caneduardo-01.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1728050554-caneduardo-05.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1728050554-caneduardo-04.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1728050554-caneduardo-02.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1728050554-caneduardo-03.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🍽️ Restaurant",
+        "slug": "restaurant"
+      },
+      "subCategories": [
+        {
+          "name": "🥘 Spanish",
+          "slug": "spanish"
+        },
+        {
+          "name": "🌊 Mediterranean",
+          "slug": "mediterranean"
+        },
+        {
+          "name": "🦞 Seafood",
+          "slug": "seafood"
+        }
+      ],
+      "location": {
+        "latitude": 39.5684507,
+        "longitude": 2.6406613
+      }
+    },
+    {
+      "_publishedAt": "2024-10-04T15:59:33+02:00",
+      "_firstPublishedAt": "2024-09-20T19:44:53+02:00",
+      "id": "e_4Ik1wPQB61lOxuT4VXgA",
+      "name": "Hammam Al Ándalus",
+      "description": "## Overview\nHammam Al Ándalus in Palma de Mallorca is a luxurious spa offering a traditional Arabic bath experience. With its tranquil atmosphere, the hammam combines ancient Andalusian rituals with modern comfort, featuring a water journey through hot, warm, and cold baths, steam rooms, and massages. This location is part of a renowned chain, which includes other hammams in cities like Madrid, Granada, and Córdoba.\n\n## Services\nThe spa provides various relaxation services including massages, a water circuit with thermal pools, and steam rooms. Guests can choose from a variety of massages such as the *Mimma* (full-body massage) or opt for specialized treatments like *Aromas Ritual*, which uses essential oils for a sensory experience. They also offer skincare treatments like exfoliation. Most packages include access to the thermal baths and steam rooms, creating a holistic wellness journey.\n\n## Location\nThe Hammam is located at C. de Costa i Llobera, 20, Llevant, 07005 Palma, Illes Balears, Spain. It’s conveniently situated within Palma, making it easy to access while offering a peaceful retreat from the city's bustle. The serene environment reflects the historic Arab influences of the island, adding a cultural depth to the relaxation experience.\n\n## User Experiences\nOverall, users praise the peaceful and serene ambiance. Many reviews mention the excellent service, particularly highlighting the warmth and professionalism of the staff. Guests often describe the massage treatments as outstanding and very relaxing. However, some feedback points to small changing rooms and the need for better hygiene protocols, like providing slippers to avoid walking barefoot in common areas.\n\n## AI-Rating\nBased on user feedback, I would rate Hammam Al Ándalus Palma with an **4.3/5**. The atmosphere and service are highly regarded, though improvements in facilities and hygiene could enhance the experience.\n\n| Pros ✅ | Cons ❌ |\n| --- | --- |\n| Beautiful, tranquil atmosphere | Small changing rooms |\n| Excellent massages | Lack of provided slippers |\n| Friendly and professional staff | No air conditioning in changing rooms |\n\n## Conclusion\nHammam Al Ándalus in Palma is an ideal spot for those seeking relaxation with a cultural touch. Despite minor facility drawbacks, the overall experience is deeply rejuvenating and highly recommended for anyone visiting Palma.",
+      "address": "C. de Costa i Llobera, 20, Llevant, 07005 Palma",
+      "mail": "",
+      "website": "https://palma.hammamalandalus.com/",
+      "phone": "+34971412860",
+      "googleMapsLink": "https://maps.app.goo.gl/dhZJxygpUWrzvumN6",
+      "slug": "hammam-al-andalus",
+      "aiRating": 4.3,
+      "proList": "",
+      "tipsList": "",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1728050350-hammamalandalus-04.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1728050350-hammamalandalus-02.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1728050350-hammamalandalus-01.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1728050350-hammamalandalus-03.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🌴 Leisure",
+        "slug": "leisure"
+      },
+      "subCategories": [
+        {
+          "name": "🧘‍♀️ Wellness",
+          "slug": "wellness"
+        },
+        {
+          "name": "🪷 Spa",
+          "slug": "spa"
+        }
+      ],
+      "location": {
+        "latitude": 39.57480169999999,
+        "longitude": 2.657397500000001
+      }
+    },
+    {
+      "_publishedAt": "2024-10-04T15:55:46+02:00",
+      "_firstPublishedAt": "2024-09-20T16:22:15+02:00",
+      "id": "NBHG1ceHTaKE7KuELcFyaw",
+      "name": "Tramuntana Diving & Adventure",
+      "description": "## Overview\n**Tramuntana Diving & Adventure** is a well-regarded dive center located in Port de Pollença, Mallorca. It specializes in scuba diving, freediving, and multi-adventure activities. Known for its family-like atmosphere and professional approach, it caters to both novices and experienced divers with personalized attention and safety as a top priority. With a location in one of Mallorca’s most scenic bays, this center offers over 30 dive sites and additional activities like kayaking, canyoning, and rock climbing.\n\n## Services\nTramuntana Diving offers a wide range of water and land-based activities. Diving is the main attraction, with courses for beginners to pros, but the center also offers **freediving**, **snorkeling**, and **SUP (stand-up paddleboarding)**. Additionally, adventure seekers can engage in **canyoning**, **cliff jumping**, and **rock climbing**. The staff emphasizes safety and environmental respect, integrating these values into their activities and teaching programs.\n\n## Location\nLocated at **Carrer d'Elcano, 9, 07470 Port de Pollença**, this center is ideally situated in the northeast of Mallorca, offering access to the stunning and calm waters of the Pollença Bay. The region is known for its breathtaking landscapes, making it a perfect spot for diving, exploration, and adventure tourism.\n\n## User Experiences\nReviews frequently highlight the friendly and professional staff, making guests feel comfortable and safe. Customers appreciate the personal attention and small groups, allowing for a memorable and relaxed experience. Many reviewers also mention **Lucas**, a star instructor known for his patient and knowledgeable approach. The overall sentiment from users is overwhelmingly positive, with guests recommending the center for its fun atmosphere, great dives, and attention to detail.\n\n## AI-Rating\nBased on numerous reviews and experiences, I give **Tramuntana Diving & Adventure** an AI rating of **4.8/5**. Most users were highly satisfied with their experience, the professionalism of the staff, and the beauty of the dive sites.\n\n| Pros                       | Cons                         |\n|----------------------------|------------------------------|\n| 🟢 Friendly and professional staff | 🔴 Limited availability in high season |\n| 🟢 Safe, small group dives         | 🔴 May be challenging for non-swimmers |\n| 🟢 Scenic and diverse dive sites    | 🔴 Limited parking at location        |\n\n## Conclusion\nTramuntana Diving & Adventure is an excellent choice for both thrill-seekers and those looking for a relaxed, scenic dive. Whether you're a complete beginner or an experienced diver, this center provides a safe, fun, and memorable experience with stunning dive sites and engaging instructors.",
+      "address": "Carrer d'Elcano, 9, 07470 Port de Pollença",
+      "mail": "info@tramuntanadiving.com",
+      "website": "http://www.tramuntanadiving.com/",
+      "phone": "+34971876279",
+      "googleMapsLink": "https://maps.app.goo.gl/nZvtooy77mgDQMpV7",
+      "slug": "tramuntana-diving-and-adventure",
+      "aiRating": 4.8,
+      "proList": "",
+      "tipsList": "",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1728050125-tramuntanadiving-02.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1728050125-tramuntanadiving-03.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1728050125-tramuntanadiving-01.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1728050125-tramuntanadiving-04.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🌴 Leisure",
+        "slug": "leisure"
+      },
+      "subCategories": [
+        {
+          "name": "🤿 Diving",
+          "slug": "diving"
+        },
+        {
+          "name": "🏃‍♀️ Activity",
+          "slug": "activity"
+        }
+      ],
+      "location": {
+        "latitude": 39.9049819,
+        "longitude": 3.0807806
+      }
+    },
+    {
+      "_publishedAt": "2024-10-04T15:53:10+02:00",
+      "_firstPublishedAt": "2024-09-20T13:24:35+02:00",
+      "id": "B9sfhVSWRDO8cNPlLdOINQ",
+      "name": "GPRO Valparaiso Palace & SPA",
+      "description": "## Highlights\nGPRO Valparaíso Palace Hotel & Spa is a luxurious five-star urban resort in Palma de Mallorca, combining the tranquility of its gardens with proximity to the city’s key attractions. It features elegant rooms and suites, two restaurants offering Mediterranean and international cuisine, and a wellness center with spa facilities. The hotel is ideal for both relaxation and business stays, offering extensive event spaces and panoramic views of the bay.\n\n## Services\nThe hotel provides a wellness and spa area, fine dining with Mediterranean cuisine, event spaces, a fitness center, and swimming pools. A breakfast buffet and pool bar are also available.\n\n## Location\nLocated in Palma de Mallorca, at Francisco Vidal Sureda, 23, the hotel offers easy access to the city center and Palma Bay. It is set in a serene, elevated position with views of the Mediterranean and surrounding landscapes.\n\n## User Experiences\nGuests frequently praise the hotel for its top-notch spa facilities, spacious rooms with beautiful views, and attentive, friendly service. Many highlight the breakfast variety and quality of food. The peaceful ambiance and convenient location make it a favorite for both leisure and business travelers.",
+      "address": "C/ de Francesc Vidal i Sureda, 23, Ponent, 07015 Palma",
+      "mail": "valparaiso@gprovalparaiso.com",
+      "website": "http://www.gprovalparaiso.com/",
+      "phone": "+34971400300",
+      "googleMapsLink": "https://maps.app.goo.gl/zmGnyuMhHC66vKjVA",
+      "slug": "gpro-valparaiso-palace-and-spa",
+      "aiRating": 4.5,
+      "proList": "- Spacious rooms with stunning views.\n- Excellent spa and wellness services.\n- Convenient location near Palma city center.\n",
+      "tipsList": "- Early booking recommended for spa treatments.\n- Request a room with a sea view for a superior experience.\n- Check special packages for included spa access or breakfast.\n",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1728049918-gprovalparaiso-08.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1728049918-gprovalparaiso-02.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1728049918-gprovalparaiso-05.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1728049918-gprovalparaiso-11.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1728049918-gprovalparaiso-04.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1728049918-gprovalparaiso-07.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1728049918-gprovalparaiso-03.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1728049918-gprovalparaiso-09.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1728049918-gprovalparaiso-10.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1728049918-gprovalparaiso-06.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1728049918-gprovalparaiso-01.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🏨 Hotel",
+        "slug": "hotel"
+      },
+      "subCategories": [],
+      "location": {
+        "latitude": 39.5553568,
+        "longitude": 2.6193149
+      }
+    },
+    {
+      "_publishedAt": "2024-10-04T15:34:08+02:00",
+      "_firstPublishedAt": "2024-09-21T15:54:29+02:00",
+      "id": "OosCAggkTumkImYsoDo89w",
+      "name": "T - Golf",
+      "description": "T GOLF PALMA is an 18 holes course par 71, on an estate of around 165 acres. The difficulty of the course is average, though it can reach high levels from the back tees. It has a total length of around 6.591 yards out from the white tees, where high-precision holes and holes for great hitters are displayed.\n\n\n## Overview\nT Golf Calvia, located on the island of Mallorca, is an 18-hole golf course designed by John Harris in 1978. Known for its stunning Mediterranean setting, the course runs through groves of pines, with bunkers and lakes strategically positioned throughout the fairways. The course is a popular choice for both seasoned and amateur golfers, offering a blend of challenging terrain and serene nature.\n\n## Services\nThe golf club offers a wide range of services, including golf lessons through the T Golf Academy, club and cart rentals, a pro shop, and locker rooms. The **Telicious** restaurant provides Mediterranean cuisine using local ingredients. The clubhouse has been recently renovated to offer modern amenities, including a terrace that overlooks the course.\n\n## Location\nT Golf Calvia is located just 12 kilometers from Palma, making it easily accessible from the island’s capital. Nestled between the sea and the Tramuntana mountains, it offers beautiful views and a relaxed atmosphere, ideal for a golfing getaway.\n\n## User Experiences\nReviews are generally positive, with users praising the course's maintenance, especially the greens. The club is noted for its friendly staff and well-organized services. However, some guests have mentioned issues with parking and ongoing construction around the clubhouse. Despite this, many consider it one of the must-play courses in Mallorca.\n\n## AI-Rating\nBased on user feedback, I would rate T Golf Calvia at **4.5/5**. While the course's condition and the staff's hospitality are highly regarded, minor issues such as parking detract slightly from the overall experience.\n\n| Pros | Cons |\n| :-- | :-- |\n| 🟢 Beautiful, well-maintained course | 🔴 Issues with parking |\n| 🟢 Friendly staff and organized services | 🔴 Some ongoing construction |\n| 🟢 Scenic location with mountain and sea views | |\n\n## Conclusion\nT Golf Calvia is a top-tier golfing destination in Mallorca. With its combination of challenging course design, picturesque surroundings, and excellent service, it's an ideal location for both locals and visitors seeking a premium golfing experience.",
+      "address": "T Golf Calvia, Camí Cala Figuera, s/n, 07181, Balearic Islands, Spanien",
+      "mail": "",
+      "website": "https://t-golf.club/palma/",
+      "phone": "+34971130148",
+      "googleMapsLink": "https://maps.app.goo.gl/QXqBxfzTJEvRdDWm9",
+      "slug": "t-golf",
+      "aiRating": 4.5,
+      "proList": "",
+      "tipsList": "",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1727171824-t-golf-04.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1727171824-t-golf-01.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1727171824-t-golf-03.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1727171824-t-golf-02.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🌴 Leisure",
+        "slug": "leisure"
+      },
+      "subCategories": [
+        {
+          "name": "🏌️‍♂️ Golf",
+          "slug": "golf"
+        },
+        {
+          "name": "🍽️ In-house dining",
+          "slug": "in-house-dining"
+        }
+      ],
+      "location": {
+        "latitude": 39.4953468,
+        "longitude": 2.5183083
+      }
+    },
+    {
+      "_publishedAt": "2024-10-04T15:32:36+02:00",
+      "_firstPublishedAt": "2024-08-08T20:39:31+02:00",
+      "id": "Xk97s4piQ0qp1CGcXdh8pg",
+      "name": "MarChica Palma",
+      "description": "## Highlights\nMarchica Palma blends Mediterranean and Japanese fusion with a flair for elegant dining and vibrant atmosphere. Located in the chic Cas Català neighborhood, it offers a diverse sushi selection, Mediterranean dishes, and signature cocktails crafted by a dedicated mixologist. The stylish ambiance, combined with panoramic sea views and regular DJ sets, makes it a top spot for dining and nightlife.\n\n## Services\nTheir menu features fresh sushi, Mediterranean tapas, and fusion-style dishes like tuna tataki. Creative cocktails and curated wines enhance the dining experience, often accompanied by live music.\n\n## Location\nMarchica Palma is situated on Carrer Torre de Paraires, Cas Català-Illetes, a short drive from Palma's city center. The coastal location provides stunning views and adds to the luxurious feel of the place. Parking may be limited in the area.\n\n## User Experiences\nGuests frequently rave about the food quality, especially the sushi, and the attention to detail in service. The stylish décor and live music contribute to a festive but elegant atmosphere. However, some noted that the pricing is on the higher side, fitting for its upscale setting.",
+      "address": "Carrer Torre de Paraires, 1, Ponent, 07015 Palma, Illes Balears, Spanien",
+      "mail": "reservas@marchicapalma.com",
+      "website": "https://marchicapalma.com",
+      "phone": "+34971593902",
+      "googleMapsLink": "https://maps.app.goo.gl/emXJBKVMy7HVrQ5C9",
+      "slug": "marchica-palma",
+      "aiRating": 4.7,
+      "proList": "- Great fusion of Mediterranean and Japanese cuisine\n- Stunning sea views and stylish ambiance\n- Excellent cocktails and live music performances",
+      "tipsList": "- Book in advance to secure the best tables\n- Ideal for a special night out due to higher prices\n- Limited parking, so plan ahead if driving",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1723143550-marchica-palma-01.jpg",
+            "alt": "Marchica Dining Room"
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1723143545-marchica-palma-02.jpg",
+            "alt": "Marchica Palma Dining Room"
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1723143540-marchica-palma-03.jpg",
+            "alt": "Marchica Palma Interior"
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🍽️ Restaurant",
+        "slug": "restaurant"
+      },
+      "subCategories": [
+        {
+          "name": "🍣 Sushi",
+          "slug": "sushi"
+        },
+        {
+          "name": "🍱 Fusion",
+          "slug": "fusion"
+        },
+        {
+          "name": "🍹 Cocktail",
+          "slug": "cocktail"
+        },
+        {
+          "name": "🍸 Bar",
+          "slug": "bar"
+        }
+      ],
+      "location": {
+        "latitude": 39.5508258,
+        "longitude": 2.6230203
+      }
+    },
+    {
+      "_publishedAt": "2024-09-30T09:19:25+02:00",
+      "_firstPublishedAt": "2024-09-18T20:11:49+02:00",
+      "id": "QxJqEk6vQS2WyhupiiRE4w",
+      "name": "Guindilla Design & Bar",
+      "description": "## Overview\nGuindilla Design & Bar is a stylish venue located in the heart of Palma, known for its vibrant atmosphere and creative culinary offerings. The establishment combines modern design with a warm, inviting ambiance, making it a popular spot for both locals and tourists.\n\n## Services\nThe bar and restaurant offer a diverse menu that highlights both local and international cuisine. Guests can enjoy an extensive selection of cocktails, wines, and spirits, alongside a carefully curated food menu that includes tapas and main dishes. Regular events, such as live music and themed nights, enhance the overall experience.\n\n## Location\nSituated on Carrer de la Ferreria, Guindilla Design & Bar is easily accessible in the Centre of Palma, just a short walk from key attractions. The location makes it an ideal stop for a leisurely meal or drinks after exploring the city's vibrant streets.\n\n## User Experiences\nReviews highlight the attentive service and quality of food as standout features. Many visitors appreciate the unique interior design and overall ambiance, while some note that it can get quite busy during peak hours. The mix of local and international patrons adds to its lively vibe.\n\n## AI Rating\nBased on user reviews, Guindilla Design & Bar earns an AI Rating of 4.5 out of 5 for its atmosphere, service, and culinary offerings.\n\n| Pro ✅                     | Contra ❌                |\n|---------------------------|-------------------------|\n| Excellent food quality    | Can be crowded          |\n| Unique design             | Limited outdoor seating  |\n| Great service             | Higher price point      |\n| Vibrant atmosphere        | Inconsistent wait times  |\n\n## Conclusion\nOverall, Guindilla Design & Bar is a must-visit for those seeking a memorable dining experience in Palma. With its stylish setting and delightful offerings, it stands out as a premier destination for food and drink enthusiasts.",
+      "address": "Carrer de la Ferreria, 18, Centre, 07002 Palma",
+      "mail": "",
+      "website": "",
+      "phone": "+34697457473",
+      "googleMapsLink": "https://maps.app.goo.gl/mquSDbC2XLaUmZuv8",
+      "slug": "guindilla-design-and-bar",
+      "aiRating": 4.5,
+      "proList": "",
+      "tipsList": "",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726682785-screenshot-2024-09-18-200105.png",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726682785-screenshot-2024-09-18-200258.png",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726682785-screenshot-2024-09-18-200133.png",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🍽️ Restaurant",
+        "slug": "restaurant"
+      },
+      "subCategories": [
+        {
+          "name": "🍸 Bar",
+          "slug": "bar"
+        },
+        {
+          "name": "🔥 Grill",
+          "slug": "grill"
+        },
+        {
+          "name": "🍷 Wine",
+          "slug": "wine"
+        }
+      ],
+      "location": {
+        "latitude": 39.5710629,
+        "longitude": 2.6548905
+      }
+    },
+    {
+      "_publishedAt": "2024-09-30T09:19:05+02:00",
+      "_firstPublishedAt": "2024-09-21T15:23:27+02:00",
+      "id": "McSdC4y3RuyB8wo-6Li6Uw",
+      "name": "Aubamar Suites & Spa",
+      "description": "The 5 star Aubamar Suites & Spa in Playa de Palma is the perfect place from which to enjoy the sea, the city of Palma and the whole of Majorca at any time of year. It’s close to everything: five minutes away from the airport, just metres from one of the best beaches on the island and fifteen minutes’ drive from the Balearic capital.\n\n\n## Overview\nAubamar Suites & Spa is a 5-star luxury hotel in Playa de Palma, Mallorca. Known for its contemporary style, it offers modern amenities, spacious suites, and expansive gardens. It provides a tranquil getaway with excellent wellness facilities, including a full-service spa.\n\n## Services\nThe hotel boasts two outdoor pools, a well-reviewed spa, a fitness center, and a restaurant serving Mediterranean cuisine. Guests can also enjoy direct access to nearby beaches and personalized services like private balconies and spa treatments.\n\n## Location\nLocated just 300 meters from Playa de Palma beach, the hotel is a short drive from the Palma de Mallorca Airport and the city center, making it accessible for tourists. It’s ideal for those wanting both beach proximity and urban convenience.\n\n## User Experiences\nGuests highlight the friendly staff, spacious rooms, and the cleanliness of the hotel. While most reviews are positive, a few guests noted issues with service speed and restaurant quality. However, the spa and pool facilities consistently receive high praise.\n\n## AI-Rating\nBased on user reviews, Aubamar Suites & Spa earns a solid **4.3/5**. The hotel excels in customer service, spa facilities, and location but could improve in terms of dining experiences and room maintenance response.\n\n| **Pros**                     | **Cons**                     |\n|------------------------------|------------------------------|\n| ✅ Friendly staff             | ❌ Inconsistent restaurant    |\n| ✅ Spacious, clean rooms      | ❌ Slow maintenance response  |\n| ✅ Excellent spa facilities   | ❌ Some room issues reported  |\n| ✅ Convenient location        |                              |\n\n## Conclusion\nAubamar Suites & Spa is a solid option for travelers seeking a mix of relaxation and beachside luxury. With its excellent wellness offerings and friendly staff, it provides great value, though improvements in service consistency would elevate the experience further.\n",
+      "address": "Calle Misión de San Diego, 17 07600 Palma, Illes Balears",
+      "mail": "",
+      "website": "https://www.palmabeach.com/hotel-aubamar-suites-spa-5/2868/",
+      "phone": "+34971724347",
+      "googleMapsLink": "https://maps.app.goo.gl/4ZdVUEPt8HfMJHG69",
+      "slug": "aubamar-suites-and-spa",
+      "aiRating": 4.3,
+      "proList": "",
+      "tipsList": "",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726941428-aubamarsuite-03.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726941428-aubamarsuite-01.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726941428-aubamarsuite-04.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726941428-aubamarsuite-02.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726941428-aubamarsuite-05.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🏨 Hotel",
+        "slug": "hotel"
+      },
+      "subCategories": [
+        {
+          "name": "💙 Palma Beach Partner",
+          "slug": "palma-beach-partner"
+        },
+        {
+          "name": "🪷 Spa",
+          "slug": "spa"
+        },
+        {
+          "name": "🏋️‍♂️ Gym",
+          "slug": "gym"
+        },
+        {
+          "name": "🍽️ In-house dining",
+          "slug": "in-house-dining"
+        },
+        {
+          "name": "🏊‍♂️ Pool",
+          "slug": "pool"
+        }
+      ],
+      "location": {
+        "latitude": 39.51701449999999,
+        "longitude": 2.7489633
+      }
+    },
+    {
+      "_publishedAt": "2024-09-30T09:17:47+02:00",
+      "_firstPublishedAt": "2024-09-19T12:34:22+02:00",
+      "id": "C2Ulw01IRcOd8NkHEuhXTg",
+      "name": "Dive & Fun",
+      "description": "## Overview\nDive & Fun Mallorca, located in the scenic northeast of Mallorca, offers a variety of water-based activities ranging from scuba diving to adventurous boat tours. As a certified i.a.c. Dive Center, they cater to both beginners and experienced divers, providing guided tours in the **Marine Reserve of Llevant** and nearby sites like caves and canyons. With a friendly, multilingual staff and a well-equipped dive center, Dive & Fun has gained recognition among locals and tourists alike.\n\n## Services\nDive & Fun offers multiple diving courses from **Discover Scuba Diving** for beginners to advanced diving certifications. Their equipment rental includes everything from wetsuits to dive computers, and they also run boat tours like the **600 HP speedboat** trips for thrill-seekers. Their facilities include showers, classrooms, and a gear cleaning station. Additionally, they offer snorkeling and cave exploration tours.\n\n## Location\nSituated in **Font de Sa Cala**, the dive center is a few minutes from the beach and only a short drive from **Cala Ratjada**. The proximity to the **Marine Reserve** allows for dives in pristine underwater environments with abundant marine life. Easy access by boat and shore makes it convenient for divers of all skill levels.\n\n## User Experiences\nGuests frequently highlight the friendly and professional staff, especially praising their attentiveness to beginners. The dive sites are noted for their beauty, and many reviewers appreciate the small group sizes for dives. However, some users have mentioned occasional weather-related cancellations that affected the schedule.\n\n## AI-Rating: 4.4/5\nBased on user feedback, Dive & Fun Mallorca receives an overall positive rating. The quality of the dive sites, equipment, and personalized attention stand out, while minor issues like weather-dependent scheduling have been noted.\n\n| **Pros** | **Cons** |\n|---------|----------|\n| 🟢 Beautiful dive sites | 🔴 Weather can affect tours |\n| 🟢 Professional and friendly staff | 🔴 Limited boat capacity |\n| 🟢 Great for beginners and small groups | 🔴 Slightly higher price for extra services |\n\n## Conclusion\nDive & Fun Mallorca is an excellent choice for divers visiting the northeast coast of Mallorca. With a variety of diving experiences and excursions, it's a highly recommended spot for both novice and experienced divers looking for adventure in a beautiful natural setting.\n",
+      "address": "Carretera de Canyamel, 48, 07589 Font de Sa Cala, Illes Balears, Spanien",
+      "mail": "",
+      "website": "http://www.mallorcadiving.de/",
+      "phone": "+34971818036",
+      "googleMapsLink": "https://maps.app.goo.gl/nNn5QNMYrdaNrrrTA",
+      "slug": "dive-and-fun",
+      "aiRating": 4.4,
+      "proList": "",
+      "tipsList": "",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726741973-dive-and-fun-01.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726741973-dive-and-fun-02.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726741973-dive-and-fun-06.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726741973-dive-and-fun-03.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726741973-dive-and-fun-05.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726741973-dive-and-fun-04.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🌴 Leisure",
+        "slug": "leisure"
+      },
+      "subCategories": [
+        {
+          "name": "🤿 Diving",
+          "slug": "diving"
+        }
+      ],
+      "location": {
+        "latitude": 39.6831747,
+        "longitude": 3.4516384
+      }
+    },
+    {
       "_publishedAt": "2024-09-24T11:57:51+02:00",
       "_firstPublishedAt": "2024-09-21T15:42:55+02:00",
       "id": "clzDVGJjQBS6Tp9h-CKDgA",
@@ -11,8 +858,10 @@
       "website": "https://www.palmabeach.com/dino-mini-golf/3649/",
       "phone": "+34971743334",
       "googleMapsLink": "https://maps.app.goo.gl/S1vqkXRmmTwCbH1H6",
-      "aiRating": 4,
       "slug": "dino-mini-golf",
+      "aiRating": 4,
+      "proList": "",
+      "tipsList": "",
       "photos": [
         {
           "responsiveImage": {
@@ -71,8 +920,10 @@
       "website": "https://www.palmabeach.com/golf-son-gual/3562/",
       "phone": "+34971785888",
       "googleMapsLink": "https://maps.app.goo.gl/ma1oB6YNq4yQaDFa7",
-      "aiRating": 4,
       "slug": "golf-son-gual",
+      "aiRating": 4,
+      "proList": "",
+      "tipsList": "",
       "photos": [
         {
           "responsiveImage": {
@@ -122,64 +973,6 @@
       "location": null
     },
     {
-      "_publishedAt": "2024-09-24T11:57:16+02:00",
-      "_firstPublishedAt": "2024-09-21T15:54:29+02:00",
-      "id": "OosCAggkTumkImYsoDo89w",
-      "name": "T - Golf",
-      "description": "T GOLF PALMA is an 18 holes course par 71, on an estate of around 165 acres. The difficulty of the course is average, though it can reach high levels from the back tees. It has a total length of around 6.591 yards out from the white tees, where high-precision holes and holes for great hitters are displayed.\n\n\n## Overview\nT Golf Calvia, located on the island of Mallorca, is an 18-hole golf course designed by John Harris in 1978. Known for its stunning Mediterranean setting, the course runs through groves of pines, with bunkers and lakes strategically positioned throughout the fairways. The course is a popular choice for both seasoned and amateur golfers, offering a blend of challenging terrain and serene nature.\n\n## Services\nThe golf club offers a wide range of services, including golf lessons through the T Golf Academy, club and cart rentals, a pro shop, and locker rooms. The **Telicious** restaurant provides Mediterranean cuisine using local ingredients. The clubhouse has been recently renovated to offer modern amenities, including a terrace that overlooks the course.\n\n## Location\nT Golf Calvia is located just 12 kilometers from Palma, making it easily accessible from the island’s capital. Nestled between the sea and the Tramuntana mountains, it offers beautiful views and a relaxed atmosphere, ideal for a golfing getaway.\n\n## User Experiences\nReviews are generally positive, with users praising the course's maintenance, especially the greens. The club is noted for its friendly staff and well-organized services. However, some guests have mentioned issues with parking and ongoing construction around the clubhouse. Despite this, many consider it one of the must-play courses in Mallorca.\n\n## AI-Rating\nBased on user feedback, I would rate T Golf Calvia at **4.5/5**. While the course's condition and the staff's hospitality are highly regarded, minor issues such as parking detract slightly from the overall experience.\n\n| Pros | Cons |\n| :-- | :-- |\n| 🟢 Beautiful, well-maintained course | 🔴 Issues with parking |\n| 🟢 Friendly staff and organized services | 🔴 Some ongoing construction |\n| 🟢 Scenic location with mountain and sea views | |\n\n## Conclusion\nT Golf Calvia is a top-tier golfing destination in Mallorca. With its combination of challenging course design, picturesque surroundings, and excellent service, it's an ideal location for both locals and visitors seeking a premium golfing experience.",
-      "address": "T Golf Calvia, Camí Cala Figuera, s/n, 07181, Balearic Islands, Spanien",
-      "mail": "",
-      "website": "https://www.palmabeach.com/t-golf/3569/",
-      "phone": "+34971130148",
-      "googleMapsLink": "https://maps.app.goo.gl/QXqBxfzTJEvRdDWm9",
-      "aiRating": 4.5,
-      "slug": "t-golf",
-      "photos": [
-        {
-          "responsiveImage": {
-            "src": "https://www.datocms-assets.com/138394/1727171824-t-golf-04.jpg",
-            "alt": null
-          }
-        },
-        {
-          "responsiveImage": {
-            "src": "https://www.datocms-assets.com/138394/1727171824-t-golf-01.jpg",
-            "alt": null
-          }
-        },
-        {
-          "responsiveImage": {
-            "src": "https://www.datocms-assets.com/138394/1727171824-t-golf-03.jpg",
-            "alt": null
-          }
-        },
-        {
-          "responsiveImage": {
-            "src": "https://www.datocms-assets.com/138394/1727171824-t-golf-02.jpg",
-            "alt": null
-          }
-        }
-      ],
-      "mainCategory": {
-        "name": "🌴 Leisure",
-        "slug": "leisure"
-      },
-      "subCategories": [
-        {
-          "name": "🏌️‍♂️ Golf",
-          "slug": "golf"
-        },
-        {
-          "name": "🍽️ In-house dining",
-          "slug": "in-house-dining"
-        }
-      ],
-      "location": {
-        "latitude": 39.4953468,
-        "longitude": 2.5183083
-      }
-    },
-    {
       "_publishedAt": "2024-09-22T09:29:59+02:00",
       "_firstPublishedAt": "2024-09-21T15:32:20+02:00",
       "id": "UUTyMdecRDm-yD6kIM76eA",
@@ -190,8 +983,10 @@
       "website": "https://www.hmhotels.com/hm-ayron-park/",
       "phone": "+34871719138",
       "googleMapsLink": "https://maps.app.goo.gl/su5gQyWR7vPtmAiT8",
-      "aiRating": 4.3,
       "slug": "hm-ayron-park",
+      "aiRating": 4.3,
+      "proList": "",
+      "tipsList": "",
       "photos": [
         {
           "responsiveImage": {
@@ -260,82 +1055,6 @@
       }
     },
     {
-      "_publishedAt": "2024-09-21T19:57:14+02:00",
-      "_firstPublishedAt": "2024-09-21T15:23:27+02:00",
-      "id": "McSdC4y3RuyB8wo-6Li6Uw",
-      "name": "Aubamar Suites & Spa",
-      "description": "The 5 star Aubamar Suites & Spa in Playa de Palma is the perfect place from which to enjoy the sea, the city of Palma and the whole of Majorca at any time of year. It’s close to everything: five minutes away from the airport, just metres from one of the best beaches on the island and fifteen minutes’ drive from the Balearic capital.\n\n\n## Overview\nAubamar Suites & Spa is a 5-star luxury hotel in Playa de Palma, Mallorca. Known for its contemporary style, it offers modern amenities, spacious suites, and expansive gardens. It provides a tranquil getaway with excellent wellness facilities, including a full-service spa.\n\n## Services\nThe hotel boasts two outdoor pools, a well-reviewed spa, a fitness center, and a restaurant serving Mediterranean cuisine. Guests can also enjoy direct access to nearby beaches and personalized services like private balconies and spa treatments.\n\n## Location\nLocated just 300 meters from Playa de Palma beach, the hotel is a short drive from the Palma de Mallorca Airport and the city center, making it accessible for tourists. It’s ideal for those wanting both beach proximity and urban convenience.\n\n## User Experiences\nGuests highlight the friendly staff, spacious rooms, and the cleanliness of the hotel. While most reviews are positive, a few guests noted issues with service speed and restaurant quality. However, the spa and pool facilities consistently receive high praise.\n\n## AI-Rating\nBased on user reviews, Aubamar Suites & Spa earns a solid **4.3/5**. The hotel excels in customer service, spa facilities, and location but could improve in terms of dining experiences and room maintenance response.\n\n| **Pros**                     | **Cons**                     |\n|------------------------------|------------------------------|\n| ✅ Friendly staff             | ❌ Inconsistent restaurant    |\n| ✅ Spacious, clean rooms      | ❌ Slow maintenance response  |\n| ✅ Excellent spa facilities   | ❌ Some room issues reported  |\n| ✅ Convenient location        |                              |\n\n## Conclusion\nAubamar Suites & Spa is a solid option for travelers seeking a mix of relaxation and beachside luxury. With its excellent wellness offerings and friendly staff, it provides great value, though improvements in service consistency would elevate the experience further.\n",
-      "address": "Calle Misión de San Diego, 17 07600 Palma, Illes Balears",
-      "mail": "",
-      "website": "https://www.palmabeach.com/hotel-aubamar-suites-spa-5/2868/",
-      "phone": "+34971724347",
-      "googleMapsLink": "https://maps.app.goo.gl/4ZdVUEPt8HfMJHG69",
-      "aiRating": 4.3,
-      "slug": "aubamar-suites-spa",
-      "photos": [
-        {
-          "responsiveImage": {
-            "src": "https://www.datocms-assets.com/138394/1726941428-aubamarsuite-03.jpg",
-            "alt": null
-          }
-        },
-        {
-          "responsiveImage": {
-            "src": "https://www.datocms-assets.com/138394/1726941428-aubamarsuite-01.jpg",
-            "alt": null
-          }
-        },
-        {
-          "responsiveImage": {
-            "src": "https://www.datocms-assets.com/138394/1726941428-aubamarsuite-04.jpg",
-            "alt": null
-          }
-        },
-        {
-          "responsiveImage": {
-            "src": "https://www.datocms-assets.com/138394/1726941428-aubamarsuite-02.jpg",
-            "alt": null
-          }
-        },
-        {
-          "responsiveImage": {
-            "src": "https://www.datocms-assets.com/138394/1726941428-aubamarsuite-05.jpg",
-            "alt": null
-          }
-        }
-      ],
-      "mainCategory": {
-        "name": "🏨 Hotel",
-        "slug": "hotel"
-      },
-      "subCategories": [
-        {
-          "name": "💙 Palma Beach Partner",
-          "slug": "palma-beach-partner"
-        },
-        {
-          "name": "🪷 Spa",
-          "slug": "spa"
-        },
-        {
-          "name": "🏋️‍♂️ Gym",
-          "slug": "gym"
-        },
-        {
-          "name": "🍽️ In-house dining",
-          "slug": "in-house-dining"
-        },
-        {
-          "name": "🏊‍♂️ Pool",
-          "slug": "pool"
-        }
-      ],
-      "location": {
-        "latitude": 39.51701449999999,
-        "longitude": 2.7489633
-      }
-    },
-    {
       "_publishedAt": "2024-09-21T19:49:18+02:00",
       "_firstPublishedAt": "2024-09-21T15:14:27+02:00",
       "id": "fwtN2kbyQ3KIaDGNfgS-Cg",
@@ -346,8 +1065,10 @@
       "website": "https://www.palmabeach.com/hipotels-playa-de-palma-palace/2863/",
       "phone": "+34971260528",
       "googleMapsLink": "https://maps.app.goo.gl/1UEtHzP3ggfs1xxh8",
-      "aiRating": 4.6,
       "slug": "playa-de-palma-palace",
+      "aiRating": 4.6,
+      "proList": "",
+      "tipsList": "",
       "photos": [
         {
           "responsiveImage": {
@@ -422,8 +1143,10 @@
       "website": "https://www.palmabeach.com/chalet-siena/785/",
       "phone": "+34 971 74 56 90",
       "googleMapsLink": "https://maps.app.goo.gl/sfToPHvjxhnDekVFA",
-      "aiRating": 4,
       "slug": "chalet-siena",
+      "aiRating": 4,
+      "proList": "",
+      "tipsList": "",
       "photos": [
         {
           "responsiveImage": {
@@ -498,8 +1221,10 @@
       "website": "https://www.palmabeach.com/bonito/781/",
       "phone": "+34 971 745 663",
       "googleMapsLink": "https://maps.app.goo.gl/g7pLWCjC49mZZALj6",
-      "aiRating": 4,
       "slug": "bonito",
+      "aiRating": 4,
+      "proList": "",
+      "tipsList": "",
       "photos": [
         {
           "responsiveImage": {
@@ -570,8 +1295,10 @@
       "website": "https://restaurantesumaq.com",
       "phone": "+34696526758",
       "googleMapsLink": "https://maps.app.goo.gl/thWppWusFpBRfkP8A",
-      "aiRating": 4.5,
       "slug": "restaurante-sumaq",
+      "aiRating": 4.5,
+      "proList": "",
+      "tipsList": "",
       "photos": [
         {
           "responsiveImage": {
@@ -622,8 +1349,10 @@
       "website": "https://www.lavieja.net",
       "phone": "+34871531731",
       "googleMapsLink": "https://maps.app.goo.gl/VcX9gYdMoY1tfcxc8",
-      "aiRating": 4.5,
       "slug": "la-vieja-de-jonay-hernandez",
+      "aiRating": 4.5,
+      "proList": "",
+      "tipsList": "",
       "photos": [
         {
           "responsiveImage": {
@@ -678,8 +1407,10 @@
       "website": "https://www.restaurantsumailla.com",
       "phone": "+34971238785",
       "googleMapsLink": "https://maps.app.goo.gl/2QbbD76vVAU3Z7TT9",
-      "aiRating": 4.5,
       "slug": "sumailla-restaurant",
+      "aiRating": 4.5,
+      "proList": "",
+      "tipsList": "",
       "photos": [
         {
           "responsiveImage": {
@@ -746,8 +1477,10 @@
       "website": "https://www.japosantacatalina.com/en/home/",
       "phone": "+34971738321",
       "googleMapsLink": "https://maps.app.goo.gl/ni86jPYzsqYAPkus6",
-      "aiRating": 4.2,
       "slug": "japo-santa-catalina",
+      "aiRating": 4.2,
+      "proList": "",
+      "tipsList": "",
       "photos": [
         {
           "responsiveImage": {
@@ -824,8 +1557,10 @@
       "website": "https://japanlabmallorca.com",
       "phone": "+34971949231",
       "googleMapsLink": "https://maps.app.goo.gl/eNhN6bMJtWALvpDJ8",
-      "aiRating": 4.5,
       "slug": "japan-lab",
+      "aiRating": 4.5,
+      "proList": "",
+      "tipsList": "",
       "photos": [
         {
           "responsiveImage": {
@@ -880,8 +1615,10 @@
       "website": "https://kasuirestaurante.com/",
       "phone": "+34971677780",
       "googleMapsLink": "https://maps.app.goo.gl/LwVtiXHpp6VKCc9i6",
-      "aiRating": 4,
       "slug": "kasui",
+      "aiRating": 4,
+      "proList": "",
+      "tipsList": "",
       "photos": [
         {
           "responsiveImage": {
@@ -940,8 +1677,10 @@
       "website": "http://www.emilio-innobar.com/",
       "phone": "+34696639179",
       "googleMapsLink": "https://maps.app.goo.gl/mFqqh2AkLQX6f7BN9",
-      "aiRating": 4.5,
       "slug": "emilio-innobar-restaurante-fusion",
+      "aiRating": 4.5,
+      "proList": "",
+      "tipsList": "",
       "photos": [
         {
           "responsiveImage": {
@@ -990,8 +1729,10 @@
       "website": "https://www.bghotels.com/bg-caballero.html",
       "phone": "+34971260050",
       "googleMapsLink": "https://maps.app.goo.gl/Ngw2xdLaASpwXzPq7",
-      "aiRating": 4.2,
       "slug": "bg-hotels-caballero",
+      "aiRating": 4.2,
+      "proList": "",
+      "tipsList": "",
       "photos": [
         {
           "responsiveImage": {
@@ -1032,62 +1773,6 @@
       }
     },
     {
-      "_publishedAt": "2024-09-21T18:06:45+02:00",
-      "_firstPublishedAt": "2024-09-18T20:11:49+02:00",
-      "id": "QxJqEk6vQS2WyhupiiRE4w",
-      "name": "Guindilla Design & Bar",
-      "description": "## Overview\nGuindilla Design & Bar is a stylish venue located in the heart of Palma, known for its vibrant atmosphere and creative culinary offerings. The establishment combines modern design with a warm, inviting ambiance, making it a popular spot for both locals and tourists.\n\n## Services\nThe bar and restaurant offer a diverse menu that highlights both local and international cuisine. Guests can enjoy an extensive selection of cocktails, wines, and spirits, alongside a carefully curated food menu that includes tapas and main dishes. Regular events, such as live music and themed nights, enhance the overall experience.\n\n## Location\nSituated on Carrer de la Ferreria, Guindilla Design & Bar is easily accessible in the Centre of Palma, just a short walk from key attractions. The location makes it an ideal stop for a leisurely meal or drinks after exploring the city's vibrant streets.\n\n## User Experiences\nReviews highlight the attentive service and quality of food as standout features. Many visitors appreciate the unique interior design and overall ambiance, while some note that it can get quite busy during peak hours. The mix of local and international patrons adds to its lively vibe.\n\n## AI Rating\nBased on user reviews, Guindilla Design & Bar earns an AI Rating of 4.5 out of 5 for its atmosphere, service, and culinary offerings.\n\n| Pro ✅                     | Contra ❌                |\n|---------------------------|-------------------------|\n| Excellent food quality    | Can be crowded          |\n| Unique design             | Limited outdoor seating  |\n| Great service             | Higher price point      |\n| Vibrant atmosphere        | Inconsistent wait times  |\n\n## Conclusion\nOverall, Guindilla Design & Bar is a must-visit for those seeking a memorable dining experience in Palma. With its stylish setting and delightful offerings, it stands out as a premier destination for food and drink enthusiasts.",
-      "address": "Carrer de la Ferreria, 18, Centre, 07002 Palma",
-      "mail": "",
-      "website": "",
-      "phone": "+34697457473",
-      "googleMapsLink": "https://maps.app.goo.gl/mquSDbC2XLaUmZuv8",
-      "aiRating": 4.5,
-      "slug": "guindilla-design-bar",
-      "photos": [
-        {
-          "responsiveImage": {
-            "src": "https://www.datocms-assets.com/138394/1726682785-screenshot-2024-09-18-200105.png",
-            "alt": null
-          }
-        },
-        {
-          "responsiveImage": {
-            "src": "https://www.datocms-assets.com/138394/1726682785-screenshot-2024-09-18-200258.png",
-            "alt": null
-          }
-        },
-        {
-          "responsiveImage": {
-            "src": "https://www.datocms-assets.com/138394/1726682785-screenshot-2024-09-18-200133.png",
-            "alt": null
-          }
-        }
-      ],
-      "mainCategory": {
-        "name": "🍽️ Restaurant",
-        "slug": "restaurant"
-      },
-      "subCategories": [
-        {
-          "name": "🍸 Bar",
-          "slug": "bar"
-        },
-        {
-          "name": "🔥 Grill",
-          "slug": "grill"
-        },
-        {
-          "name": "🍷 Wine",
-          "slug": "wine"
-        }
-      ],
-      "location": {
-        "latitude": 39.5710629,
-        "longitude": 2.6548905
-      }
-    },
-    {
       "_publishedAt": "2024-09-21T18:05:25+02:00",
       "_firstPublishedAt": "2024-09-17T17:50:59+02:00",
       "id": "b-9KTV-iRsavnVJKQZYpfw",
@@ -1098,8 +1783,10 @@
       "website": "https://www.instagram.com/nola.palma/",
       "phone": "+34971667006",
       "googleMapsLink": "https://maps.app.goo.gl/5Kp6jGtm6zGmJprY7",
-      "aiRating": 4.5,
       "slug": "nola",
+      "aiRating": 4.5,
+      "proList": "",
+      "tipsList": "",
       "photos": [
         {
           "responsiveImage": {
@@ -1168,8 +1855,10 @@
       "website": "http://www.tomeumarti.com/",
       "phone": "+34971214121",
       "googleMapsLink": "https://maps.app.goo.gl/JWbLHysrcruJpzzn9",
-      "aiRating": 4,
       "slug": "arume",
+      "aiRating": 4,
+      "proList": "",
+      "tipsList": "",
       "photos": [
         {
           "responsiveImage": {
@@ -1230,8 +1919,10 @@
       "website": "http://abbaconaturalfood.com/",
       "phone": "+34971865741",
       "googleMapsLink": "https://maps.app.goo.gl/isG5xpzivXsFFwSd6",
-      "aiRating": 4.5,
       "slug": "abbaco-natural-food",
+      "aiRating": 4.5,
+      "proList": "",
+      "tipsList": "",
       "photos": [
         {
           "responsiveImage": {
@@ -1270,39 +1961,6 @@
       }
     },
     {
-      "_publishedAt": "2024-09-21T17:53:29+02:00",
-      "_firstPublishedAt": "2024-09-20T19:44:53+02:00",
-      "id": "e_4Ik1wPQB61lOxuT4VXgA",
-      "name": "Hammam Al Ándalus",
-      "description": "## Overview\nHammam Al Ándalus in Palma de Mallorca is a luxurious spa offering a traditional Arabic bath experience. With its tranquil atmosphere, the hammam combines ancient Andalusian rituals with modern comfort, featuring a water journey through hot, warm, and cold baths, steam rooms, and massages. This location is part of a renowned chain, which includes other hammams in cities like Madrid, Granada, and Córdoba.\n\n## Services\nThe spa provides various relaxation services including massages, a water circuit with thermal pools, and steam rooms. Guests can choose from a variety of massages such as the *Mimma* (full-body massage) or opt for specialized treatments like *Aromas Ritual*, which uses essential oils for a sensory experience. They also offer skincare treatments like exfoliation. Most packages include access to the thermal baths and steam rooms, creating a holistic wellness journey.\n\n## Location\nThe Hammam is located at C. de Costa i Llobera, 20, Llevant, 07005 Palma, Illes Balears, Spain. It’s conveniently situated within Palma, making it easy to access while offering a peaceful retreat from the city's bustle. The serene environment reflects the historic Arab influences of the island, adding a cultural depth to the relaxation experience.\n\n## User Experiences\nOverall, users praise the peaceful and serene ambiance. Many reviews mention the excellent service, particularly highlighting the warmth and professionalism of the staff. Guests often describe the massage treatments as outstanding and very relaxing. However, some feedback points to small changing rooms and the need for better hygiene protocols, like providing slippers to avoid walking barefoot in common areas.\n\n## AI-Rating\nBased on user feedback, I would rate Hammam Al Ándalus Palma with an **4.3/5**. The atmosphere and service are highly regarded, though improvements in facilities and hygiene could enhance the experience.\n\n| Pros ✅ | Cons ❌ |\n| --- | --- |\n| Beautiful, tranquil atmosphere | Small changing rooms |\n| Excellent massages | Lack of provided slippers |\n| Friendly and professional staff | No air conditioning in changing rooms |\n\n## Conclusion\nHammam Al Ándalus in Palma is an ideal spot for those seeking relaxation with a cultural touch. Despite minor facility drawbacks, the overall experience is deeply rejuvenating and highly recommended for anyone visiting Palma.",
-      "address": "C. de Costa i Llobera, 20, Llevant, 07005 Palma",
-      "mail": "",
-      "website": "https://palma.hammamalandalus.com/",
-      "phone": "+34971412860",
-      "googleMapsLink": "https://maps.app.goo.gl/dhZJxygpUWrzvumN6",
-      "aiRating": 4.3,
-      "slug": "hammam-al-andalus",
-      "photos": [],
-      "mainCategory": {
-        "name": "🌴 Leisure",
-        "slug": "leisure"
-      },
-      "subCategories": [
-        {
-          "name": "🧘‍♀️ Wellness",
-          "slug": "wellness"
-        },
-        {
-          "name": "🪷 Spa",
-          "slug": "spa"
-        }
-      ],
-      "location": {
-        "latitude": 39.57480169999999,
-        "longitude": 2.657397500000001
-      }
-    },
-    {
       "_publishedAt": "2024-09-21T17:53:10+02:00",
       "_firstPublishedAt": "2024-09-20T20:21:57+02:00",
       "id": "ekKIY20dRPqWmoO4yM2m8w",
@@ -1313,8 +1971,10 @@
       "website": "http://www.westernpark.com/",
       "phone": "+34971131203",
       "googleMapsLink": "https://maps.app.goo.gl/pSStG2kENFzajkEo8",
-      "aiRating": 4.2,
       "slug": "western-water-park",
+      "aiRating": 4.2,
+      "proList": "",
+      "tipsList": "",
       "photos": [
         {
           "responsiveImage": {
@@ -1373,8 +2033,10 @@
       "website": "http://www.tirolinasgo.com/mallorca",
       "phone": "+34606816249",
       "googleMapsLink": "https://maps.app.goo.gl/hSnHj86qA6c8jnii9",
-      "aiRating": 4.5,
       "slug": "tirolinasgo-mallorca-forestal-park",
+      "aiRating": 4.5,
+      "proList": "",
+      "tipsList": "",
       "photos": [
         {
           "responsiveImage": {
@@ -1437,8 +2099,10 @@
       "website": "https://www.sonmanera.com/",
       "phone": "+34634313200",
       "googleMapsLink": "https://maps.app.goo.gl/e7jEw2Ddv28Psm8h8",
-      "aiRating": 4.3,
       "slug": "son-manera-retreat-finca",
+      "aiRating": 4.3,
+      "proList": "",
+      "tipsList": "",
       "photos": [
         {
           "responsiveImage": {
@@ -1513,8 +2177,10 @@
       "website": "http://www.raimundoburger.com",
       "phone": "+34692211160",
       "googleMapsLink": "https://maps.app.goo.gl/VEM7PPtsLdeHtQEo9",
-      "aiRating": 4.5,
       "slug": "raimundo-burger",
+      "aiRating": 4.5,
+      "proList": "",
+      "tipsList": "",
       "photos": [
         {
           "responsiveImage": {
@@ -1577,8 +2243,10 @@
       "website": "http://patronlunares.com",
       "phone": "+34971577154",
       "googleMapsLink": "https://maps.app.goo.gl/qHRan9qKJsMXPbmx5",
-      "aiRating": 4.5,
       "slug": "patron-lunares",
+      "aiRating": 4.5,
+      "proList": "",
+      "tipsList": "",
       "photos": [
         {
           "responsiveImage": {
@@ -1635,35 +2303,6 @@
       }
     },
     {
-      "_publishedAt": "2024-09-21T17:50:52+02:00",
-      "_firstPublishedAt": "2024-09-19T19:45:22+02:00",
-      "id": "ctvUS8gDS1egZyIOo5LcZw",
-      "name": "Ca n'Eduardo",
-      "description": "## Overview\nCa n'Eduardo is a charming establishment located in Palma, Balearic Islands, renowned for its unique blend of restaurant, hotel, and lifestyle offerings. With a focus on creating memorable experiences, it appeals to both locals and tourists seeking a taste of authentic Balearic hospitality.\n\n## Services\nThe venue provides a diverse range of services, including a fine dining restaurant featuring local cuisine, comfortable hotel accommodations, and lifestyle amenities that cater to wellness and leisure. Guests can enjoy exquisite meals crafted from fresh, local ingredients, along with personalized service that enhances their stay.\n\n## Location\nSituated in the vibrant area of Palma, Ca n'Eduardo is easily accessible and surrounded by a rich cultural heritage. The location offers proximity to local attractions, beaches, and shopping areas, making it an ideal spot for visitors looking to explore the beauty of the Balearic Islands.\n\n## User Experiences\nReviews highlight the exceptional quality of the food and the friendly, attentive staff. Many guests appreciate the cozy atmosphere and well-decorated interiors, which contribute to a pleasant dining and staying experience. However, some mention occasional issues with wait times during peak hours.\n\n## AI Rating\nBased on user reviews, Ca n'Eduardo receives a solid AI Rating of 4.5 out of 5, reflecting high satisfaction among patrons, particularly for its culinary offerings and customer service.\n\n| Pros 😊                       | Cons 😞                      |\n|------------------------------|------------------------------|\n| Excellent food quality       | Wait times can be long      |\n| Friendly and attentive staff  | Limited parking availability  |\n| Cozy and charming atmosphere  | Some dishes may be pricey   |\n\n## Conclusion\nOverall, Ca n'Eduardo stands out as a notable destination in Palma, combining gastronomy and hospitality with a touch of local flair. Its commitment to quality and customer satisfaction makes it a worthwhile choice for anyone visiting the Balearic Islands. Whether dining or staying overnight, guests can expect a delightful experience that captures the essence of the region.",
-      "address": "C/ Contramuelle Mollet, 3, 07012 Palma",
-      "mail": "info@caneduardo.com",
-      "website": "http://www.caneduardo.com/",
-      "phone": "+34971721182",
-      "googleMapsLink": "https://maps.app.goo.gl/zixYpmF8p28ZqMkj9",
-      "aiRating": 4.5,
-      "slug": "ca-neduardo",
-      "photos": [],
-      "mainCategory": {
-        "name": "🍽️ Restaurant",
-        "slug": "restaurant"
-      },
-      "subCategories": [
-        {
-          "name": "🥘 Spanish",
-          "slug": "spanish"
-        }
-      ],
-      "location": {
-        "latitude": 39.5684507,
-        "longitude": 2.6406613
-      }
-    },
-    {
       "_publishedAt": "2024-09-21T17:50:38+02:00",
       "_firstPublishedAt": "2024-09-19T19:48:50+02:00",
       "id": "YT_wn1YzQo2LL62ScY6JNg",
@@ -1674,8 +2313,10 @@
       "website": "http://www.restaurantecasafernando.com/",
       "phone": "+34971265417",
       "googleMapsLink": "https://maps.app.goo.gl/CPmPfq4fW9Tnvdya9",
-      "aiRating": 4.5,
       "slug": "restaurante-casa-fernando",
+      "aiRating": 4.5,
+      "proList": "",
+      "tipsList": "",
       "photos": [
         {
           "responsiveImage": {
@@ -1750,8 +2391,10 @@
       "website": "http://www.oladelmar.es/",
       "phone": "+34971274275",
       "googleMapsLink": "https://maps.app.goo.gl/eZBY9tDWnCAzAgN9A",
-      "aiRating": 4.5,
       "slug": "restaurante-ola-del-mar",
+      "aiRating": 4.5,
+      "proList": "",
+      "tipsList": "",
       "photos": [
         {
           "responsiveImage": {
@@ -1822,8 +2465,10 @@
       "website": "http://www.piraten-park-paguera.es/",
       "phone": "+34699108628",
       "googleMapsLink": "https://maps.app.goo.gl/Hbx5Shm8uEZvSygm8",
-      "aiRating": 4,
       "slug": "piraten-park-peguera",
+      "aiRating": 4,
+      "proList": "",
+      "tipsList": "",
       "photos": [],
       "mainCategory": {
         "name": "🌴 Leisure",
@@ -1851,8 +2496,10 @@
       "website": "http://www.jungleparc.es/",
       "phone": "+34630948295",
       "googleMapsLink": "https://maps.app.goo.gl/nsjN6VrTyFdnPUWk9",
-      "aiRating": 4.5,
       "slug": "jungle-parc",
+      "aiRating": 4.5,
+      "proList": "",
+      "tipsList": "",
       "photos": [],
       "mainCategory": {
         "name": "🌴 Leisure",
@@ -1880,8 +2527,10 @@
       "website": "http://www.hidroparkalcudia.com/",
       "phone": "+34971891672",
       "googleMapsLink": "https://maps.app.goo.gl/UkU97LfLLJRuqE7B9",
-      "aiRating": 3.5,
       "slug": "hidropark",
+      "aiRating": 3.5,
+      "proList": "",
+      "tipsList": "",
       "photos": [],
       "mainCategory": {
         "name": "🌴 Leisure",
@@ -1909,8 +2558,10 @@
       "website": "https://www.aqualand.es/elarenal",
       "phone": "+34696158177",
       "googleMapsLink": "https://maps.app.goo.gl/Msbsu6Bnff7hwcye8",
-      "aiRating": 3.5,
       "slug": "aqualand-el-arenal",
+      "aiRating": 3.5,
+      "proList": "",
+      "tipsList": "",
       "photos": [],
       "mainCategory": {
         "name": "🌴 Leisure",
@@ -1938,8 +2589,10 @@
       "website": "http://www.keida.es/",
       "phone": "+34971239124",
       "googleMapsLink": "https://maps.app.goo.gl/mYeyG6J4gPZ6Ejtv9",
-      "aiRating": 4.7,
       "slug": "keida-kayak-paddle-surf",
+      "aiRating": 4.7,
+      "proList": "",
+      "tipsList": "",
       "photos": [
         {
           "responsiveImage": {
@@ -2006,8 +2659,10 @@
       "website": "http://mallorcawakepark.com/",
       "phone": "+34633664439",
       "googleMapsLink": "https://maps.app.goo.gl/iaY8yMpXuchmEcph6",
-      "aiRating": 4.8,
       "slug": "mallorca-wakepark",
+      "aiRating": 4.8,
+      "proList": "",
+      "tipsList": "",
       "photos": [],
       "mainCategory": {
         "name": "🌴 Leisure",
@@ -2035,8 +2690,10 @@
       "website": "http://www.mallorcakiteboarding.com/",
       "phone": "+34686425234",
       "googleMapsLink": "https://maps.app.goo.gl/Xavvt7zDYseU9gUj8",
-      "aiRating": 4.3,
       "slug": "mallorca-kiteboarding",
+      "aiRating": 4.3,
+      "proList": "",
+      "tipsList": "",
       "photos": [],
       "mainCategory": {
         "name": "🌴 Leisure",
@@ -2064,8 +2721,10 @@
       "website": "https://laolasurfcamp.com/",
       "phone": "+34690148223",
       "googleMapsLink": "https://maps.app.goo.gl/ns4TNZcgFbV3cvFq7",
-      "aiRating": 4.7,
       "slug": "laola",
+      "aiRating": 4.7,
+      "proList": "",
+      "tipsList": "",
       "photos": [],
       "mainCategory": {
         "name": "🌴 Leisure",
@@ -2093,8 +2752,10 @@
       "website": "http://www.brondoarchitecthotel.com/",
       "phone": "+34971720507",
       "googleMapsLink": "https://maps.app.goo.gl/PY3R59bDUbMEyGSaA",
-      "aiRating": 4.3,
       "slug": "brondo-architect-hotel",
+      "aiRating": 4.3,
+      "proList": "",
+      "tipsList": "",
       "photos": [
         {
           "responsiveImage": {
@@ -2165,8 +2826,10 @@
       "website": "http://www.calatravahotel.com/",
       "phone": "+34971728110",
       "googleMapsLink": "https://maps.app.goo.gl/bTxRQaN13F4QWo3v7",
-      "aiRating": 4.7,
       "slug": "calatrava-mediterranean-sea-house",
+      "aiRating": 4.7,
+      "proList": "",
+      "tipsList": "",
       "photos": [
         {
           "responsiveImage": {
@@ -2233,8 +2896,10 @@
       "website": "https://www.canalomarhotel.com",
       "phone": "+34871592002",
       "googleMapsLink": "https://maps.app.goo.gl/rcUeMkB8G42UUzKL7",
-      "aiRating": 4.7,
       "slug": "can-alomar-urban-luxury-retreat",
+      "aiRating": 4.7,
+      "proList": "",
+      "tipsList": "",
       "photos": [
         {
           "responsiveImage": {
@@ -2305,8 +2970,10 @@
       "website": "https://www.hotelhostalcuba.com/es/",
       "phone": "+34971452237",
       "googleMapsLink": "https://maps.app.goo.gl/BTjinUrtwRZrTXoc9",
-      "aiRating": 4.2,
       "slug": "bar-cuba",
+      "aiRating": 4.2,
+      "proList": "",
+      "tipsList": "",
       "photos": [
         {
           "responsiveImage": {
@@ -2367,72 +3034,6 @@
       }
     },
     {
-      "_publishedAt": "2024-09-21T16:27:27+02:00",
-      "_firstPublishedAt": "2024-09-19T12:34:22+02:00",
-      "id": "C2Ulw01IRcOd8NkHEuhXTg",
-      "name": "Dive & Fun",
-      "description": "## Overview\nDive & Fun Mallorca, located in the scenic northeast of Mallorca, offers a variety of water-based activities ranging from scuba diving to adventurous boat tours. As a certified i.a.c. Dive Center, they cater to both beginners and experienced divers, providing guided tours in the **Marine Reserve of Llevant** and nearby sites like caves and canyons. With a friendly, multilingual staff and a well-equipped dive center, Dive & Fun has gained recognition among locals and tourists alike.\n\n## Services\nDive & Fun offers multiple diving courses from **Discover Scuba Diving** for beginners to advanced diving certifications. Their equipment rental includes everything from wetsuits to dive computers, and they also run boat tours like the **600 HP speedboat** trips for thrill-seekers. Their facilities include showers, classrooms, and a gear cleaning station. Additionally, they offer snorkeling and cave exploration tours.\n\n## Location\nSituated in **Font de Sa Cala**, the dive center is a few minutes from the beach and only a short drive from **Cala Ratjada**. The proximity to the **Marine Reserve** allows for dives in pristine underwater environments with abundant marine life. Easy access by boat and shore makes it convenient for divers of all skill levels.\n\n## User Experiences\nGuests frequently highlight the friendly and professional staff, especially praising their attentiveness to beginners. The dive sites are noted for their beauty, and many reviewers appreciate the small group sizes for dives. However, some users have mentioned occasional weather-related cancellations that affected the schedule.\n\n## AI-Rating: 4.4/5\nBased on user feedback, Dive & Fun Mallorca receives an overall positive rating. The quality of the dive sites, equipment, and personalized attention stand out, while minor issues like weather-dependent scheduling have been noted.\n\n| **Pros** | **Cons** |\n|---------|----------|\n| 🟢 Beautiful dive sites | 🔴 Weather can affect tours |\n| 🟢 Professional and friendly staff | 🔴 Limited boat capacity |\n| 🟢 Great for beginners and small groups | 🔴 Slightly higher price for extra services |\n\n## Conclusion\nDive & Fun Mallorca is an excellent choice for divers visiting the northeast coast of Mallorca. With a variety of diving experiences and excursions, it's a highly recommended spot for both novice and experienced divers looking for adventure in a beautiful natural setting.\n",
-      "address": "Carretera de Canyamel, 48, 07589 Font de Sa Cala, Illes Balears, Spanien",
-      "mail": "",
-      "website": "http://www.mallorcadiving.de/",
-      "phone": "+34971818036",
-      "googleMapsLink": "https://maps.app.goo.gl/nNn5QNMYrdaNrrrTA",
-      "aiRating": 4.4,
-      "slug": "dive-fun",
-      "photos": [
-        {
-          "responsiveImage": {
-            "src": "https://www.datocms-assets.com/138394/1726741973-dive-and-fun-01.jpg",
-            "alt": null
-          }
-        },
-        {
-          "responsiveImage": {
-            "src": "https://www.datocms-assets.com/138394/1726741973-dive-and-fun-02.jpg",
-            "alt": null
-          }
-        },
-        {
-          "responsiveImage": {
-            "src": "https://www.datocms-assets.com/138394/1726741973-dive-and-fun-06.jpg",
-            "alt": null
-          }
-        },
-        {
-          "responsiveImage": {
-            "src": "https://www.datocms-assets.com/138394/1726741973-dive-and-fun-03.jpg",
-            "alt": null
-          }
-        },
-        {
-          "responsiveImage": {
-            "src": "https://www.datocms-assets.com/138394/1726741973-dive-and-fun-05.jpg",
-            "alt": null
-          }
-        },
-        {
-          "responsiveImage": {
-            "src": "https://www.datocms-assets.com/138394/1726741973-dive-and-fun-04.jpg",
-            "alt": null
-          }
-        }
-      ],
-      "mainCategory": {
-        "name": "🌴 Leisure",
-        "slug": "leisure"
-      },
-      "subCategories": [
-        {
-          "name": "🤿 Diving",
-          "slug": "diving"
-        }
-      ],
-      "location": {
-        "latitude": 39.6831747,
-        "longitude": 3.4516384
-      }
-    },
-    {
       "_publishedAt": "2024-09-21T16:27:10+02:00",
       "_firstPublishedAt": "2024-09-19T15:02:08+02:00",
       "id": "aqfMs_Y6RE-lYYg7Fy-hMA",
@@ -2443,8 +3044,10 @@
       "website": "https://www.dukepalma.com",
       "phone": "+34971071738",
       "googleMapsLink": "https://maps.app.goo.gl/wipSmi56ScZS7rBo8",
-      "aiRating": 4.3,
       "slug": "duke-restaurant",
+      "aiRating": 4.3,
+      "proList": "",
+      "tipsList": "",
       "photos": [],
       "mainCategory": {
         "name": "🍽️ Restaurant",
@@ -2472,8 +3075,10 @@
       "website": " naanstreetfood.com",
       "phone": "+34971915522",
       "googleMapsLink": "https://maps.app.goo.gl/H2QU1YB5fEX2LUJe7",
-      "aiRating": 4.5,
       "slug": "naan-street-food",
+      "aiRating": 4.5,
+      "proList": "",
+      "tipsList": "",
       "photos": [],
       "mainCategory": {
         "name": "🍽️ Restaurant",
@@ -2509,8 +3114,10 @@
       "website": "http://www.vandalpalma.com/",
       "phone": "+34871045174",
       "googleMapsLink": "https://maps.app.goo.gl/zSnnTSSsqVNdpEvR8",
-      "aiRating": 4.5,
       "slug": "vandal-palma",
+      "aiRating": 4.5,
+      "proList": "",
+      "tipsList": "",
       "photos": [],
       "mainCategory": {
         "name": "🍽️ Restaurant",
@@ -2542,8 +3149,10 @@
       "website": "https://www.restaurantebellaverde.com",
       "phone": "+34675602528",
       "googleMapsLink": "https://maps.app.goo.gl/Gt7PDgayEL8doF116",
-      "aiRating": 4.5,
       "slug": "bella-verde-jardin-gastronomico",
+      "aiRating": 4.5,
+      "proList": "",
+      "tipsList": "",
       "photos": [],
       "mainCategory": {
         "name": "🍽️ Restaurant",
@@ -2575,8 +3184,10 @@
       "website": "",
       "phone": "+34871776653",
       "googleMapsLink": "https://maps.app.goo.gl/3bTbratvQo8CxCwe6",
-      "aiRating": 4.5,
       "slug": "ca-nela-vegan-restaurant",
+      "aiRating": 4.5,
+      "proList": "",
+      "tipsList": "",
       "photos": [],
       "mainCategory": {
         "name": "🍽️ Restaurant",
@@ -2608,8 +3219,10 @@
       "website": "https://reorganic.es",
       "phone": "+34971638992",
       "googleMapsLink": "https://maps.app.goo.gl/X1qdxcKDCpnfjn4R8",
-      "aiRating": 4.6,
       "slug": "re-organic",
+      "aiRating": 4.6,
+      "proList": "",
+      "tipsList": "",
       "photos": [],
       "mainCategory": {
         "name": "🍽️ Restaurant",
@@ -2641,8 +3254,10 @@
       "website": "",
       "phone": "+34971596410",
       "googleMapsLink": "https://maps.app.goo.gl/xYbDq5VyRVJDRhQR9",
-      "aiRating": 4.7,
       "slug": "la-mar-de-vins",
+      "aiRating": 4.7,
+      "proList": "",
+      "tipsList": "",
       "photos": [],
       "mainCategory": {
         "name": "🍽️ Restaurant",
@@ -2678,8 +3293,10 @@
       "website": "https://lamujerdeverde.com",
       "phone": "+34871173739",
       "googleMapsLink": "https://maps.app.goo.gl/yxthzw28cPjBkcS98",
-      "aiRating": 4,
       "slug": "la-mujer-de-verde-bon-lloc-restaurante-vegano",
+      "aiRating": 4,
+      "proList": "",
+      "tipsList": "",
       "photos": [],
       "mainCategory": {
         "name": "🍽️ Restaurant",
@@ -2711,8 +3328,10 @@
       "website": "https://www.santinabrunch.com",
       "phone": "+34674995795",
       "googleMapsLink": "https://maps.app.goo.gl/FAjTH8qM2pW7iuZH9",
-      "aiRating": 4,
       "slug": "santina-brunch",
+      "aiRating": 4,
+      "proList": "",
+      "tipsList": "",
       "photos": [],
       "mainCategory": {
         "name": "🍽️ Restaurant",
@@ -2740,8 +3359,10 @@
       "website": "",
       "phone": "+34871047849",
       "googleMapsLink": "https://maps.app.goo.gl/GienFrFMMtXSzB2Y6",
-      "aiRating": 3.8,
       "slug": "basico-steak-house",
+      "aiRating": 3.8,
+      "proList": "",
+      "tipsList": "",
       "photos": [],
       "mainCategory": {
         "name": "🍽️ Restaurant",
@@ -2769,8 +3390,10 @@
       "website": "https://horreoveinti3restaurante.es",
       "phone": "+34685913700",
       "googleMapsLink": "https://maps.app.goo.gl/ix9SLhWSUeNDKxS68",
-      "aiRating": 4.5,
       "slug": "restaurante-horreo-veinti3",
+      "aiRating": 4.5,
+      "proList": "",
+      "tipsList": "",
       "photos": [],
       "mainCategory": {
         "name": "🍽️ Restaurant",
@@ -2802,8 +3425,10 @@
       "website": "https://www.esbabot.com/en/",
       "phone": "+34971162187",
       "googleMapsLink": "https://maps.app.goo.gl/CVVb5EzsAUB38Ket8",
-      "aiRating": 4.5,
       "slug": "es-babot",
+      "aiRating": 4.5,
+      "proList": "",
+      "tipsList": "",
       "photos": [],
       "mainCategory": {
         "name": "🍽️ Restaurant",
@@ -2835,8 +3460,10 @@
       "website": "https://valldemossa.restaurant",
       "phone": "+34630978700",
       "googleMapsLink": "https://maps.app.goo.gl/LEKj8MHXSzJ1khdg6",
-      "aiRating": 4.2,
       "slug": "la-posada",
+      "aiRating": 4.2,
+      "proList": "",
+      "tipsList": "",
       "photos": [],
       "mainCategory": {
         "name": "🍽️ Restaurant",
@@ -2868,8 +3495,10 @@
       "website": "https://www.lumerestaurante.com/en/",
       "phone": "+34971 104295",
       "googleMapsLink": "https://maps.app.goo.gl/e249kR9v3Q7qEyj18",
-      "aiRating": 4.2,
       "slug": "lumeco-restaurante",
+      "aiRating": 4.2,
+      "proList": "",
+      "tipsList": "",
       "photos": [],
       "mainCategory": {
         "name": "🍽️ Restaurant",
@@ -2901,8 +3530,10 @@
       "website": "",
       "phone": "+34971017760",
       "googleMapsLink": "https://maps.app.goo.gl/CzJbHomWyTudJkmQ8",
-      "aiRating": 4.5,
       "slug": "maleva-mallorca",
+      "aiRating": 4.5,
+      "proList": "",
+      "tipsList": "",
       "photos": [],
       "mainCategory": {
         "name": "🍽️ Restaurant",
@@ -2920,66 +3551,6 @@
       }
     },
     {
-      "_publishedAt": "2024-09-21T16:21:51+02:00",
-      "_firstPublishedAt": "2024-08-08T20:39:31+02:00",
-      "id": "Xk97s4piQ0qp1CGcXdh8pg",
-      "name": "MarChica Palma",
-      "description": "## Overview\nMarChica Palma, in Palma de Mallorca, Spain, is a stylish restaurant offering a fusion of Asian and Mediterranean cuisine. Known for its lively atmosphere, live DJs and artful cocktails, it is a popular hangout for locals and tourists alike. The creative dishes prepared by chef Junior Machado make it a special gastronomic destination in the Balearic Islands.\n\n## Services\nMarChica Palma offers a variety of services, including an impressive rooftop dining terrace with limited seating, event catering for private and corporate celebrations, and a cocktail bar with a focus on mixology. Group menus are ideal for communal dining, and the restaurant is open Tuesday to Saturday, offering a balanced selection of drinks and wines to accompany meals.\n\n## Location\nThe restaurant is located at Carrer Torre de Paraires, 1 in the Ponent district of Palma, a picturesque spot overlooking the Mediterranean Sea. The rooftop terrace gives the place an exclusive touch and is perfect for special occasions or casual evenings with friends.\n\n## User Experiences\nThe reviews for MarChica Palma are mostly positive. Guests often praise the excellent fusion of flavors, attentive service and lively atmosphere, especially the live music. Some visitors find the restaurant a bit expensive, but most agree that the quality of the food and the overall experience justify the price. The only downside is the limited number of seats on the terrace, so early reservation is recommended.\n\n## AI Rating\nBased on customer reviews and general impression, I give MarChica Palma a **4.7/5**. The creative culinary offerings and lively atmosphere stand out, although the upscale prices and limited seating on the terrace could be improved.\n\n| Pros | Cons |\n|-----|--------|\n| 🟢 Excellent fusion of Asian and Mediterranean cuisine | 🔴 A bit pricey for some guests |\n| 🟢 Stunning rooftop terrace | 🔴 Limited seating on the terrace |\n| 🟢 Great atmosphere with live DJ and music | 🔴 Not ideal for a quiet dinner |\n\n## Conclusion\nMarChica Palma is a must-visit for anyone who wants to experience a unique blend of Asian-Mediterranean cuisine in a lively, stylish setting. The terrace dining and exceptional cocktails make it a hotspot for relaxed and festive meals.",
-      "address": "Carrer Torre de Paraires, 1, Ponent, 07015 Palma, Illes Balears, Spanien",
-      "mail": "reservas@marchicapalma.com",
-      "website": "https://marchicapalma.com",
-      "phone": "+34971593902",
-      "googleMapsLink": "https://maps.app.goo.gl/emXJBKVMy7HVrQ5C9",
-      "aiRating": 4.7,
-      "slug": "marchica-palma",
-      "photos": [
-        {
-          "responsiveImage": {
-            "src": "https://www.datocms-assets.com/138394/1723143550-marchica-palma-01.jpg",
-            "alt": "Marchica Dining Room"
-          }
-        },
-        {
-          "responsiveImage": {
-            "src": "https://www.datocms-assets.com/138394/1723143545-marchica-palma-02.jpg",
-            "alt": "Marchica Palma Dining Room"
-          }
-        },
-        {
-          "responsiveImage": {
-            "src": "https://www.datocms-assets.com/138394/1723143540-marchica-palma-03.jpg",
-            "alt": "Marchica Palma Interior"
-          }
-        }
-      ],
-      "mainCategory": {
-        "name": "🍽️ Restaurant",
-        "slug": "restaurant"
-      },
-      "subCategories": [
-        {
-          "name": "🍣 Sushi",
-          "slug": "sushi"
-        },
-        {
-          "name": "🍱 Fusion",
-          "slug": "fusion"
-        },
-        {
-          "name": "🍹 Cocktail",
-          "slug": "cocktail"
-        },
-        {
-          "name": "🍸 Bar",
-          "slug": "bar"
-        }
-      ],
-      "location": {
-        "latitude": 39.5508258,
-        "longitude": 2.6230203
-      }
-    },
-    {
       "_publishedAt": "2024-09-21T16:21:24+02:00",
       "_firstPublishedAt": "2024-09-19T12:43:04+02:00",
       "id": "a30eF5nZSCmGHCxUWs3R4w",
@@ -2990,8 +3561,10 @@
       "website": "https://www.muarecantina.com",
       "phone": "+34971127572",
       "googleMapsLink": "https://maps.app.goo.gl/5yWtKUJmAwuVYdch7",
-      "aiRating": 4.6,
       "slug": "muare",
+      "aiRating": 4.6,
+      "proList": "",
+      "tipsList": "",
       "photos": [
         {
           "responsiveImage": {
@@ -3038,8 +3611,10 @@
       "website": "https://nenifood.com/restaurants/mallorca-es-trenc",
       "phone": "+34971638370",
       "googleMapsLink": "https://maps.app.goo.gl/vBCqRsmLfWaGSKeL9",
-      "aiRating": 4.5,
       "slug": "neni-mallorca-port-de-soller",
+      "aiRating": 4.5,
+      "proList": "",
+      "tipsList": "",
       "photos": [
         {
           "responsiveImage": {
@@ -3086,8 +3661,10 @@
       "website": "",
       "phone": "+34971093495",
       "googleMapsLink": "https://maps.app.goo.gl/6gBY2PNCU9Mb3mCF9",
-      "aiRating": 4,
       "slug": "petit-nola",
+      "aiRating": 4,
+      "proList": "",
+      "tipsList": "",
       "photos": [
         {
           "responsiveImage": {
@@ -3117,8 +3694,10 @@
       "website": "https://makaria.es",
       "phone": "+34971058813",
       "googleMapsLink": "https://maps.app.goo.gl/hCn1df8mfeZvJZ66A",
-      "aiRating": 4.6,
       "slug": "makaria-artisan-pasta",
+      "aiRating": 4.6,
+      "proList": "",
+      "tipsList": "",
       "photos": [],
       "mainCategory": {
         "name": "🍽️ Restaurant",
@@ -3146,8 +3725,10 @@
       "website": "http://www.paddlesurfmallorca.com/",
       "phone": "+34971490811",
       "googleMapsLink": "https://maps.app.goo.gl/3LipKqBCPxhZcFuw6",
-      "aiRating": 4.3,
       "slug": "el-nino-surf-center",
+      "aiRating": 4.3,
+      "proList": "",
+      "tipsList": "",
       "photos": [],
       "mainCategory": {
         "name": "🌴 Leisure",
@@ -3165,35 +3746,6 @@
       }
     },
     {
-      "_publishedAt": "2024-09-21T16:14:44+02:00",
-      "_firstPublishedAt": "2024-09-20T16:22:15+02:00",
-      "id": "NBHG1ceHTaKE7KuELcFyaw",
-      "name": "Tramuntana Diving & Adventure",
-      "description": "## Overview\n**Tramuntana Diving & Adventure** is a well-regarded dive center located in Port de Pollença, Mallorca. It specializes in scuba diving, freediving, and multi-adventure activities. Known for its family-like atmosphere and professional approach, it caters to both novices and experienced divers with personalized attention and safety as a top priority. With a location in one of Mallorca’s most scenic bays, this center offers over 30 dive sites and additional activities like kayaking, canyoning, and rock climbing.\n\n## Services\nTramuntana Diving offers a wide range of water and land-based activities. Diving is the main attraction, with courses for beginners to pros, but the center also offers **freediving**, **snorkeling**, and **SUP (stand-up paddleboarding)**. Additionally, adventure seekers can engage in **canyoning**, **cliff jumping**, and **rock climbing**. The staff emphasizes safety and environmental respect, integrating these values into their activities and teaching programs.\n\n## Location\nLocated at **Carrer d'Elcano, 9, 07470 Port de Pollença**, this center is ideally situated in the northeast of Mallorca, offering access to the stunning and calm waters of the Pollença Bay. The region is known for its breathtaking landscapes, making it a perfect spot for diving, exploration, and adventure tourism.\n\n## User Experiences\nReviews frequently highlight the friendly and professional staff, making guests feel comfortable and safe. Customers appreciate the personal attention and small groups, allowing for a memorable and relaxed experience. Many reviewers also mention **Lucas**, a star instructor known for his patient and knowledgeable approach. The overall sentiment from users is overwhelmingly positive, with guests recommending the center for its fun atmosphere, great dives, and attention to detail.\n\n## AI-Rating\nBased on numerous reviews and experiences, I give **Tramuntana Diving & Adventure** an AI rating of **4.8/5**. Most users were highly satisfied with their experience, the professionalism of the staff, and the beauty of the dive sites.\n\n| Pros                       | Cons                         |\n|----------------------------|------------------------------|\n| 🟢 Friendly and professional staff | 🔴 Limited availability in high season |\n| 🟢 Safe, small group dives         | 🔴 May be challenging for non-swimmers |\n| 🟢 Scenic and diverse dive sites    | 🔴 Limited parking at location        |\n\n## Conclusion\nTramuntana Diving & Adventure is an excellent choice for both thrill-seekers and those looking for a relaxed, scenic dive. Whether you're a complete beginner or an experienced diver, this center provides a safe, fun, and memorable experience with stunning dive sites and engaging instructors.",
-      "address": "Carrer d'Elcano, 9, 07470 Port de Pollença",
-      "mail": "info@tramuntanadiving.com",
-      "website": "http://www.tramuntanadiving.com/",
-      "phone": "+34971876279",
-      "googleMapsLink": "https://maps.app.goo.gl/nZvtooy77mgDQMpV7",
-      "aiRating": 4.8,
-      "slug": "tramuntana-diving-adventure",
-      "photos": [],
-      "mainCategory": {
-        "name": "🌴 Leisure",
-        "slug": "leisure"
-      },
-      "subCategories": [
-        {
-          "name": "🤿 Diving",
-          "slug": "diving"
-        }
-      ],
-      "location": {
-        "latitude": 39.9049819,
-        "longitude": 3.0807806
-      }
-    },
-    {
       "_publishedAt": "2024-09-21T16:14:00+02:00",
       "_firstPublishedAt": "2024-09-20T16:20:12+02:00",
       "id": "Uxo-V0msTPCqUzhSfpS8cw",
@@ -3204,8 +3756,10 @@
       "website": "http://www.westcoastdivers.de/",
       "phone": "+34664592946",
       "googleMapsLink": "https://maps.app.goo.gl/sgznRhSSNix1WhFf8",
-      "aiRating": 4.5,
       "slug": "west-coast-divers-mallorca",
+      "aiRating": 4.5,
+      "proList": "",
+      "tipsList": "",
       "photos": [],
       "mainCategory": {
         "name": "🌴 Leisure",
@@ -3223,30 +3777,6 @@
       }
     },
     {
-      "_publishedAt": "2024-09-21T16:11:28+02:00",
-      "_firstPublishedAt": "2024-09-20T13:24:35+02:00",
-      "id": "B9sfhVSWRDO8cNPlLdOINQ",
-      "name": "GPRO Valparaiso Palace & SPA",
-      "description": "## Overview\nGPRO Valparaiso Palace & SPA is a luxurious hotel located in Palma, Mallorca. It offers stunning views of the Mediterranean Sea and is known for its elegant design and high-end amenities. The hotel combines comfort and sophistication, making it a popular choice for travelers seeking relaxation and indulgence.\n\n## Services\nThe hotel features a range of services, including a full-service spa, outdoor and indoor pools, and various dining options that cater to different tastes. Guests can enjoy wellness programs, fitness facilities, and personalized services, ensuring a comprehensive luxury experience.\n\n## Location\nSituated in the tranquil area of Ponent, the hotel is conveniently close to the vibrant city center of Palma. Its elevated position offers breathtaking views, and it provides easy access to local attractions, beaches, and cultural sites, making it an ideal base for exploration.\n\n## User Experiences\nMany guests rave about the attentive staff, the cleanliness of the facilities, and the quality of the dining experiences. Reviews often highlight the serene atmosphere and the beautiful views from the hotel. However, some visitors note that certain amenities can be pricey and that the hotel is slightly removed from the bustling nightlife of Palma.\n\n## AI Rating\nBased on user reviews, GPRO Valparaiso Palace & SPA earns an AI rating of 4.5 out of 5 stars. Guests frequently mention the high-quality services and overall atmosphere, contributing to this positive rating.\n\n| Pro 🟢                          | Contra 🔴                         |\n|-------------------------------|----------------------------------|\n| Excellent spa services        | Higher price point               |\n| Stunning views                | Some distance from nightlife     |\n| Attentive and friendly staff  | Limited local dining options     |\n| Luxurious accommodations       |                                |\n\n## Conclusion\nGPRO Valparaiso Palace & SPA is an excellent choice for those seeking a luxurious getaway in Palma, offering top-notch services and a serene environment. While it may not be the most affordable option, its quality and ambiance make it worthwhile for a memorable stay.",
-      "address": "C/ de Francesc Vidal i Sureda, 23, Ponent, 07015 Palma",
-      "mail": "valparaiso@gprovalparaiso.com",
-      "website": "http://www.gprovalparaiso.com/",
-      "phone": "+34971400300",
-      "googleMapsLink": "https://maps.app.goo.gl/zmGnyuMhHC66vKjVA",
-      "aiRating": 4.5,
-      "slug": "gpro-valparaiso-palace-spa",
-      "photos": [],
-      "mainCategory": {
-        "name": "🏨 Hotel",
-        "slug": "hotel"
-      },
-      "subCategories": [],
-      "location": {
-        "latitude": 39.5553568,
-        "longitude": 2.6193149
-      }
-    },
-    {
       "_publishedAt": "2024-09-21T16:11:14+02:00",
       "_firstPublishedAt": "2024-09-20T13:22:44+02:00",
       "id": "K0cfGqEjRryNlg71XEDlBQ",
@@ -3257,8 +3787,10 @@
       "website": "https://www.gloriasantjaume.com/",
       "phone": "+34971717997",
       "googleMapsLink": "https://maps.app.goo.gl/UCo4nuQKYg2Xgiey7",
-      "aiRating": 4.7,
       "slug": "hotel-gloria-de-sant-jaume",
+      "aiRating": 4.7,
+      "proList": "",
+      "tipsList": "",
       "photos": [],
       "mainCategory": {
         "name": "🏨 Hotel",
@@ -3281,8 +3813,10 @@
       "website": "http://www.esprincep.com/en",
       "phone": "+34971720000",
       "googleMapsLink": "https://maps.app.goo.gl/bpnB4QHKeenKSJRy9",
-      "aiRating": 4.5,
       "slug": "es-princep",
+      "aiRating": 4.5,
+      "proList": "",
+      "tipsList": "",
       "photos": [],
       "mainCategory": {
         "name": "🏨 Hotel",
@@ -3305,8 +3839,10 @@
       "website": "https://www.elllorenc.com/es/home.html",
       "phone": "+34971677770",
       "googleMapsLink": "https://maps.app.goo.gl/EbDj2CmJtWL4nfKE7",
-      "aiRating": 4.5,
       "slug": "el-llorenc-parc-de-la-mar",
+      "aiRating": 4.5,
+      "proList": "",
+      "tipsList": "",
       "photos": [],
       "mainCategory": {
         "name": "🏨 Hotel",
@@ -3329,8 +3865,10 @@
       "website": "http://www.conventdelamissio.com/",
       "phone": "+34971227347",
       "googleMapsLink": "https://maps.app.goo.gl/RPNu1GKBftRJTixx6",
-      "aiRating": 4.5,
       "slug": "convent-de-la-missio-grand-luxury-boutique-hotel",
+      "aiRating": 4.5,
+      "proList": "",
+      "tipsList": "",
       "photos": [],
       "mainCategory": {
         "name": "🏨 Hotel",
@@ -3353,8 +3891,10 @@
       "website": "https://www.hotelcontinentalmallorca.com/",
       "phone": "+34971780100",
       "googleMapsLink": "https://maps.app.goo.gl/UyMd9pCowF39H2nc6",
-      "aiRating": 4.5,
       "slug": "hotel-continental",
+      "aiRating": 4.5,
+      "proList": "",
+      "tipsList": "",
       "photos": [],
       "mainCategory": {
         "name": "🏨 Hotel",
@@ -3377,8 +3917,10 @@
       "website": "https://www.concepciobynobis.com/",
       "phone": "+34971915025",
       "googleMapsLink": "https://maps.app.goo.gl/XkEjKabYywAowdtS8",
-      "aiRating": 4.5,
       "slug": "concepcio-by-nobis",
+      "aiRating": 4.5,
+      "proList": "",
+      "tipsList": "",
       "photos": [],
       "mainCategory": {
         "name": "🏨 Hotel",
@@ -3401,8 +3943,10 @@
       "website": "http://www.hciutatj.es/",
       "phone": "+34971746070",
       "googleMapsLink": "https://maps.app.goo.gl/GgXTUeVAW28CMXCf7",
-      "aiRating": 4.2,
       "slug": "hotel-ciutat-jardi",
+      "aiRating": 4.2,
+      "proList": "",
+      "tipsList": "",
       "photos": [],
       "mainCategory": {
         "name": "🏨 Hotel",
@@ -3425,8 +3969,10 @@
       "website": "https://www.marriott.com/en-us/hotels/pmilc-castillo-hotel-son-vida-a-luxury-collection-hotel-mallorca/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0",
       "phone": "+34971493493",
       "googleMapsLink": "https://maps.app.goo.gl/5vexn9p7GtJ4UPtz6",
-      "aiRating": 4.5,
       "slug": "castillo-hotel-son-vida",
+      "aiRating": 4.5,
+      "proList": "",
+      "tipsList": "",
       "photos": [],
       "mainCategory": {
         "name": "🏨 Hotel",
@@ -3449,8 +3995,10 @@
       "website": "http://www.hotelcanquetglas.com/",
       "phone": "+34871626000",
       "googleMapsLink": "https://maps.app.goo.gl/brBFTtZpikeMFUC17",
-      "aiRating": 4.5,
       "slug": "hotel-can-quetglas",
+      "aiRating": 4.5,
+      "proList": "",
+      "tipsList": "",
       "photos": [
         {
           "responsiveImage": {
@@ -3513,8 +4061,10 @@
       "website": "https://caprocat.com/?utm_source=google&utm_medium=maps&utm_campaign=mybusiness&utm_content=caprocat",
       "phone": "+34971747878",
       "googleMapsLink": "https://maps.app.goo.gl/vCnTMx4q3Dk1dSABA",
-      "aiRating": 4.5,
       "slug": "hotel-cap-rocat",
+      "aiRating": 4.5,
+      "proList": "",
+      "tipsList": "",
       "photos": [],
       "mainCategory": {
         "name": "🏨 Hotel",
@@ -3537,8 +4087,10 @@
       "website": "https://www.hotelcancirera.com/",
       "phone": "+34871620207",
       "googleMapsLink": "https://maps.app.goo.gl/UpqNQEEnvXriq72r6",
-      "aiRating": 4.5,
       "slug": "hotel-can-cirera",
+      "aiRating": 4.5,
+      "proList": "",
+      "tipsList": "",
       "photos": [],
       "mainCategory": {
         "name": "🏨 Hotel",
@@ -3561,8 +4113,10 @@
       "website": "https://bibap-mallorca.com/en/",
       "phone": "+34971773089",
       "googleMapsLink": "https://maps.app.goo.gl/PrJ2zfbqQXtY6KZ46",
-      "aiRating": 4.5,
       "slug": "bi-bap",
+      "aiRating": 4.5,
+      "proList": "",
+      "tipsList": "",
       "photos": [
         {
           "responsiveImage": {
@@ -3625,8 +4179,10 @@
       "website": " kohpalma.com",
       "phone": "+34635339211",
       "googleMapsLink": "https://maps.app.goo.gl/zARP1oV7G14csCfYA",
-      "aiRating": 4.5,
       "slug": "koh",
+      "aiRating": 4.5,
+      "proList": "",
+      "tipsList": "",
       "photos": [
         {
           "responsiveImage": {
@@ -3693,8 +4249,10 @@
       "website": "https://www.cancerahotel.com/",
       "phone": "+34971715012",
       "googleMapsLink": "https://maps.app.goo.gl/VLFzZHeMoyX1wmcg9",
-      "aiRating": 4.8,
       "slug": "hotel-can-cera",
+      "aiRating": 4.8,
+      "proList": "",
+      "tipsList": "",
       "photos": [],
       "mainCategory": {
         "name": "🏨 Hotel",
@@ -3717,8 +4275,10 @@
       "website": "https://www.melia.com/en/hotels/spain/majorca/victoria-gran-melia?utm_medium=organic&utm_source=directories&utm_campaign=google&utm_content=0754",
       "phone": "+34971732542",
       "googleMapsLink": "https://maps.app.goo.gl/oCWXYFFiEnBstR9T9",
-      "aiRating": 4.7,
       "slug": "hotel-victoria-gran-melia",
+      "aiRating": 4.7,
+      "proList": "",
+      "tipsList": "",
       "photos": [],
       "mainCategory": {
         "name": "🏨 Hotel",
@@ -3741,8 +4301,10 @@
       "website": "http://www.hotelcappuccino.com//?partner=5235utm_source=google&utm_medium=organic&utm_campaign=MyBusiness&utm",
       "phone": "+34871037437",
       "googleMapsLink": "https://maps.app.goo.gl/t3okezRNKSrNSroo7",
-      "aiRating": 4.5,
       "slug": "hotel-cappuccino",
+      "aiRating": 4.5,
+      "proList": "",
+      "tipsList": "",
       "photos": [],
       "mainCategory": {
         "name": "🏨 Hotel",
@@ -3765,8 +4327,10 @@
       "website": "https://www.iberostar.com/en/hotels/majorca/iberostar-llaut-palma/?utm_source=google&utm_medium=organic&utm_campaign=IBSVOL_EMEA_SEOLOC_GMB_NA_EN_ESP_BAL_PMI_LLT_PULL_NA_NA_NA_NA_NA",
       "phone": "+34971596070",
       "googleMapsLink": "https://maps.app.goo.gl/uJZW9rMao8pFmKtu5",
-      "aiRating": 4.5,
       "slug": "iberostar-selection-llaut",
+      "aiRating": 4.5,
+      "proList": "",
+      "tipsList": "",
       "photos": [],
       "mainCategory": {
         "name": "🏨 Hotel",
@@ -3789,8 +4353,10 @@
       "website": "https://www.iberostar.com/en/hotels/majorca/iberostar-playa-de-palma/?utm_source=google&utm_medium=organic&utm_campaign=IBSVOL_EMEA_SEOLOC_GMB_NA_EN_ESP_BAL_PMI_PDP_PULL_NA_NA_NA_NA_NA",
       "phone": "+34971266450",
       "googleMapsLink": "https://maps.app.goo.gl/vxsDNW7WYuCeQ24v7",
-      "aiRating": 4.5,
       "slug": "iberostar-selection-playa-de-palma",
+      "aiRating": 4.5,
+      "proList": "",
+      "tipsList": "",
       "photos": [],
       "mainCategory": {
         "name": "🏨 Hotel",
@@ -3813,8 +4379,10 @@
       "website": "https://www.bigbluediving.net/en/",
       "phone": "+34971681686",
       "googleMapsLink": "https://maps.app.goo.gl/LbdjVRrty9vaSKK18",
-      "aiRating": 4.5,
       "slug": "big-blue-diving-mallorca",
+      "aiRating": 4.5,
+      "proList": "",
+      "tipsList": "",
       "photos": [],
       "mainCategory": {
         "name": "🌴 Leisure",
@@ -3842,8 +4410,10 @@
       "website": "https://www.palmabeach.com/bikkini-beach/765/",
       "phone": "+34 971 07 17 11",
       "googleMapsLink": "https://maps.app.goo.gl/BGK5ckRhrLaahhfz5",
-      "aiRating": 4.6,
       "slug": "bikkini-beach",
+      "aiRating": 4.6,
+      "proList": "",
+      "tipsList": "",
       "photos": [
         {
           "responsiveImage": {
@@ -3920,8 +4490,10 @@
       "website": "http://www.palmajump.com/",
       "phone": "+34871903892",
       "googleMapsLink": "https://maps.app.goo.gl/eEaQALVMrP7g4W4M9",
-      "aiRating": 4,
       "slug": "palma-jump",
+      "aiRating": 4,
+      "proList": "",
+      "tipsList": "",
       "photos": [
         {
           "responsiveImage": {
@@ -3984,8 +4556,10 @@
       "website": "https://www.portcalanova.com/en",
       "phone": "+34971402512",
       "googleMapsLink": "https://maps.app.goo.gl/ACDCFpCooFoVLQ1W7",
-      "aiRating": 4.2,
       "slug": "port-calanova",
+      "aiRating": 4.2,
+      "proList": "",
+      "tipsList": "",
       "photos": [],
       "mainCategory": {
         "name": "🌴 Leisure",
@@ -4013,8 +4587,10 @@
       "website": "http://www.aventuraib.com/",
       "phone": "+34673334003",
       "googleMapsLink": "https://maps.app.goo.gl/3WPxcMLFgw4sP7fcA",
-      "aiRating": 4.6,
       "slug": "aventura-ib-colonia-de-sant-jordi",
+      "aiRating": 4.6,
+      "proList": "",
+      "tipsList": "",
       "photos": [],
       "mainCategory": {
         "name": "🌴 Leisure",
@@ -4042,8 +4618,10 @@
       "website": "https://www.albatros-diving.com/",
       "phone": "+34621251940",
       "googleMapsLink": "https://maps.app.goo.gl/v4uxGbZiWNiuh1Ww8",
-      "aiRating": 4.3,
       "slug": "albatros-diving",
+      "aiRating": 4.3,
+      "proList": "",
+      "tipsList": "",
       "photos": [],
       "mainCategory": {
         "name": "🌴 Leisure",
@@ -4071,8 +4649,10 @@
       "website": "http://www.aqua-mallorca-diving.com/",
       "phone": "+34971674376",
       "googleMapsLink": "https://maps.app.goo.gl/jPkSekGMRxnaocLFA",
-      "aiRating": 4.4,
       "slug": "diving-dragonera",
+      "aiRating": 4.4,
+      "proList": "",
+      "tipsList": "",
       "photos": [],
       "mainCategory": {
         "name": "🌴 Leisure",
@@ -4100,8 +4680,10 @@
       "website": "http://www.hotelcort.com/",
       "phone": "+34971213300",
       "googleMapsLink": "https://maps.app.goo.gl/8J6W9J9VZUP5veFEA",
-      "aiRating": 4.5,
       "slug": "hotel-cort",
+      "aiRating": 4.5,
+      "proList": "",
+      "tipsList": "",
       "photos": [],
       "mainCategory": {
         "name": "🏨 Hotel",
@@ -4124,8 +4706,10 @@
       "website": "http://www.hotelborn.com/",
       "phone": "+34971712942",
       "googleMapsLink": "https://maps.app.goo.gl/SexMNbCpadYuL41q8",
-      "aiRating": 4.2,
       "slug": "hotel-born-palma",
+      "aiRating": 4.2,
+      "proList": "",
+      "tipsList": "",
       "photos": [
         {
           "responsiveImage": {
@@ -4182,30 +4766,6 @@
       }
     },
     {
-      "_publishedAt": "2024-09-20T12:46:38+02:00",
-      "_firstPublishedAt": "2024-09-20T12:46:38+02:00",
-      "id": "WXG67JOERqWqcgXjRaGDtg",
-      "name": "Can Bordoy Grand House & Garden",
-      "description": "\n## Overview\nCan Bordoy Grand House & Garden is a luxury boutique hotel in Palma's historic La Lonja quarter. Housed in a beautifully restored 16th-century building, it offers a unique mix of vintage décor, modern amenities, and exceptional service. With only 24 suites, the hotel provides an intimate and luxurious experience that includes a lush garden, spa, rooftop pool, and gourmet dining.\n\n## Services\nGuests enjoy a wide array of services, from a full-service spa with wellness treatments and yoga classes to two pools, including a rooftop pool with panoramic views. The hotel also boasts a restaurant offering high-end Mediterranean cuisine, a library, and a lounge with a fireplace. Concierge services, airport transfers, and boat rentals for coastal excursions are available.\n\n## Location\nSituated in the heart of Palma, the hotel’s location is ideal for exploring nearby landmarks such as La Seu Cathedral and the royal L'Almudaina Palace. It’s also within walking distance of Palma Port and close to many popular markets, museums, and vibrant nightlife spots.\n\n## User Experiences\nOverall, the hotel has excellent reviews, with guests praising its stunning design, tranquil atmosphere, and attentive service. Users highlight the comfort of the rooms, the garden’s beauty, and the central yet peaceful location. However, some reviews mention that the price is on the higher side compared to similar accommodations.\n\n## AI-Rating\nBased on user reviews, Can Bordoy Grand House & Garden receives an **AI-Rating of 4.6/5** for its service, location, and unique atmosphere, though some guests felt the price-to-value ratio could be improved.\n\n| Pros | Cons |\n| ---- | ---- |\n| 🟢 Beautiful design and garden | 🔴 High price |\n| 🟢 Excellent service and staff | 🔴 Limited dining options |\n| 🟢 Central location | 🔴 Some rooms may feel dark |\n\n## Conclusion\nCan Bordoy Grand House & Garden is an exquisite option for those looking to immerse themselves in luxury, comfort, and style in the heart of Palma. With its blend of historic charm and modern amenities, it's perfect for couples and individuals seeking relaxation and top-tier service.",
-      "address": "Carrer del Forn de la Glòria, 14, Centre, 07012 Palma",
-      "mail": "info@canbordoy.com",
-      "website": "http://www.canbordoy.com/?utm_source=google&utm_medium=local&utm_campaign=hotel-canbordoy",
-      "phone": "+34871871202",
-      "googleMapsLink": "https://maps.app.goo.gl/ahxx6fm7pbLkD3Vc9",
-      "aiRating": 4.6,
-      "slug": "can-bordoy-grand-house-garden",
-      "photos": [],
-      "mainCategory": {
-        "name": "🏨 Hotel",
-        "slug": "hotel"
-      },
-      "subCategories": [],
-      "location": {
-        "latitude": 39.5696809,
-        "longitude": 2.644409
-      }
-    },
-    {
       "_publishedAt": "2024-09-20T10:22:28+02:00",
       "_firstPublishedAt": "2024-09-19T12:33:11+02:00",
       "id": "EHh9O7j1Rj2fvz0lmgG5yA",
@@ -4216,8 +4776,10 @@
       "website": "https://www.elhummus.com",
       "phone": "+34692450545",
       "googleMapsLink": "https://maps.app.goo.gl/J148uoVtGbDA6wmw6",
-      "aiRating": 4.8,
       "slug": "el-hummus",
+      "aiRating": 4.8,
+      "proList": "",
+      "tipsList": "",
       "photos": [
         {
           "responsiveImage": {
@@ -4270,101 +4832,6 @@
       }
     },
     {
-      "_publishedAt": "2024-09-20T10:22:17+02:00",
-      "_firstPublishedAt": "2024-09-19T16:41:21+02:00",
-      "id": "DJeWpZHvS_GfGuiVD5l4dw",
-      "name": "Mola Santa Catalina",
-      "description": "## Overview\nMola Santa Catalina is a trendy restaurant located in the vibrant Santa Catalina neighborhood of Palma, Mallorca. The venue combines gourmet fusion cuisine with a welcoming atmosphere, making it a popular destination for food lovers. Its creative dishes and modern ambiance have earned it a strong reputation since its establishment in 2021.\n\n## Services\nMola Santa Catalina offers a menu featuring a mix of international flavors and locally sourced ingredients. They are known for their excellent service and personalized attention. Along with dining, the venue hosts events and private gatherings, making it a versatile spot for both casual meals and special occasions. Additionally, they offer catering services for events.\n\n## Location\nSituated at Plaça de la Navegació, 17, in the heart of Ponent, Palma, the restaurant benefits from a central location, right in front of the Santa Catalina Market. This setting provides a lively atmosphere, with the sun streaming through large windows, creating a warm and inviting space for guests.\n\n## User Experiences\nVisitors consistently praise the fusion cuisine and the modern yet cozy setting. The staff's friendliness and the quality of service are highly rated. Many reviews highlight the creative food presentations and fresh ingredients, while some mention that reservations are necessary due to the restaurant's popularity.\n\n## AI-Rating\nBased on user reviews and feedback, Mola Santa Catalina receives a solid 4.5/5. Customers rave about the unique menu, great atmosphere, and attentive service, with minor concerns primarily related to availability and high demand.\n\n| Pros | Cons |\n| --- | --- |\n| 🟢 Excellent fusion cuisine | 🔴 High demand, often requiring reservations |\n| 🟢 Friendly and attentive staff | 🔴 Limited seating |\n| 🟢 Central location near Santa Catalina Market | 🔴 Slightly higher price point |\n\n## Conclusion\nMola Santa Catalina stands out as a top choice for fusion dining in Palma, offering high-quality dishes, a prime location, and excellent service. Whether for a casual dinner or a special event, it’s a spot that combines great food with a memorable atmosphere.\n",
-      "address": "Plaça de la Navegació, 17, Ponent, 07013 Palma",
-      "mail": "reservation.sc@grupomola.com",
-      "website": "https://www.grupomola.com/en",
-      "phone": "+34680808078",
-      "googleMapsLink": "https://maps.app.goo.gl/ybydGpCEaBT9ocKv6",
-      "aiRating": 4.5,
-      "slug": "mola-santa-catalina",
-      "photos": [],
-      "mainCategory": {
-        "name": "🍽️ Restaurant",
-        "slug": "restaurant"
-      },
-      "subCategories": [
-        {
-          "name": "🍷 Wine",
-          "slug": "wine"
-        }
-      ],
-      "location": {
-        "latitude": 39.5715679,
-        "longitude": 2.6383136
-      }
-    },
-    {
-      "_publishedAt": "2024-09-20T10:21:14+02:00",
-      "_firstPublishedAt": "2024-09-19T17:17:00+02:00",
-      "id": "QoOObHUWQC-Xyh4YNQkTvw",
-      "name": "Vida Meva",
-      "description": "## Overview\nVida Meva is a cozy and family-run restaurant located in Palma, Balearic Islands. Known for its warm, welcoming atmosphere, it offers Mediterranean cuisine with a personal touch. The restaurant's name, \"Vida Meva\" (meaning \"my life\" in Catalan), reflects the familial environment cultivated by the owners, Noelia, Gabriela Vidal, and chef Toni Martorell. The restaurant specializes in offering a three-course lunch menu, varying weekly, with fine dining quality at reasonable prices.\n\n## Services\nVida Meva operates as a lunch-only venue, offering carefully crafted menus that change each week. The restaurant focuses on fresh, high-quality ingredients, with options for both meat-eaters and vegetarians. The menu typically includes traditional Mediterranean dishes with a modern twist, and the service is known for its friendly and attentive approach.\n\n## Location\nThe restaurant is located at C/ del Socors, 23, in the quiet Sa Gerreria district of Palma. This tranquil side street offers a peaceful atmosphere, with a small outdoor terrace where guests can enjoy their meals while watching the neighborhood go by.\n\n## User Experiences\nGuests generally rave about the quality of the food and the friendly service at Vida Meva. The rotating menu is a big hit, with regulars appreciating the creativity of each dish. However, some guests have mentioned that service can occasionally be slow, particularly during busy periods. Nonetheless, the restaurant's intimate and welcoming ambiance makes up for any delays.\n\n## AI-Rating\nBased on user reviews and the overall dining experience, Vida Meva receives a **4.5/5** rating. It excels in food quality and customer service but has minor drawbacks in terms of the speed of service.\n\n|  **Pros**      |  **Cons**        |\n|----------------|------------------|\n| 🟢 High-quality, fresh ingredients | 🔴 Occasional slow service |\n| 🟢 Warm and welcoming atmosphere    | 🔴 Limited to lunch service |\n| 🟢 Creative, rotating menus         | 🔴 Small seating capacity    |\n\n## Conclusion\nVida Meva is a gem in Palma for those seeking Mediterranean cuisine with a personal touch. Its family-run atmosphere and commitment to quality make it a must-visit spot for lunch. Reservations are recommended due to limited seating and high demand.\n",
-      "address": "C/ del Socors, 23, bajo izquierda, Distrito Centro, 07002 Palma",
-      "mail": "",
-      "website": "",
-      "phone": "+34971576299",
-      "googleMapsLink": "https://maps.app.goo.gl/HWTCMpLBC6dUje6Z8",
-      "aiRating": 4.5,
-      "slug": "vida-meva",
-      "photos": [],
-      "mainCategory": {
-        "name": "🍽️ Restaurant",
-        "slug": "restaurant"
-      },
-      "subCategories": [
-        {
-          "name": "🌊 Mediterranean",
-          "slug": "mediterranean"
-        }
-      ],
-      "location": {
-        "latitude": 39.5695032,
-        "longitude": 2.6557699
-      }
-    },
-    {
-      "_publishedAt": "2024-09-20T10:19:31+02:00",
-      "_firstPublishedAt": "2024-09-19T17:53:22+02:00",
-      "id": "VakCHr7XTfiuEsLWd3G2DA",
-      "name": "Badal Corner",
-      "description": "## Overview\nBadal Corner is a popular burger spot located at Plaça del Comtat del Rosselló in Palma, Mallorca. It offers gourmet-style burgers with a variety of options including vegan and vegetarian choices, attracting both locals and tourists alike. Known for its casual yet vibrant atmosphere, Badal Corner stands out for its creative takes on traditional burgers and generous portion sizes.\n\n## Services\nThe restaurant specializes in gourmet burgers, offering a mix of traditional and vegan-friendly options. Patrons can choose from beef, Beyond Meat, seitan, or chickpea patties. The restaurant provides dine-in services and also offers delivery via Glovo. The menu includes sides like sweet potato fries and edamame, and the service is noted for its efficiency.\n\n## Location\nSituated in the bustling heart of Palma, Badal Corner is located at Plaça del Comtat del Rosselló, making it easily accessible. The area is vibrant and central, offering a perfect spot for both a quick bite or a relaxed meal after exploring the city.\n\n## User Experiences\nCustomer reviews are generally positive, particularly highlighting the quality of the vegan and vegetarian burgers. However, some diners mention that the menu can be confusing, and on busy days, service may be slow. The restaurant is popular among both vegans and non-vegans, praised for its fresh ingredients and flavorful dishes.\n\n## AI-Rating\n**4.3/5**\nBased on user feedback, Badal Corner scores highly for its diverse menu and quality, with slight deductions for occasional service delays and menu clarity.\n\n| Pros | Cons |\n| ---- | ---- |\n| 🟢 Vegan and vegetarian options | 🔴 Confusing menu |\n| 🟢 Large portions | 🔴 Can be busy with slow service |\n| 🟢 Quick food preparation | 🔴 Limited vegan choices |\n\n## Conclusion\nBadal Corner is an excellent choice for burger enthusiasts looking for both traditional and vegan options. Its central location and quality offerings make it a must-visit spot in Palma, though be prepared for a busy atmosphere at peak times.",
-      "address": "Plaça del Comtat del Rosselló, 7, Centre, 07002 Palma",
-      "mail": " info@badalcorner.com",
-      "website": "https://www.badalcorner.com",
-      "phone": "+34871238462",
-      "googleMapsLink": "https://maps.app.goo.gl/AreyoZvN3pBx1JmE8",
-      "aiRating": 4.3,
-      "slug": "badal-corner",
-      "photos": [],
-      "mainCategory": {
-        "name": "🍽️ Restaurant",
-        "slug": "restaurant"
-      },
-      "subCategories": [
-        {
-          "name": "🍔 Burger",
-          "slug": "burger"
-        },
-        {
-          "name": "🍃 Vegetarian",
-          "slug": "vegetarian"
-        },
-        {
-          "name": "🌱 Vegan",
-          "slug": "vegan"
-        }
-      ],
-      "location": {
-        "latitude": 39.5737004,
-        "longitude": 2.6544002
-      }
-    },
-    {
       "_publishedAt": "2024-09-20T08:56:33+02:00",
       "_firstPublishedAt": "2024-09-17T18:24:59+02:00",
       "id": "ZeQim-kcSwWXVNminc-gww",
@@ -4375,8 +4842,10 @@
       "website": "https://www.hotelartmadams.com/",
       "phone": "+34971222121",
       "googleMapsLink": "",
-      "aiRating": 4,
       "slug": "artmadams",
+      "aiRating": 4,
+      "proList": "",
+      "tipsList": "",
       "photos": [
         {
           "responsiveImage": {
@@ -4439,8 +4908,10 @@
       "website": "https://www.isaanthaicuisine.com/en/",
       "phone": "+34971158679",
       "googleMapsLink": "https://maps.app.goo.gl/GCXTNYo3FSh3868k6",
-      "aiRating": 4.6,
       "slug": "isaan-thai-cuisine",
+      "aiRating": 4.6,
+      "proList": "",
+      "tipsList": "",
       "photos": [
         {
           "responsiveImage": {
