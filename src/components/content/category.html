@@ -6,7 +6,12 @@
 
 <div class="py-12 px-4 text-center bg-gray-50">
     <div class="text-xl md:text-3xl font-bold mb-4">
-        The best <span class="p-2 pr-3 border border-gray-200 rounded-full bg-white">{{category.name}}s</span> on Mallorca!</div>
+        {{translations[locale].thebest}}
+        <span class="p-2 pr-1 border-2 border-gray-200 rounded-xl bg-white">
+            {{category.name}}
+        </span>
+        &nbsp;{{translations[locale].onmallorca}}
+    </div>
 </div>
 
 <div class="container mx-auto px-4">

@@ -19,7 +19,7 @@
         </a>
 
         <div x-data="searchComponent()" class="relative w-full max-w-lg">
-            <input type="text" placeholder="Search providers, descriptions, subcategories..." x-model="searchQuery" @focus="openDropdown()" @input="performSearch()" @blur="hideDropdown()" class="w-full p-2 border border-gray-300 rounded"/>
+            <input type="text" placeholder="🔎 {{translations[locale].searchplaceholder}}" x-model="searchQuery" @focus="openDropdown()" @input="performSearch()" @blur="hideDropdown()" class="w-full p-2 border border-gray-300 rounded"/>
         
             <!-- Autocomplete Dropdown -->
             <div 
@@ -31,9 +31,7 @@
                     <a :href="'/' + result.slug" class="block p-2 hover:bg-gray-200">
                         <div class="flex items-center gap-4">
                             <!-- First provider image -->
-                            <img :src="result.photos.length > 0 ? result.photos[0].responsiveImage.src : 'default-image.jpg'" 
-                                 alt="result.name" 
-                                 class="w-12 h-12 object-cover rounded-md" />
+                            <img :src="result.photos.length > 0 ? result.photos[0].responsiveImage.src : 'default-image.jpg'" alt="result.name" class="w-12 h-12 object-cover rounded-md" />
                             <div>
                                 <p class="font-bold" x-html="highlightMatch(result.name)"></p>
                                 <!-- Subcategories as text -->
@@ -46,13 +44,10 @@
         </div>
         
 
-        <div class="flex gap-2">
-            <a href="#">About</a>
-            {% include "lang.html" %}
-        </div>
+        {% include "lang.html" %}
     </div>
 </div>
-     
+
 <script>
     function searchComponent() {
         return {
