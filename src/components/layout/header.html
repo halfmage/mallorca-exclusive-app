@@ -12,16 +12,16 @@
 </script>
 
 <div class="py-4 border-b border-gray-200">
-    <div class="container px-4 sm:flex gap-4 items-center justify-between mx-auto">
+    <div class="container px-4 flex flex-col md:flex-row gap-4 md:items-center justify-between mx-auto">
 
+        <!-- Logo -->
         <a href="/{% if locale == 'de' %}de/{%endif%}" class="hover:opacity-80 shrink-0">
             <img src="/images/logo.svg" alt="Logo" class="h-6 md:h-8">
         </a>
 
+        <!-- Searchbar -->
         <div x-data="searchComponent()" class="relative w-full max-w-lg">
             <input type="text" placeholder="🔎 {{translations[locale].searchplaceholder}}" x-model="searchQuery" @focus="openDropdown()" @input="performSearch()" @blur="hideDropdown()" class="w-full p-2 border border-gray-300 rounded"/>
-        
-            <!-- Autocomplete Dropdown -->
             <div 
                 class="absolute left-0 top-full mt-2 w-full bg-white border border-gray-300 rounded shadow-lg z-50 max-h-96 overflow-y-auto"
                 x-show="isOpen && filteredProviders.length > 0"
@@ -31,11 +31,10 @@
                     <a :href="'/' + result.slug" class="block p-2 hover:bg-gray-200">
                         <div class="flex items-center gap-4">
                             <!-- First provider image -->
-                            <img :src="result.photos.length > 0 ? result.photos[0].responsiveImage.src : 'default-image.jpg'" alt="result.name" class="w-12 h-12 object-cover rounded-md" />
+                            <img :src="result.photos.length > 0 ? result.photos[0].responsiveImage.src : 'default-image.jpg'" alt="result.name" class="w-24 h-12 object-cover rounded-md shrink-0" />
                             <div>
                                 <p class="font-bold" x-html="highlightMatch(result.name)"></p>
-                                <!-- Subcategories as text -->
-                                <p x-html="highlightMatch(result.subcategoryNames.join(', '))" class="text-sm text-gray-600"></p>
+                                <p x-html="highlightMatch(result.subcategoryNames.join(', '))" class="text-sm text-gray-600 line-clamp-1"></p>
                             </div>
                         </div>
                     </a>
@@ -43,7 +42,7 @@
             </div>
         </div>
         
-
+        <!-- Language switcher -->
         {% include "lang.html" %}
     </div>
 </div>

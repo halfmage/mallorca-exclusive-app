@@ -1,22 +1,22 @@
 <!-- Filter by Main Category with Tabs -->
-<div class="flex space-x-2 whitespace-nowrap overflow-auto xl:overflow-visible mb-2 xl:mb-0">
+<div class="flex gap-1 bg-gray-100 rounded-lg p-1 whitespace-nowrap">
     <!-- Reset Button for "All Categories" -->
-    <label class="cursor-pointer">
+    <label class="cursor-pointer w-full text-center">
         <input type="radio" name="mainCategory" value="" x-model="selectedMainCategory" @change="filterProviders()" class="hidden" />
         <div :class="{
-            'bg-gray-950 text-white': selectedMainCategory === '',
-            'bg-white text-gray-600': selectedMainCategory !== ''
-        }" class="px-4 py-2 rounded-xl transition duration-300 border border-gray-200">
-            All
+            'bg-white shadow': selectedMainCategory === '',
+            'bg-gray-100': selectedMainCategory !== ''
+        }" class="p-2 rounded-lg">
+            📦 {{translations[locale].all}}
         </div>
     </label>
     <template x-for="category in mainCategories" :key="category.id">
-        <label class="cursor-pointer">
+        <label class="cursor-pointer w-full text-center">
             <input type="radio" name="mainCategory" :value="category.name" x-model="selectedMainCategory" @change="filterProviders()" class="hidden" />
             <div :class="{
-                'bg-gray-950 text-white': selectedMainCategory === category.name,
-                'bg-white text-gray-600': selectedMainCategory !== category.name
-            }" class="px-4 py-2 rounded-xl transition duration-300 border border-gray-200">
+                'bg-white shadow': selectedMainCategory === category.name,
+                'bg-gray-100': selectedMainCategory !== category.name
+            }" class="p-2 rounded-lg">
                 <span x-text="category.name"></span>
             </div>
         </label>

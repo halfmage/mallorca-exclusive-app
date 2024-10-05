@@ -7,11 +7,11 @@
 <div x-data="sortableList()" class="container mx-auto px-4">
 
     <div class="flex flex-col xl:flex-row justify-between gap-2 xl:gap-4 text-sm xl:text-base py-4">
-        <div class="xl:flex gap-2 ">
-            {% include "../search/maincategory.html" %}
-            {% include "../search/subcategory.html" %}
+        {% include "../search/maincategory.html" %}
+        <div class="flex gap-4 md:gap-2">
+            <div class="w-1/2">{% include "../search/subcategory.html" %}</div>
+            <div class="w-1/2">{% include "../search/sorting.html" %}</div>
         </div>
-        {% include "../search/sorting.html" %}
     </div>
 
     <!-- Iterate through the filtered and sorted items with Alpine.js -->
@@ -29,7 +29,7 @@
             </a>
         </template>
     </div>
- 
+
     <!-- No Results Message and Reset Button -->
     <div x-show="sortedAndFilteredProviders.length === 0" class="text-center p-4 h-[50vh] flex flex-col gap-3 items-center justify-center">
         <p class="text-lg font-bold">{{translations[locale].noresultsfound}}</p>

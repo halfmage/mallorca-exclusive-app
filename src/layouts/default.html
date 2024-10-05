@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ title | safe }} – MallorcaXclusive</title>
+    <title>{{ title | safe }} on ☀️ MallorcaXclusive</title>
     <link rel="shortcut icon" href="favicon.png" type="image/x-icon">
     <script src="/js/alpine.js" defer></script>
     <script src="/js/fslightbox.js" defer></script>
@@ -12,7 +12,7 @@
     <!-- Facebook Meta Tags -->
     <meta property="og:url" content="https://mallorcaxclusive.com/">
     <meta property="og:type" content="website">
-    <meta property="og:title" content="MallorcaXclusive">
+    <meta property="og:title" content="{{ title | safe }} on ☀️ MallorcaXclusive">
     <meta property="og:description" content="Find Mallorcas true highlights - Our upscale app exclusively showcases the island's best restaurants, hotels, and activities.">
     <meta property="og:image" content="{% if socialImage %}{{socialImage}}{% else %} https://mallorca-exclusive.netlify.app/images/social.jpg {% endif %}">
 
@@ -20,7 +20,7 @@
     <meta name="twitter:card" content="summary_large_image">
     <meta property="twitter:domain" content="mallorcaxclusive.com">
     <meta property="twitter:url" content="https://mallorcaxclusive.com/">
-    <meta name="twitter:title" content="MallorcaXclusive">
+    <meta name="twitter:title" content="{{ title | safe }} on ☀️ MallorcaXclusive">
     <meta name="twitter:description" content="Find Mallorcas true highlights - Our upscale app exclusively showcases the island's best restaurants, hotels, and activities.">
     <meta name="twitter:image" content="{% if socialImage %}{{socialImage}}{% else %} https://mallorca-exclusive.netlify.app/images/social.jpg {% endif %}">
     

@@ -7,6 +7,7 @@ module.exports = {
         category: "Category",
         categories: "Categories",
         allCategories: "All categories",
+        allsubcategories: "Subcategories",
         about: "About",
         imprint: "Imprint",
         thebest: "The best",
@@ -17,7 +18,9 @@ module.exports = {
         sortingrating: "Best rated",
         sortingnewest: "Newest",
         sortingnearest: "Nearby",
-        searchplaceholder: "Search for anything"
+        searchplaceholder: "Search for anything",
+        prolisttitle: "Highlights:",
+        tiplisttitle: "Tips:"
     },
     de: {
         index: {
@@ -27,6 +30,7 @@ module.exports = {
         category: "Kategorie",
         categories: "Kategorien",
         allCategories: "Alle Kategorien",
+        allsubcategories: "Unterkategorien",
         about: "Über uns",
         imprint: "Impressum",
         thebest: "Die besten",
@@ -37,6 +41,8 @@ module.exports = {
         sortingrating: "Bestbewertet",
         sortingnewest: "Neueste",
         sortingnearest: "In der Nähe",
-        searchplaceholder: "Anbieter durchsuchen"
+        searchplaceholder: "Anbieter durchsuchen",
+        prolisttitle: "Highlights:",
+        tiplisttitle: "Empfehlungen:"
     }
 };
