@@ -9,6 +9,7 @@ permalink: "/{{provider.name | slugify}}/"
 eleventyComputed:
     translationKey: "{{provider.id}}"
     title: "{{provider.name}}"
+    socialImage: "{{provider.photos[0].responsiveImage.src}}" 
 ---
 
 {% include "content/detail.html" %}

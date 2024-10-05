@@ -1,6 +1,7 @@
 module.exports = function(eleventyConfig) {
 
   eleventyConfig.addPassthroughCopy('src/images')
+  eleventyConfig.addPassthroughCopy('src/favicon.png')
   eleventyConfig.addPassthroughCopy({'./node_modules/alpinejs/dist/cdn.js': './js/alpine.js'})
   eleventyConfig.addPassthroughCopy({'./node_modules/fslightbox/index.js': './js/fslightbox.js'})
 
