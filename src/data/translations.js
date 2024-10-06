@@ -20,7 +20,10 @@ module.exports = {
         sortingnearest: "Nearby",
         searchplaceholder: "Search for anything",
         prolisttitle: "Highlights:",
-        tiplisttitle: "Tips:"
+        tiplisttitle: "Tips:",
+        faraway: "Far away",
+        nearby: "Nearby",
+        veryclose: "Very close"
     },
     de: {
         index: {
@@ -43,6 +46,9 @@ module.exports = {
         sortingnearest: "In der Nähe",
         searchplaceholder: "Anbieter durchsuchen",
         prolisttitle: "Highlights:",
-        tiplisttitle: "Empfehlungen:"
+        tiplisttitle: "Empfehlungen:",
+        faraway: "Weit entfernt",
+        nearby: "In der Nähe",
+        veryclose: "Sehr nah"
     }
 };

@@ -46,7 +46,7 @@ function sortableList() {
         providers: window.providers,
         mainCategories: window.mainCategories,
         subCategories: window.subCategories,
-        sortOrder: 'publishedAtDesc',  // Default sort order
+        sortOrder: 'distanceAsc',  // Default sort order
         searchQuery: '',          // Default search query
         selectedMainCategory: '', // Default main category filter
         selectedSubCategory: '',  // Default subcategory filter
@@ -97,7 +97,7 @@ function sortableList() {
             this.searchQuery = '';          // Reset search query
             this.selectedMainCategory = ''; // Reset main category filter
             this.selectedSubCategory = '';  // Reset subcategory filter
-            this.sortOrder = 'publishedAtDesc';   // Reset to default sort order
+            this.sortOrder = 'distanceAsc';   // Reset to default sort order
             this.sortProviders();           // Re-sort and re-filter the providers
             this.updateUrlParams();         // Update URL parameters
         },
