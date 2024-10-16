@@ -1,6 +1,531 @@
 {
   "allProviders": [
     {
+      "_publishedAt": "2024-10-15T14:10:04+02:00",
+      "_firstPublishedAt": "2024-09-21T15:54:29+02:00",
+      "id": "OosCAggkTumkImYsoDo89w",
+      "name": "T - Golf",
+      "description": "## Highlights\nT Golf Palma Puntiró offers a pristine 18-hole golf course set within a natural landscape just outside Palma. Designed by Nicklaus Design, it’s known for its challenging yet enjoyable layout, perfect for both amateurs and professionals. The course is surrounded by scenic views, and the modern clubhouse offers top-notch facilities, including dining options and event spaces.\n\n## Services\nT Golf Palma features a well-equipped golf academy, a pro shop, and a gourmet restaurant offering Mediterranean cuisine. The club also hosts corporate events and tournaments.\n\n## Location\nLocated 10 km from Palma, T Golf Palma Puntiró is easily accessible. The address is Camí Vell de Sineu, Km 10, Palma, Mallorca.\n\n## User Experiences\nVisitors commend the beautiful design, well-maintained course, and friendly staff. Both the course’s difficulty and the peaceful environment make it a standout experience for golfers. Many recommend booking tee times in advance due to its popularity.",
+      "address": "T Golf Calvia, Camí Cala Figuera, s/n, 07181, Balearic Islands, Spanien",
+      "mail": "",
+      "website": "https://t-golf.club/palma/",
+      "phone": "+34971130148",
+      "googleMapsLink": "https://maps.app.goo.gl/QXqBxfzTJEvRdDWm9",
+      "slug": "t-golf",
+      "aiRating": 4.5,
+      "proList": "- Scenic course designed by Nicklaus Design\n- Excellent clubhouse with Mediterranean cuisine\n- Well-maintained and challenging for all levels",
+      "tipsList": "- Tee time reservations recommended\n- Golf academy for improving your game\n- Ideal for corporate events and tournaments",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1727171824-t-golf-04.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1727171824-t-golf-01.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1727171824-t-golf-03.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1727171824-t-golf-02.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🌴 Leisure",
+        "slug": "leisure"
+      },
+      "subCategories": [
+        {
+          "name": "🏌️‍♂️ Golf",
+          "slug": "golf"
+        },
+        {
+          "name": "🍽️ In-house dining",
+          "slug": "in-house-dining"
+        }
+      ],
+      "location": {
+        "latitude": 39.4953468,
+        "longitude": 2.5183083
+      }
+    },
+    {
+      "_publishedAt": "2024-10-15T14:09:01+02:00",
+      "_firstPublishedAt": "2024-08-08T20:39:31+02:00",
+      "id": "Xk97s4piQ0qp1CGcXdh8pg",
+      "name": "MarChica Palma",
+      "description": "## Highlights\nMarChica Palma is a trendy dining spot in Palma de Mallorca that combines vibrant cuisine, cocktails, and music. Led by Chef Junior Machado, the menu offers a creative blend of Asian and Mediterranean influences, with dishes like grilled miso-marinated black cod and sea bass with kombu. The atmosphere is elevated by live DJ sessions and a chic, modern design, making it an all-in-one venue for food, drinks, and entertainment.\n\n## Menu\nMarChica's menu features signature dishes like black cod, grilled salmon, and creative sushi options. The cocktail menu, curated by Bar Manager Serena Carrino, enhances the dining experience with innovative, expertly crafted drinks.\n\n## Location\nLocated at Carrer Torre de Paraires 1, in Palma’s marina area, MarChica Palma offers a perfect spot for dinner and late-night cocktails. It's open Tuesday to Saturday, with kitchen service from 7:00 PM to 11:00 PM, and the bar open until 1:00 AM.\n\n## User Experiences\nGuests rave about the innovative fusion cuisine and the lively atmosphere created by the music and stylish décor. The black cod and seafood dishes receive special praise, and the cocktails are noted as a highlight. Some reviews recommend making a reservation due to its popularity.",
+      "address": "Carrer Torre de Paraires, 1, Ponent, 07015 Palma, Illes Balears, Spanien",
+      "mail": "reservas@marchicapalma.com",
+      "website": "https://marchicapalma.com",
+      "phone": "+34971593902",
+      "googleMapsLink": "https://maps.app.goo.gl/emXJBKVMy7HVrQ5C9",
+      "slug": "marchica-palma",
+      "aiRating": 4.7,
+      "proList": "- Unique blend of Asian and Mediterranean flavors\n- Stylish, lively ambiance with live music\n- Excellent cocktails crafted by a top bar manager",
+      "tipsList": "- Reservations recommended due to high demand\n- Perfect for dinner and evening drinks\n- Creative seafood options like black cod are highly rated",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1723143550-marchica-palma-01.jpg",
+            "alt": "Marchica Dining Room"
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1723143545-marchica-palma-02.jpg",
+            "alt": "Marchica Palma Dining Room"
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1723143540-marchica-palma-03.jpg",
+            "alt": "Marchica Palma Interior"
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🍽️ Restaurant",
+        "slug": "restaurant"
+      },
+      "subCategories": [
+        {
+          "name": "🍣 Sushi",
+          "slug": "sushi"
+        },
+        {
+          "name": "🍱 Fusion",
+          "slug": "fusion"
+        },
+        {
+          "name": "🍹 Cocktail",
+          "slug": "cocktail"
+        },
+        {
+          "name": "🍸 Bar",
+          "slug": "bar"
+        }
+      ],
+      "location": {
+        "latitude": 39.5508258,
+        "longitude": 2.6230203
+      }
+    },
+    {
+      "_publishedAt": "2024-10-15T14:06:11+02:00",
+      "_firstPublishedAt": "2024-09-18T20:11:49+02:00",
+      "id": "QxJqEk6vQS2WyhupiiRE4w",
+      "name": "Guindilla Design & Bar",
+      "description": "## Highlights\nGuindilla Design & Bar in Palma de Mallorca offers a unique dining experience that blends Mediterranean cuisine with a modern, stylish atmosphere. Known for its creative dishes and casual yet chic ambiance, the bar is popular for both drinks and dining, with a focus on fresh, high-quality ingredients. The bar’s design itself is a key attraction, enhancing the overall vibe of the place.\n\n## Services\nThe bar serves a variety of Mediterranean-inspired dishes, with specialties including seafood, grilled octopus, and creative tapas. There’s also a wide selection of cocktails and wines. The bar is well-suited for casual drinks or a more refined dining experience.\n\n## Location\nGuindilla Design & Bar is located at Carrer de la Ferreria 18, in the heart of Palma’s old town. Its central location makes it easy to visit while exploring the city’s historical sites. The bar operates daily, typically from noon until late evening, making it an excellent option for both lunch and dinner.\n\n## User Experiences\nGuests consistently praise the relaxed, stylish setting and creative menu. The octopus and seafood dishes receive particular acclaim, and the attentive service adds to the positive experience. Some reviews suggest that the place can get busy during peak hours, so reservations are recommended.",
+      "address": "Carrer de la Ferreria, 18, Centre, 07002 Palma",
+      "mail": "",
+      "website": "",
+      "phone": "+34697457473",
+      "googleMapsLink": "https://maps.app.goo.gl/mquSDbC2XLaUmZuv8",
+      "slug": "guindilla-design-and-bar",
+      "aiRating": 4.5,
+      "proList": "- Creative Mediterranean cuisine with fresh ingredients\n- Stylish and modern ambiance\n- Central location in Palma’s old town",
+      "tipsList": "- Can get crowded, reservations recommended\n- Great for both casual drinks and full dining\n- Known for excellent seafood and tapas",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726682785-screenshot-2024-09-18-200105.png",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726682785-screenshot-2024-09-18-200258.png",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726682785-screenshot-2024-09-18-200133.png",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🍽️ Restaurant",
+        "slug": "restaurant"
+      },
+      "subCategories": [
+        {
+          "name": "🍸 Bar",
+          "slug": "bar"
+        },
+        {
+          "name": "🔥 Grill",
+          "slug": "grill"
+        },
+        {
+          "name": "🍷 Wine",
+          "slug": "wine"
+        }
+      ],
+      "location": {
+        "latitude": 39.5710629,
+        "longitude": 2.6548905
+      }
+    },
+    {
+      "_publishedAt": "2024-10-15T14:05:07+02:00",
+      "_firstPublishedAt": "2024-09-21T15:23:27+02:00",
+      "id": "McSdC4y3RuyB8wo-6Li6Uw",
+      "name": "Aubamar Suites & Spa",
+      "description": "## Highlights\nAubamar Suites & Spa is a luxurious 5-star hotel in Playa de Palma, Mallorca. With a blend of modern design and Mediterranean touches, the hotel offers spacious suites, a large spa, and serene gardens with swimming pools. It’s ideal for couples and families looking for a refined yet relaxed vacation experience. Just a short walk from the beach, the hotel is perfectly positioned for both relaxation and exploration.\n\n## Services\nThe hotel features extensive spa facilities, including indoor and outdoor pools, a sauna, and a fitness center. There is a gourmet restaurant offering a mix of international and local cuisine, alongside a well-stocked bar. Guests can also enjoy massages and beauty treatments, as well as special amenities for children, making it a family-friendly destination.\n\n## Location\nSituated in Playa de Palma, the hotel is just 300 meters from the beach and a 10-minute drive from Palma de Mallorca Airport. It's also well-connected for those looking to explore Palma’s city center, with easy access to nearby attractions.\n\n## User Experiences\nGuests frequently highlight the exceptional service, with special praise for the friendly and helpful staff. The modern and clean suites, fantastic spa facilities, and delicious breakfasts are also commonly appreciated. However, some guests noted that dinner options could be improved. Overall, it’s a well-loved hotel, especially for its peaceful atmosphere and convenient location.",
+      "address": "Calle Misión de San Diego, 17 07600 Palma, Illes Balears",
+      "mail": "",
+      "website": "https://www.palmabeach.com/hotel-aubamar-suites-spa-5/2868/",
+      "phone": "+34971724347",
+      "googleMapsLink": "https://maps.app.goo.gl/4ZdVUEPt8HfMJHG69",
+      "slug": "aubamar-suites-and-spa",
+      "aiRating": 4.3,
+      "proList": "- Luxurious spa and wellness facilities\n- Spacious, modern suites with great amenities\n- Close proximity to both the beach and the airport",
+      "tipsList": "- Dinner options could be more diverse\n- Popular, so early bookings recommended\n- Great for both couples and families",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726941428-aubamarsuite-03.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726941428-aubamarsuite-01.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726941428-aubamarsuite-04.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726941428-aubamarsuite-02.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726941428-aubamarsuite-05.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🏨 Hotel",
+        "slug": "hotel"
+      },
+      "subCategories": [
+        {
+          "name": "💙 Palma Beach Partner",
+          "slug": "palma-beach-partner"
+        },
+        {
+          "name": "🪷 Spa",
+          "slug": "spa"
+        },
+        {
+          "name": "🏋️‍♂️ Gym",
+          "slug": "gym"
+        },
+        {
+          "name": "🍽️ In-house dining",
+          "slug": "in-house-dining"
+        },
+        {
+          "name": "🏊‍♂️ Pool",
+          "slug": "pool"
+        }
+      ],
+      "location": {
+        "latitude": 39.51701449999999,
+        "longitude": 2.7489633
+      }
+    },
+    {
+      "_publishedAt": "2024-10-15T14:04:11+02:00",
+      "_firstPublishedAt": "2024-09-19T12:34:22+02:00",
+      "id": "C2Ulw01IRcOd8NkHEuhXTg",
+      "name": "Dive & Fun",
+      "description": "## Highlights\nDive & Fun offers a thrilling underwater adventure experience in Mallorca, with dive excursions to the marine reserve of Cala Ratjada. The center focuses on preserving the beauty of marine life while providing courses for beginners and advanced divers. Alongside diving, the center also offers high-speed boat tours and trips to the famous Pirate Cave for added adventure.\n\n## Services\nDive & Fun offers daily diving trips, snorkeling tours, speedboat rides, and diving courses, from beginner lessons to instructor certifications. All excursions are led by professional guides.\n\n## Location\nLocated in Capdepera, Mallorca, at Carretera de Sa Font de Sa Cala 48, Dive & Fun operates daily from 9:00 AM to 6:00 PM. It's an ideal spot for those staying in the northeast of Mallorca.\n\n## User Experiences\nVisitors praise the friendly and experienced staff, with particular highlights for the well-organized dive trips and stunning underwater sights. Beginners feel comfortable, while experienced divers enjoy exploring Mallorca’s rich marine life. Some recommend booking tours in advance due to the popularity of the excursions.",
+      "address": "Carretera de Canyamel, 48, 07589 Font de Sa Cala, Illes Balears, Spanien",
+      "mail": "",
+      "website": "http://www.mallorcadiving.de/",
+      "phone": "+34971818036",
+      "googleMapsLink": "https://maps.app.goo.gl/nNn5QNMYrdaNrrrTA",
+      "slug": "dive-and-fun",
+      "aiRating": 4.4,
+      "proList": "- Professional and friendly staff\n- Stunning dive sites in the marine reserve\n- Options for both beginners and advanced divers",
+      "tipsList": "- Book tours in advance, especially during peak season\n- Offers other adventure activities like speedboat tours\n- Great for family-friendly snorkeling excursions",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726741973-dive-and-fun-01.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726741973-dive-and-fun-02.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726741973-dive-and-fun-06.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726741973-dive-and-fun-03.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726741973-dive-and-fun-05.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726741973-dive-and-fun-04.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🌴 Leisure",
+        "slug": "leisure"
+      },
+      "subCategories": [
+        {
+          "name": "🤿 Diving",
+          "slug": "diving"
+        }
+      ],
+      "location": {
+        "latitude": 39.6831747,
+        "longitude": 3.4516384
+      }
+    },
+    {
+      "_publishedAt": "2024-10-15T14:03:18+02:00",
+      "_firstPublishedAt": "2024-09-21T15:42:55+02:00",
+      "id": "clzDVGJjQBS6Tp9h-CKDgA",
+      "name": "Dino Mini Golf",
+      "description": "## Highlights\nDino Mini Golf is a popular miniature golf attraction located in Playa de Palma, Mallorca. It offers a fun experience for families and groups, featuring three unique 18-hole circuits set against a prehistoric dinosaur-themed backdrop. This mini-golf venue stands out with its entertaining obstacles and realistic dinosaur sculptures, making it a hit with both kids and adults alike.\n\n## Services\nThe venue offers three different mini-golf circuits, each with its own challenges and fun elements. It’s ideal for a family day out or casual fun with friends. There is a small café on-site for snacks and refreshments. Open daily, it’s a great spot to visit any time during the day.\n\n## Location\nLocated in Playa de Palma, Mallorca, Dino Mini Golf is just a short distance from the beach, making it a convenient stop during a day out. The exact address is Carretera S'Arenal 56, 07600 Playa de Palma. It’s easily accessible by public transportation or car, with nearby parking available.\n\n## User Experiences\nVisitors describe Dino Mini Golf as an enjoyable and well-maintained attraction. It’s praised for its family-friendly environment and creative course designs. Reviewers also mention the realistic dinosaur models as a major highlight for children. Some note that during peak times, the venue can get crowded, so visiting earlier in the day is recommended.",
+      "address": "Carretera de l'Arenal, 56, Platja de Palma, 07600 Palma",
+      "mail": "",
+      "website": "https://www.palmabeach.com/dino-mini-golf/3649/",
+      "phone": "+34971743334",
+      "googleMapsLink": "https://maps.app.goo.gl/S1vqkXRmmTwCbH1H6",
+      "slug": "dino-mini-golf",
+      "aiRating": 4,
+      "proList": "- Fun and family-friendly environment\n- Three unique 18-hole courses with dinosaur theme\n- Conveniently located near Playa de Palma beach",
+      "tipsList": "- Can get crowded during peak hours\n- Best for families and groups\n- Café on-site for quick refreshments",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1727171863-dino-minigolf-01.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1727171863-dino-minigolf-02.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1727171863-dino-minigolf-04.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1727171863-dino-minigolf-03.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1727171863-dino-minigolf-05.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🌴 Leisure",
+        "slug": "leisure"
+      },
+      "subCategories": [
+        {
+          "name": "⛳️ Mini-Golf",
+          "slug": "mini-golf"
+        }
+      ],
+      "location": {
+        "latitude": 39.5121952,
+        "longitude": 2.7483226
+      }
+    },
+    {
+      "_publishedAt": "2024-10-15T14:02:06+02:00",
+      "_firstPublishedAt": "2024-09-21T15:47:58+02:00",
+      "id": "Gjcbbx5dQEGfmBcV62T8ew",
+      "name": "Golf Son Gual",
+      "description": "## Highlights\nGolf Son Gual is a premium golf course in Mallorca, known for its challenging 18-hole layout, often compared to world-class courses like Augusta. Located just outside Palma, it offers stunning landscapes, pristine fairways, and a luxurious clubhouse. Designed for elite players, the course presents a range of challenges, including water hazards and well-placed bunkers, perfect for serious golfers. The modern clubhouse provides excellent dining with scenic views over the course.\n\n## Services\nThe club offers state-of-the-art facilities, including a large driving range, professional lessons, and a restaurant known for fine Mediterranean cuisine. The practice areas are immaculately maintained, ensuring a top-tier golf experience from start to finish.\n\n## Location\nSituated 20 minutes east of Palma at Ma-15, km 11.5, Sant Jordi, Son Gual is easily accessible for both tourists and locals. Open from 9:00 AM to 9:00 PM, reservations are essential for tee times.\n\n## User Experiences\nVisitors highlight the course's immaculate condition, attentive staff, and beautiful yet demanding design. Reviews mention that while the course can be challenging, it’s highly rewarding for all skill levels. Guests particularly enjoy the 18th hole, regarded as one of Europe’s best closing holes, with breathtaking views and strategic play.",
+      "address": "Ma 15 – Palma – Manacor, Km 11,5 07199 Palma",
+      "mail": "",
+      "website": "https://www.palmabeach.com/golf-son-gual/3562/",
+      "phone": "+34971785888",
+      "googleMapsLink": "https://maps.app.goo.gl/ma1oB6YNq4yQaDFa7",
+      "slug": "golf-son-gual",
+      "aiRating": 4,
+      "proList": "- Top-tier course with elite-level challenges\n- Beautiful facilities and great restaurant\n- Immaculately maintained and professional service",
+      "tipsList": "- Tee times fill quickly, book early\n- The course is best for experienced golfers\n- Located near Palma, ideal for a day trip",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1727171849-golf-son-gual-04.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1727171849-golf-son-gual-02.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1727171849-golf-son-gual-03.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1727171849-golf-son-gual-05.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1727171849-golf-son-gual-01.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🌴 Leisure",
+        "slug": "leisure"
+      },
+      "subCategories": [
+        {
+          "name": "🏌️‍♂️ Golf",
+          "slug": "golf"
+        },
+        {
+          "name": "🍸 Bar",
+          "slug": "bar"
+        }
+      ],
+      "location": null
+    },
+    {
+      "_publishedAt": "2024-10-15T14:00:53+02:00",
+      "_firstPublishedAt": "2024-09-19T16:46:28+02:00",
+      "id": "NKEM1N1ORq66KKn7cFIPzA",
+      "name": "Naan Street Food",
+      "description": "## Highlights\nNaan Street Food blends the soul of street food with an inviting, casual restaurant vibe. Their concept focuses on flavorful, global street dishes with a focus on Indian-inspired naan wraps, curries, and grilled meats. It's a relaxed spot to explore vibrant flavors from different parts of the world, offering a diverse menu for both meat lovers and vegetarians.\n\n## Menu\nTheir menu is centered on Indian flavors, including naan bread wraps filled with meats or vegetarian options, tandoori dishes, and a variety of dips and sauces. The dishes are meant to evoke the taste and spirit of global street food. \n\n## Location\nLocated in Palma at Calle Caro 16, Naan Street Food is situated in the trendy Santa Catalina area. It's open every day for lunch and dinner, making it convenient for casual dining. Reservations can be made online.\n\n## User Experiences\nCustomers consistently rave about the flavorful and fresh food, noting the unique fusion of Indian street food with a contemporary twist. Reviewers also appreciate the friendly service and casual ambiance. Some mention the small seating area, so booking ahead is recommended.",
+      "address": "Carrer de Caro, 16, Ponent, 07013 Palma",
+      "mail": "",
+      "website": " naanstreetfood.com",
+      "phone": "+34971915522",
+      "googleMapsLink": "https://maps.app.goo.gl/H2QU1YB5fEX2LUJe7",
+      "slug": "naan-street-food",
+      "aiRating": 4.5,
+      "proList": "- Excellent fusion of Indian and global street food\n- Casual and friendly atmosphere\n- Vegetarian options available",
+      "tipsList": "- Small seating area, reservations advised\n- Popular for lunch and dinner\n- Dishes can be spicy, check with the staff for milder options",
+      "photos": [],
+      "mainCategory": {
+        "name": "🍽️ Restaurant",
+        "slug": "restaurant"
+      },
+      "subCategories": [
+        {
+          "name": "🍱 Fusion",
+          "slug": "fusion"
+        },
+        {
+          "name": "🍹 Cocktail",
+          "slug": "cocktail"
+        },
+        {
+          "name": "🌊 Mediterranean",
+          "slug": "mediterranean"
+        }
+      ],
+      "location": {
+        "latitude": 39.5728881,
+        "longitude": 2.6394728
+      }
+    },
+    {
+      "_publishedAt": "2024-10-15T13:58:24+02:00",
+      "_firstPublishedAt": "2024-09-19T16:51:56+02:00",
+      "id": "fS5Ej0nJR0iTohYsl__rQQ",
+      "name": "Vandal Palma",
+      "description": "## Highlights\nVandal Palma offers an eclectic, globally inspired culinary experience in a vibrant, edgy setting. Their menu reflects a dynamic fusion of flavors from different cultures, curated with high creativity and precision. The restaurant blends innovative cuisine with a modern, punk aesthetic, providing not just food but a memorable experience. \n\n## Menu\nThe menu features a wide range of dishes with influences from Asian, Mediterranean, and South American cuisines. Expect items like Bao buns, ceviche, and tempura, with a creative twist on traditional flavors. Signature cocktails and carefully selected wines complement the food.\n\n## Location\nVandal is located in Palma’s trendy Santa Catalina district at Plaça del Progrés 15. It’s open daily from 19:00 to 23:00, making it a perfect spot for dinner. Reservations are highly recommended due to its popularity.\n\n## User Experiences\nGuests praise Vandal Palma for its bold and creative dishes, with standout flavors and artistic presentation. The lively, modern ambiance, paired with attentive service, creates an exciting dining environment. Some reviewers note that the menu is on the pricier side but feel the unique experience justifies it.",
+      "address": "Plaça del Progrés, 15, Ponent, 07013 Palma",
+      "mail": "info@vandalpalma.com",
+      "website": "http://www.vandalpalma.com/",
+      "phone": "+34871045174",
+      "googleMapsLink": "https://maps.app.goo.gl/zSnnTSSsqVNdpEvR8",
+      "slug": "vandal-palma",
+      "aiRating": 4.5,
+      "proList": "- Exceptional fusion of global flavors\n- Unique and modern ambiance\n- Excellent cocktail selection",
+      "tipsList": "- Reservations recommended\n- Best for adventurous palates\n- Higher-end pricing",
+      "photos": [],
+      "mainCategory": {
+        "name": "🍽️ Restaurant",
+        "slug": "restaurant"
+      },
+      "subCategories": [
+        {
+          "name": "🍹 Cocktail",
+          "slug": "cocktail"
+        },
+        {
+          "name": "🍷 Wine",
+          "slug": "wine"
+        }
+      ],
+      "location": {
+        "latitude": 39.571502,
+        "longitude": 2.6357976
+      }
+    },
+    {
       "_publishedAt": "2024-10-04T20:40:35+02:00",
       "_firstPublishedAt": "2024-09-20T12:46:38+02:00",
       "id": "WXG67JOERqWqcgXjRaGDtg",
@@ -520,457 +1045,6 @@
         "latitude": 39.5553568,
         "longitude": 2.6193149
       }
-    },
-    {
-      "_publishedAt": "2024-10-04T15:34:08+02:00",
-      "_firstPublishedAt": "2024-09-21T15:54:29+02:00",
-      "id": "OosCAggkTumkImYsoDo89w",
-      "name": "T - Golf",
-      "description": "T GOLF PALMA is an 18 holes course par 71, on an estate of around 165 acres. The difficulty of the course is average, though it can reach high levels from the back tees. It has a total length of around 6.591 yards out from the white tees, where high-precision holes and holes for great hitters are displayed.\n\n\n## Overview\nT Golf Calvia, located on the island of Mallorca, is an 18-hole golf course designed by John Harris in 1978. Known for its stunning Mediterranean setting, the course runs through groves of pines, with bunkers and lakes strategically positioned throughout the fairways. The course is a popular choice for both seasoned and amateur golfers, offering a blend of challenging terrain and serene nature.\n\n## Services\nThe golf club offers a wide range of services, including golf lessons through the T Golf Academy, club and cart rentals, a pro shop, and locker rooms. The **Telicious** restaurant provides Mediterranean cuisine using local ingredients. The clubhouse has been recently renovated to offer modern amenities, including a terrace that overlooks the course.\n\n## Location\nT Golf Calvia is located just 12 kilometers from Palma, making it easily accessible from the island’s capital. Nestled between the sea and the Tramuntana mountains, it offers beautiful views and a relaxed atmosphere, ideal for a golfing getaway.\n\n## User Experiences\nReviews are generally positive, with users praising the course's maintenance, especially the greens. The club is noted for its friendly staff and well-organized services. However, some guests have mentioned issues with parking and ongoing construction around the clubhouse. Despite this, many consider it one of the must-play courses in Mallorca.\n\n## AI-Rating\nBased on user feedback, I would rate T Golf Calvia at **4.5/5**. While the course's condition and the staff's hospitality are highly regarded, minor issues such as parking detract slightly from the overall experience.\n\n| Pros | Cons |\n| :-- | :-- |\n| 🟢 Beautiful, well-maintained course | 🔴 Issues with parking |\n| 🟢 Friendly staff and organized services | 🔴 Some ongoing construction |\n| 🟢 Scenic location with mountain and sea views | |\n\n## Conclusion\nT Golf Calvia is a top-tier golfing destination in Mallorca. With its combination of challenging course design, picturesque surroundings, and excellent service, it's an ideal location for both locals and visitors seeking a premium golfing experience.",
-      "address": "T Golf Calvia, Camí Cala Figuera, s/n, 07181, Balearic Islands, Spanien",
-      "mail": "",
-      "website": "https://t-golf.club/palma/",
-      "phone": "+34971130148",
-      "googleMapsLink": "https://maps.app.goo.gl/QXqBxfzTJEvRdDWm9",
-      "slug": "t-golf",
-      "aiRating": 4.5,
-      "proList": "",
-      "tipsList": "",
-      "photos": [
-        {
-          "responsiveImage": {
-            "src": "https://www.datocms-assets.com/138394/1727171824-t-golf-04.jpg",
-            "alt": null
-          }
-        },
-        {
-          "responsiveImage": {
-            "src": "https://www.datocms-assets.com/138394/1727171824-t-golf-01.jpg",
-            "alt": null
-          }
-        },
-        {
-          "responsiveImage": {
-            "src": "https://www.datocms-assets.com/138394/1727171824-t-golf-03.jpg",
-            "alt": null
-          }
-        },
-        {
-          "responsiveImage": {
-            "src": "https://www.datocms-assets.com/138394/1727171824-t-golf-02.jpg",
-            "alt": null
-          }
-        }
-      ],
-      "mainCategory": {
-        "name": "🌴 Leisure",
-        "slug": "leisure"
-      },
-      "subCategories": [
-        {
-          "name": "🏌️‍♂️ Golf",
-          "slug": "golf"
-        },
-        {
-          "name": "🍽️ In-house dining",
-          "slug": "in-house-dining"
-        }
-      ],
-      "location": {
-        "latitude": 39.4953468,
-        "longitude": 2.5183083
-      }
-    },
-    {
-      "_publishedAt": "2024-10-04T15:32:36+02:00",
-      "_firstPublishedAt": "2024-08-08T20:39:31+02:00",
-      "id": "Xk97s4piQ0qp1CGcXdh8pg",
-      "name": "MarChica Palma",
-      "description": "## Highlights\nMarchica Palma blends Mediterranean and Japanese fusion with a flair for elegant dining and vibrant atmosphere. Located in the chic Cas Català neighborhood, it offers a diverse sushi selection, Mediterranean dishes, and signature cocktails crafted by a dedicated mixologist. The stylish ambiance, combined with panoramic sea views and regular DJ sets, makes it a top spot for dining and nightlife.\n\n## Services\nTheir menu features fresh sushi, Mediterranean tapas, and fusion-style dishes like tuna tataki. Creative cocktails and curated wines enhance the dining experience, often accompanied by live music.\n\n## Location\nMarchica Palma is situated on Carrer Torre de Paraires, Cas Català-Illetes, a short drive from Palma's city center. The coastal location provides stunning views and adds to the luxurious feel of the place. Parking may be limited in the area.\n\n## User Experiences\nGuests frequently rave about the food quality, especially the sushi, and the attention to detail in service. The stylish décor and live music contribute to a festive but elegant atmosphere. However, some noted that the pricing is on the higher side, fitting for its upscale setting.",
-      "address": "Carrer Torre de Paraires, 1, Ponent, 07015 Palma, Illes Balears, Spanien",
-      "mail": "reservas@marchicapalma.com",
-      "website": "https://marchicapalma.com",
-      "phone": "+34971593902",
-      "googleMapsLink": "https://maps.app.goo.gl/emXJBKVMy7HVrQ5C9",
-      "slug": "marchica-palma",
-      "aiRating": 4.7,
-      "proList": "- Great fusion of Mediterranean and Japanese cuisine\n- Stunning sea views and stylish ambiance\n- Excellent cocktails and live music performances",
-      "tipsList": "- Book in advance to secure the best tables\n- Ideal for a special night out due to higher prices\n- Limited parking, so plan ahead if driving",
-      "photos": [
-        {
-          "responsiveImage": {
-            "src": "https://www.datocms-assets.com/138394/1723143550-marchica-palma-01.jpg",
-            "alt": "Marchica Dining Room"
-          }
-        },
-        {
-          "responsiveImage": {
-            "src": "https://www.datocms-assets.com/138394/1723143545-marchica-palma-02.jpg",
-            "alt": "Marchica Palma Dining Room"
-          }
-        },
-        {
-          "responsiveImage": {
-            "src": "https://www.datocms-assets.com/138394/1723143540-marchica-palma-03.jpg",
-            "alt": "Marchica Palma Interior"
-          }
-        }
-      ],
-      "mainCategory": {
-        "name": "🍽️ Restaurant",
-        "slug": "restaurant"
-      },
-      "subCategories": [
-        {
-          "name": "🍣 Sushi",
-          "slug": "sushi"
-        },
-        {
-          "name": "🍱 Fusion",
-          "slug": "fusion"
-        },
-        {
-          "name": "🍹 Cocktail",
-          "slug": "cocktail"
-        },
-        {
-          "name": "🍸 Bar",
-          "slug": "bar"
-        }
-      ],
-      "location": {
-        "latitude": 39.5508258,
-        "longitude": 2.6230203
-      }
-    },
-    {
-      "_publishedAt": "2024-09-30T09:19:25+02:00",
-      "_firstPublishedAt": "2024-09-18T20:11:49+02:00",
-      "id": "QxJqEk6vQS2WyhupiiRE4w",
-      "name": "Guindilla Design & Bar",
-      "description": "## Overview\nGuindilla Design & Bar is a stylish venue located in the heart of Palma, known for its vibrant atmosphere and creative culinary offerings. The establishment combines modern design with a warm, inviting ambiance, making it a popular spot for both locals and tourists.\n\n## Services\nThe bar and restaurant offer a diverse menu that highlights both local and international cuisine. Guests can enjoy an extensive selection of cocktails, wines, and spirits, alongside a carefully curated food menu that includes tapas and main dishes. Regular events, such as live music and themed nights, enhance the overall experience.\n\n## Location\nSituated on Carrer de la Ferreria, Guindilla Design & Bar is easily accessible in the Centre of Palma, just a short walk from key attractions. The location makes it an ideal stop for a leisurely meal or drinks after exploring the city's vibrant streets.\n\n## User Experiences\nReviews highlight the attentive service and quality of food as standout features. Many visitors appreciate the unique interior design and overall ambiance, while some note that it can get quite busy during peak hours. The mix of local and international patrons adds to its lively vibe.\n\n## AI Rating\nBased on user reviews, Guindilla Design & Bar earns an AI Rating of 4.5 out of 5 for its atmosphere, service, and culinary offerings.\n\n| Pro ✅                     | Contra ❌                |\n|---------------------------|-------------------------|\n| Excellent food quality    | Can be crowded          |\n| Unique design             | Limited outdoor seating  |\n| Great service             | Higher price point      |\n| Vibrant atmosphere        | Inconsistent wait times  |\n\n## Conclusion\nOverall, Guindilla Design & Bar is a must-visit for those seeking a memorable dining experience in Palma. With its stylish setting and delightful offerings, it stands out as a premier destination for food and drink enthusiasts.",
-      "address": "Carrer de la Ferreria, 18, Centre, 07002 Palma",
-      "mail": "",
-      "website": "",
-      "phone": "+34697457473",
-      "googleMapsLink": "https://maps.app.goo.gl/mquSDbC2XLaUmZuv8",
-      "slug": "guindilla-design-and-bar",
-      "aiRating": 4.5,
-      "proList": "",
-      "tipsList": "",
-      "photos": [
-        {
-          "responsiveImage": {
-            "src": "https://www.datocms-assets.com/138394/1726682785-screenshot-2024-09-18-200105.png",
-            "alt": null
-          }
-        },
-        {
-          "responsiveImage": {
-            "src": "https://www.datocms-assets.com/138394/1726682785-screenshot-2024-09-18-200258.png",
-            "alt": null
-          }
-        },
-        {
-          "responsiveImage": {
-            "src": "https://www.datocms-assets.com/138394/1726682785-screenshot-2024-09-18-200133.png",
-            "alt": null
-          }
-        }
-      ],
-      "mainCategory": {
-        "name": "🍽️ Restaurant",
-        "slug": "restaurant"
-      },
-      "subCategories": [
-        {
-          "name": "🍸 Bar",
-          "slug": "bar"
-        },
-        {
-          "name": "🔥 Grill",
-          "slug": "grill"
-        },
-        {
-          "name": "🍷 Wine",
-          "slug": "wine"
-        }
-      ],
-      "location": {
-        "latitude": 39.5710629,
-        "longitude": 2.6548905
-      }
-    },
-    {
-      "_publishedAt": "2024-09-30T09:19:05+02:00",
-      "_firstPublishedAt": "2024-09-21T15:23:27+02:00",
-      "id": "McSdC4y3RuyB8wo-6Li6Uw",
-      "name": "Aubamar Suites & Spa",
-      "description": "The 5 star Aubamar Suites & Spa in Playa de Palma is the perfect place from which to enjoy the sea, the city of Palma and the whole of Majorca at any time of year. It’s close to everything: five minutes away from the airport, just metres from one of the best beaches on the island and fifteen minutes’ drive from the Balearic capital.\n\n\n## Overview\nAubamar Suites & Spa is a 5-star luxury hotel in Playa de Palma, Mallorca. Known for its contemporary style, it offers modern amenities, spacious suites, and expansive gardens. It provides a tranquil getaway with excellent wellness facilities, including a full-service spa.\n\n## Services\nThe hotel boasts two outdoor pools, a well-reviewed spa, a fitness center, and a restaurant serving Mediterranean cuisine. Guests can also enjoy direct access to nearby beaches and personalized services like private balconies and spa treatments.\n\n## Location\nLocated just 300 meters from Playa de Palma beach, the hotel is a short drive from the Palma de Mallorca Airport and the city center, making it accessible for tourists. It’s ideal for those wanting both beach proximity and urban convenience.\n\n## User Experiences\nGuests highlight the friendly staff, spacious rooms, and the cleanliness of the hotel. While most reviews are positive, a few guests noted issues with service speed and restaurant quality. However, the spa and pool facilities consistently receive high praise.\n\n## AI-Rating\nBased on user reviews, Aubamar Suites & Spa earns a solid **4.3/5**. The hotel excels in customer service, spa facilities, and location but could improve in terms of dining experiences and room maintenance response.\n\n| **Pros**                     | **Cons**                     |\n|------------------------------|------------------------------|\n| ✅ Friendly staff             | ❌ Inconsistent restaurant    |\n| ✅ Spacious, clean rooms      | ❌ Slow maintenance response  |\n| ✅ Excellent spa facilities   | ❌ Some room issues reported  |\n| ✅ Convenient location        |                              |\n\n## Conclusion\nAubamar Suites & Spa is a solid option for travelers seeking a mix of relaxation and beachside luxury. With its excellent wellness offerings and friendly staff, it provides great value, though improvements in service consistency would elevate the experience further.\n",
-      "address": "Calle Misión de San Diego, 17 07600 Palma, Illes Balears",
-      "mail": "",
-      "website": "https://www.palmabeach.com/hotel-aubamar-suites-spa-5/2868/",
-      "phone": "+34971724347",
-      "googleMapsLink": "https://maps.app.goo.gl/4ZdVUEPt8HfMJHG69",
-      "slug": "aubamar-suites-and-spa",
-      "aiRating": 4.3,
-      "proList": "",
-      "tipsList": "",
-      "photos": [
-        {
-          "responsiveImage": {
-            "src": "https://www.datocms-assets.com/138394/1726941428-aubamarsuite-03.jpg",
-            "alt": null
-          }
-        },
-        {
-          "responsiveImage": {
-            "src": "https://www.datocms-assets.com/138394/1726941428-aubamarsuite-01.jpg",
-            "alt": null
-          }
-        },
-        {
-          "responsiveImage": {
-            "src": "https://www.datocms-assets.com/138394/1726941428-aubamarsuite-04.jpg",
-            "alt": null
-          }
-        },
-        {
-          "responsiveImage": {
-            "src": "https://www.datocms-assets.com/138394/1726941428-aubamarsuite-02.jpg",
-            "alt": null
-          }
-        },
-        {
-          "responsiveImage": {
-            "src": "https://www.datocms-assets.com/138394/1726941428-aubamarsuite-05.jpg",
-            "alt": null
-          }
-        }
-      ],
-      "mainCategory": {
-        "name": "🏨 Hotel",
-        "slug": "hotel"
-      },
-      "subCategories": [
-        {
-          "name": "💙 Palma Beach Partner",
-          "slug": "palma-beach-partner"
-        },
-        {
-          "name": "🪷 Spa",
-          "slug": "spa"
-        },
-        {
-          "name": "🏋️‍♂️ Gym",
-          "slug": "gym"
-        },
-        {
-          "name": "🍽️ In-house dining",
-          "slug": "in-house-dining"
-        },
-        {
-          "name": "🏊‍♂️ Pool",
-          "slug": "pool"
-        }
-      ],
-      "location": {
-        "latitude": 39.51701449999999,
-        "longitude": 2.7489633
-      }
-    },
-    {
-      "_publishedAt": "2024-09-30T09:17:47+02:00",
-      "_firstPublishedAt": "2024-09-19T12:34:22+02:00",
-      "id": "C2Ulw01IRcOd8NkHEuhXTg",
-      "name": "Dive & Fun",
-      "description": "## Overview\nDive & Fun Mallorca, located in the scenic northeast of Mallorca, offers a variety of water-based activities ranging from scuba diving to adventurous boat tours. As a certified i.a.c. Dive Center, they cater to both beginners and experienced divers, providing guided tours in the **Marine Reserve of Llevant** and nearby sites like caves and canyons. With a friendly, multilingual staff and a well-equipped dive center, Dive & Fun has gained recognition among locals and tourists alike.\n\n## Services\nDive & Fun offers multiple diving courses from **Discover Scuba Diving** for beginners to advanced diving certifications. Their equipment rental includes everything from wetsuits to dive computers, and they also run boat tours like the **600 HP speedboat** trips for thrill-seekers. Their facilities include showers, classrooms, and a gear cleaning station. Additionally, they offer snorkeling and cave exploration tours.\n\n## Location\nSituated in **Font de Sa Cala**, the dive center is a few minutes from the beach and only a short drive from **Cala Ratjada**. The proximity to the **Marine Reserve** allows for dives in pristine underwater environments with abundant marine life. Easy access by boat and shore makes it convenient for divers of all skill levels.\n\n## User Experiences\nGuests frequently highlight the friendly and professional staff, especially praising their attentiveness to beginners. The dive sites are noted for their beauty, and many reviewers appreciate the small group sizes for dives. However, some users have mentioned occasional weather-related cancellations that affected the schedule.\n\n## AI-Rating: 4.4/5\nBased on user feedback, Dive & Fun Mallorca receives an overall positive rating. The quality of the dive sites, equipment, and personalized attention stand out, while minor issues like weather-dependent scheduling have been noted.\n\n| **Pros** | **Cons** |\n|---------|----------|\n| 🟢 Beautiful dive sites | 🔴 Weather can affect tours |\n| 🟢 Professional and friendly staff | 🔴 Limited boat capacity |\n| 🟢 Great for beginners and small groups | 🔴 Slightly higher price for extra services |\n\n## Conclusion\nDive & Fun Mallorca is an excellent choice for divers visiting the northeast coast of Mallorca. With a variety of diving experiences and excursions, it's a highly recommended spot for both novice and experienced divers looking for adventure in a beautiful natural setting.\n",
-      "address": "Carretera de Canyamel, 48, 07589 Font de Sa Cala, Illes Balears, Spanien",
-      "mail": "",
-      "website": "http://www.mallorcadiving.de/",
-      "phone": "+34971818036",
-      "googleMapsLink": "https://maps.app.goo.gl/nNn5QNMYrdaNrrrTA",
-      "slug": "dive-and-fun",
-      "aiRating": 4.4,
-      "proList": "",
-      "tipsList": "",
-      "photos": [
-        {
-          "responsiveImage": {
-            "src": "https://www.datocms-assets.com/138394/1726741973-dive-and-fun-01.jpg",
-            "alt": null
-          }
-        },
-        {
-          "responsiveImage": {
-            "src": "https://www.datocms-assets.com/138394/1726741973-dive-and-fun-02.jpg",
-            "alt": null
-          }
-        },
-        {
-          "responsiveImage": {
-            "src": "https://www.datocms-assets.com/138394/1726741973-dive-and-fun-06.jpg",
-            "alt": null
-          }
-        },
-        {
-          "responsiveImage": {
-            "src": "https://www.datocms-assets.com/138394/1726741973-dive-and-fun-03.jpg",
-            "alt": null
-          }
-        },
-        {
-          "responsiveImage": {
-            "src": "https://www.datocms-assets.com/138394/1726741973-dive-and-fun-05.jpg",
-            "alt": null
-          }
-        },
-        {
-          "responsiveImage": {
-            "src": "https://www.datocms-assets.com/138394/1726741973-dive-and-fun-04.jpg",
-            "alt": null
-          }
-        }
-      ],
-      "mainCategory": {
-        "name": "🌴 Leisure",
-        "slug": "leisure"
-      },
-      "subCategories": [
-        {
-          "name": "🤿 Diving",
-          "slug": "diving"
-        }
-      ],
-      "location": {
-        "latitude": 39.6831747,
-        "longitude": 3.4516384
-      }
-    },
-    {
-      "_publishedAt": "2024-09-24T11:57:51+02:00",
-      "_firstPublishedAt": "2024-09-21T15:42:55+02:00",
-      "id": "clzDVGJjQBS6Tp9h-CKDgA",
-      "name": "Dino Mini Golf",
-      "description": "We have the perfect plan very close to you. At the Nova Beach Lounge leisure complex in Playa de Palma you will find the best offer to practice your favorite game.\n\nYou can come at any time, day or late afternoon since we have it properly illuminated. In addition, since we want you and your friends to enjoy the game to the fullest, we have renewed all the courts with one of the best carpets and that will not leave anyone indifferent.\n\nWe have used materials that are carefully studied so that when you and your friends are playing a game just worry about having fun. If you come to our spectacular Dino Minigolf in Playa de Palma you can play the games you want and choose between 54 or 18 holes that are distributed on three different courts, among abundant vegetation and with a privileged location in Playa de Palma.\n\nFor all ages, for experts and beginners. Come and meet Dino Minigolf in Playa de Palma!\n\n\n\n## Overview\nDino Mini Golf in Palma, Mallorca, offers a family-friendly miniature golf experience with three different 18-hole circuits. It features a fun dinosaur theme, attracting both locals and tourists. Located close to the beach, it's a great spot for a casual day out.\n\n## Services\nVisitors can enjoy miniature golf, snacks, and drinks. The venue is open until late, making it ideal for evening entertainment. It also offers a shaded terrace and nearby parking facilities.\n\n## Location\nSituated at Carretera de l'Arenal, 56, Platja de Palma, the mini-golf is conveniently located near popular tourist attractions like Palma Aquarium.\n\n## User Experiences\nGuests highlight the enjoyable dinosaur-themed course, but some mention that it could benefit from better maintenance. Most reviews commend the venue for its affordable pricing and fun atmosphere for families and groups.\n\n## AI-Rating\n**Rating: 4/5**\nBased on positive family-friendly experiences and affordable prices, but slightly reduced due to maintenance concerns.\n\n| Pros | Cons |\n|------|------|\n| 🟢 Fun for families | 🔴 Needs better maintenance |\n| 🟢 Affordable prices | 🔴 Limited snack options |\n| 🟢 Convenient location | 🔴 Some courses could be challenging for younger children |\n\n## Conclusion\nDino Mini Golf is a solid choice for a fun and affordable mini-golf outing, especially for families. Some areas could use improvement, but overall, it’s a popular and enjoyable attraction.",
-      "address": "Carretera de l'Arenal, 56, Platja de Palma, 07600 Palma",
-      "mail": "",
-      "website": "https://www.palmabeach.com/dino-mini-golf/3649/",
-      "phone": "+34971743334",
-      "googleMapsLink": "https://maps.app.goo.gl/S1vqkXRmmTwCbH1H6",
-      "slug": "dino-mini-golf",
-      "aiRating": 4,
-      "proList": "",
-      "tipsList": "",
-      "photos": [
-        {
-          "responsiveImage": {
-            "src": "https://www.datocms-assets.com/138394/1727171863-dino-minigolf-01.jpg",
-            "alt": null
-          }
-        },
-        {
-          "responsiveImage": {
-            "src": "https://www.datocms-assets.com/138394/1727171863-dino-minigolf-02.jpg",
-            "alt": null
-          }
-        },
-        {
-          "responsiveImage": {
-            "src": "https://www.datocms-assets.com/138394/1727171863-dino-minigolf-04.jpg",
-            "alt": null
-          }
-        },
-        {
-          "responsiveImage": {
-            "src": "https://www.datocms-assets.com/138394/1727171863-dino-minigolf-03.jpg",
-            "alt": null
-          }
-        },
-        {
-          "responsiveImage": {
-            "src": "https://www.datocms-assets.com/138394/1727171863-dino-minigolf-05.jpg",
-            "alt": null
-          }
-        }
-      ],
-      "mainCategory": {
-        "name": "🌴 Leisure",
-        "slug": "leisure"
-      },
-      "subCategories": [
-        {
-          "name": "⛳️ Mini-Golf",
-          "slug": "mini-golf"
-        }
-      ],
-      "location": {
-        "latitude": 39.5121952,
-        "longitude": 2.7483226
-      }
-    },
-    {
-      "_publishedAt": "2024-09-24T11:57:35+02:00",
-      "_firstPublishedAt": "2024-09-21T15:47:58+02:00",
-      "id": "Gjcbbx5dQEGfmBcV62T8ew",
-      "name": "Golf Son Gual",
-      "description": "Son Gual is a private, family-run members‘ golf club, set in 156 hectares of beautiful Mediterranean landscape. Guests are welcomed warmly, but are asked to respect the club’s etiquette rules, thereby ensuring the safeguarding of the course’s superb all-year-round quality.\n\n\n## Overview  \nGolf Son Gual is a premier golf course located near Palma, on the island of Mallorca, Spain. Known for its scenic beauty and top-tier facilities, it provides an exceptional golfing experience. The course is designed in harmony with its Mediterranean surroundings, featuring olive groves, rolling hills, and strategically placed bunkers that offer a challenge to golfers of all levels.\n\n## Services  \nSon Gual offers more than just golf. The course has a luxurious clubhouse that serves gourmet meals and fine wines. Golfers can relax here after a challenging game. Additional services include equipment rental, private lessons, and shuttle transport for guests arriving from nearby areas.\n\n## Location  \nSituated just 25 minutes from downtown Palma, Son Gual is easily accessible for tourists and locals alike. Its proximity to the airport makes it convenient for international visitors, though some reviews mention occasional airplane noise.\n\n## User Experiences  \nMany users praise the course's immaculate condition and beautiful scenery, with highlights such as the largest bunker in Europe. Some critiques focus on inconsistent green speeds and overcrowded bunkers, but overall, it is seen as a premium golfing destination&#8203;:contentReference[oaicite:0]{index=0}&#8203;:contentReference[oaicite:1]{index=1}.\n\n## AI-Rating  \nBased on user reviews, Son Gual scores **4 out of 5**. While the course's design, atmosphere, and services are widely appreciated, there are some concerns regarding course maintenance and layout variety.\n \n| Pros | Cons |  \n|:---:|:---:|  \n| ✅ Beautiful scenery and luxurious setting | ❌ Greens can be inconsistent |  \n| ✅ Excellent restaurant and clubhouse | ❌ Some players find the layout repetitive |  \n| ✅ Challenging for all skill levels | ❌ Noise from nearby airport |\n\n## Conclusion  \nGolf Son Gual is a top destination for golfers seeking a luxurious and challenging course in Mallorca. While there are a few minor drawbacks, it remains a popular choice for visitors due to its scenic beauty and exceptional service.",
-      "address": "Ma 15 – Palma – Manacor, Km 11,5 07199 Palma",
-      "mail": "",
-      "website": "https://www.palmabeach.com/golf-son-gual/3562/",
-      "phone": "+34971785888",
-      "googleMapsLink": "https://maps.app.goo.gl/ma1oB6YNq4yQaDFa7",
-      "slug": "golf-son-gual",
-      "aiRating": 4,
-      "proList": "",
-      "tipsList": "",
-      "photos": [
-        {
-          "responsiveImage": {
-            "src": "https://www.datocms-assets.com/138394/1727171849-golf-son-gual-04.jpg",
-            "alt": null
-          }
-        },
-        {
-          "responsiveImage": {
-            "src": "https://www.datocms-assets.com/138394/1727171849-golf-son-gual-02.jpg",
-            "alt": null
-          }
-        },
-        {
-          "responsiveImage": {
-            "src": "https://www.datocms-assets.com/138394/1727171849-golf-son-gual-03.jpg",
-            "alt": null
-          }
-        },
-        {
-          "responsiveImage": {
-            "src": "https://www.datocms-assets.com/138394/1727171849-golf-son-gual-05.jpg",
-            "alt": null
-          }
-        },
-        {
-          "responsiveImage": {
-            "src": "https://www.datocms-assets.com/138394/1727171849-golf-son-gual-01.jpg",
-            "alt": null
-          }
-        }
-      ],
-      "mainCategory": {
-        "name": "🌴 Leisure",
-        "slug": "leisure"
-      },
-      "subCategories": [
-        {
-          "name": "🏌️‍♂️ Golf",
-          "slug": "golf"
-        },
-        {
-          "name": "🍸 Bar",
-          "slug": "bar"
-        }
-      ],
-      "location": null
     },
     {
       "_publishedAt": "2024-09-22T09:29:59+02:00",
@@ -3065,80 +3139,6 @@
       }
     },
     {
-      "_publishedAt": "2024-09-21T16:26:17+02:00",
-      "_firstPublishedAt": "2024-09-19T16:46:28+02:00",
-      "id": "NKEM1N1ORq66KKn7cFIPzA",
-      "name": "Naan Street Food",
-      "description": "## Overview\nNaan Street Food is located in the heart of Palma de Mallorca, in the Santa Catalina district. The restaurant offers a vibrant mix of internationally inspired street food dishes, drawing influences from Asian, South American, and Mediterranean cuisines. Known for its casual atmosphere and creative menu, it attracts both locals and tourists alike.\n\n## Services\nNaan Street Food provides a diverse range of dishes including tacos, ramen, butter chicken, and vegetarian options. The restaurant also offers a selection of creative cocktails and desserts. The open kitchen allows guests to watch the preparation of their meals. Reservations are recommended as the restaurant is often busy.\n\n## Location\nNaan Street Food is situated at Carrer de Caro 16 in Santa Catalina, a trendy neighborhood of Palma. This lively area is known for its bars and restaurants, making Naan a popular spot for food lovers.\n\n## User Experiences\nVisitors praise the restaurant for its diverse and innovative cuisine, friendly service, and modern ambiance. However, long wait times are occasionally mentioned, especially without a reservation. Tacos and ramen dishes are among the favorites, while the limited seating capacity during peak times can be a downside.\n\n## AI-Rating\nBased on user reviews, Naan Street Food receives a rating of **4.5/5** for its delicious food, friendly staff, and stylish atmosphere.\n\n| Pro | Con |\n| --- | --- |\n| 🟢 Creative menu | 🔴 Long wait times |\n| 🟢 Great cocktails | 🔴 Limited seating |\n| 🟢 Vegetarian options | 🔴 Slightly high prices |\n\n## Conclusion\nNaan Street Food is a must-visit for street food lovers seeking a culinary journey around the world. With its unique mix of flavors and lively atmosphere, it’s an excellent choice for a memorable dining experience in Palma de Mallorca.\n",
-      "address": "Carrer de Caro, 16, Ponent, 07013 Palma",
-      "mail": "",
-      "website": " naanstreetfood.com",
-      "phone": "+34971915522",
-      "googleMapsLink": "https://maps.app.goo.gl/H2QU1YB5fEX2LUJe7",
-      "slug": "naan-street-food",
-      "aiRating": 4.5,
-      "proList": "",
-      "tipsList": "",
-      "photos": [],
-      "mainCategory": {
-        "name": "🍽️ Restaurant",
-        "slug": "restaurant"
-      },
-      "subCategories": [
-        {
-          "name": "🍱 Fusion",
-          "slug": "fusion"
-        },
-        {
-          "name": "🍹 Cocktail",
-          "slug": "cocktail"
-        },
-        {
-          "name": "🌊 Mediterranean",
-          "slug": "mediterranean"
-        }
-      ],
-      "location": {
-        "latitude": 39.5728881,
-        "longitude": 2.6394728
-      }
-    },
-    {
-      "_publishedAt": "2024-09-21T16:26:01+02:00",
-      "_firstPublishedAt": "2024-09-19T16:51:56+02:00",
-      "id": "fS5Ej0nJR0iTohYsl__rQQ",
-      "name": "Vandal Palma",
-      "description": "## Overview\nVandal Palma is a vibrant and eclectic restaurant located in Palma de Mallorca's Santa Catalina district. Opened in 2017, it quickly gained recognition for its bold, globally-inspired cuisine and creative ambiance. The restaurant stands out with an industrial design, featuring dim lighting and unique decor that sets the mood for an exciting culinary experience.\n\n## Services\nVandal offers a globally influenced menu crafted by Chef Bernabé Caravotta, who has trained in Michelin-starred establishments across the world. His diverse menu blends flavors from Latin America, Asia, and Europe, presented in a tapas-style format. The restaurant also excels in pairing its dishes with expertly crafted cocktails and an extensive wine selection curated by co-owner and sommelier, Sebastián Pérez.\n\n## Location\nVandal is situated at Plaça del Progrés, 15, in the trendy Santa Catalina neighborhood of Palma, known for its vibrant nightlife and culinary scene. It's a prime destination for both locals and visitors, offering a lively and energetic atmosphere, especially in the evenings.\n\n## User Experiences\nGuests praise the innovative and surprising flavors, with highlights such as ceviche with coconut foam and maize pork croquettes. However, some reviews mention the relatively slow service, especially during busy times. Reservations are recommended due to the restaurant's popularity.\n\n## AI-Rating\nBased on user reviews and feedback:\n**4.5/5**\n\n| ✅ Pros  | ❌ Cons |\n|---------|---------|\n| 🍃 Creative and innovative menu | 🚨 Service can be slow |\n| 🍸 Excellent cocktail pairings | 💸 High prices for small portions |\n| 🏆 Unique ambiance and design | 🔊 Noisy atmosphere at peak times |\n\n## Conclusion\nVandal Palma is an exciting dining experience that brings together world flavors, artful presentation, and a dynamic atmosphere, making it one of Palma’s most talked-about venues.",
-      "address": "Plaça del Progrés, 15, Ponent, 07013 Palma",
-      "mail": "info@vandalpalma.com",
-      "website": "http://www.vandalpalma.com/",
-      "phone": "+34871045174",
-      "googleMapsLink": "https://maps.app.goo.gl/zSnnTSSsqVNdpEvR8",
-      "slug": "vandal-palma",
-      "aiRating": 4.5,
-      "proList": "",
-      "tipsList": "",
-      "photos": [],
-      "mainCategory": {
-        "name": "🍽️ Restaurant",
-        "slug": "restaurant"
-      },
-      "subCategories": [
-        {
-          "name": "🍹 Cocktail",
-          "slug": "cocktail"
-        },
-        {
-          "name": "🍷 Wine",
-          "slug": "wine"
-        }
-      ],
-      "location": {
-        "latitude": 39.571502,
-        "longitude": 2.6357976
-      }
-    },
-    {
       "_publishedAt": "2024-09-21T16:25:25+02:00",
       "_firstPublishedAt": "2024-09-19T17:27:17+02:00",
       "id": "Ha-Nv9-OQH-qUUp7bx9YKA",
@@ -4962,13 +4962,6 @@
   ],
   "allMainCategories": [
     {
-      "id": "E5sTr18jRLWGiJdgtZI0rg",
-      "name": "🌴 Leisure",
-      "slug": "leisure",
-      "_firstPublishedAt": "2024-09-18T10:17:11+02:00",
-      "_publishedAt": "2024-09-22T10:18:44+02:00"
-    },
-    {
       "id": "PWIGNzMASXiORHFXvdlZqA",
       "name": "🍽️ Restaurant",
       "slug": "restaurant",
@@ -4981,6 +4974,13 @@
       "slug": "hotel",
       "_firstPublishedAt": "2024-09-18T10:15:41+02:00",
       "_publishedAt": "2024-09-18T10:18:11+02:00"
+    },
+    {
+      "id": "E5sTr18jRLWGiJdgtZI0rg",
+      "name": "🌴 Leisure",
+      "slug": "leisure",
+      "_firstPublishedAt": "2024-09-18T10:17:11+02:00",
+      "_publishedAt": "2024-09-22T10:18:44+02:00"
     }
   ],
   "allSubcategories": [

@@ -23,7 +23,8 @@ module.exports = {
         tiplisttitle: "Tips:",
         faraway: "Far away",
         nearby: "Nearby",
-        veryclose: "Very close"
+        veryclose: "Very close",
+        allowlocation: "Share location"
     },
     de: {
         index: {
@@ -49,6 +50,7 @@ module.exports = {
         tiplisttitle: "Empfehlungen:",
         faraway: "Weit entfernt",
         nearby: "In der Nähe",
-        veryclose: "Sehr nah"
+        veryclose: "Sehr nah",
+        allowlocation: "Standort teilen"
     }
 };

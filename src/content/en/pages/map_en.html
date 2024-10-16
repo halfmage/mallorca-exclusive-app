@@ -7,3 +7,39 @@ eleventyComputed:
 ---
 
 {% include "map.html" %}
+
+<div id="location-access">
+  <label for="location-toggle">Allow location access:</label>
+  <input type="checkbox" id="location-toggle">
+</div>
+
+<script>
+const locationToggle = document.getElementById('location-toggle');
+
+// Load saved preference
+const savedPreference = localStorage.getItem('locationAccessAllowed');
+locationToggle.checked = savedPreference === 'true';
+
+locationToggle.addEventListener('change', function() {
+  const isChecked = this.checked;
+  
+  // Save preference
+  localStorage.setItem('locationAccessAllowed', isChecked);
+
+  if (isChecked) {
+    enableLocationAccess();
+  } else {
+    disableLocationAccess();
+  }
+});
+
+function enableLocationAccess() {
+  // Implement logic to enable location access
+  console.log('Location access enabled');
+}
+
+function disableLocationAccess() {
+  // Implement logic to disable location access
+  console.log('Location access disabled');
+}
+</script>

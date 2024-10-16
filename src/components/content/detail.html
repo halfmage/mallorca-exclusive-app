@@ -4,112 +4,115 @@
 
 <div class="max-w-screen-lg mx-auto p-4">
 
-    <div class="flex justify-between items-center">
-        <div>
-            <h1 class="text-xl md:text-3xl font-bold md:mb-0.5">
-                {{provider.name}}
-            </h1>
-            <p class="text-gray-700 text-sm">
-                {{provider.address}} – <a href="{{provider.googleMapsLink}}" target="_blank" rel="noopener noreferrer" class="underline">Google Maps</a>
-            </p> 
-        </div>
-        <div x-data="{ distance: null, distanceText: '' }" x-init="
-                if ('geolocation' in navigator) {
-                    navigator.geolocation.getCurrentPosition(function(position) {
-                        const lat1 = position.coords.latitude;
-                        const lon1 = position.coords.longitude;
-                        const lat2 = {{provider.location.latitude}};
-                        const lon2 = {{provider.location.longitude}};
-        
-                        const R = 6371; // Radius of the earth in km
-                        const dLat = (lat2 - lat1) * Math.PI / 180;
-                        const dLon = (lon2 - lon1) * Math.PI / 180;
-                        const a =
-                            Math.sin(dLat/2) * Math.sin(dLat/2) +
-                            Math.cos(lat1 * Math.PI / 180) * Math.cos(lat2 * Math.PI / 180) *
-                            Math.sin(dLon/2) * Math.sin(dLon/2)
-                        ;
-                        const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1-a));
-                        const d = R * c; // Distance in km
-                        distance = d.toFixed(1);
-        
-                        if (d > 10) {
-                            distanceText = '{{translations[locale].faraway}}';
-                        } else if (d > 2) {
-                            distanceText = '{{translations[locale].nearby}}';
-                        } else {
-                            distanceText = '{{translations[locale].veryclose}}';
-                        }
-                    });
-                }
-            ">
-                <p x-show="distance !== null" class="text-gray-600 text-center">
-                    <span x-text="distanceText"></span> <br> (<span x-text="distance"></span> km)
-                </p>
-        </div>
-    </div>
-
-    <!-- Photo grid START -->
-    <div class="grid grid-cols-4 md:grid-rows-2 h-64 md:h-96 gap-1 my-4 text-gray-400 rounded-lg overflow-hidden">
-        <div class="col-span-2 md:row-span-2 w-full h-full bg-gray-200 overflow-hidden flex items-center justify-center">
-            <a class="overflow-hidden group w-full h-full hover:brightness-105" data-fslightbox="gallery" href="{{provider.photos[0].responsiveImage.src}}">
-            {% if provider.photos[0].responsiveImage.src %}
-            <img class="w-full h-full object-cover transition-transform group-hover:scale-110" src="{{provider.photos[0].responsiveImage.src}}" alt="{{provider.name}} image">
-            {% else %} 😮 No more photos {% endif %}
-            </a>
-        </div>
-        <div class="md:row-span-1 w-full h-full bg-gray-200 overflow-hidden flex items-center justify-center">
-            <a class="overflow-hidden group w-full h-full hover:brightness-105" data-fslightbox="gallery" href="{{provider.photos[1].responsiveImage.src}}">
-            {% if provider.photos[1].responsiveImage.src %}
-            <img class="w-full h-full object-cover transition-transform group-hover:scale-110" src="{{provider.photos[1].responsiveImage.src}}" alt="{{provider.name}} image">
-            {% else %} 😮 No more photos {% endif %}
-            </a>
-        </div>
-        <div class="md:row-span-1 w-full h-full bg-gray-200 overflow-hidden flex items-center justify-center">
-            <a class="overflow-hidden group w-full h-full hover:brightness-105" data-fslightbox="gallery" href="{{provider.photos[2].responsiveImage.src}}">
-            {% if provider.photos[2].responsiveImage.src %}
-            <img class="w-full h-full object-cover transition-transform group-hover:scale-110" src="{{provider.photos[2].responsiveImage.src}}" alt="{{provider.name}} image">
-            {% else %} 😮 No more photos {% endif %}
-            </a>
-        </div>
-        <div class="md:row-span-1 w-full h-full bg-gray-200 overflow-hidden flex items-center justify-center">
-            <a class="overflow-hidden group w-full h-full hover:brightness-105" data-fslightbox="gallery" href="{{provider.photos[3].responsiveImage.src}}">
-            {% if provider.photos[3].responsiveImage.src %}
-            <img class="w-full h-full object-cover transition-transform group-hover:scale-110" src="{{provider.photos[3].responsiveImage.src}}" alt="{{provider.name}} image">
-            {% else %} 😮 No more photos {% endif %}
-            </a>
-        </div>
-        <div class="md:row-span-1 w-full h-full bg-gray-200 overflow-hidden flex items-center justify-center">
-            <a class="overflow-hidden group w-full h-full hover:brightness-105" data-fslightbox="gallery" href="{{provider.photos[4].responsiveImage.src}}">
-            {% if provider.photos[4].responsiveImage.src %}
-            <img class="w-full h-full object-cover transition-transform group-hover:scale-110" src="{{provider.photos[4].responsiveImage.src}}" alt="{{provider.name}} image">
-            {% else %} 😮 No more photos {% endif %}
-            </a>
-        </div>
-    </div>
-    <!-- Photo grid END -->
-
     <!-- Check if Palma Beach Partner START -->
     {% for subcategory in provider.subCategories %}
         {% if subcategory.name === "💙 Palma Beach Partner" %}
         <div class="bg-blue-200 ring-1 ring-blue-400 ring-offset-1 ring-offset-white text-[#003b71] mb-4 rounded-lg p-3 flex gap-4 items-center justify-between">
             <div>
-                <div class="text-sm md:text-base font-bold">💙 {{provider.name}} is an official Palma Beach Partner</div>
+                <div class="text-xs md:text-base font-bold">💙 {{provider.name}} is an official Palma Beach Partner</div>
                 <div class="hidden md:block text-sm">Palma Beach is a brand created by Playa de Palma entrepreneurs to elevate the area's quality by promoting diverse sectors and improving services for visitors and residents. <a class="text-sm font-bold text-[#003b71] hover:underline" href="https://www.palmabeach.com/who-we-are/" target="_blank" rel="noopener noreferrer">Learn more</a></div>
                 
             </div>
             <a class="shrink-0" href="https://www.palmabeach.com/who-we-are/" target="_blank" rel="noopener noreferrer">
-                <img class="h-8" src="/images/palma-beach-logo.svg" />
+                <img class="h-6 md:h-8" src="/images/palma-beach-logo.svg" />
             </a>
         </div>
         {% endif %}
     {% endfor %}
     <!-- Check if Palma Beach Partner END -->
 
-    <div class="grid grid-cols-12 gap-12">
+    <!-- Photo grid START -->
+    <div class="grid grid-cols-4 md:grid-rows-2 h-64 md:h-96 gap-1 mb-8 text-gray-400 rounded-lg overflow-hidden relative">
+        <!-- Back button -->
+        <a href="javascript:history.back()" class="text-sm md:text-base absolute top-2 md:top-4 left-2 md:left-4 z-10 bg-white bg-opacity-90 hover:bg-opacity-100 text-gray-800 py-2 px-4 rounded-2xl transition-all duration-300 shadow-md">
+            ← Back
+        </a>
+        <div class="col-span-4 md:col-span-2 md:row-span-2 w-full h-full bg-gray-200 overflow-hidden flex items-center justify-center">
+            <a class="overflow-hidden group w-full h-full hover:brightness-105 text-xs flex items-center justify-center text-center" data-fslightbox="gallery" href="{{provider.photos[0].responsiveImage.src}}">
+            {% if provider.photos[0].responsiveImage.src %}
+            <img class="w-full h-full object-cover transition-transform group-hover:scale-110" src="{{provider.photos[0].responsiveImage.src}}" alt="{{provider.name}} image">
+            {% else %} 📷 No photo {% endif %}
+            </a>
+        </div>
+        <div class="md:row-span-1 w-full h-full min-h-16 bg-gray-200 overflow-hidden flex items-center justify-center">
+            <a class="overflow-hidden group w-full h-full hover:brightness-105 text-xs flex items-center justify-center text-center" data-fslightbox="gallery" href="{{provider.photos[1].responsiveImage.src}}">
+            {% if provider.photos[1].responsiveImage.src %}
+            <img class="w-full h-full object-cover transition-transform group-hover:scale-110" src="{{provider.photos[1].responsiveImage.src}}" alt="{{provider.name}} image">
+            {% else %} 📷 No photo {% endif %}
+            </a>
+        </div>
+        <div class="md:row-span-1 w-full h-full bg-gray-200 overflow-hidden flex items-center justify-center">
+            <a class="overflow-hidden group w-full h-full hover:brightness-105 text-xs flex items-center justify-center text-center" data-fslightbox="gallery" href="{{provider.photos[2].responsiveImage.src}}">
+            {% if provider.photos[2].responsiveImage.src %}
+            <img class="w-full h-full object-cover transition-transform group-hover:scale-110" src="{{provider.photos[2].responsiveImage.src}}" alt="{{provider.name}} image">
+            {% else %} 📷 No photo {% endif %}
+            </a>
+        </div>
+        <div class="md:row-span-1 w-full h-full bg-gray-200 overflow-hidden flex items-center justify-center">
+            <a class="overflow-hidden group w-full h-full hover:brightness-105 text-xs flex items-center justify-center text-center" data-fslightbox="gallery" href="{{provider.photos[3].responsiveImage.src}}">
+            {% if provider.photos[3].responsiveImage.src %}
+            <img class="w-full h-full object-cover transition-transform group-hover:scale-110" src="{{provider.photos[3].responsiveImage.src}}" alt="{{provider.name}} image">
+            {% else %} 📷 No photo {% endif %}
+            </a>
+        </div>
+        <div class="md:row-span-1 w-full h-full bg-gray-200 overflow-hidden flex items-center justify-center">
+            <a class="overflow-hidden group w-full h-full hover:brightness-105 text-xs flex items-center justify-center text-center" data-fslightbox="gallery" href="{{provider.photos[4].responsiveImage.src}}">
+            {% if provider.photos[4].responsiveImage.src %}
+            <img class="w-full h-full object-cover transition-transform group-hover:scale-110" src="{{provider.photos[4].responsiveImage.src}}" alt="{{provider.name}} image">
+            {% else %} 📷 No photo {% endif %}
+            </a>
+        </div>
+    </div>
+    <!-- Photo grid END -->
 
-        <div class="col-span-8">
-            <div class="prose prose-sm md:prose-base max-w-none">
+    <div class="grid md:grid-cols-12 gap-12">
+
+        <div class="md:col-span-8">
+
+            <h1 class="text-xl md:text-2xl font-bold md:mb-1">{{provider.name}}</h1>
+            <p class="text-gray-700 text-sm">{{provider.address}} – <a href="{{provider.googleMapsLink}}" target="_blank" rel="noopener noreferrer" class="underline">Google Maps</a></p> 
+
+            <div x-data="{ locationAccessAllowed: false, userLocation: null, providerDistance: null, distanceUnit: 'km' }" x-init="
+                locationAccessAllowed = localStorage.getItem('locationAccessAllowed') === 'true';
+                if (locationAccessAllowed) {
+                    navigator.geolocation.getCurrentPosition((position) => {
+                        userLocation = {
+                            latitude: position.coords.latitude,
+                            longitude: position.coords.longitude
+                        };
+                        providerDistance = calculateDistance(
+                            userLocation.latitude,
+                            userLocation.longitude,
+                            {{provider.location.latitude}},
+                            {{provider.location.longitude}}
+                        );
+                    });
+                }
+            ">
+                <div x-show="locationAccessAllowed && providerDistance !== null" class="inline-block text-sm font-semibold mt-4">
+                    <span x-text="'📍' + providerDistance.toFixed(1) + ' ' + distanceUnit"></span>
+                </div>
+                <div x-show="!locationAccessAllowed" @click="
+                    locationAccessAllowed = true;
+                    localStorage.setItem('locationAccessAllowed', 'true');
+                    navigator.geolocation.getCurrentPosition((position) => {
+                        userLocation = {
+                            latitude: position.coords.latitude,
+                            longitude: position.coords.longitude
+                        };
+                        providerDistance = calculateDistance(
+                            userLocation.latitude,
+                            userLocation.longitude,
+                            {{provider.location.latitude}},
+                            {{provider.location.longitude}}
+                        );
+                    });
+                " class="bg-white rounded-lg py-1 px-2 inline-block text-sm shadow mb-4 cursor-pointer">
+                    <span>Show distance</span>
+                </div>
+            </div>
+
+            <div class="prose prose-sm md:prose-base max-w-none border-t border-gray-200 mt-4 pt-4">
                 <md-block>{{provider.description}}</md-block>
             </div>
             <div>
@@ -128,49 +131,29 @@
             </div>
         </div>
 
-        <div class="col-span-4">
+        <div class="md:col-span-4">
 
             <div class="hidden md:flex flex-col divide-y divide-gray-200 rounded-xl border border-gray-200 shadow-lg mb-8 overflow-hidden">
                 {% if provider.phone %}
-                <a class="p-4 w-full hover:bg-gray-100" href="tel:+{{provider.phone}}">📞 Call
-                </a>
+                <a class="p-4 w-full hover:bg-gray-100" href="tel:+{{provider.phone}}">📞&nbsp;&nbsp;Make a call</a>
                 {% endif %}
                 {% if provider.mail %}
-                <a class="p-4 w-full hover:bg-gray-100" href="mailto:{{provider.mail}}">✉️ Mail
-                </a>
+                <a class="p-4 w-full hover:bg-gray-100" href="mailto:{{provider.mail}}">📧&nbsp;&nbsp;Send an email</a>
                 {% endif %}
                 {% if provider.website %}
-                <a class="p-4 w-full hover:bg-gray-100" href="{{provider.googleMapsLink}}">🌐 Website
-                </a>
+                <a class="p-4 w-full hover:bg-gray-100" href="{{provider.googleMapsLink}}">🌐&nbsp;&nbsp;Visit website</a>
                 {% endif %}
                 {% if provider.googleMapsLink %}
-                <a class="p-4 w-full hover:bg-gray-100" href="{{provider.googleMapsLink}}" target="_blank" rel="noopener noreferrer">📍 Directions</a>
+                <a class="p-4 w-full hover:bg-gray-100" href="{{provider.googleMapsLink}}" target="_blank" rel="noopener noreferrer">📍&nbsp;&nbsp;Get directions</a>
                 {% endif %}
                 {% if provider.instagram %}
-                <a class="p-4 w-full hover:bg-gray-100" href="{{provider.instagram}}" target="_blank" rel="noopener noreferrer">📸 Instagram</a>
+                <a class="p-4 w-full hover:bg-gray-100" href="{{provider.instagram}}" target="_blank" rel="noopener noreferrer">📸&nbsp;&nbsp;View Instagram</a>
                 {% endif %}
             </div>
-
-            <div class="bg-emerald-100 text-emerald-800 border-2 border-emerald-200 p-4 text-sm rounded-xl mb-4">
-                <h3 class="text-base font-bold text-emerald-950">⭐️ {{translations[locale].prolisttitle}}</h3>
-                <div class="prose prose-li:p-0 prose-ul:text-base/5 prose-ul:m-0">
-                    <md-block>{{provider.proList}}</md-block>
-                </div>
-            </div>
-            <div class="bg-indigo-100 text-indigo-800 border-2 border-indigo-200 p-4 text-sm rounded-xl mb-4">
-                <h3 class="text-base font-bold text-indigo-950">💡 {{translations[locale].tiplisttitle}}</h3>
-                <div class="prose prose-li:p-0 prose-ul:text-base/5 prose-ul:m-0">
-                    <md-block>{{provider.tipsList}}</md-block>
-                </div>
-            </div>
-
-            <div class="w-full  aspect-square bg-gray-200 overflow-hidden">
-                <div id="map" class="w-full h-full z-10"></div>
-            </div>
             
-            <div class="border-t border-gray-200 py-8 my-8">
-                <h3 class="font-bold mb-4">Categories</h3>
-                <div class="flex flex-col gap-4">
+            <div class="border-b border-gray-200 pb-8 mb-8">
+                <h3 class="font-bold mb-4">Amenities</h3>
+                <div class="flex flex-col gap-2">
                     {% for subcategory in provider.subCategories %}
                     <a class="" href="/{{subcategory.slug}}">
                         {{subcategory.name}}
@@ -178,18 +161,40 @@
                     {% endfor %}
                 </div>
             </div>
+
+            {% if provider.proList %}
+            <div class="bg-emerald-100 text-emerald-800 border-2 border-emerald-200 p-4 text-sm rounded-xl mb-4">
+                <h3 class="text-base font-bold text-emerald-950">⭐️ {{translations[locale].prolisttitle}}</h3>
+                <div class="prose prose-li:p-0 prose-ul:text-base/5 prose-ul:m-0">
+                    <md-block>{{provider.proList}}</md-block>
+                </div>
+            </div>
+            {% endif %}
+
+            {% if provider.tipsList %}
+            <div class="bg-indigo-100 text-indigo-800 border-2 border-indigo-200 p-4 text-sm rounded-xl mb-4">
+                <h3 class="text-base font-bold text-indigo-950">💡 {{translations[locale].tiplisttitle}}</h3>
+                <div class="prose prose-li:p-0 prose-ul:text-base/5 prose-ul:m-0">
+                    <md-block>{{provider.tipsList}}</md-block>
+                </div>
+            </div>
+            {% endif %}
+
+            <div class="w-full  aspect-square bg-gray-200 overflow-hidden">
+                <div id="map" class="w-full h-full z-10"></div>
+            </div>
         </div>
 
     <!-- Mobile action bar START -->
-    <div class="sm:hidden fixed bottom-2 left-2 right-2 flex whitespace-nowrap overflow-hidden text-center font-bold text-sm divide-x divide-gray-700 w-[calc(100%-1rem)] text-white rounded-xl bg-gradient-to-b from-gray-800 to-gray-950 shadow-lg ring-1 ring-offset-1 ring-gray-900 ring-offset-gray-100">
+    <div class="sm:hidden fixed bottom-0 left-0 right-0 flex whitespace-nowrap overflow-hidden text-center font-bold text-sm divide-x divide-gray-700 w-screen text-white rounded-t-xl bg-gradient-to-b from-gray-800 to-gray-950">
         {% if provider.phone %}
-            <a class="p-4 w-full hover:bg-gray-800" href="tel:+{{provider.phone}}">☎️ Call</a>
+            <a class="py-6 px-2 w-full hover:bg-gray-800" href="tel:+{{provider.phone}}">☎️ Call</a>
         {% endif %}
         {% if provider.mail %}
-            <a class="p-4 w-full hover:bg-gray-800" href="mailto:{{provider.mail}}">✉️ Mail</a>
+            <a class="py-6 px-2 w-full hover:bg-gray-800" href="mailto:{{provider.mail}}">✉️ Mail</a>
         {% endif %}
         {% if provider.googleMapsLink %}
-            <a class="p-4 w-full hover:bg-gray-800" href="{{provider.googleMapsLink}}" target="_blank" rel="noopener noreferrer">📍 Directions</a>
+            <a class="py-6 px-2 w-full hover:bg-gray-800" href="{{provider.googleMapsLink}}" target="_blank" rel="noopener noreferrer">📍 Directions</a>
         {% endif %}
     </div>
     <!-- Mobile action bar END -->
@@ -209,15 +214,19 @@
 </script>
 
 <script>
-function calculateDistance(lat1, lon1, lat2, lon2) {
-    const R = 6371; // Radius of the Earth in km
-    const dLat = (lat2 - lat1) * Math.PI / 180;
-    const dLon = (lon2 - lon1) * Math.PI / 180;
-    const a = 
-        Math.sin(dLat / 2) * Math.sin(dLat / 2) +
-        Math.cos(lat1 * Math.PI / 180) * Math.cos(lat2 * Math.PI / 180) * 
-        Math.sin(dLon / 2) * Math.sin(dLon / 2); 
-    const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a)); 
-    return R * c; // Distance in km
-}
+    function calculateDistance(lat1, lon1, lat2, lon2) {
+        const R = 6371; // Earth's radius in km
+        const dLat = deg2rad(lat2 - lat1);
+        const dLon = deg2rad(lon2 - lon1);
+        const a = 
+            Math.sin(dLat/2) * Math.sin(dLat/2) +
+            Math.cos(deg2rad(lat1)) * Math.cos(deg2rad(lat2)) * 
+            Math.sin(dLon/2) * Math.sin(dLon/2);
+        const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1-a));
+        return Number((R * c).toFixed(1));
+    }
+
+    function deg2rad(deg) {
+        return deg * (Math.PI/180);
+    }
 </script>
