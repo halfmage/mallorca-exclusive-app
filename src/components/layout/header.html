@@ -11,7 +11,7 @@
     window.subCategories = {{ data.allSubcategories | dump | safe }};
 </script>
 
-<div class="py-3 md:py-2 border-b border-gray-200">
+<div class="py-3 md:py-4 border-b border-gray-200 bg-white">
     <div class="container px-4 flex flex-col md:flex-row gap-4 md:items-center justify-between mx-auto">
 
         <!-- Logo -->
@@ -21,7 +21,7 @@
 
         <!-- Searchbar -->
         <div x-data="searchComponent()" class="relative w-full max-w-lg">
-            <input type="text" placeholder="🔎 {{translations[locale].searchplaceholder}}" x-model="searchQuery" @focus="openDropdown()" @input="performSearch()" @blur="hideDropdown()" class="w-full px-3 py-2 border border-gray-300 hover:border-gray-400 rounded-2xl"/>
+            <input type="text" placeholder="🔎 {{translations[locale].searchplaceholder}}" x-model="searchQuery" @focus="openDropdown()" @input="performSearch()" @blur="hideDropdown()" class="w-full p-3 border border-gray-300 hover:border-gray-400 rounded-2xl"/>
             <div 
                 class="absolute left-0 top-full mt-2 w-full bg-white border border-gray-300 rounded shadow-lg z-50 max-h-96 overflow-y-auto"
                 x-show="isOpen && filteredProviders.length > 0"

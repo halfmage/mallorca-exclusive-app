@@ -4,6 +4,8 @@
 
 <div class="max-w-screen-lg mx-auto p-4">
 
+    <img class="w-screen h-[25vh] opacity-50 object-cover absolute top-0 left-0 right-0 -z-10 blur-3xl" src="{{provider.photos[0].responsiveImage.src}}" alt="{{provider.name}} image">
+
     <!-- Check if Palma Beach Partner START -->
     {% for subcategory in provider.subCategories %}
         {% if subcategory.name === "💙 Palma Beach Partner" %}

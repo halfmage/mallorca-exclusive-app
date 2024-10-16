@@ -28,7 +28,7 @@
     <!-- Iterate through the filtered and sorted items with Alpine.js -->
     <div class="grid grid-cols-2 md:grid-cols-3 xl:grid-cols-4 gap-2 md:gap-4">
         <template x-for="provider in sortedAndFilteredProviders" :key="provider.id">
-            <a :href="'/' + provider.slug" class="bg-gray-500 flex flex-col gap-4 items-center justify-center overflow-hidden px-4 md:px-8 text-center shadow rounded-xl h-32 md:h-48 group relative bg-cover">
+            <a :href="'/' + provider.slug" class="bg-gray-200 flex flex-col gap-4 items-center justify-center overflow-hidden px-4 md:px-8 text-center shadow rounded-xl h-32 md:h-48 group relative bg-cover">
                 <h2 class="text-lg/6 md:text-2xl text-white font-bold drop-shadow-provider line-clamp-2 z-10" x-text="provider.name"></h2>
                 <div class="bg-white rounded-lg py-1 px-2 absolute top-2 left-2 text-[10px] md:text-sm z-10 font-semibold shadow" x-text="provider.mainCategory.name"></div>
                 <div x-show="locationAccessAllowed && provider.distance !== null" class="bg-white rounded-lg py-1 px-2 absolute bottom-2 right-2 text-[10px] md:text-sm z-10 font-semibold shadow">
@@ -38,7 +38,10 @@
                     <span>Show distance</span>
                 </div>
                 <template x-if="provider.photos && provider.photos.length > 0">
-                    <img class="absolute inset-0 h-full w-full z-0 transition-all scale-100 group-hover:scale-125 object-cover brightness-75 group-hover:brightness-100" :src="provider.photos[0].responsiveImage.src" :alt="provider.name + ' cover'">
+                    <img class="absolute inset-0 h-full w-full z-0 transition-all scale-100 group-hover:scale-110 object-cover brightness-75 group-hover:brightness-100" :src="provider.photos[0].responsiveImage.src" :alt="provider.name + ' cover'">
+                </template>
+                <template x-if="!provider.photos || provider.photos.length === 0">
+                    <img class="absolute inset-0 h-full w-full z-0 transition-all scale-100 group-hover:scale-110 object-cover brightness-50 group-hover:brightness-100" src="/images/placeholder-img.jpg" :alt="provider.name + ' cover'">
                 </template>
             </a>
         </template>
