@@ -1,7 +1,7 @@
 <!-- Filter by Subcategory -->
 <select id="subCategory" x-model="selectedSubCategory" @change="filterProviders()" class="w-full px-4 py-2 h-12 rounded-2xl transition duration-300 border border-gray-200 text-sm">
     <option value="">📂 {{translations[locale].allsubcategories}}</option>
-    <template x-for="subcategory in subCategories" :key="subcategory.id">
+    <template x-for="subcategory in subCategories.sort((a, b) => countProvidersBySubCategory(b.name) - countProvidersBySubCategory(a.name))" :key="subcategory.id">
         <option :value="subcategory.name" x-text="subcategory.name + ' (' + countProvidersBySubCategory(subcategory.name) + ')'"></option>
     </template>
 </select>
