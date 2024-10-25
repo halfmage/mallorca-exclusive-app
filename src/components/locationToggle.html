@@ -1,0 +1,10 @@
+<!-- Add location access toggle -->
+<div class="mb-4 flex items-center">
+    <span class="mr-2">{{translations[locale].allowlocation}}</span>
+    <button 
+        @click="toggleLocationAccess()" 
+        :class="{'bg-green-500': locationAccessAllowed, 'bg-red-500': !locationAccessAllowed}"
+        class="px-4 py-2 rounded-full text-white"
+        x-text="locationAccessAllowed ? '{{translations[locale].allowed}}' : '{{translations[locale].notallowed}}'"
+    ></button>
+</div>
