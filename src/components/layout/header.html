@@ -21,7 +21,7 @@
 
         <!-- Searchbar -->
         <div x-data="searchComponent()" class="relative w-full max-w-lg">
-            <input type="text" placeholder="🔎 {{translations[locale].searchplaceholder}}" x-model="searchQuery" @focus="openDropdown()" @input="performSearch()" @blur="hideDropdown()" class="w-full p-3 border border-gray-300 hover:border-gray-400 rounded-2xl"/>
+            <input type="text" placeholder="🔎 {{translations[locale].searchplaceholder}}" x-model="searchQuery" @focus="openDropdown()" @input="performSearch()" @blur="hideDropdown()" class="w-full p-2.5 md:p-3 border text-sm md:text-base border-gray-300 hover:border-gray-400 rounded-lg md:rounded-2xl text-center"/>
             <div 
                 class="absolute left-0 top-full mt-2 w-full bg-white border border-gray-300 rounded shadow-lg z-50 max-h-96 overflow-y-auto"
                 x-show="isOpen && filteredProviders.length > 0"
