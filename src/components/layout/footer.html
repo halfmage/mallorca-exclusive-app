@@ -15,7 +15,7 @@
 
         <div>
             {% for x in data.allSubcategories %}
-            <a class="p-1 hover:bg-gray-800 rounded inline-block whitespace-nowrap" href="/{{x.slug}}">
+            <a class="p-1 hover:bg-gray-800 rounded inline-block whitespace-nowrap text-xs md:text-sm 2xl:text-base" href="/{{x.slug}}">
                 {{x.name}}
             </a>
             {% endfor %}
