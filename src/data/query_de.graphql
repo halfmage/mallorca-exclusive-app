@@ -32,6 +32,11 @@
       latitude
       longitude
     }
+    externalVideoLink {
+      thumbnailUrl
+      url
+    }
+    providerVideoLink
   }
   allMainCategories(locale:de, first: 100) {
     id

@@ -1,6 +1,916 @@
 {
   "allProviders": [
     {
+      "_publishedAt": "2024-10-27T14:21:01+01:00",
+      "_firstPublishedAt": "2024-09-20T12:52:41+02:00",
+      "id": "V3RscGDFTuGcqXq_SvsT4g",
+      "name": "HOTEL CAN CIRERA",
+      "description": "## Highlights\nHotel Can Cirera is a beautifully restored boutique hotel located right next to Palma's iconic Cathedral, offering a unique blend of modern comfort in a historic setting. The rooms feature rustic beams, stylish decor, and modern amenities like luxurious bathrooms. Guests often praise the peaceful inner courtyards, the warm service from staff like Mari Carmen, and the exceptional breakfast experience. The hotel’s location is perfect for exploring Palma’s old town, with its picturesque streets and easy access to the sea.\n\n## Services\nHotel Can Cirera offers air-conditioned rooms, free Wi-Fi, and a delightful breakfast served in the hotel’s charming courtyard or indoor dining area. The staff provides personal attention, including restaurant recommendations and bookings. There's also a cozy sitting room for guests and beautiful artwork scattered throughout the hotel, adding to its charm.\n\n## Location\nThe hotel is centrally located in the old town of Palma, on Carrer del Palau Reial, steps away from the Cathedral and other cultural landmarks. Its prime location allows guests to easily explore Palma’s historical attractions, including the Royal Palace and local art galleries.\n\n## User Experiences\nGuests rave about the warm and attentive service, particularly from Mari Carmen and the breakfast team. They love the serene atmosphere in the courtyards and the stylish, comfortable rooms, which often have fantastic views of the Cathedral. Visitors frequently mention the perfect location, allowing them to explore the city on foot while enjoying a quiet, peaceful retreat within the hotel.",
+      "address": "Carrer del Palau Reial, 23, Centre, 07001 Palma",
+      "mail": "info@hotelcancirera.com",
+      "website": "https://www.hotelcancirera.com/",
+      "phone": "+34871620207",
+      "googleMapsLink": "https://maps.app.goo.gl/UpqNQEEnvXriq72r6",
+      "slug": "hotel-can-cirera",
+      "aiRating": 4.5,
+      "proList": "- Central location near the Cathedral\n- Excellent breakfast and personal service\n- Stylish rooms with historic charm",
+      "tipsList": "- Request a courtyard-facing room for more quiet\n- Book restaurant recommendations through the staff\n- Enjoy breakfast outdoors if weather permits",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1730035017-hotelcancirera-06.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1730035016-hotelcancirera-03.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1730035016-hotelcancirera-02.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1730035017-hotelcancirera-01.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1730035016-hotelcancirera-05.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1730035016-hotelcancirera-04.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🏨 Hotel",
+        "slug": "hotel"
+      },
+      "subCategories": [
+        {
+          "name": "💎 Luxury",
+          "slug": "luxury"
+        },
+        {
+          "name": "🤫 Quiet",
+          "slug": "quiet"
+        }
+      ],
+      "location": {
+        "latitude": 39.56924739999999,
+        "longitude": 2.6497426
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
+    },
+    {
+      "_publishedAt": "2024-10-27T14:14:57+01:00",
+      "_firstPublishedAt": "2024-09-20T13:26:57+02:00",
+      "id": "JeHs8QwcS_Ge6oxYX8h_Bg",
+      "name": "Hotel Victoria Gran Meliá",
+      "description": "## Highlights\nHotel Victoria Gran Meliá is a five-star luxury hotel in Palma de Mallorca, known for its stunning sea views and prime location near the Port of Palma. The hotel offers elegant rooms, many with balconies overlooking the bay or the iconic Cathedral. Guests appreciate the excellent service, refined ambiance, and luxurious amenities like the outdoor pool and spa. It's ideal for both business and leisure travelers, offering a sophisticated atmosphere and easy access to the city’s top attractions.\n\n## Services\nThe hotel offers a range of luxurious services including a full spa with personalized treatments, a rooftop pool with stunning views, and a Mediterranean restaurant, Ikatza, serving refined local dishes. Rooms feature modern amenities, and premium rooms come with private balconies. The hotel also provides conference facilities and services for business travelers.\n\n## Location\nHotel Victoria Gran Meliá is located on Avinguda de Joan Miró, a short walk from the Port of Palma and the bustling city center. It’s ideally placed for exploring Palma’s historic sites, high-end shopping areas, and the nearby beaches. The hotel offers easy access to the airport and major attractions like Bellver Castle.\n\n## User Experiences\nGuests rave about the hotel's perfect location, luxurious rooms, and the exceptional sea views from their balconies. The staff is frequently praised for their professionalism and warm service. Many guests highlight the delicious breakfast and the relaxing pool area. However, a few mention that extras like minibar items may incur additional charges, so attention to details is advised.",
+      "address": "Avinguda de Joan Miró, 21, Ponent, 07014 Palma",
+      "mail": "",
+      "website": "https://www.melia.com/en/hotels/spain/majorca/victoria-gran-melia?utm_medium=organic&utm_source=directories&utm_campaign=google&utm_content=0754",
+      "phone": "+34971732542",
+      "googleMapsLink": "https://maps.app.goo.gl/oCWXYFFiEnBstR9T9",
+      "slug": "hotel-victoria-gran-melia",
+      "aiRating": 4.7,
+      "proList": "- Stunning sea views from many rooms\n- Excellent service and luxurious amenities\n- Prime location near the Port of Palma",
+      "tipsList": "- Request a sea view room for the best experience\n- Be mindful of extra minibar charges\n- Enjoy the rooftop pool for a relaxing afternoon",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1730034782-hotel-victoria-gran-melia-01.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1730034782-hotel-victoria-gran-melia-02.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1730034781-hotel-victoria-gran-melia-05.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1730034781-hotel-victoria-gran-melia-03.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1730034781-hotel-victoria-gran-melia-06.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1730034782-hotel-victoria-gran-melia-04.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🏨 Hotel",
+        "slug": "hotel"
+      },
+      "subCategories": [
+        {
+          "name": "🍽️ Dining",
+          "slug": "in-house-dining"
+        },
+        {
+          "name": "🏊‍♂️ Pool",
+          "slug": "pool"
+        },
+        {
+          "name": "💎 Luxury",
+          "slug": "luxury"
+        }
+      ],
+      "location": {
+        "latitude": 39.5638014,
+        "longitude": 2.6261071
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
+    },
+    {
+      "_publishedAt": "2024-10-27T14:10:25+01:00",
+      "_firstPublishedAt": "2024-09-20T13:29:53+02:00",
+      "id": "QdC0VIcOQHCAkhx8VupK-g",
+      "name": "Hotel Cappuccino",
+      "description": "## Highlights\nHotel Cappuccino is a five-star boutique hotel located in the heart of Palma de Mallorca's Old Town, offering a blend of luxury and charm. Designed by renowned Parisian designer Jacques Grange, the hotel features an eclectic, artistic ambiance with bold interiors and elegant furnishings. Guests love the central location, near Palma’s famous Cathedral and the Passeig del Born. The hotel offers unique amenities, including a rooftop pool, a private cinema, and an on-site spa, making it a relaxing yet vibrant urban retreat.\n\n## Services\nHotel Cappuccino provides luxury services such as a rooftop terrace with a pool, multiple dining options including a Mediterranean café and a Japanese restaurant, and a wellness center offering personalized spa treatments. **Guests can enjoy a private cinema experience called \"Cappucine\" or unwind in the hotel’s lounge areas.** There is also a gym for fitness enthusiasts, and the hotel offers an airport shuttle upon request.\n\n## Location\nSituated on Plaza de Cort, Hotel Cappuccino is right in the center of Palma de Mallorca’s Old Town. Guests are within walking distance of major attractions like the Cathedral and various local markets. The hotel’s prime location also makes it easy to explore nearby restaurants, boutiques, and Palma's nightlife.\n\n## User Experiences\nGuests frequently praise the hotel’s unique design, luxurious atmosphere, and excellent service. Many enjoy the rooftop pool with stunning views and the cozy, artsy feel of the hotel’s interiors. The location is highlighted as ideal for exploring Palma’s Old Town. However, some guests mention that the hotel’s busy central location may lead to some noise from the surrounding area, especially during peak times.",
+      "address": "Plaça de Cort, Distrito Centro, 07001 Palma",
+      "mail": "info@hotelcappuccino.com",
+      "website": "http://www.hotelcappuccino.com",
+      "phone": "+34871037437",
+      "googleMapsLink": "https://maps.app.goo.gl/t3okezRNKSrNSroo7",
+      "slug": "hotel-cappuccino",
+      "aiRating": 4.5,
+      "proList": "- Beautiful design by Jacques Grange with unique artistic touches\n- Central location, perfect for exploring Palma’s Old Town\n- Luxurious amenities, including a rooftop pool and private cinema",
+      "tipsList": "- Book the private cinema \"Cappucine\" for a unique experience\n- Visit the rooftop pool for city views and relaxation\n- Be prepared for some city noise due to the central location",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1730034501-hotelcappuccino-01.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1730034501-hotelcappuccino-02.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1730034502-hotelcappuccino-06.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1730034501-hotelcappuccino-03.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1730034501-hotelcappuccino-05.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1730034502-hotelcappuccino-04.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🏨 Hotel",
+        "slug": "hotel"
+      },
+      "subCategories": [
+        {
+          "name": "💎 Luxury",
+          "slug": "luxury"
+        },
+        {
+          "name": "🌇 Rooftop",
+          "slug": "rooftop"
+        },
+        {
+          "name": "🪷 Spa",
+          "slug": "spa"
+        },
+        {
+          "name": "🧘‍♀️ Wellness",
+          "slug": "wellness"
+        }
+      ],
+      "location": {
+        "latitude": 39.5697159,
+        "longitude": 2.649874
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": "https://www.hotelcappuccino.com/assets/v20/videos/Video-home-2023.mp4"
+    },
+    {
+      "_publishedAt": "2024-10-27T14:04:41+01:00",
+      "_firstPublishedAt": "2024-09-20T13:33:51+02:00",
+      "id": "ENbA-tQnSlq9e3utEPzaOg",
+      "name": "Iberostar Selection Llaut",
+      "description": "## Highlights\nIberostar Selection Llaut is a luxurious 5-star hotel located in Playa de Palma, offering elegant rooms and a host of premium amenities, including a 1,300 m² wellness spa, fitness center, and an outdoor pool. Guests can enjoy the Asian fusion cuisine at the rooftop restaurant, Katagi Blau, while taking in panoramic views of the Bay of Palma. The hotel is also well-suited for events and conferences, with several meeting spaces available.\n\n## Services\nThe hotel offers a wellness spa with saunas, a Turkish bath, and a hydro-wellness circuit. There’s also a fully-equipped gym open 24 hours. Dining includes the rooftop restaurant Katagi Blau, where guests can enjoy Asian fusion meals. For events, there are spaces such as the Bitácora meeting room, and the hotel provides event planning services.\n\n## Location\nSituated just a 4-minute walk from Palma Beach and 4 km from Palma Airport, the hotel is conveniently located for both beachgoers and those looking to explore the city center, which is just a 15-minute drive away.\n\n## User Experiences\nGuests often praise the hotel for its excellent service, modern facilities, and serene spa. The rooftop restaurant is particularly appreciated for its ambiance and views. Some guests mention the proximity to the airport as a bonus, although occasional noise from flights can be a minor drawback.",
+      "address": "Av. d'Amèrica, 2, Platja de Palma, 07600 Palma",
+      "mail": "",
+      "website": "https://www.iberostar.com/en/hotels/majorca/iberostar-llaut-palma/?utm_source=google&utm_medium=organic&utm_campaign=IBSVOL_EMEA_SEOLOC_GMB_NA_EN_ESP_BAL_PMI_LLT_PULL_NA_NA_NA_NA_NA",
+      "phone": "+34971596070",
+      "googleMapsLink": "https://maps.app.goo.gl/uJZW9rMao8pFmKtu5",
+      "slug": "iberostar-selection-llaut",
+      "aiRating": 4.5,
+      "proList": "- Stunning rooftop restaurant with panoramic views\n- Extensive spa and wellness facilities\n- Close proximity to Palma Beach and the airport",
+      "tipsList": "- Try the Sunday brunch at Katagi Blau for a special experience\n- Use the 24-hour gym during off-peak times for a quieter session\n- Book spa treatments in advance to secure preferred times",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1730034016-iberostar-llaut-palma-01.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1730034016-iberostar-llaut-palma-04.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1730034016-iberostar-llaut-palma-03.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1730034016-iberostar-llaut-palma-05.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1730034016-iberostar-llaut-palma-02.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1730034016-iberostar-llaut-palma-06.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🏨 Hotel",
+        "slug": "hotel"
+      },
+      "subCategories": [
+        {
+          "name": "🍽️ Dining",
+          "slug": "in-house-dining"
+        },
+        {
+          "name": "🏋️‍♂️ Gym",
+          "slug": "gym"
+        },
+        {
+          "name": "🧘‍♀️ Wellness",
+          "slug": "wellness"
+        }
+      ],
+      "location": {
+        "latitude": 39.5133666,
+        "longitude": 2.7512318
+      },
+      "externalVideoLink": {
+        "thumbnailUrl": "https://i.ytimg.com/vi/MgF5yXVRu3E/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=MgF5yXVRu3E"
+      },
+      "providerVideoLink": ""
+    },
+    {
+      "_publishedAt": "2024-10-27T10:37:08+01:00",
+      "_firstPublishedAt": "2024-09-20T13:36:29+02:00",
+      "id": "Uq30sQgETMK6ETd6qRpX-w",
+      "name": "Iberostar Selection Playa de Palma",
+      "description": "## Highlights\nIberostar Selection Playa de Palma is a luxurious 5-star beachfront hotel, ideally located near Palma's airport and the vibrant nightlife of Playa de Palma. Known for its stunning views of the Mediterranean, the hotel offers modern rooms, some with semi-private terraces. It’s popular for its rooftop infinity pool and exclusive Star Prestige area, providing a relaxing adults-only experience. The hotel's eco-friendly approach and its variety of dining options, including a gourmet restaurant by Chef Aitor Arregi, make it an appealing choice for both couples and families.\n\n## Services\nThe hotel boasts premium facilities like an extensive spa with a wet area and treatments, a fitness center, and several swimming pools. Dining options include the renowned Guethary gourmet restaurant and a rooftop champagne bar with stunning sunset views. Guests can also enjoy live entertainment and a variety of family-friendly services, including kids' clubs and babysitting.\n\n## Location\nLocated in Playa de Palma, just a short drive from the airport and about 10 minutes from Palma’s city center, the hotel is perfectly situated for both beachgoers and city explorers. The beachfront location offers easy access to water sports, local restaurants, and Palma’s bustling nightlife.\n\n## User Experiences\nGuests frequently highlight the stunning sea views, excellent service, and the high-quality breakfast. The Star Prestige service, with its private rooftop and pool, is a favorite among visitors looking for an extra touch of luxury. While some guests note that the buffet could improve, most praise the hotel for its cleanliness, modern rooms, and convenient location.",
+      "address": "Carrer de Marbella, 36, Platja de Palma, 07610 Palma",
+      "mail": "",
+      "website": "https://www.iberostar.com/en/hotels/majorca/iberostar-playa-de-palma/?utm_source=google&utm_medium=organic&utm_campaign=IBSVOL_EMEA_SEOLOC_GMB_NA_EN_ESP_BAL_PMI_PDP_PULL_NA_NA_NA_NA_NA",
+      "phone": "+34971266450",
+      "googleMapsLink": "https://maps.app.goo.gl/vxsDNW7WYuCeQ24v7",
+      "slug": "iberostar-selection-playa-de-palma",
+      "aiRating": 4.5,
+      "proList": "- Stunning sea views and beachfront location\n- Excellent rooftop pool and exclusive Star Prestige area\n- Variety of family-friendly services and dining options",
+      "tipsList": "- Book a Star Prestige room for exclusive rooftop access\n- Try the gourmet dining experience at Guethary restaurant\n- Ideal for those wanting easy access to both the beach and Palma's city center",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1730021810-iberostar-playa-de-palma-01.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1730021810-iberostar-playa-de-palma-04.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1730021810-iberostar-playa-de-palma-06.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1730021810-iberostar-playa-de-palma-03.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1730021810-iberostar-playa-de-palma-02.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1730021813-iberostar-playa-de-palma-05.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🏨 Hotel",
+        "slug": "hotel"
+      },
+      "subCategories": [],
+      "location": {
+        "latitude": 39.52335799999999,
+        "longitude": 2.7383303
+      },
+      "externalVideoLink": {
+        "thumbnailUrl": "https://i.ytimg.com/vi/wOUZd0v7fAI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=wOUZd0v7fAI"
+      },
+      "providerVideoLink": ""
+    },
+    {
+      "_publishedAt": "2024-10-26T12:34:42+02:00",
+      "_firstPublishedAt": "2024-09-20T16:17:50+02:00",
+      "id": "XzPI_tfxR_6mDBme3-I8IQ",
+      "name": "Big Blue Diving Mallorca",
+      "description": "## Highlights\nBig Blue Diving Mallorca is a well-regarded dive center in Palmanova, offering diving experiences for all levels, from beginners to advanced divers. The center is known for its professional yet friendly instructors, high safety standards, and access to some of the best dive sites in Mallorca, such as the marine reserve at El Toro. Guests appreciate the personal approach, clear explanations, and relaxed atmosphere, making it ideal for first-time divers as well as those seeking certifications.\n\n## Services\nBig Blue Diving provides a range of diving courses, including Open Water and Advanced certifications. They offer boat diving, shore diving, and snorkeling trips, with top-notch equipment available. The dive center operates with both PADI and SSI certifications. The team ensures a safe and enjoyable diving experience, with a focus on high-quality service and environmental responsibility.\n\n## Location\nThe center is located in Palmanova, Mallorca, within walking distance from the beach. From here, guests can explore the underwater beauty of Mallorca’s southwestern coast, known for its rich marine life and excellent visibility.\n\n## User Experiences\nCustomers often highlight the professionalism and friendliness of the instructors, particularly praising their patience and ability to make even first-time divers feel comfortable. Guests have described their dives as unforgettable, enjoying the variety of marine life and excellent underwater visibility. The diving team is multilingual, and the positive atmosphere is frequently mentioned as a reason for returning.",
+      "address": "Carrer Martín Ros García, 6, 07181 Palmanova",
+      "mail": "info@bigbluediving.net",
+      "website": "https://www.bigbluediving.net/en/",
+      "phone": "+34971681686",
+      "googleMapsLink": "https://maps.app.goo.gl/LbdjVRrty9vaSKK18",
+      "slug": "big-blue-diving-mallorca",
+      "aiRating": 4.5,
+      "proList": "- Professional, patient instructors\n- Access to top dive sites like El Toro\n- Suitable for beginners and advanced divers",
+      "tipsList": "- Book in advance, especially during peak season\n- Consider completing an Open Water course for more flexibility\n- Bring an underwater camera to capture the beautiful marine life",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1729938798-bigbluediving-01.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1729938798-bigbluediving-04.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1729938799-bigbluediving-03.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1729938798-bigbluediving-02.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🌴 Leisure",
+        "slug": "leisure"
+      },
+      "subCategories": [
+        {
+          "name": "🤿 Diving",
+          "slug": "diving"
+        }
+      ],
+      "location": {
+        "latitude": 39.5125618,
+        "longitude": 2.5404125
+      },
+      "externalVideoLink": {
+        "thumbnailUrl": "https://i.ytimg.com/vi/UpFHObboH78/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=UpFHObboH78"
+      },
+      "providerVideoLink": ""
+    },
+    {
+      "_publishedAt": "2024-10-26T12:28:31+02:00",
+      "_firstPublishedAt": "2024-09-20T16:36:57+02:00",
+      "id": "OOS7zIK1T6ipMrmCydtCsA",
+      "name": "Port Calanova",
+      "description": "## Highlights\nPort Calanova is a modern marina and sailing school located in the bay of Palma, just 5 km from the city center. Established in 1976, this marina is ideal for both boating enthusiasts and holidaymakers looking to explore the clear waters and nearby attractions. It offers a wide range of water sports, including sailing, kayaking, and paddleboarding, and has accommodation options at the Calanova Sports Residence. The port is also home to two restaurants and various facilities like a gym and pool, making it a popular spot for relaxation and activities.\n\n## Services\nPort Calanova offers 172 berths for boats up to 25 meters, along with a shipyard providing services like cleaning, maintenance, and repairs. Visitors can also rent boats or participate in water sports like windsurfing or stand-up paddleboarding. The marina has a fuel dock, showers, Wi-Fi, and laundry facilities. For those staying on land, the Calanova Sports Residence provides accommodation, and the marina hosts events and sailing camps year-round.\n\n## Location\nPort Calanova is situated on Avenida Joan Miró, 327, just 15 minutes from Palma's airport. It’s close to some of Palma’s major attractions, including Marivent Palace and Illetas Beach, and offers easy access to the city’s vibrant center and coastline.\n\n## User Experiences\nVisitors appreciate the friendly and professional service at Port Calanova. Many highlight the wide variety of activities, from water sports to relaxed dining at the marina's restaurants. The calm atmosphere and excellent facilities make it a great choice for families and boating enthusiasts alike, while the beautiful views of the bay and proximity to Palma’s sights add to its appeal.",
+      "address": "Avinguda de Joan Miró, 327, Ponent, 07015 Palma",
+      "mail": "info@portcalanova.com",
+      "website": "https://www.portcalanova.com/en",
+      "phone": "+34971402512",
+      "googleMapsLink": "https://maps.app.goo.gl/ACDCFpCooFoVLQ1W7",
+      "slug": "port-calanova",
+      "aiRating": 4.2,
+      "proList": "- Offers a wide range of water sports and sailing activities\n- Well-equipped marina with excellent services for boats and yachts\n- Convenient location close to Palma's attractions and beaches",
+      "tipsList": "- Ideal for combining sailing with a stay at the on-site Sports Residence\n- Book boat rentals or sailing lessons in advance, especially in peak season\n- Explore nearby Palma for dining, shopping, and cultural experiences",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1729938453-portcalanova-05.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1729938453-portcalanova-06.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1729938453-portcalanova-02.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1729938453-portcalanova-04.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1729938453-portcalanova-07.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1729938453-portcalanova-01.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1729938453-portcalanova-03.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🌴 Leisure",
+        "slug": "leisure"
+      },
+      "subCategories": [
+        {
+          "name": "🏄‍♂️ Surfing",
+          "slug": "surfing"
+        }
+      ],
+      "location": {
+        "latitude": 39.5498276,
+        "longitude": 2.5988588
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
+    },
+    {
+      "_publishedAt": "2024-10-26T12:21:51+02:00",
+      "_firstPublishedAt": "2024-09-20T16:27:35+02:00",
+      "id": "fJpUu7bNT_-0rIOROvpdVw",
+      "name": "Aventura IB Colonia de Sant Jordi",
+      "description": "## Highlights\nAventura IB in Colonia de Sant Jordi offers exciting marine experiences around Mallorca and Cabrera National Park. The team specializes in diving, snorkeling, and boat tours, with professional instructors guiding all activities. You can enjoy scuba diving trips, guided snorkel tours, or even rent a private boat for the day. Their excursions cater to beginners and experienced divers alike, with courses ranging from introductory dives to advanced certifications. Families with children (age 8+) are also welcome to participate.\n\n## Services\nAventura IB provides a wide variety of services:\n- **Scuba Diving**: Full and half-day trips to Cabrera, open to certified divers and beginners alike.\n- **Snorkeling**: Guided afternoon tours with all gear included (mask, fins, wetsuit).\n- **Boat Rental**: Half and full-day options for sailing or classic llaut boat trips, visiting secluded beaches.\n- **Free Pickup**: Shuttle service between Palma, Colonia de Sant Jordi, and nearby towns.\n\n## Location\nLocated in **Colonia de Sant Jordi**, Mallorca, Aventura IB is conveniently situated close to the marina. Their boat trips explore the stunning Cabrera National Park and nearby pristine beaches, making it a perfect starting point for marine adventures. The address is: **Calle Gabriel Roca, 24, 07638 Colonia de Sant Jordi**.\n\n## User Experiences\nGuests frequently praise the knowledgeable and friendly staff, highlighting the instructors’ expertise in making first-time divers feel safe. Reviews also emphasize the beauty of the Cabrera National Park, with its crystal-clear waters and rich marine life. Many appreciate the variety of activities and personalized service, especially the private boat rentals and tailored excursions for small groups.",
+      "address": "Carrer Gabriel Roca, 24, 07638 Colònia de Sant Jordi",
+      "mail": "info@aventuraib.com",
+      "website": "http://www.aventuraib.com/",
+      "phone": "+34673334003",
+      "googleMapsLink": "https://maps.app.goo.gl/3WPxcMLFgw4sP7fcA",
+      "slug": "aventura-ib-colonia-de-sant-jordi",
+      "aiRating": 4.6,
+      "proList": "- Wide range of water activities, from beginner to advanced.\n- Free transport from nearby towns to Colonia de Sant Jordi.\n- Highly experienced and friendly staff.",
+      "tipsList": "- Book in advance during peak season to secure a spot.\n- Ideal for families with children aged 8+.\n- Don’t miss the full-day diving trip to Cabrera for a unique underwater experience.",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1729938103-aventuraib-03.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1729938103-aventuraib-04.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1729938103-aventuraib-02.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1729938103-aventuraib-01.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🌴 Leisure",
+        "slug": "leisure"
+      },
+      "subCategories": [
+        {
+          "name": "🤿 Diving",
+          "slug": "diving"
+        }
+      ],
+      "location": {
+        "latitude": 39.315727,
+        "longitude": 2.9964847
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
+    },
+    {
+      "_publishedAt": "2024-10-26T12:17:41+02:00",
+      "_firstPublishedAt": "2024-09-20T16:24:44+02:00",
+      "id": "Yynb7zcmTUSc4xot5UiRgQ",
+      "name": "Albatros Diving",
+      "description": "## Highlights\nAlbatros Diving, located in Colonia de Sant Jordi, is a well-established PADI 5-Star Dive Center offering top-notch diving experiences around Mallorca and Cabrera. Founded in 1993, it provides a range of diving courses from beginner to advanced levels, as well as guided snorkel tours and private excursions. They are known for their friendly, professional team and well-maintained diving equipment. Whether you want to try diving for the first time or explore the beautiful underwater caves and marine life of Cabrera, Albatros Diving is an ideal choice.\n\n## Services\nAlbatros Diving offers:\n- **PADI Diving Courses**: From beginner (Discover Scuba Diving at €99) to advanced certifications (Rescue Diver, Divemaster, etc.).\n- **Daily Diving Excursions**: Full and half-day trips for certified divers, with options like the Pirate Cave tour.\n- **Snorkeling and Private Tours**: Guided snorkeling tours (€45), private boat excursions, and tailored dive adventures.\n\n## Location\nAlbatros Diving is situated near the port in **Colonia de Sant Jordi**, making it easy to access the best dive sites around Mallorca and the Cabrera National Park. They offer free transport from nearby areas such as Cala Millor and Porto Cristo, making it convenient for visitors staying along the coast.\n\n## User Experiences\nDivers often highlight the excellent organization and safety measures of Albatros Diving. The friendly and multilingual staff (speaking Spanish, English, German, and more) are praised for making both beginners and advanced divers feel comfortable. Many reviews mention the beauty of the dive sites, especially Cabrera's clear waters and abundant marine life, as a highlight of their trip.",
+      "address": "Carrer del Xaloc, 5, 07559 Cala Bona",
+      "mail": "info@albatros-diving.com",
+      "website": "https://www.albatros-diving.com/",
+      "phone": "+34621251940",
+      "googleMapsLink": "https://maps.app.goo.gl/v4uxGbZiWNiuh1Ww8",
+      "slug": "albatros-diving",
+      "aiRating": 4.3,
+      "proList": "- Highly experienced, friendly team.\n- Variety of courses for all levels, including snorkel options.\n- Free transport from local areas.",
+      "tipsList": "- Book early, especially for popular trips like Pirate Cave diving.\n- Bring a GoPro or rent one (€20) to capture underwater memories.\n- Consider multi-dive packages for discounted rates on diving.",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1729937813-albatrosdiving-01.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1729937812-albatrosdiving-06.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1729937812-albatrosdiving-02.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1729937812-albatrosdiving-04.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1729937813-albatrosdiving-05.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1729937813-albatrosdiving-03.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🌴 Leisure",
+        "slug": "leisure"
+      },
+      "subCategories": [
+        {
+          "name": "🤿 Diving",
+          "slug": "diving"
+        }
+      ],
+      "location": {
+        "latitude": 39.6131082,
+        "longitude": 3.3917201
+      },
+      "externalVideoLink": {
+        "thumbnailUrl": "https://i.ytimg.com/vi/2LH81n6qPRg/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=2LH81n6qPRg"
+      },
+      "providerVideoLink": ""
+    },
+    {
+      "_publishedAt": "2024-10-26T10:48:38+02:00",
+      "_firstPublishedAt": "2024-09-20T16:15:04+02:00",
+      "id": "HYX3IPddRM2XtolOUqjhZA",
+      "name": "Diving Dragonera",
+      "description": "## Highlights\nDiving Dragonera offers an unforgettable experience for both beginner and experienced divers, with its stunning underwater landscapes around the island of Dragonera, near Mallorca. This PADI Dive Center is renowned for its professional team and well-maintained equipment, ensuring safe and fun diving adventures. You’ll explore crystal-clear waters full of fascinating rock formations, schools of fish, and even the occasional barracuda, making it an ideal spot for divers looking to enjoy Mallorca’s natural beauty.\n\n## Services\nAt Diving Dragonera, you can choose from:\n- **PADI Diving Courses**: Available for all levels, from beginner to advanced certifications.\n- **Daily Dive Trips**: Guided diving tours around Dragonera and nearby areas, known for their exceptional visibility.\n- **Snorkeling Tours**: A great option for non-divers or families, these trips let you explore the area’s marine life from the surface.\n\n## Location\nThe dive center operates out of **Port d'Andratx**, offering easy access to the island of Dragonera, a protected marine reserve. The island’s rugged coastline and rich underwater ecosystem make it one of the best dive spots in Mallorca. Free transportation from nearby hotels is often available.\n\n## User Experiences\nReviews often highlight the professionalism and friendliness of the dive instructors, making even beginners feel comfortable. Many divers are amazed by the pristine condition of the dive sites, especially around Dragonera, where the visibility is excellent, and the marine life is diverse. Several users mention seeing schools of fish and barracudas, and they recommend this as a must-do experience for visitors to Mallorca.",
+      "address": "Av. Almirante Riera Alemany, 23, 07157 Port d'Andratx",
+      "mail": "info@divingdragonera.de",
+      "website": "http://www.aqua-mallorca-diving.com/",
+      "phone": "+34971674376",
+      "googleMapsLink": "https://maps.app.goo.gl/jPkSekGMRxnaocLFA",
+      "slug": "diving-dragonera",
+      "aiRating": 4.4,
+      "proList": "- Beautiful underwater landscapes with great visibility.\n- Friendly and professional dive instructors.\n- Suitable for both beginners and advanced divers.",
+      "tipsList": "- Book your dive trip early, especially in high season.\n- Bring an underwater camera to capture the incredible marine life.\n- Perfect for small groups or families looking for a fun day out.",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1729932503-aquamallorcadiving-01.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1729932503-aquamallorcadiving-03.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1729932504-aquamallorcadiving-04.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1729932503-aquamallorcadiving-02.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🌴 Leisure",
+        "slug": "leisure"
+      },
+      "subCategories": [
+        {
+          "name": "🤿 Diving",
+          "slug": "diving"
+        }
+      ],
+      "location": {
+        "latitude": 39.5426811,
+        "longitude": 2.3856721
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
+    },
+    {
+      "_publishedAt": "2024-10-26T10:45:57+02:00",
+      "_firstPublishedAt": "2024-09-20T13:11:13+02:00",
+      "id": "Ncdc0ZX5SC2rbaR9L1cG2Q",
+      "name": "Hotel Cort",
+      "description": "## Highlights\nHotel Cort is a chic boutique hotel located in the heart of Palma’s historic old town. With stylish interiors blending Moorish tiles and Mallorcan fabrics, this intimate hotel offers a luxury escape, complete with a rooftop terrace and plunge pool. The hotel is well-known for its excellent restaurant, featuring Mediterranean cuisine and fresh seafood, including ceviche. It's within walking distance of major attractions like Palma Cathedral, making it a perfect base for exploring the city.\n\n## Services\nHotel Cort offers:\n- **Luxury Suites**: Including family suites and rooms with views over the Plaza Cort.\n- **Rooftop Terrace**: A relaxing spot with a plunge pool, ideal for unwinding.\n- **Restaurant & Bar**: Mediterranean cuisine, breakfast, and alfresco dining in the Plaza.\n- **Other Amenities**: Air conditioning, Wi-Fi, and daily housekeeping.\n\n## Location\nSituated at **Plaça de Cort, 11, Palma de Mallorca**, the hotel is centrally located in the bustling old town, steps from Palma Cathedral and the Royal Palace of Almudaina. The beach is just a 15-minute walk away, making it ideal for both sightseeing and beach lovers.\n\n## User Experiences\nGuests frequently praise the hotel's central location, stylish decor, and excellent dining. The rooftop terrace is often highlighted as a tranquil spot, perfect for a relaxing afternoon. Some guests note that the dining experience can be expensive, but the quality of the food is highly rated. Rooms are described as comfortable, with thoughtful details that make for a luxurious stay.",
+      "address": "Plaça de Cort, 11, Distrito Centro, 07001 Palma",
+      "mail": "info@hotelcort.com",
+      "website": "http://www.hotelcort.com/",
+      "phone": "+34971213300",
+      "googleMapsLink": "https://maps.app.goo.gl/8J6W9J9VZUP5veFEA",
+      "slug": "hotel-cort",
+      "aiRating": 4.5,
+      "proList": "- Prime location in Palma’s old town, close to major sights.\n- Stylish decor blending modern comfort with local charm.\n- Rooftop terrace with a plunge pool for relaxation.",
+      "tipsList": "- Booking in advance is recommended for the best rooms.\n- The restaurant is excellent but can be pricey.\n- Ideal for couples or small groups looking for an intimate boutique experience.",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1729932134-hotelcort-04.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1729932134-hotelcort-03.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1729932134-hotelcort-05.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1729932134-hotelcort-02.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1729932134-hotelcort-06.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1729932134-hotelcort-01.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🏨 Hotel",
+        "slug": "hotel"
+      },
+      "subCategories": [],
+      "location": {
+        "latitude": 39.569819,
+        "longitude": 2.6498663
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": "https://www.hotelcort.com/wp-content/uploads/2019/01/HOTEL-CORT-1080.mp4"
+    },
+    {
+      "_publishedAt": "2024-10-25T18:47:15+02:00",
+      "_firstPublishedAt": "2024-09-19T11:42:30+02:00",
+      "id": "N8iSSSHoT7KeOqsy9wTmZQ",
+      "name": "Restaurante SUMAQ",
+      "description": "## Highlights\nRestaurante SUMAQ offers a unique fusion of Peruvian cuisine in the heart of Palma de Mallorca. The restaurant specializes in creating contemporary dishes that reflect the diverse flavors of Peru, combining fresh, local ingredients with traditional Peruvian spices. Known for dishes like ceviche, duck confit causa, and exquisite pisco sours, SUMAQ offers a refined yet welcoming dining experience.\n\n## Menu\nSUMAQ's menu features signature dishes such as the Causa with duck confit, and exotic ceviche blends like salmon and tuna with mango and avocado. Vegan and seafood options are also available.\n\n## Location\nSUMAQ is located in Palma's Santa Catalina neighborhood, at Calle Cotoner 44. It’s easily accessible from central Palma, offering a cozy and inviting atmosphere for guests to enjoy a Peruvian culinary journey.\n\n## User Experiences\nCustomers frequently praise the restaurant's authentic flavors, innovative fusion dishes, and excellent service. The ceviche, duck confit, and pisco sours are particular favorites, often described as highlights of the dining experience. Reviews also mention the cozy and intimate setting.",
+      "address": "Carrer de Cotoner, 44, Ponent, 07013 Palma",
+      "mail": "sumaqrestaurante@gmail.com",
+      "website": "https://restaurantesumaq.com",
+      "phone": "+34696526758",
+      "googleMapsLink": "https://maps.app.goo.gl/thWppWusFpBRfkP8A",
+      "slug": "restaurante-sumaq",
+      "aiRating": 4.5,
+      "proList": "- Authentic Peruvian fusion cuisine\n- Cozy atmosphere in Santa Catalina\n- Popular dishes: ceviche, duck confit, and pisco sours",
+      "tipsList": "- Reservations are recommended\n- Try the exotic ceviche mixes\n- Perfect for an intimate dining experience",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726740140-restaurantesumaq-03.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726740140-restaurantesumaq-02.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726740140-restaurantesumaq-01.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🍽️ Food",
+        "slug": "restaurant"
+      },
+      "subCategories": [
+        {
+          "name": "🌄 Peruvian",
+          "slug": "peruvian"
+        },
+        {
+          "name": "🍷 Wine",
+          "slug": "wine"
+        },
+        {
+          "name": "🍱 Fusion",
+          "slug": "fusion"
+        }
+      ],
+      "location": {
+        "latitude": 39.5714122,
+        "longitude": 2.6370207
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
+    },
+    {
+      "_publishedAt": "2024-10-25T18:44:16+02:00",
+      "_firstPublishedAt": "2024-09-19T19:36:10+02:00",
+      "id": "Syqhgt8pTK2pa88dwb2z6g",
+      "name": "BAR CUBA",
+      "description": "## Highlights\nBar Cuba, located in Palma de Mallorca’s trendy Santa Catalina district, is an iconic venue offering a blend of bar, café, and nightclub experiences. Situated in a beautifully restored colonial building, it features a lively ground-floor café with a Havana-inspired vibe, and a famous rooftop Sky Bar. This rooftop offers breathtaking views of the Mediterranean, Palma’s marina, and the cathedral, making it a popular spot for sunset cocktails. Bar Cuba also serves Mediterranean cuisine, including daily menus and à la carte options, perfect for both daytime dining and evening cocktails.\n\n## Services\nBar Cuba is open all day, providing a variety of experiences from morning coffee and breakfast on the rooftop to vibrant nightlife with DJ performances in the downstairs club. The Sky Bar is known for its intimate setting and spectacular views, where guests can enjoy cocktails, breakfast, and snacks. The club on the ground floor offers a buzzing atmosphere with DJs playing on weekends until late, making it a go-to spot for night owls.\n\n## Location\nLocated in the heart of Santa Catalina, Bar Cuba is a short walk from Sa Feixina Park and other cultural hotspots in Palma. The venue’s location makes it perfect for visitors looking to explore the city while enjoying a relaxed yet trendy bar environment. Santa Catalina itself is a lively area, known for its nightlife, boutiques, and proximity to the harbor.\n\n## User Experiences\nGuests rave about the stunning rooftop views and the atmosphere at Bar Cuba, with many recommending it for both breakfast and evening drinks. The rooftop's popularity means it’s advised to book ahead, especially in summer. Some guests note that drinks can be pricey, but the ambiance and views make up for it. While the service has received some mixed reviews, the overall experience at Bar Cuba remains a top recommendation for visitors looking to enjoy Palma’s nightlife and scenic views.",
+      "address": "Carrer de Sant Magí, 1, Ponent, 07013 Palma",
+      "mail": "",
+      "website": "https://www.hotelhostalcuba.com/es/",
+      "phone": "+34971452237",
+      "googleMapsLink": "https://maps.app.goo.gl/BTjinUrtwRZrTXoc9",
+      "slug": "bar-cuba",
+      "aiRating": 4.2,
+      "proList": "- Spectacular rooftop views over the marina and cathedral\n- Lively atmosphere with DJs in the downstairs club\n- Offers Mediterranean cuisine and breakfast on the rooftop",
+      "tipsList": "- Book in advance for the Sky Bar, especially in summer\n- Expect higher drink prices typical of rooftop bars\n- Visit during sunset for the best views and ambiance",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726828401-hotelhostalcuba-03.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726828401-hotelhostalcuba-04.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726828401-hotelhostalcuba-02.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726828401-hotelhostalcuba-01.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726828401-hotelhostalcuba-05.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🍸 Bar",
+        "slug": "bar"
+      },
+      "subCategories": [
+        {
+          "name": "🍽️ Dining",
+          "slug": "in-house-dining"
+        },
+        {
+          "name": "🌇 Rooftop",
+          "slug": "rooftop"
+        },
+        {
+          "name": "💃 Club",
+          "slug": "club"
+        },
+        {
+          "name": "🍹 Cocktail",
+          "slug": "cocktail"
+        }
+      ],
+      "location": {
+        "latitude": 39.570199,
+        "longitude": 2.6391496
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
+    },
+    {
       "_publishedAt": "2024-10-25T18:03:54+02:00",
       "_firstPublishedAt": "2024-09-19T10:05:43+02:00",
       "id": "Usk1A9smSjmg7dyUt4fo1w",
@@ -36,7 +946,7 @@
         }
       ],
       "mainCategory": {
-        "name": "🍽️ Restaurant",
+        "name": "🍽️ Food",
         "slug": "restaurant"
       },
       "subCategories": [
@@ -56,7 +966,9 @@
       "location": {
         "latitude": 39.570694,
         "longitude": 2.6567097
-      }
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
     },
     {
       "_publishedAt": "2024-10-25T18:03:43+02:00",
@@ -110,77 +1022,9 @@
       "location": {
         "latitude": 39.5710629,
         "longitude": 2.6548905
-      }
-    },
-    {
-      "_publishedAt": "2024-10-25T18:03:26+02:00",
-      "_firstPublishedAt": "2024-09-19T19:36:10+02:00",
-      "id": "Syqhgt8pTK2pa88dwb2z6g",
-      "name": "BAR CUBA",
-      "description": "## Highlights\nBar Cuba, located in Palma de Mallorca’s trendy Santa Catalina district, is an iconic venue offering a blend of bar, café, and nightclub experiences. Situated in a beautifully restored colonial building, it features a lively ground-floor café with a Havana-inspired vibe, and a famous rooftop Sky Bar. This rooftop offers breathtaking views of the Mediterranean, Palma’s marina, and the cathedral, making it a popular spot for sunset cocktails. Bar Cuba also serves Mediterranean cuisine, including daily menus and à la carte options, perfect for both daytime dining and evening cocktails.\n\n## Services\nBar Cuba is open all day, providing a variety of experiences from morning coffee and breakfast on the rooftop to vibrant nightlife with DJ performances in the downstairs club. The Sky Bar is known for its intimate setting and spectacular views, where guests can enjoy cocktails, breakfast, and snacks. The club on the ground floor offers a buzzing atmosphere with DJs playing on weekends until late, making it a go-to spot for night owls.\n\n## Location\nLocated in the heart of Santa Catalina, Bar Cuba is a short walk from Sa Feixina Park and other cultural hotspots in Palma. The venue’s location makes it perfect for visitors looking to explore the city while enjoying a relaxed yet trendy bar environment. Santa Catalina itself is a lively area, known for its nightlife, boutiques, and proximity to the harbor.\n\n## User Experiences\nGuests rave about the stunning rooftop views and the atmosphere at Bar Cuba, with many recommending it for both breakfast and evening drinks. The rooftop's popularity means it’s advised to book ahead, especially in summer. Some guests note that drinks can be pricey, but the ambiance and views make up for it. While the service has received some mixed reviews, the overall experience at Bar Cuba remains a top recommendation for visitors looking to enjoy Palma’s nightlife and scenic views.",
-      "address": "Carrer de Sant Magí, 1, Ponent, 07013 Palma",
-      "mail": "",
-      "website": "https://www.hotelhostalcuba.com/es/",
-      "phone": "+34971452237",
-      "googleMapsLink": "https://maps.app.goo.gl/BTjinUrtwRZrTXoc9",
-      "slug": "bar-cuba",
-      "aiRating": 4.2,
-      "proList": "- Spectacular rooftop views over the marina and cathedral\n- Lively atmosphere with DJs in the downstairs club\n- Offers Mediterranean cuisine and breakfast on the rooftop",
-      "tipsList": "- Book in advance for the Sky Bar, especially in summer\n- Expect higher drink prices typical of rooftop bars\n- Visit during sunset for the best views and ambiance",
-      "photos": [
-        {
-          "responsiveImage": {
-            "src": "https://www.datocms-assets.com/138394/1726828401-hotelhostalcuba-03.jpg",
-            "alt": null
-          }
-        },
-        {
-          "responsiveImage": {
-            "src": "https://www.datocms-assets.com/138394/1726828401-hotelhostalcuba-04.jpg",
-            "alt": null
-          }
-        },
-        {
-          "responsiveImage": {
-            "src": "https://www.datocms-assets.com/138394/1726828401-hotelhostalcuba-02.jpg",
-            "alt": null
-          }
-        },
-        {
-          "responsiveImage": {
-            "src": "https://www.datocms-assets.com/138394/1726828401-hotelhostalcuba-01.jpg",
-            "alt": null
-          }
-        },
-        {
-          "responsiveImage": {
-            "src": "https://www.datocms-assets.com/138394/1726828401-hotelhostalcuba-05.jpg",
-            "alt": null
-          }
-        }
-      ],
-      "mainCategory": {
-        "name": "🍸 Bar",
-        "slug": "bar"
       },
-      "subCategories": [
-        {
-          "name": "🍽️ In-house dining",
-          "slug": "in-house-dining"
-        },
-        {
-          "name": "🌇 Rooftop",
-          "slug": "rooftop"
-        },
-        {
-          "name": "💃 Club",
-          "slug": "club"
-        }
-      ],
-      "location": {
-        "latitude": 39.570199,
-        "longitude": 2.6391496
-      }
+      "externalVideoLink": null,
+      "providerVideoLink": ""
     },
     {
       "_publishedAt": "2024-10-25T00:51:31+02:00",
@@ -230,7 +1074,7 @@
         }
       ],
       "mainCategory": {
-        "name": "🍽️ Restaurant",
+        "name": "🍽️ Food",
         "slug": "restaurant"
       },
       "subCategories": [
@@ -242,7 +1086,9 @@
       "location": {
         "latitude": 39.5718746,
         "longitude": 2.6392642
-      }
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
     },
     {
       "_publishedAt": "2024-10-25T00:49:19+02:00",
@@ -301,14 +1147,16 @@
           "slug": "spa"
         },
         {
-          "name": "🍽️ In-house dining",
+          "name": "🍽️ Dining",
           "slug": "in-house-dining"
         }
       ],
       "location": {
         "latitude": 39.56889340000001,
         "longitude": 2.6304472
-      }
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
     },
     {
       "_publishedAt": "2024-10-25T00:48:18+02:00",
@@ -358,7 +1206,7 @@
         }
       ],
       "mainCategory": {
-        "name": "🍽️ Restaurant",
+        "name": "🍽️ Food",
         "slug": "restaurant"
       },
       "subCategories": [
@@ -370,7 +1218,9 @@
       "location": {
         "latitude": 39.4913015,
         "longitude": 2.8910941
-      }
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
     },
     {
       "_publishedAt": "2024-10-25T00:47:21+02:00",
@@ -436,157 +1286,9 @@
       "location": {
         "latitude": 39.57196039999999,
         "longitude": 2.6472125
-      }
-    },
-    {
-      "_publishedAt": "2024-10-25T00:46:46+02:00",
-      "_firstPublishedAt": "2024-09-20T13:11:13+02:00",
-      "id": "Ncdc0ZX5SC2rbaR9L1cG2Q",
-      "name": "Hotel Cort",
-      "description": "## Highlights\nHotel Cort is a chic boutique hotel located in the heart of Palma’s historic old town. With stylish interiors blending Moorish tiles and Mallorcan fabrics, this intimate hotel offers a luxury escape, complete with a rooftop terrace and plunge pool. The hotel is well-known for its excellent restaurant, featuring Mediterranean cuisine and fresh seafood, including ceviche. It's within walking distance of major attractions like Palma Cathedral, making it a perfect base for exploring the city.\n\n## Services\nHotel Cort offers:\n- **Luxury Suites**: Including family suites and rooms with views over the Plaza Cort.\n- **Rooftop Terrace**: A relaxing spot with a plunge pool, ideal for unwinding.\n- **Restaurant & Bar**: Mediterranean cuisine, breakfast, and alfresco dining in the Plaza.\n- **Other Amenities**: Air conditioning, Wi-Fi, and daily housekeeping.\n\n## Location\nSituated at **Plaça de Cort, 11, Palma de Mallorca**, the hotel is centrally located in the bustling old town, steps from Palma Cathedral and the Royal Palace of Almudaina. The beach is just a 15-minute walk away, making it ideal for both sightseeing and beach lovers.\n\n## User Experiences\nGuests frequently praise the hotel's central location, stylish decor, and excellent dining. The rooftop terrace is often highlighted as a tranquil spot, perfect for a relaxing afternoon. Some guests note that the dining experience can be expensive, but the quality of the food is highly rated. Rooms are described as comfortable, with thoughtful details that make for a luxurious stay.",
-      "address": "Plaça de Cort, 11, Distrito Centro, 07001 Palma",
-      "mail": "info@hotelcort.com",
-      "website": "http://www.hotelcort.com/",
-      "phone": "+34971213300",
-      "googleMapsLink": "https://maps.app.goo.gl/8J6W9J9VZUP5veFEA",
-      "slug": "hotel-cort",
-      "aiRating": 4.5,
-      "proList": "- Prime location in Palma’s old town, close to major sights.\n- Stylish decor blending modern comfort with local charm.\n- Rooftop terrace with a plunge pool for relaxation.",
-      "tipsList": "- Booking in advance is recommended for the best rooms.\n- The restaurant is excellent but can be pricey.\n- Ideal for couples or small groups looking for an intimate boutique experience.",
-      "photos": [],
-      "mainCategory": {
-        "name": "🏨 Hotel",
-        "slug": "hotel"
       },
-      "subCategories": [],
-      "location": {
-        "latitude": 39.569819,
-        "longitude": 2.6498663
-      }
-    },
-    {
-      "_publishedAt": "2024-10-25T00:46:02+02:00",
-      "_firstPublishedAt": "2024-09-20T16:15:04+02:00",
-      "id": "HYX3IPddRM2XtolOUqjhZA",
-      "name": "Diving Dragonera",
-      "description": "## Highlights\nDiving Dragonera offers an unforgettable experience for both beginner and experienced divers, with its stunning underwater landscapes around the island of Dragonera, near Mallorca. This PADI Dive Center is renowned for its professional team and well-maintained equipment, ensuring safe and fun diving adventures. You’ll explore crystal-clear waters full of fascinating rock formations, schools of fish, and even the occasional barracuda, making it an ideal spot for divers looking to enjoy Mallorca’s natural beauty.\n\n## Services\nAt Diving Dragonera, you can choose from:\n- **PADI Diving Courses**: Available for all levels, from beginner to advanced certifications.\n- **Daily Dive Trips**: Guided diving tours around Dragonera and nearby areas, known for their exceptional visibility.\n- **Snorkeling Tours**: A great option for non-divers or families, these trips let you explore the area’s marine life from the surface.\n\n## Location\nThe dive center operates out of **Port d'Andratx**, offering easy access to the island of Dragonera, a protected marine reserve. The island’s rugged coastline and rich underwater ecosystem make it one of the best dive spots in Mallorca. Free transportation from nearby hotels is often available.\n\n## User Experiences\nReviews often highlight the professionalism and friendliness of the dive instructors, making even beginners feel comfortable. Many divers are amazed by the pristine condition of the dive sites, especially around Dragonera, where the visibility is excellent, and the marine life is diverse. Several users mention seeing schools of fish and barracudas, and they recommend this as a must-do experience for visitors to Mallorca.",
-      "address": "Av. Almirante Riera Alemany, 23, 07157 Port d'Andratx",
-      "mail": "info@divingdragonera.de",
-      "website": "http://www.aqua-mallorca-diving.com/",
-      "phone": "+34971674376",
-      "googleMapsLink": "https://maps.app.goo.gl/jPkSekGMRxnaocLFA",
-      "slug": "diving-dragonera",
-      "aiRating": 4.4,
-      "proList": "- Beautiful underwater landscapes with great visibility.\n- Friendly and professional dive instructors.\n- Suitable for both beginners and advanced divers.",
-      "tipsList": "- Book your dive trip early, especially in high season.\n- Bring an underwater camera to capture the incredible marine life.\n- Perfect for small groups or families looking for a fun day out.",
-      "photos": [],
-      "mainCategory": {
-        "name": "🌴 Leisure",
-        "slug": "leisure"
-      },
-      "subCategories": [
-        {
-          "name": "🤿 Diving",
-          "slug": "diving"
-        }
-      ],
-      "location": {
-        "latitude": 39.5426811,
-        "longitude": 2.3856721
-      }
-    },
-    {
-      "_publishedAt": "2024-10-25T00:45:15+02:00",
-      "_firstPublishedAt": "2024-09-20T16:24:44+02:00",
-      "id": "Yynb7zcmTUSc4xot5UiRgQ",
-      "name": "Albatros Diving",
-      "description": "## Highlights\nAlbatros Diving, located in Colonia de Sant Jordi, is a well-established PADI 5-Star Dive Center offering top-notch diving experiences around Mallorca and Cabrera. Founded in 1993, it provides a range of diving courses from beginner to advanced levels, as well as guided snorkel tours and private excursions. They are known for their friendly, professional team and well-maintained diving equipment. Whether you want to try diving for the first time or explore the beautiful underwater caves and marine life of Cabrera, Albatros Diving is an ideal choice.\n\n## Services\nAlbatros Diving offers:\n- **PADI Diving Courses**: From beginner (Discover Scuba Diving at €99) to advanced certifications (Rescue Diver, Divemaster, etc.).\n- **Daily Diving Excursions**: Full and half-day trips for certified divers, with options like the Pirate Cave tour.\n- **Snorkeling and Private Tours**: Guided snorkeling tours (€45), private boat excursions, and tailored dive adventures.\n\n## Location\nAlbatros Diving is situated near the port in **Colonia de Sant Jordi**, making it easy to access the best dive sites around Mallorca and the Cabrera National Park. They offer free transport from nearby areas such as Cala Millor and Porto Cristo, making it convenient for visitors staying along the coast.\n\n## User Experiences\nDivers often highlight the excellent organization and safety measures of Albatros Diving. The friendly and multilingual staff (speaking Spanish, English, German, and more) are praised for making both beginners and advanced divers feel comfortable. Many reviews mention the beauty of the dive sites, especially Cabrera's clear waters and abundant marine life, as a highlight of their trip.",
-      "address": "Carrer del Xaloc, 5, 07559 Cala Bona",
-      "mail": "info@albatros-diving.com",
-      "website": "https://www.albatros-diving.com/",
-      "phone": "+34621251940",
-      "googleMapsLink": "https://maps.app.goo.gl/v4uxGbZiWNiuh1Ww8",
-      "slug": "albatros-diving",
-      "aiRating": 4.3,
-      "proList": "- Highly experienced, friendly team.\n- Variety of courses for all levels, including snorkel options.\n- Free transport from local areas.",
-      "tipsList": "- Book early, especially for popular trips like Pirate Cave diving.\n- Bring a GoPro or rent one (€20) to capture underwater memories.\n- Consider multi-dive packages for discounted rates on diving.",
-      "photos": [],
-      "mainCategory": {
-        "name": "🌴 Leisure",
-        "slug": "leisure"
-      },
-      "subCategories": [
-        {
-          "name": "🤿 Diving",
-          "slug": "diving"
-        }
-      ],
-      "location": {
-        "latitude": 39.6131082,
-        "longitude": 3.3917201
-      }
-    },
-    {
-      "_publishedAt": "2024-10-25T00:44:23+02:00",
-      "_firstPublishedAt": "2024-09-20T16:27:35+02:00",
-      "id": "fJpUu7bNT_-0rIOROvpdVw",
-      "name": "Aventura IB Colonia de Sant Jordi",
-      "description": "## Highlights\nAventura IB in Colonia de Sant Jordi offers exciting marine experiences around Mallorca and Cabrera National Park. The team specializes in diving, snorkeling, and boat tours, with professional instructors guiding all activities. You can enjoy scuba diving trips, guided snorkel tours, or even rent a private boat for the day. Their excursions cater to beginners and experienced divers alike, with courses ranging from introductory dives to advanced certifications. Families with children (age 8+) are also welcome to participate.\n\n## Services\nAventura IB provides a wide variety of services:\n- **Scuba Diving**: Full and half-day trips to Cabrera, open to certified divers and beginners alike.\n- **Snorkeling**: Guided afternoon tours with all gear included (mask, fins, wetsuit).\n- **Boat Rental**: Half and full-day options for sailing or classic llaut boat trips, visiting secluded beaches.\n- **Free Pickup**: Shuttle service between Palma, Colonia de Sant Jordi, and nearby towns.\n\n## Location\nLocated in **Colonia de Sant Jordi**, Mallorca, Aventura IB is conveniently situated close to the marina. Their boat trips explore the stunning Cabrera National Park and nearby pristine beaches, making it a perfect starting point for marine adventures. The address is: **Calle Gabriel Roca, 24, 07638 Colonia de Sant Jordi**.\n\n## User Experiences\nGuests frequently praise the knowledgeable and friendly staff, highlighting the instructors’ expertise in making first-time divers feel safe. Reviews also emphasize the beauty of the Cabrera National Park, with its crystal-clear waters and rich marine life. Many appreciate the variety of activities and personalized service, especially the private boat rentals and tailored excursions for small groups.",
-      "address": "Carrer Gabriel Roca, 24, 07638 Colònia de Sant Jordi",
-      "mail": "info@aventuraib.com",
-      "website": "http://www.aventuraib.com/",
-      "phone": "+34673334003",
-      "googleMapsLink": "https://maps.app.goo.gl/3WPxcMLFgw4sP7fcA",
-      "slug": "aventura-ib-colonia-de-sant-jordi",
-      "aiRating": 4.6,
-      "proList": "- Wide range of water activities, from beginner to advanced.\n- Free transport from nearby towns to Colonia de Sant Jordi.\n- Highly experienced and friendly staff.",
-      "tipsList": "- Book in advance during peak season to secure a spot.\n- Ideal for families with children aged 8+.\n- Don’t miss the full-day diving trip to Cabrera for a unique underwater experience.",
-      "photos": [],
-      "mainCategory": {
-        "name": "🌴 Leisure",
-        "slug": "leisure"
-      },
-      "subCategories": [
-        {
-          "name": "🤿 Diving",
-          "slug": "diving"
-        }
-      ],
-      "location": {
-        "latitude": 39.315727,
-        "longitude": 2.9964847
-      }
-    },
-    {
-      "_publishedAt": "2024-10-25T00:41:12+02:00",
-      "_firstPublishedAt": "2024-09-20T16:36:57+02:00",
-      "id": "OOS7zIK1T6ipMrmCydtCsA",
-      "name": "Port Calanova",
-      "description": "## Highlights\nPort Calanova is a modern marina and sailing school located in the bay of Palma, just 5 km from the city center. Established in 1976, this marina is ideal for both boating enthusiasts and holidaymakers looking to explore the clear waters and nearby attractions. It offers a wide range of water sports, including sailing, kayaking, and paddleboarding, and has accommodation options at the Calanova Sports Residence. The port is also home to two restaurants and various facilities like a gym and pool, making it a popular spot for relaxation and activities.\n\n## Services\nPort Calanova offers 172 berths for boats up to 25 meters, along with a shipyard providing services like cleaning, maintenance, and repairs. Visitors can also rent boats or participate in water sports like windsurfing or stand-up paddleboarding. The marina has a fuel dock, showers, Wi-Fi, and laundry facilities. For those staying on land, the Calanova Sports Residence provides accommodation, and the marina hosts events and sailing camps year-round.\n\n## Location\nPort Calanova is situated on Avenida Joan Miró, 327, just 15 minutes from Palma's airport. It’s close to some of Palma’s major attractions, including Marivent Palace and Illetas Beach, and offers easy access to the city’s vibrant center and coastline.\n\n## User Experiences\nVisitors appreciate the friendly and professional service at Port Calanova. Many highlight the wide variety of activities, from water sports to relaxed dining at the marina's restaurants. The calm atmosphere and excellent facilities make it a great choice for families and boating enthusiasts alike, while the beautiful views of the bay and proximity to Palma’s sights add to its appeal.",
-      "address": "Avinguda de Joan Miró, 327, Ponent, 07015 Palma",
-      "mail": "info@portcalanova.com",
-      "website": "https://www.portcalanova.com/en",
-      "phone": "+34971402512",
-      "googleMapsLink": "https://maps.app.goo.gl/ACDCFpCooFoVLQ1W7",
-      "slug": "port-calanova",
-      "aiRating": 4.2,
-      "proList": "- Offers a wide range of water sports and sailing activities\n- Well-equipped marina with excellent services for boats and yachts\n- Convenient location close to Palma's attractions and beaches",
-      "tipsList": "- Ideal for combining sailing with a stay at the on-site Sports Residence\n- Book boat rentals or sailing lessons in advance, especially in peak season\n- Explore nearby Palma for dining, shopping, and cultural experiences",
-      "photos": [],
-      "mainCategory": {
-        "name": "🌴 Leisure",
-        "slug": "leisure"
-      },
-      "subCategories": [
-        {
-          "name": "🏄‍♂️ Surfing",
-          "slug": "surfing"
-        }
-      ],
-      "location": {
-        "latitude": 39.5498276,
-        "longitude": 2.5988588
-      }
+      "externalVideoLink": null,
+      "providerVideoLink": ""
     },
     {
       "_publishedAt": "2024-10-25T00:40:22+02:00",
@@ -652,7 +1354,12 @@
       "location": {
         "latitude": 39.5916535,
         "longitude": 2.6355558
-      }
+      },
+      "externalVideoLink": {
+        "thumbnailUrl": "https://i.ytimg.com/vi/_j96BmfoQV8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=_j96BmfoQV8"
+      },
+      "providerVideoLink": ""
     },
     {
       "_publishedAt": "2024-10-25T00:39:38+02:00",
@@ -696,7 +1403,7 @@
         }
       ],
       "mainCategory": {
-        "name": "🍽️ Restaurant",
+        "name": "🍽️ Food",
         "slug": "restaurant"
       },
       "subCategories": [
@@ -732,142 +1439,9 @@
       "location": {
         "latitude": 39.5228695,
         "longitude": 2.7385259
-      }
-    },
-    {
-      "_publishedAt": "2024-10-25T00:39:00+02:00",
-      "_firstPublishedAt": "2024-09-20T16:17:50+02:00",
-      "id": "XzPI_tfxR_6mDBme3-I8IQ",
-      "name": "Big Blue Diving Mallorca",
-      "description": "## Highlights\nBig Blue Diving Mallorca is a well-regarded dive center in Palmanova, offering diving experiences for all levels, from beginners to advanced divers. The center is known for its professional yet friendly instructors, high safety standards, and access to some of the best dive sites in Mallorca, such as the marine reserve at El Toro. Guests appreciate the personal approach, clear explanations, and relaxed atmosphere, making it ideal for first-time divers as well as those seeking certifications.\n\n## Services\nBig Blue Diving provides a range of diving courses, including Open Water and Advanced certifications. They offer boat diving, shore diving, and snorkeling trips, with top-notch equipment available. The dive center operates with both PADI and SSI certifications. The team ensures a safe and enjoyable diving experience, with a focus on high-quality service and environmental responsibility.\n\n## Location\nThe center is located in Palmanova, Mallorca, within walking distance from the beach. From here, guests can explore the underwater beauty of Mallorca’s southwestern coast, known for its rich marine life and excellent visibility.\n\n## User Experiences\nCustomers often highlight the professionalism and friendliness of the instructors, particularly praising their patience and ability to make even first-time divers feel comfortable. Guests have described their dives as unforgettable, enjoying the variety of marine life and excellent underwater visibility. The diving team is multilingual, and the positive atmosphere is frequently mentioned as a reason for returning.",
-      "address": "Carrer Martín Ros García, 6, 07181 Palmanova",
-      "mail": "info@bigbluediving.net",
-      "website": "https://www.bigbluediving.net/en/",
-      "phone": "+34971681686",
-      "googleMapsLink": "https://maps.app.goo.gl/LbdjVRrty9vaSKK18",
-      "slug": "big-blue-diving-mallorca",
-      "aiRating": 4.5,
-      "proList": "- Professional, patient instructors\n- Access to top dive sites like El Toro\n- Suitable for beginners and advanced divers",
-      "tipsList": "- Book in advance, especially during peak season\n- Consider completing an Open Water course for more flexibility\n- Bring an underwater camera to capture the beautiful marine life",
-      "photos": [],
-      "mainCategory": {
-        "name": "🌴 Leisure",
-        "slug": "leisure"
       },
-      "subCategories": [
-        {
-          "name": "🤿 Diving",
-          "slug": "diving"
-        }
-      ],
-      "location": {
-        "latitude": 39.5125618,
-        "longitude": 2.5404125
-      }
-    },
-    {
-      "_publishedAt": "2024-10-25T00:38:12+02:00",
-      "_firstPublishedAt": "2024-09-20T13:36:29+02:00",
-      "id": "Uq30sQgETMK6ETd6qRpX-w",
-      "name": "Iberostar Selection Playa de Palma",
-      "description": "## Highlights\nIberostar Selection Playa de Palma is a luxurious 5-star beachfront hotel, ideally located near Palma's airport and the vibrant nightlife of Playa de Palma. Known for its stunning views of the Mediterranean, the hotel offers modern rooms, some with semi-private terraces. It’s popular for its rooftop infinity pool and exclusive Star Prestige area, providing a relaxing adults-only experience. The hotel's eco-friendly approach and its variety of dining options, including a gourmet restaurant by Chef Aitor Arregi, make it an appealing choice for both couples and families.\n\n## Services\nThe hotel boasts premium facilities like an extensive spa with a wet area and treatments, a fitness center, and several swimming pools. Dining options include the renowned Guethary gourmet restaurant and a rooftop champagne bar with stunning sunset views. Guests can also enjoy live entertainment and a variety of family-friendly services, including kids' clubs and babysitting.\n\n## Location\nLocated in Playa de Palma, just a short drive from the airport and about 10 minutes from Palma’s city center, the hotel is perfectly situated for both beachgoers and city explorers. The beachfront location offers easy access to water sports, local restaurants, and Palma’s bustling nightlife.\n\n## User Experiences\nGuests frequently highlight the stunning sea views, excellent service, and the high-quality breakfast. The Star Prestige service, with its private rooftop and pool, is a favorite among visitors looking for an extra touch of luxury. While some guests note that the buffet could improve, most praise the hotel for its cleanliness, modern rooms, and convenient location.",
-      "address": "Carrer de Marbella, 36, Platja de Palma, 07610 Palma",
-      "mail": "",
-      "website": "https://www.iberostar.com/en/hotels/majorca/iberostar-playa-de-palma/?utm_source=google&utm_medium=organic&utm_campaign=IBSVOL_EMEA_SEOLOC_GMB_NA_EN_ESP_BAL_PMI_PDP_PULL_NA_NA_NA_NA_NA",
-      "phone": "+34971266450",
-      "googleMapsLink": "https://maps.app.goo.gl/vxsDNW7WYuCeQ24v7",
-      "slug": "iberostar-selection-playa-de-palma",
-      "aiRating": 4.5,
-      "proList": "- Stunning sea views and beachfront location\n- Excellent rooftop pool and exclusive Star Prestige area\n- Variety of family-friendly services and dining options",
-      "tipsList": "- Book a Star Prestige room for exclusive rooftop access\n- Try the gourmet dining experience at Guethary restaurant\n- Ideal for those wanting easy access to both the beach and Palma's city center",
-      "photos": [],
-      "mainCategory": {
-        "name": "🏨 Hotel",
-        "slug": "hotel"
-      },
-      "subCategories": [],
-      "location": {
-        "latitude": 39.52335799999999,
-        "longitude": 2.7383303
-      }
-    },
-    {
-      "_publishedAt": "2024-10-25T00:37:27+02:00",
-      "_firstPublishedAt": "2024-09-20T13:33:51+02:00",
-      "id": "ENbA-tQnSlq9e3utEPzaOg",
-      "name": "Iberostar Selection Llaut",
-      "description": "## Highlights\nIberostar Selection Llaut is a luxurious 5-star hotel located in Playa de Palma, offering elegant rooms and a host of premium amenities, including a 1,300 m² wellness spa, fitness center, and an outdoor pool. Guests can enjoy the Asian fusion cuisine at the rooftop restaurant, Katagi Blau, while taking in panoramic views of the Bay of Palma. The hotel is also well-suited for events and conferences, with several meeting spaces available.\n\n## Services\nThe hotel offers a wellness spa with saunas, a Turkish bath, and a hydro-wellness circuit. There’s also a fully-equipped gym open 24 hours. Dining includes the rooftop restaurant Katagi Blau, where guests can enjoy Asian fusion meals. For events, there are spaces such as the Bitácora meeting room, and the hotel provides event planning services.\n\n## Location\nSituated just a 4-minute walk from Palma Beach and 4 km from Palma Airport, the hotel is conveniently located for both beachgoers and those looking to explore the city center, which is just a 15-minute drive away.\n\n## User Experiences\nGuests often praise the hotel for its excellent service, modern facilities, and serene spa. The rooftop restaurant is particularly appreciated for its ambiance and views. Some guests mention the proximity to the airport as a bonus, although occasional noise from flights can be a minor drawback.",
-      "address": "Av. d'Amèrica, 2, Platja de Palma, 07600 Palma",
-      "mail": "",
-      "website": "https://www.iberostar.com/en/hotels/majorca/iberostar-llaut-palma/?utm_source=google&utm_medium=organic&utm_campaign=IBSVOL_EMEA_SEOLOC_GMB_NA_EN_ESP_BAL_PMI_LLT_PULL_NA_NA_NA_NA_NA",
-      "phone": "+34971596070",
-      "googleMapsLink": "https://maps.app.goo.gl/uJZW9rMao8pFmKtu5",
-      "slug": "iberostar-selection-llaut",
-      "aiRating": 4.5,
-      "proList": "- Stunning rooftop restaurant with panoramic views\n- Extensive spa and wellness facilities\n- Close proximity to Palma Beach and the airport",
-      "tipsList": "- Try the Sunday brunch at Katagi Blau for a special experience\n- Use the 24-hour gym during off-peak times for a quieter session\n- Book spa treatments in advance to secure preferred times",
-      "photos": [],
-      "mainCategory": {
-        "name": "🏨 Hotel",
-        "slug": "hotel"
-      },
-      "subCategories": [],
-      "location": {
-        "latitude": 39.5133666,
-        "longitude": 2.7512318
-      }
-    },
-    {
-      "_publishedAt": "2024-10-25T00:36:39+02:00",
-      "_firstPublishedAt": "2024-09-20T13:29:53+02:00",
-      "id": "QdC0VIcOQHCAkhx8VupK-g",
-      "name": "Hotel Cappuccino",
-      "description": "## Highlights\nHotel Cappuccino is a five-star boutique hotel located in the heart of Palma de Mallorca's Old Town, offering a blend of luxury and charm. Designed by renowned Parisian designer Jacques Grange, the hotel features an eclectic, artistic ambiance with bold interiors and elegant furnishings. Guests love the central location, near Palma’s famous Cathedral and the Passeig del Born. The hotel offers unique amenities, including a rooftop pool, a private cinema, and an on-site spa, making it a relaxing yet vibrant urban retreat.\n\n## Services\nHotel Cappuccino provides luxury services such as a rooftop terrace with a pool, multiple dining options including a Mediterranean café and a Japanese restaurant, and a wellness center offering personalized spa treatments. Guests can enjoy a private cinema experience called \"Cappucine\" or unwind in the hotel’s lounge areas. There is also a gym for fitness enthusiasts, and the hotel offers an airport shuttle upon request.\n\n## Location\nSituated on Plaza de Cort, Hotel Cappuccino is right in the center of Palma de Mallorca’s Old Town. Guests are within walking distance of major attractions like the Cathedral and various local markets. The hotel’s prime location also makes it easy to explore nearby restaurants, boutiques, and Palma's nightlife.\n\n## User Experiences\nGuests frequently praise the hotel’s unique design, luxurious atmosphere, and excellent service. Many enjoy the rooftop pool with stunning views and the cozy, artsy feel of the hotel’s interiors. The location is highlighted as ideal for exploring Palma’s Old Town. However, some guests mention that the hotel’s busy central location may lead to some noise from the surrounding area, especially during peak times.",
-      "address": "Plaça de Cort, Distrito Centro, 07001 Palma",
-      "mail": "info@hotelcappuccino.com",
-      "website": "http://www.hotelcappuccino.com//?partner=5235utm_source=google&utm_medium=organic&utm_campaign=MyBusiness&utm",
-      "phone": "+34871037437",
-      "googleMapsLink": "https://maps.app.goo.gl/t3okezRNKSrNSroo7",
-      "slug": "hotel-cappuccino",
-      "aiRating": 4.5,
-      "proList": "- Beautiful design by Jacques Grange with unique artistic touches\n- Central location, perfect for exploring Palma’s Old Town\n- Luxurious amenities, including a rooftop pool and private cinema",
-      "tipsList": "- Book the private cinema \"Cappucine\" for a unique experience\n- Visit the rooftop pool for city views and relaxation\n- Be prepared for some city noise due to the central location",
-      "photos": [],
-      "mainCategory": {
-        "name": "🏨 Hotel",
-        "slug": "hotel"
-      },
-      "subCategories": [],
-      "location": {
-        "latitude": 39.5697159,
-        "longitude": 2.649874
-      }
-    },
-    {
-      "_publishedAt": "2024-10-25T00:35:53+02:00",
-      "_firstPublishedAt": "2024-09-20T13:26:57+02:00",
-      "id": "JeHs8QwcS_Ge6oxYX8h_Bg",
-      "name": "Hotel Victoria Gran Meliá",
-      "description": "## Highlights\nHotel Victoria Gran Meliá is a five-star luxury hotel in Palma de Mallorca, known for its stunning sea views and prime location near the Port of Palma. The hotel offers elegant rooms, many with balconies overlooking the bay or the iconic Cathedral. Guests appreciate the excellent service, refined ambiance, and luxurious amenities like the outdoor pool and spa. It's ideal for both business and leisure travelers, offering a sophisticated atmosphere and easy access to the city’s top attractions.\n\n## Services\nThe hotel offers a range of luxurious services including a full spa with personalized treatments, a rooftop pool with stunning views, and a Mediterranean restaurant, Ikatza, serving refined local dishes. Rooms feature modern amenities, and premium rooms come with private balconies. The hotel also provides conference facilities and services for business travelers.\n\n## Location\nHotel Victoria Gran Meliá is located on Avinguda de Joan Miró, a short walk from the Port of Palma and the bustling city center. It’s ideally placed for exploring Palma’s historic sites, high-end shopping areas, and the nearby beaches. The hotel offers easy access to the airport and major attractions like Bellver Castle.\n\n## User Experiences\nGuests rave about the hotel's perfect location, luxurious rooms, and the exceptional sea views from their balconies. The staff is frequently praised for their professionalism and warm service. Many guests highlight the delicious breakfast and the relaxing pool area. However, a few mention that extras like minibar items may incur additional charges, so attention to details is advised.",
-      "address": "Avinguda de Joan Miró, 21, Ponent, 07014 Palma",
-      "mail": "",
-      "website": "https://www.melia.com/en/hotels/spain/majorca/victoria-gran-melia?utm_medium=organic&utm_source=directories&utm_campaign=google&utm_content=0754",
-      "phone": "+34971732542",
-      "googleMapsLink": "https://maps.app.goo.gl/oCWXYFFiEnBstR9T9",
-      "slug": "hotel-victoria-gran-melia",
-      "aiRating": 4.7,
-      "proList": "- Stunning sea views from many rooms\n- Excellent service and luxurious amenities\n- Prime location near the Port of Palma",
-      "tipsList": "- Request a sea view room for the best experience\n- Be mindful of extra minibar charges\n- Enjoy the rooftop pool for a relaxing afternoon",
-      "photos": [],
-      "mainCategory": {
-        "name": "🏨 Hotel",
-        "slug": "hotel"
-      },
-      "subCategories": [],
-      "location": {
-        "latitude": 39.5638014,
-        "longitude": 2.6261071
-      }
+      "externalVideoLink": null,
+      "providerVideoLink": ""
     },
     {
       "_publishedAt": "2024-10-25T00:35:10+02:00",
@@ -893,7 +1467,9 @@
       "location": {
         "latitude": 39.5690094,
         "longitude": 2.6526267
-      }
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
     },
     {
       "_publishedAt": "2024-10-25T00:34:22+02:00",
@@ -943,7 +1519,7 @@
         }
       ],
       "mainCategory": {
-        "name": "🍽️ Restaurant",
+        "name": "🍽️ Food",
         "slug": "restaurant"
       },
       "subCategories": [
@@ -963,7 +1539,9 @@
       "location": {
         "latitude": 39.5708477,
         "longitude": 2.6386299
-      }
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
     },
     {
       "_publishedAt": "2024-10-25T00:33:22+02:00",
@@ -1013,7 +1591,7 @@
         }
       ],
       "mainCategory": {
-        "name": "🍽️ Restaurant",
+        "name": "🍽️ Food",
         "slug": "restaurant"
       },
       "subCategories": [
@@ -1029,33 +1607,9 @@
       "location": {
         "latitude": 39.5711994,
         "longitude": 2.6484241
-      }
-    },
-    {
-      "_publishedAt": "2024-10-25T00:32:39+02:00",
-      "_firstPublishedAt": "2024-09-20T12:52:41+02:00",
-      "id": "V3RscGDFTuGcqXq_SvsT4g",
-      "name": "HOTEL CAN CIRERA",
-      "description": "## Highlights\nHotel Can Cirera is a beautifully restored boutique hotel located right next to Palma's iconic Cathedral, offering a unique blend of modern comfort in a historic setting. The rooms feature rustic beams, stylish decor, and modern amenities like luxurious bathrooms. Guests often praise the peaceful inner courtyards, the warm service from staff like Mari Carmen, and the exceptional breakfast experience. The hotel’s location is perfect for exploring Palma’s old town, with its picturesque streets and easy access to the sea.\n\n## Services\nHotel Can Cirera offers air-conditioned rooms, free Wi-Fi, and a delightful breakfast served in the hotel’s charming courtyard or indoor dining area. The staff provides personal attention, including restaurant recommendations and bookings. There's also a cozy sitting room for guests and beautiful artwork scattered throughout the hotel, adding to its charm.\n\n## Location\nThe hotel is centrally located in the old town of Palma, on Carrer del Palau Reial, steps away from the Cathedral and other cultural landmarks. Its prime location allows guests to easily explore Palma’s historical attractions, including the Royal Palace and local art galleries.\n\n## User Experiences\nGuests rave about the warm and attentive service, particularly from Mari Carmen and the breakfast team. They love the serene atmosphere in the courtyards and the stylish, comfortable rooms, which often have fantastic views of the Cathedral. Visitors frequently mention the perfect location, allowing them to explore the city on foot while enjoying a quiet, peaceful retreat within the hotel.",
-      "address": "Carrer del Palau Reial, 23, Centre, 07001 Palma",
-      "mail": "info@hotelcancirera.com",
-      "website": "https://www.hotelcancirera.com/",
-      "phone": "+34871620207",
-      "googleMapsLink": "https://maps.app.goo.gl/UpqNQEEnvXriq72r6",
-      "slug": "hotel-can-cirera",
-      "aiRating": 4.5,
-      "proList": "- Central location near the Cathedral\n- Excellent breakfast and personal service\n- Stylish rooms with historic charm",
-      "tipsList": "- Request a courtyard-facing room for more quiet\n- Book restaurant recommendations through the staff\n- Enjoy breakfast outdoors if weather permits",
-      "photos": [],
-      "mainCategory": {
-        "name": "🏨 Hotel",
-        "slug": "hotel"
       },
-      "subCategories": [],
-      "location": {
-        "latitude": 39.56924739999999,
-        "longitude": 2.6497426
-      }
+      "externalVideoLink": null,
+      "providerVideoLink": ""
     },
     {
       "_publishedAt": "2024-10-25T00:31:47+02:00",
@@ -1081,7 +1635,9 @@
       "location": {
         "latitude": 39.4761095,
         "longitude": 2.7243017
-      }
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
     },
     {
       "_publishedAt": "2024-10-25T00:29:53+02:00",
@@ -1147,7 +1703,9 @@
       "location": {
         "latitude": 39.5646584,
         "longitude": 2.6241283
-      }
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
     },
     {
       "_publishedAt": "2024-10-25T00:28:12+02:00",
@@ -1173,7 +1731,9 @@
       "location": {
         "latitude": 39.5922158,
         "longitude": 2.5957974
-      }
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
     },
     {
       "_publishedAt": "2024-10-25T00:25:32+02:00",
@@ -1199,7 +1759,9 @@
       "location": {
         "latitude": 39.5523957,
         "longitude": 2.6911005
-      }
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
     },
     {
       "_publishedAt": "2024-10-25T00:24:43+02:00",
@@ -1225,7 +1787,9 @@
       "location": {
         "latitude": 39.574501,
         "longitude": 2.6456798
-      }
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
     },
     {
       "_publishedAt": "2024-10-25T00:23:37+02:00",
@@ -1251,7 +1815,9 @@
       "location": {
         "latitude": 39.5738201,
         "longitude": 2.6398125
-      }
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
     },
     {
       "_publishedAt": "2024-10-25T00:22:47+02:00",
@@ -1277,7 +1843,9 @@
       "location": {
         "latitude": 39.573574,
         "longitude": 2.6513869
-      }
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
     },
     {
       "_publishedAt": "2024-10-25T00:21:24+02:00",
@@ -1303,7 +1871,9 @@
       "location": {
         "latitude": 39.5657104,
         "longitude": 2.6530103
-      }
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
     },
     {
       "_publishedAt": "2024-10-25T00:19:23+02:00",
@@ -1329,7 +1899,9 @@
       "location": {
         "latitude": 39.5656525,
         "longitude": 2.6552605
-      }
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
     },
     {
       "_publishedAt": "2024-10-25T00:18:37+02:00",
@@ -1355,7 +1927,9 @@
       "location": {
         "latitude": 39.5733841,
         "longitude": 2.6479941
-      }
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
     },
     {
       "_publishedAt": "2024-10-25T00:17:45+02:00",
@@ -1386,7 +1960,9 @@
       "location": {
         "latitude": 39.5410219,
         "longitude": 2.5937116
-      }
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
     },
     {
       "_publishedAt": "2024-10-25T00:16:38+02:00",
@@ -1417,7 +1993,9 @@
       "location": {
         "latitude": 39.5346705,
         "longitude": 2.7218685
-      }
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
     },
     {
       "_publishedAt": "2024-10-25T00:15:43+02:00",
@@ -1436,7 +2014,7 @@
       "tipsList": "- Try the tagliatelle with ragu or spinach ricotta ravioli\n- Limited seating; booking ahead is recommended\n- Perfect for pasta lovers seeking a true Italian experience",
       "photos": [],
       "mainCategory": {
-        "name": "🍽️ Restaurant",
+        "name": "🍽️ Food",
         "slug": "restaurant"
       },
       "subCategories": [
@@ -1448,7 +2026,9 @@
       "location": {
         "latitude": 39.57073450000001,
         "longitude": 2.6550477
-      }
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
     },
     {
       "_publishedAt": "2024-10-25T00:14:54+02:00",
@@ -1474,14 +2054,16 @@
         }
       ],
       "mainCategory": {
-        "name": "🍽️ Restaurant",
+        "name": "🍽️ Food",
         "slug": "restaurant"
       },
       "subCategories": [],
       "location": {
         "latitude": 39.5587636,
         "longitude": 2.6745697
-      }
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
     },
     {
       "_publishedAt": "2024-10-25T00:14:02+02:00",
@@ -1519,7 +2101,7 @@
         }
       ],
       "mainCategory": {
-        "name": "🍽️ Restaurant",
+        "name": "🍽️ Food",
         "slug": "restaurant"
       },
       "subCategories": [
@@ -1531,7 +2113,9 @@
       "location": {
         "latitude": 39.8003579,
         "longitude": 2.6950403
-      }
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
     },
     {
       "_publishedAt": "2024-10-25T00:13:10+02:00",
@@ -1569,7 +2153,7 @@
         }
       ],
       "mainCategory": {
-        "name": "🍽️ Restaurant",
+        "name": "🍽️ Food",
         "slug": "restaurant"
       },
       "subCategories": [
@@ -1581,7 +2165,9 @@
       "location": {
         "latitude": 39.5718681,
         "longitude": 2.6613639
-      }
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
     },
     {
       "_publishedAt": "2024-10-25T00:12:08+02:00",
@@ -1600,7 +2186,7 @@
       "tipsList": "- Try the T-bone steak or Wagyu carpaccio for a standout meal\n- Ideal for meat lovers; limited vegetarian options\n- Perfect for a relaxed yet high-quality dining experience",
       "photos": [],
       "mainCategory": {
-        "name": "🍽️ Restaurant",
+        "name": "🍽️ Food",
         "slug": "restaurant"
       },
       "subCategories": [
@@ -1612,7 +2198,9 @@
       "location": {
         "latitude": 39.5710043,
         "longitude": 2.6552932
-      }
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
     },
     {
       "_publishedAt": "2024-10-25T00:11:00+02:00",
@@ -1631,7 +2219,7 @@
       "tipsList": "- Try the prime steaks or grilled seafood for a standout experience\n- Ideal for a special occasion or an elegant dining experience\n- Prices are on the higher side, but worth it for the quality and ambiance",
       "photos": [],
       "mainCategory": {
-        "name": "🍽️ Restaurant",
+        "name": "🍽️ Food",
         "slug": "restaurant"
       },
       "subCategories": [
@@ -1647,7 +2235,9 @@
       "location": {
         "latitude": 39.5687668,
         "longitude": 2.6039369
-      }
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
     },
     {
       "_publishedAt": "2024-10-25T00:10:14+02:00",
@@ -1666,7 +2256,7 @@
       "tipsList": "- Try the suckling lamb chops for an authentic experience\n- Visit during spring for a stunning floral landscape\n- Ideal for those seeking a mix of history and quality Mallorcan cuisine\n",
       "photos": [],
       "mainCategory": {
-        "name": "🍽️ Restaurant",
+        "name": "🍽️ Food",
         "slug": "restaurant"
       },
       "subCategories": [
@@ -1682,7 +2272,9 @@
       "location": {
         "latitude": 39.7091214,
         "longitude": 2.6231857
-      }
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
     },
     {
       "_publishedAt": "2024-10-25T00:09:08+02:00",
@@ -1701,7 +2293,7 @@
       "tipsList": "- Try the lamb chops or traditional paella for a standout meal\n- Reserve in advance, especially during peak tourist season\n- Ideal for a quiet, authentic dining experience away from busy tourist spots",
       "photos": [],
       "mainCategory": {
-        "name": "🍽️ Restaurant",
+        "name": "🍽️ Food",
         "slug": "restaurant"
       },
       "subCategories": [
@@ -1717,7 +2309,9 @@
       "location": {
         "latitude": 39.407475,
         "longitude": 3.2087516
-      }
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
     },
     {
       "_publishedAt": "2024-10-25T00:08:13+02:00",
@@ -1736,7 +2330,7 @@
       "tipsList": "- Try the churrasco for an authentic Galician experience\n- No parking available, so plan to walk around Santa Catalina\n- Great for both locals and tourists seeking traditional Spanish flavors",
       "photos": [],
       "mainCategory": {
-        "name": "🍽️ Restaurant",
+        "name": "🍽️ Food",
         "slug": "restaurant"
       },
       "subCategories": [
@@ -1752,7 +2346,9 @@
       "location": {
         "latitude": 39.5722657,
         "longitude": 2.6387515
-      }
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
     },
     {
       "_publishedAt": "2024-10-25T00:07:23+02:00",
@@ -1771,7 +2367,7 @@
       "tipsList": "- Try the fresh salmon toast or Mango Bowl for a standout meal\n- Expect slightly elevated prices due to the trendy location\n- Great spot for both brunch lovers and social media enthusiasts",
       "photos": [],
       "mainCategory": {
-        "name": "🍽️ Restaurant",
+        "name": "🍽️ Food",
         "slug": "restaurant"
       },
       "subCategories": [
@@ -1783,7 +2379,9 @@
       "location": {
         "latitude": 39.5715283,
         "longitude": 2.6378549
-      }
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
     },
     {
       "_publishedAt": "2024-10-25T00:06:03+02:00",
@@ -1802,7 +2400,7 @@
       "tipsList": "- Try the beetroot gazpacho and the banoffee pie for a standout meal\n- Make a reservation in advance due to its popularity\n- The lunch menu offers great value, with multi-course options",
       "photos": [],
       "mainCategory": {
-        "name": "🍽️ Restaurant",
+        "name": "🍽️ Food",
         "slug": "restaurant"
       },
       "subCategories": [
@@ -1818,7 +2416,9 @@
       "location": {
         "latitude": 39.5706249,
         "longitude": 2.6427325
-      }
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
     },
     {
       "_publishedAt": "2024-10-25T00:05:15+02:00",
@@ -1837,7 +2437,7 @@
       "tipsList": "- Try the cheese plates and tapas for a true Mediterranean experience\n- Reserve a table ahead, as it’s popular with locals and tourists\n- Ideal for wine lovers; ask for pairing recommendations",
       "photos": [],
       "mainCategory": {
-        "name": "🍽️ Restaurant",
+        "name": "🍽️ Food",
         "slug": "restaurant"
       },
       "subCategories": [
@@ -1857,7 +2457,9 @@
       "location": {
         "latitude": 39.69373390000001,
         "longitude": 3.3502336
-      }
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
     },
     {
       "_publishedAt": "2024-10-25T00:04:25+02:00",
@@ -1876,7 +2478,7 @@
       "tipsList": "- Try the beetroot risotto and almond panna cotta\n- Be prepared for smaller portions, but exceptional quality\n- Visit the shop for organic, plastic-free products after your meal",
       "photos": [],
       "mainCategory": {
-        "name": "🍽️ Restaurant",
+        "name": "🍽️ Food",
         "slug": "restaurant"
       },
       "subCategories": [
@@ -1892,7 +2494,9 @@
       "location": {
         "latitude": 39.7675644,
         "longitude": 2.7126596
-      }
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
     },
     {
       "_publishedAt": "2024-10-25T00:03:44+02:00",
@@ -1911,7 +2515,7 @@
       "tipsList": "- Try the tasting menu for a more elaborate dining experience\n- Book ahead, as the restaurant is popular\n- Don’t miss the desserts, especially the blueberry sponge cake",
       "photos": [],
       "mainCategory": {
-        "name": "🍽️ Restaurant",
+        "name": "🍽️ Food",
         "slug": "restaurant"
       },
       "subCategories": [
@@ -1927,7 +2531,9 @@
       "location": {
         "latitude": 39.5657104,
         "longitude": 2.6530103
-      }
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
     },
     {
       "_publishedAt": "2024-10-25T00:02:47+02:00",
@@ -1946,7 +2552,7 @@
       "tipsList": "- Try the duck salad and ceviche for a standout experience\n- Reservations recommended, especially during peak times\n- Enjoy outdoor seating for a more vibrant street vibe",
       "photos": [],
       "mainCategory": {
-        "name": "🍽️ Restaurant",
+        "name": "🍽️ Food",
         "slug": "restaurant"
       },
       "subCategories": [
@@ -1958,7 +2564,9 @@
       "location": {
         "latitude": 39.5719045,
         "longitude": 2.6379457
-      }
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
     },
     {
       "_publishedAt": "2024-10-25T00:01:00+02:00",
@@ -2032,7 +2640,9 @@
       "location": {
         "latitude": 39.56991110000001,
         "longitude": 2.6461194
-      }
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
     },
     {
       "_publishedAt": "2024-10-25T00:00:15+02:00",
@@ -2102,7 +2712,9 @@
       "location": {
         "latitude": 39.56572329999999,
         "longitude": 2.6535501
-      }
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
     },
     {
       "_publishedAt": "2024-10-24T23:58:54+02:00",
@@ -2172,7 +2784,9 @@
       "location": {
         "latitude": 39.57116690000001,
         "longitude": 2.6477604
-      }
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
     },
     {
       "_publishedAt": "2024-10-24T23:57:28+02:00",
@@ -2203,7 +2817,9 @@
       "location": {
         "latitude": 28.6811122,
         "longitude": -13.9482918
-      }
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
     },
     {
       "_publishedAt": "2024-10-24T23:54:59+02:00",
@@ -2234,7 +2850,9 @@
       "location": {
         "latitude": 39.8347203,
         "longitude": 3.1070407
-      }
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
     },
     {
       "_publishedAt": "2024-10-24T23:54:14+02:00",
@@ -2304,7 +2922,9 @@
       "location": {
         "latitude": 39.5795233,
         "longitude": 2.3502962
-      }
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
     },
     {
       "_publishedAt": "2024-10-24T23:19:21+02:00",
@@ -2335,7 +2955,9 @@
       "location": {
         "latitude": 39.4964387,
         "longitude": 2.7590159
-      }
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
     },
     {
       "_publishedAt": "2024-10-24T23:18:27+02:00",
@@ -2366,7 +2988,9 @@
       "location": {
         "latitude": 39.5078458,
         "longitude": 2.4684043
-      }
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
     },
     {
       "_publishedAt": "2024-10-24T23:17:38+02:00",
@@ -2397,7 +3021,9 @@
       "location": {
         "latitude": 39.5355369,
         "longitude": 2.4575461
-      }
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
     },
     {
       "_publishedAt": "2024-10-24T23:16:25+02:00",
@@ -2447,7 +3073,7 @@
         }
       ],
       "mainCategory": {
-        "name": "🍽️ Restaurant",
+        "name": "🍽️ Food",
         "slug": "restaurant"
       },
       "subCategories": [
@@ -2471,7 +3097,9 @@
       "location": {
         "latitude": 39.5605797,
         "longitude": 2.6710379
-      }
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
     },
     {
       "_publishedAt": "2024-10-24T23:15:37+02:00",
@@ -2521,7 +3149,7 @@
         }
       ],
       "mainCategory": {
-        "name": "🍽️ Restaurant",
+        "name": "🍽️ Food",
         "slug": "restaurant"
       },
       "subCategories": [
@@ -2549,7 +3177,9 @@
       "location": {
         "latitude": 39.5516284,
         "longitude": 2.6922658
-      }
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
     },
     {
       "_publishedAt": "2024-10-24T23:14:48+02:00",
@@ -2599,7 +3229,7 @@
         }
       ],
       "mainCategory": {
-        "name": "🍽️ Restaurant",
+        "name": "🍽️ Food",
         "slug": "restaurant"
       },
       "subCategories": [
@@ -2619,7 +3249,9 @@
       "location": {
         "latitude": 39.572829,
         "longitude": 2.6371266
-      }
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
     },
     {
       "_publishedAt": "2024-10-24T23:13:46+02:00",
@@ -2669,7 +3301,7 @@
         }
       ],
       "mainCategory": {
-        "name": "🍽️ Restaurant",
+        "name": "🍽️ Food",
         "slug": "restaurant"
       },
       "subCategories": [
@@ -2685,7 +3317,9 @@
       "location": {
         "latitude": 39.57049,
         "longitude": 2.65505
-      }
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
     },
     {
       "_publishedAt": "2024-10-24T23:12:42+02:00",
@@ -2763,7 +3397,9 @@
       "location": {
         "latitude": 39.57530029999999,
         "longitude": 2.9816184
-      }
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
     },
     {
       "_publishedAt": "2024-10-24T23:11:45+02:00",
@@ -2829,7 +3465,12 @@
       "location": {
         "latitude": 39.5149711,
         "longitude": 2.7489274
-      }
+      },
+      "externalVideoLink": {
+        "thumbnailUrl": "https://i.ytimg.com/vi/a2C3f7ampzk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=a2C3f7ampzk"
+      },
+      "providerVideoLink": ""
     },
     {
       "_publishedAt": "2024-10-24T23:10:04+02:00",
@@ -2891,7 +3532,9 @@
       "location": {
         "latitude": 39.5057077,
         "longitude": 2.5187329
-      }
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
     },
     {
       "_publishedAt": "2024-10-24T23:08:59+02:00",
@@ -2923,7 +3566,7 @@
         }
       ],
       "mainCategory": {
-        "name": "🍽️ Restaurant",
+        "name": "🍽️ Food",
         "slug": "restaurant"
       },
       "subCategories": [
@@ -2943,7 +3586,9 @@
       "location": {
         "latitude": 39.9035483,
         "longitude": 3.0806593
-      }
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
     },
     {
       "_publishedAt": "2024-10-24T23:07:47+02:00",
@@ -2987,7 +3632,7 @@
         }
       ],
       "mainCategory": {
-        "name": "🍽️ Restaurant",
+        "name": "🍽️ Food",
         "slug": "restaurant"
       },
       "subCategories": [
@@ -3007,7 +3652,9 @@
       "location": {
         "latitude": 39.5772075,
         "longitude": 2.6522274
-      }
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
     },
     {
       "_publishedAt": "2024-10-24T23:06:45+02:00",
@@ -3063,7 +3710,7 @@
         }
       ],
       "mainCategory": {
-        "name": "🍽️ Restaurant",
+        "name": "🍽️ Food",
         "slug": "restaurant"
       },
       "subCategories": [
@@ -3079,7 +3726,9 @@
       "location": {
         "latitude": 39.5702663,
         "longitude": 2.6387198
-      }
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
     },
     {
       "_publishedAt": "2024-10-24T23:05:45+02:00",
@@ -3129,7 +3778,9 @@
       "location": {
         "latitude": 39.5265327,
         "longitude": 2.7353731
-      }
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
     },
     {
       "_publishedAt": "2024-10-24T23:04:24+02:00",
@@ -3161,7 +3812,7 @@
         }
       ],
       "mainCategory": {
-        "name": "🍽️ Restaurant",
+        "name": "🍽️ Food",
         "slug": "restaurant"
       },
       "subCategories": [
@@ -3181,7 +3832,9 @@
       "location": {
         "latitude": 39.574501,
         "longitude": 2.6456798
-      }
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
     },
     {
       "_publishedAt": "2024-10-24T23:02:06+02:00",
@@ -3219,7 +3872,7 @@
         }
       ],
       "mainCategory": {
-        "name": "🍽️ Restaurant",
+        "name": "🍽️ Food",
         "slug": "restaurant"
       },
       "subCategories": [
@@ -3239,7 +3892,9 @@
       "location": {
         "latitude": 39.8768284,
         "longitude": 3.0171947
-      }
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
     },
     {
       "_publishedAt": "2024-10-22T22:18:20+02:00",
@@ -3295,7 +3950,7 @@
         }
       ],
       "mainCategory": {
-        "name": "🍽️ Restaurant",
+        "name": "🍽️ Food",
         "slug": "restaurant"
       },
       "subCategories": [
@@ -3319,7 +3974,9 @@
       "location": {
         "latitude": 39.5702651,
         "longitude": 2.6383682
-      }
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
     },
     {
       "_publishedAt": "2024-10-22T22:17:09+02:00",
@@ -3369,7 +4026,7 @@
         }
       ],
       "mainCategory": {
-        "name": "🍽️ Restaurant",
+        "name": "🍽️ Food",
         "slug": "restaurant"
       },
       "subCategories": [
@@ -3389,7 +4046,9 @@
       "location": {
         "latitude": 39.5429945,
         "longitude": 2.386001100000001
-      }
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
     },
     {
       "_publishedAt": "2024-10-22T22:16:03+02:00",
@@ -3427,7 +4086,7 @@
         }
       ],
       "mainCategory": {
-        "name": "🍽️ Restaurant",
+        "name": "🍽️ Food",
         "slug": "restaurant"
       },
       "subCategories": [
@@ -3443,61 +4102,9 @@
       "location": {
         "latitude": 39.5706307,
         "longitude": 2.6554392
-      }
-    },
-    {
-      "_publishedAt": "2024-10-22T22:14:53+02:00",
-      "_firstPublishedAt": "2024-09-19T11:42:30+02:00",
-      "id": "N8iSSSHoT7KeOqsy9wTmZQ",
-      "name": "Restaurante SUMAQ",
-      "description": "## Highlights\nRestaurante SUMAQ offers a unique fusion of Peruvian cuisine in the heart of Palma de Mallorca. The restaurant specializes in creating contemporary dishes that reflect the diverse flavors of Peru, combining fresh, local ingredients with traditional Peruvian spices. Known for dishes like ceviche, duck confit causa, and exquisite pisco sours, SUMAQ offers a refined yet welcoming dining experience.\n\n## Menu\nSUMAQ's menu features signature dishes such as the Causa with duck confit, and exotic ceviche blends like salmon and tuna with mango and avocado. Vegan and seafood options are also available.\n\n## Location\nSUMAQ is located in Palma's Santa Catalina neighborhood, at Calle Cotoner 44. It’s easily accessible from central Palma, offering a cozy and inviting atmosphere for guests to enjoy a Peruvian culinary journey.\n\n## User Experiences\nCustomers frequently praise the restaurant's authentic flavors, innovative fusion dishes, and excellent service. The ceviche, duck confit, and pisco sours are particular favorites, often described as highlights of the dining experience. Reviews also mention the cozy and intimate setting.",
-      "address": "Carrer de Cotoner, 44, Ponent, 07013 Palma",
-      "mail": "sumaqrestaurante@gmail.com",
-      "website": "https://restaurantesumaq.com",
-      "phone": "+34696526758",
-      "googleMapsLink": "https://maps.app.goo.gl/thWppWusFpBRfkP8A",
-      "slug": "restaurante-sumaq",
-      "aiRating": 4.5,
-      "proList": "- Authentic Peruvian fusion cuisine\n- Cozy atmosphere in Santa Catalina\n- Popular dishes: ceviche, duck confit, and pisco sours",
-      "tipsList": "- Reservations are recommended\n- Try the exotic ceviche mixes\n- Perfect for an intimate dining experience",
-      "photos": [
-        {
-          "responsiveImage": {
-            "src": "https://www.datocms-assets.com/138394/1726740140-restaurantesumaq-03.jpg",
-            "alt": null
-          }
-        },
-        {
-          "responsiveImage": {
-            "src": "https://www.datocms-assets.com/138394/1726740140-restaurantesumaq-02.jpg",
-            "alt": null
-          }
-        },
-        {
-          "responsiveImage": {
-            "src": "https://www.datocms-assets.com/138394/1726740140-restaurantesumaq-01.jpg",
-            "alt": null
-          }
-        }
-      ],
-      "mainCategory": {
-        "name": "🍽️ Restaurant",
-        "slug": "restaurant"
       },
-      "subCategories": [
-        {
-          "name": "🌄 Peruvian",
-          "slug": "peruvian"
-        },
-        {
-          "name": "🍷 Wine",
-          "slug": "wine"
-        }
-      ],
-      "location": {
-        "latitude": 39.5714122,
-        "longitude": 2.6370207
-      }
+      "externalVideoLink": null,
+      "providerVideoLink": ""
     },
     {
       "_publishedAt": "2024-10-22T22:13:22+02:00",
@@ -3547,7 +4154,7 @@
         }
       ],
       "mainCategory": {
-        "name": "🍽️ Restaurant",
+        "name": "🍽️ Food",
         "slug": "restaurant"
       },
       "subCategories": [
@@ -3571,7 +4178,9 @@
       "location": {
         "latitude": 39.5184506,
         "longitude": 2.7427377
-      }
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
     },
     {
       "_publishedAt": "2024-10-22T22:12:07+02:00",
@@ -3621,7 +4230,7 @@
         }
       ],
       "mainCategory": {
-        "name": "🍽️ Restaurant",
+        "name": "🍽️ Food",
         "slug": "restaurant"
       },
       "subCategories": [
@@ -3649,7 +4258,9 @@
       "location": {
         "latitude": 39.5155304,
         "longitude": 2.7458047
-      }
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
     },
     {
       "_publishedAt": "2024-10-22T22:10:40+02:00",
@@ -3720,14 +4331,16 @@
           "slug": "pool"
         },
         {
-          "name": "🍽️ In-house dining",
+          "name": "🍽️ Dining",
           "slug": "in-house-dining"
         }
       ],
       "location": {
         "latitude": 39.5149711,
         "longitude": 2.7489274
-      }
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
     },
     {
       "_publishedAt": "2024-10-22T22:09:09+02:00",
@@ -3786,7 +4399,7 @@
           "slug": "spa"
         },
         {
-          "name": "🍽️ In-house dining",
+          "name": "🍽️ Dining",
           "slug": "in-house-dining"
         },
         {
@@ -3809,7 +4422,9 @@
       "location": {
         "latitude": 39.51359739999999,
         "longitude": 2.7513889
-      }
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
     },
     {
       "_publishedAt": "2024-10-22T22:07:48+02:00",
@@ -3902,7 +4517,9 @@
       "location": {
         "latitude": 39.5553568,
         "longitude": 2.6193149
-      }
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
     },
     {
       "_publishedAt": "2024-10-22T22:06:36+02:00",
@@ -3962,7 +4579,9 @@
       "location": {
         "latitude": 39.9049819,
         "longitude": 3.0807806
-      }
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
     },
     {
       "_publishedAt": "2024-10-22T00:17:56+02:00",
@@ -4022,7 +4641,9 @@
       "location": {
         "latitude": 39.57480169999999,
         "longitude": 2.657397500000001
-      }
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
     },
     {
       "_publishedAt": "2024-10-22T00:15:57+02:00",
@@ -4072,7 +4693,7 @@
         }
       ],
       "mainCategory": {
-        "name": "🍽️ Restaurant",
+        "name": "🍽️ Food",
         "slug": "restaurant"
       },
       "subCategories": [
@@ -4092,7 +4713,9 @@
       "location": {
         "latitude": 39.5684507,
         "longitude": 2.6406613
-      }
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
     },
     {
       "_publishedAt": "2024-10-22T00:14:51+02:00",
@@ -4136,7 +4759,7 @@
         }
       ],
       "mainCategory": {
-        "name": "🍽️ Restaurant",
+        "name": "🍽️ Food",
         "slug": "restaurant"
       },
       "subCategories": [
@@ -4156,7 +4779,9 @@
       "location": {
         "latitude": 39.5737004,
         "longitude": 2.6544002
-      }
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
     },
     {
       "_publishedAt": "2024-10-22T00:13:42+02:00",
@@ -4200,7 +4825,7 @@
         }
       ],
       "mainCategory": {
-        "name": "🍽️ Restaurant",
+        "name": "🍽️ Food",
         "slug": "restaurant"
       },
       "subCategories": [
@@ -4212,7 +4837,9 @@
       "location": {
         "latitude": 39.5715679,
         "longitude": 2.6383136
-      }
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
     },
     {
       "_publishedAt": "2024-10-22T00:12:00+02:00",
@@ -4323,14 +4950,16 @@
           "slug": "wellness"
         },
         {
-          "name": "🍽️ In-house dining",
+          "name": "🍽️ Dining",
           "slug": "in-house-dining"
         }
       ],
       "location": {
         "latitude": 39.5696809,
         "longitude": 2.644409
-      }
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
     },
     {
       "_publishedAt": "2024-10-22T00:09:40+02:00",
@@ -4374,7 +5003,7 @@
         }
       ],
       "mainCategory": {
-        "name": "🍽️ Restaurant",
+        "name": "🍽️ Food",
         "slug": "restaurant"
       },
       "subCategories": [
@@ -4390,7 +5019,9 @@
       "location": {
         "latitude": 39.9059383,
         "longitude": 3.081258
-      }
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
     },
     {
       "_publishedAt": "2024-10-22T00:08:35+02:00",
@@ -4434,7 +5065,7 @@
         }
       ],
       "mainCategory": {
-        "name": "🍽️ Restaurant",
+        "name": "🍽️ Food",
         "slug": "restaurant"
       },
       "subCategories": [
@@ -4446,7 +5077,9 @@
       "location": {
         "latitude": 39.85236949999999,
         "longitude": 3.1219398
-      }
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
     },
     {
       "_publishedAt": "2024-10-22T00:07:21+02:00",
@@ -4514,7 +5147,9 @@
       "location": {
         "latitude": 39.8635939,
         "longitude": 3.0932989
-      }
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
     },
     {
       "_publishedAt": "2024-10-22T00:05:45+02:00",
@@ -4582,7 +5217,9 @@
       "location": {
         "latitude": 39.8408261,
         "longitude": 3.1142804
-      }
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
     },
     {
       "_publishedAt": "2024-10-16T12:42:40+02:00",
@@ -4626,7 +5263,7 @@
         }
       ],
       "mainCategory": {
-        "name": "🍽️ Restaurant",
+        "name": "🍽️ Food",
         "slug": "restaurant"
       },
       "subCategories": [
@@ -4646,7 +5283,9 @@
       "location": {
         "latitude": 39.5728881,
         "longitude": 2.6394728
-      }
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
     },
     {
       "_publishedAt": "2024-10-15T14:10:04+02:00",
@@ -4699,14 +5338,16 @@
           "slug": "golf"
         },
         {
-          "name": "🍽️ In-house dining",
+          "name": "🍽️ Dining",
           "slug": "in-house-dining"
         }
       ],
       "location": {
         "latitude": 39.4953468,
         "longitude": 2.5183083
-      }
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
     },
     {
       "_publishedAt": "2024-10-15T14:09:01+02:00",
@@ -4744,7 +5385,7 @@
         }
       ],
       "mainCategory": {
-        "name": "🍽️ Restaurant",
+        "name": "🍽️ Food",
         "slug": "restaurant"
       },
       "subCategories": [
@@ -4764,7 +5405,9 @@
       "location": {
         "latitude": 39.5508258,
         "longitude": 2.6230203
-      }
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
     },
     {
       "_publishedAt": "2024-10-15T14:05:07+02:00",
@@ -4831,7 +5474,7 @@
           "slug": "gym"
         },
         {
-          "name": "🍽️ In-house dining",
+          "name": "🍽️ Dining",
           "slug": "in-house-dining"
         },
         {
@@ -4842,7 +5485,9 @@
       "location": {
         "latitude": 39.51701449999999,
         "longitude": 2.7489633
-      }
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
     },
     {
       "_publishedAt": "2024-10-15T14:04:11+02:00",
@@ -4910,7 +5555,9 @@
       "location": {
         "latitude": 39.6831747,
         "longitude": 3.4516384
-      }
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
     },
     {
       "_publishedAt": "2024-10-15T14:03:18+02:00",
@@ -4972,7 +5619,9 @@
       "location": {
         "latitude": 39.5121952,
         "longitude": 2.7483226
-      }
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
     },
     {
       "_publishedAt": "2024-10-15T14:02:06+02:00",
@@ -5031,7 +5680,9 @@
           "slug": "golf"
         }
       ],
-      "location": null
+      "location": null,
+      "externalVideoLink": null,
+      "providerVideoLink": ""
     },
     {
       "_publishedAt": "2024-10-15T13:58:24+02:00",
@@ -5050,7 +5701,7 @@
       "tipsList": "- Reservations recommended\n- Best for adventurous palates\n- Higher-end pricing",
       "photos": [],
       "mainCategory": {
-        "name": "🍽️ Restaurant",
+        "name": "🍽️ Food",
         "slug": "restaurant"
       },
       "subCategories": [
@@ -5066,16 +5717,18 @@
       "location": {
         "latitude": 39.571502,
         "longitude": 2.6357976
-      }
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
     }
   ],
   "allMainCategories": [
     {
       "id": "PWIGNzMASXiORHFXvdlZqA",
-      "name": "🍽️ Restaurant",
+      "name": "🍽️ Food",
       "slug": "restaurant",
       "_firstPublishedAt": "2024-09-18T10:16:56+02:00",
-      "_publishedAt": "2024-09-18T10:23:08+02:00"
+      "_publishedAt": "2024-10-27T14:22:06+01:00"
     },
     {
       "id": "X-tbEyT4TZm98LkzSawdXw",
@@ -5100,6 +5753,13 @@
     }
   ],
   "allSubcategories": [
+    {
+      "id": "EGkvtGEnQK2_OIVsEQna3g",
+      "name": "🍽️ Dining",
+      "slug": "in-house-dining",
+      "_firstPublishedAt": "2024-09-20T08:35:56+02:00",
+      "_publishedAt": "2024-10-25T18:45:04+02:00"
+    },
     {
       "id": "NT_YuJqkSn6-3cw2Z70Y5g",
       "name": "🏊‍♂️ Pool",
@@ -5269,13 +5929,6 @@
       "_publishedAt": "2024-09-20T12:33:09+02:00"
     },
     {
-      "id": "EGkvtGEnQK2_OIVsEQna3g",
-      "name": "🍽️ In-house dining",
-      "slug": "in-house-dining",
-      "_firstPublishedAt": "2024-09-20T08:35:56+02:00",
-      "_publishedAt": "2024-09-20T08:35:56+02:00"
-    },
-    {
       "id": "UufRotjITPqavpZYhHppkA",
       "name": "🪷 Spa",
       "slug": "spa",
@@ -5288,13 +5941,6 @@
       "slug": "gym",
       "_firstPublishedAt": "2024-09-20T08:33:39+02:00",
       "_publishedAt": "2024-09-20T08:33:39+02:00"
-    },
-    {
-      "id": "Qkvf39_SQiGrVGvykTZvIA",
-      "name": "🧹 Clean",
-      "slug": "clean",
-      "_firstPublishedAt": "2024-09-20T08:31:58+02:00",
-      "_publishedAt": "2024-09-20T08:31:58+02:00"
     },
     {
       "id": "FcQHpg3nQfW6GEF1eBF8mg",
