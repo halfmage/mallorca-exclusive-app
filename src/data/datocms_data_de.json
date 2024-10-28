@@ -1,7 +1,290 @@
 {
   "allProviders": [
     {
-      "_publishedAt": "2024-10-27T14:21:01+01:00",
+      "_publishedAt": "2024-10-27T16:02:42+01:00",
+      "_firstPublishedAt": "2024-09-20T16:36:57+02:00",
+      "id": "OOS7zIK1T6ipMrmCydtCsA",
+      "name": "Port Calanova",
+      "description": "## Highlights\nPort Calanova ist ein moderner Yachthafen und eine Segelschule in der Bucht von Palma, nur 5 km vom Stadtzentrum entfernt. Gegründet 1976, bietet der Hafen eine breite Palette von Wassersportaktivitäten wie Segeln, Kajakfahren und Stand-Up-Paddleboarding. Außerdem gibt es Unterkunftsmöglichkeiten in der Calanova Sports Residence. Mit zwei Restaurants und zahlreichen Einrichtungen wie einem Fitnessstudio und Pool ist der Hafen ein beliebtes Ziel für Erholung und Aktivitäten.\n\n## Services\nDer Hafen bietet 172 Liegeplätze für Boote bis zu 25 Metern sowie eine Werft, die Dienstleistungen wie Reinigung, Wartung und Reparaturen anbietet. Besucher können auch Boote mieten oder an Wassersportarten wie Windsurfen teilnehmen. Der Yachthafen verfügt über eine Tankstelle, Duschen, WLAN und Wäschereien. Die Calanova Sports Residence bietet Übernachtungsmöglichkeiten, und der Hafen veranstaltet das ganze Jahr über Segelcamps und Events.\n\n## Location\nPort Calanova liegt an der Avenida Joan Miró, 327, nur 15 Minuten vom Flughafen Palma entfernt. In der Nähe befinden sich einige von Palmas Hauptattraktionen, darunter der Marivent-Palast und der Strand von Illetas. Der Yachthafen bietet einen einfachen Zugang zur Küste und zum pulsierenden Stadtzentrum von Palma.\n\n## User Experiences\nBesucher schätzen den freundlichen und professionellen Service im Port Calanova. Viele heben die vielfältigen Aktivitäten hervor, von Wassersport bis hin zum entspannten Essen in den Restaurants des Yachthafens. Die ruhige Atmosphäre und die hervorragenden Einrichtungen machen den Hafen zu einer guten Wahl für Familien und Bootsliebhaber, während die schöne Aussicht auf die Bucht und die Nähe zu Palmas Sehenswürdigkeiten ebenfalls überzeugen.",
+      "address": "Avinguda de Joan Miró, 327, Ponent, 07015 Palma",
+      "mail": "info@portcalanova.com",
+      "website": "https://www.portcalanova.com/en",
+      "phone": "+34971402512",
+      "googleMapsLink": "https://maps.app.goo.gl/ACDCFpCooFoVLQ1W7",
+      "slug": "port-calanova",
+      "aiRating": 4.2,
+      "proList": "- Bietet eine breite Palette an Wassersport- und Segelaktivitäten\n- Gut ausgestatteter Yachthafen mit exzellentem Service für Boote und Yachten\n- Günstige Lage in der Nähe von Palmas Sehenswürdigkeiten und Stränden",
+      "tipsList": "- Ideal, um Segeln mit einem Aufenthalt in der Sports Residence zu kombinieren\n- Boote oder Segelkurse im Voraus buchen, besonders in der Hauptsaison\n- Erkunde Palmas Umgebung für kulinarische, Einkaufs- und Kulturangebote",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1729938453-portcalanova-05.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1729938453-portcalanova-06.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1729938453-portcalanova-02.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1729938453-portcalanova-04.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1729938453-portcalanova-07.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1729938453-portcalanova-01.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1729938453-portcalanova-03.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🌴 Freizeit",
+        "slug": "leisure"
+      },
+      "subCategories": [
+        {
+          "name": "🏄‍♂️ Surfen",
+          "slug": "surfing"
+        },
+        {
+          "name": "🤿 Tauchen",
+          "slug": "diving"
+        },
+        {
+          "name": "💥 Action",
+          "slug": "action"
+        },
+        {
+          "name": "🍽️ Essen",
+          "slug": "in-house-dining"
+        }
+      ],
+      "location": {
+        "latitude": 39.5498276,
+        "longitude": 2.5988588
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
+    },
+    {
+      "_publishedAt": "2024-10-27T15:58:27+01:00",
+      "_firstPublishedAt": "2024-09-17T17:51:28+02:00",
+      "id": "Peagy9k4QQGyL6cCKlAvDg",
+      "name": "Petit Nola",
+      "description": "## Highlights\nPetit Nola, im Stadtteil Portixol in Palma gelegen, ist ein gemütliches Restaurant, das sich auf frische, saisonale und gesunde Gerichte spezialisiert hat. Die Speisekarte bietet mediterran inspirierte, nahrhafte Optionen wie hausgemachte Salate, frische Smoothies und pflanzenbasierte Mahlzeiten. Die entspannte Atmosphäre und der Fokus auf lokale, biologische Produkte machen Petit Nola zu einem beliebten Ort für Frühstück, Brunch oder ein zwangloses Mittagessen.\n\n## Menu\nDie Speisekarte bei Petit Nola legt Wert auf frische und gesunde Optionen, darunter Avocado-Toast, Quinoa-Bowls und frisch gepresste Säfte. Besonders beliebt sind die nahrhaften, aber leckeren Gerichte, darunter auch hausgemachte Kuchen und vegane Optionen, die das Lokal für gesundheitsbewusste Gäste besonders attraktiv machen.\n\n## Location\nPetit Nola befindet sich in der Carrer del Vicari Joaquim Forster 95 im angesagten Viertel Portixol in Palma. Es ist ein perfekter Ort, um bei einem Spaziergang entlang der Strandpromenade einzukehren und eine entspannte Mahlzeit zu genießen.\n\n## User Experiences\nGäste loben die frischen, gesunden Gerichte und den freundlichen Service im Petit Nola. Viele Bewertungen heben die lebendigen Gerichte und die gemütliche Atmosphäre hervor, ideal für einen entspannten Brunch oder ein leichtes Mittagessen. Das Engagement des Restaurants für Qualität und biologische Zutaten macht es zu einem Favoriten unter gesundheitsbewussten Gästen in Palma.",
+      "address": "Carrer del Vicari Joaquim Fuster, 95, Platja de Palma, 07006 Palma",
+      "mail": "",
+      "website": "",
+      "phone": "+34971093495",
+      "googleMapsLink": "https://maps.app.goo.gl/6gBY2PNCU9Mb3mCF9",
+      "slug": "petit-nola",
+      "aiRating": 4,
+      "proList": "- Frische, gesunde mediterran inspirierte Gerichte mit Bio-Zutaten\n- Gemütliche, entspannte Atmosphäre, ideal für Brunch oder Mittagessen\n- Im trendigen Viertel Portixol in Palma, perfekt für einen kurzen Stopp",
+      "tipsList": "- Avocado-Toast oder Quinoa-Bowls für eine frische, nahrhafte Mahlzeit probieren\n- Ideal für Gäste, die vegane oder pflanzenbasierte Optionen suchen\n- Perfekter Stopp bei einem Spaziergang entlang der Strandpromenade von Portixol",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726674145-petit-nola-photo.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🍽️ Essen",
+        "slug": "restaurant"
+      },
+      "subCategories": [
+        {
+          "name": "🌊 Mittelmeerküche",
+          "slug": "mediterranean"
+        },
+        {
+          "name": "🌱 Vegan",
+          "slug": "vegan"
+        }
+      ],
+      "location": {
+        "latitude": 39.5587636,
+        "longitude": 2.6745697
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
+    },
+    {
+      "_publishedAt": "2024-10-27T15:57:30+01:00",
+      "_firstPublishedAt": "2024-09-20T13:36:29+02:00",
+      "id": "Uq30sQgETMK6ETd6qRpX-w",
+      "name": "Iberostar Selection Playa de Palma",
+      "description": "## Highlights\nDas Iberostar Selection Playa de Palma ist ein luxuriöses 5-Sterne-Strandhotel, ideal gelegen in der Nähe des Flughafens von Palma und des lebhaften Nachtlebens von Playa de Palma. Das Hotel bietet moderne Zimmer mit atemberaubendem Blick auf das Mittelmeer, einige davon mit halbprivaten Terrassen. Besonders beliebt ist der Infinity-Pool auf dem Dach und der exklusive Star Prestige Bereich, der ein entspannendes Erlebnis nur für Erwachsene bietet. Das umweltbewusste Hotel bietet zudem eine Vielzahl von kulinarischen Erlebnissen, darunter das Gourmetrestaurant von Chefkoch Aitor Arregi.\n\n## Services\nDas Hotel verfügt über erstklassige Einrichtungen wie ein umfassendes Spa mit Wellness-Bereich und Behandlungen, ein Fitnesscenter und mehrere Pools. Zu den gastronomischen Highlights gehören das renommierte Guethary Gourmet-Restaurant und eine Champagnerbar auf dem Dach. Gäste können außerdem Live-Unterhaltung genießen, und es gibt zahlreiche familienfreundliche Angebote wie Kinderclubs und Babysitting.\n\n## Location\nDas Hotel liegt direkt am Strand von Playa de Palma, nur eine kurze Fahrt vom Flughafen entfernt und etwa 10 Minuten vom Stadtzentrum von Palma. Die Strandlage bietet einfachen Zugang zu Wassersportarten, lokalen Restaurants und dem lebhaften Nachtleben Palmas.\n\n## User Experiences\nGäste loben häufig die atemberaubenden Meerblicke, den hervorragenden Service und das hochwertige Frühstück. Der Star Prestige Service mit privatem Dachbereich und Pool ist besonders bei Besuchern beliebt, die ein luxuriöses Extra wünschen. Während einige Gäste anmerken, dass das Buffet verbessert werden könnte, wird das Hotel insgesamt für seine Sauberkeit, modernen Zimmer und die günstige Lage gelobt.",
+      "address": "Carrer de Marbella, 36, Platja de Palma, 07610 Palma",
+      "mail": "",
+      "website": "https://www.iberostar.com/en/hotels/majorca/iberostar-playa-de-palma/?utm_source=google&utm_medium=organic&utm_campaign=IBSVOL_EMEA_SEOLOC_GMB_NA_EN_ESP_BAL_PMI_PDP_PULL_NA_NA_NA_NA_NA",
+      "phone": "+34971266450",
+      "googleMapsLink": "https://maps.app.goo.gl/vxsDNW7WYuCeQ24v7",
+      "slug": "iberostar-selection-playa-de-palma",
+      "aiRating": 4.5,
+      "proList": "- Atemberaubende Meerblicke und direkte Strandlage\n- Hervorragender Pool auf dem Dach und exklusiver Star Prestige Bereich\n- Vielfältige familienfreundliche Angebote und gastronomische Erlebnisse",
+      "tipsList": "- Buchen Sie ein Star Prestige Zimmer für exklusiven Zugang zum Dachbereich\n- Probieren Sie das Gourmetrestaurant Guethary\n- Ideal für diejenigen, die sowohl den Strand als auch das Stadtzentrum von Palma erkunden möchten",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1730021810-iberostar-playa-de-palma-01.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1730021810-iberostar-playa-de-palma-04.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1730021810-iberostar-playa-de-palma-06.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1730021810-iberostar-playa-de-palma-03.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1730021810-iberostar-playa-de-palma-02.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1730021813-iberostar-playa-de-palma-05.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🏨 Hotel",
+        "slug": "hotel"
+      },
+      "subCategories": [
+        {
+          "name": "🏊‍♂️ Pool",
+          "slug": "pool"
+        }
+      ],
+      "location": {
+        "latitude": 39.52335799999999,
+        "longitude": 2.7383303
+      },
+      "externalVideoLink": {
+        "thumbnailUrl": "https://i.ytimg.com/vi/wOUZd0v7fAI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=wOUZd0v7fAI"
+      },
+      "providerVideoLink": ""
+    },
+    {
+      "_publishedAt": "2024-10-27T15:57:17+01:00",
+      "_firstPublishedAt": "2024-09-20T13:11:13+02:00",
+      "id": "Ncdc0ZX5SC2rbaR9L1cG2Q",
+      "name": "Hotel Cort",
+      "description": "## Höhepunkte\nDas Hotel Cort ist ein schickes Boutique-Hotel im Herzen der historischen Altstadt von Palma. Die stilvolle Einrichtung kombiniert maurische Fliesen mit mallorquinischen Stoffen und schafft eine luxuriöse Atmosphäre. Das Hotel verfügt über eine Dachterrasse mit Tauchbecken und ist bekannt für sein hervorragendes Restaurant, das mediterrane Küche und frische Meeresfrüchte bietet. Es liegt in unmittelbarer Nähe der Kathedrale von Palma und ist damit der perfekte Ausgangspunkt, um die Stadt zu erkunden.\n\n## Dienstleistungen\nDas Hotel Cort bietet:\n- **Luxuriöse Suiten**: Familienzimmer und Zimmer mit Blick auf die Plaza Cort.\n- **Dachterrasse**: Entspannungsbereich mit Tauchbecken.\n- **Restaurant & Bar**: Mediterrane Küche, Frühstück und Essen im Freien auf der Plaza.\n- **Weitere Annehmlichkeiten**: Klimaanlage, WLAN und tägliche Zimmerreinigung.\n\n## Lage\nDas Hotel befindet sich in **Plaça de Cort, 11, Palma de Mallorca**, im lebhaften Stadtzentrum. Die Kathedrale von Palma und der Königspalast Almudaina sind nur wenige Schritte entfernt, der Strand ist in 15 Minuten zu Fuß erreichbar.\n\n## Nutzererfahrungen\nGäste loben häufig die zentrale Lage, die stilvolle Einrichtung und das ausgezeichnete Essen. Die Dachterrasse wird oft als ruhiger Ort beschrieben, ideal für einen entspannten Nachmittag. Einige Gäste erwähnen, dass das Essen zwar teuer, aber von hervorragender Qualität ist. Die Zimmer bieten viel Komfort und durchdachte Details, die für einen luxuriösen Aufenthalt sorgen.",
+      "address": "Plaça de Cort, 11, Distrito Centro, 07001 Palma",
+      "mail": "info@hotelcort.com",
+      "website": "http://www.hotelcort.com/",
+      "phone": "+34971213300",
+      "googleMapsLink": "https://maps.app.goo.gl/8J6W9J9VZUP5veFEA",
+      "slug": "hotel-cort",
+      "aiRating": 4.5,
+      "proList": "- Zentrale Lage in Palmas Altstadt, nahe wichtigen Sehenswürdigkeiten.\n- Stilvolle Einrichtung mit moderner Eleganz und lokalem Charme.\n- Dachterrasse mit Tauchbecken für entspannte Nachmittage.",
+      "tipsList": "- Frühzeitige Buchung wird empfohlen, um die besten Zimmer zu sichern.\n- Das Restaurant ist ausgezeichnet, aber nicht günstig.\n- Ideal für Paare oder kleine Gruppen, die eine intime Boutique-Erfahrung suchen.",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1729932134-hotelcort-04.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1729932134-hotelcort-03.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1729932134-hotelcort-05.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1729932134-hotelcort-02.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1729932134-hotelcort-06.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1729932134-hotelcort-01.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🏨 Hotel",
+        "slug": "hotel"
+      },
+      "subCategories": [
+        {
+          "name": "🍽️ Essen",
+          "slug": "in-house-dining"
+        },
+        {
+          "name": "🏊‍♂️ Pool",
+          "slug": "pool"
+        },
+        {
+          "name": "🌇 Dachterasse",
+          "slug": "rooftop"
+        }
+      ],
+      "location": {
+        "latitude": 39.569819,
+        "longitude": 2.6498663
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": "https://www.hotelcort.com/wp-content/uploads/2019/01/HOTEL-CORT-1080.mp4"
+    },
+    {
+      "_publishedAt": "2024-10-27T14:55:00+01:00",
       "_firstPublishedAt": "2024-09-20T12:52:41+02:00",
       "id": "V3RscGDFTuGcqXq_SvsT4g",
       "name": "HOTEL CAN CIRERA",
@@ -316,74 +599,6 @@
       "providerVideoLink": ""
     },
     {
-      "_publishedAt": "2024-10-27T10:37:08+01:00",
-      "_firstPublishedAt": "2024-09-20T13:36:29+02:00",
-      "id": "Uq30sQgETMK6ETd6qRpX-w",
-      "name": "Iberostar Selection Playa de Palma",
-      "description": "## Highlights\nDas Iberostar Selection Playa de Palma ist ein luxuriöses 5-Sterne-Strandhotel, ideal gelegen in der Nähe des Flughafens von Palma und des lebhaften Nachtlebens von Playa de Palma. Das Hotel bietet moderne Zimmer mit atemberaubendem Blick auf das Mittelmeer, einige davon mit halbprivaten Terrassen. Besonders beliebt ist der Infinity-Pool auf dem Dach und der exklusive Star Prestige Bereich, der ein entspannendes Erlebnis nur für Erwachsene bietet. Das umweltbewusste Hotel bietet zudem eine Vielzahl von kulinarischen Erlebnissen, darunter das Gourmetrestaurant von Chefkoch Aitor Arregi.\n\n## Services\nDas Hotel verfügt über erstklassige Einrichtungen wie ein umfassendes Spa mit Wellness-Bereich und Behandlungen, ein Fitnesscenter und mehrere Pools. Zu den gastronomischen Highlights gehören das renommierte Guethary Gourmet-Restaurant und eine Champagnerbar auf dem Dach. Gäste können außerdem Live-Unterhaltung genießen, und es gibt zahlreiche familienfreundliche Angebote wie Kinderclubs und Babysitting.\n\n## Location\nDas Hotel liegt direkt am Strand von Playa de Palma, nur eine kurze Fahrt vom Flughafen entfernt und etwa 10 Minuten vom Stadtzentrum von Palma. Die Strandlage bietet einfachen Zugang zu Wassersportarten, lokalen Restaurants und dem lebhaften Nachtleben Palmas.\n\n## User Experiences\nGäste loben häufig die atemberaubenden Meerblicke, den hervorragenden Service und das hochwertige Frühstück. Der Star Prestige Service mit privatem Dachbereich und Pool ist besonders bei Besuchern beliebt, die ein luxuriöses Extra wünschen. Während einige Gäste anmerken, dass das Buffet verbessert werden könnte, wird das Hotel insgesamt für seine Sauberkeit, modernen Zimmer und die günstige Lage gelobt.",
-      "address": "Carrer de Marbella, 36, Platja de Palma, 07610 Palma",
-      "mail": "",
-      "website": "https://www.iberostar.com/en/hotels/majorca/iberostar-playa-de-palma/?utm_source=google&utm_medium=organic&utm_campaign=IBSVOL_EMEA_SEOLOC_GMB_NA_EN_ESP_BAL_PMI_PDP_PULL_NA_NA_NA_NA_NA",
-      "phone": "+34971266450",
-      "googleMapsLink": "https://maps.app.goo.gl/vxsDNW7WYuCeQ24v7",
-      "slug": "iberostar-selection-playa-de-palma",
-      "aiRating": 4.5,
-      "proList": "- Atemberaubende Meerblicke und direkte Strandlage\n- Hervorragender Pool auf dem Dach und exklusiver Star Prestige Bereich\n- Vielfältige familienfreundliche Angebote und gastronomische Erlebnisse",
-      "tipsList": "- Buchen Sie ein Star Prestige Zimmer für exklusiven Zugang zum Dachbereich\n- Probieren Sie das Gourmetrestaurant Guethary\n- Ideal für diejenigen, die sowohl den Strand als auch das Stadtzentrum von Palma erkunden möchten",
-      "photos": [
-        {
-          "responsiveImage": {
-            "src": "https://www.datocms-assets.com/138394/1730021810-iberostar-playa-de-palma-01.jpg",
-            "alt": null
-          }
-        },
-        {
-          "responsiveImage": {
-            "src": "https://www.datocms-assets.com/138394/1730021810-iberostar-playa-de-palma-04.jpg",
-            "alt": null
-          }
-        },
-        {
-          "responsiveImage": {
-            "src": "https://www.datocms-assets.com/138394/1730021810-iberostar-playa-de-palma-06.jpg",
-            "alt": null
-          }
-        },
-        {
-          "responsiveImage": {
-            "src": "https://www.datocms-assets.com/138394/1730021810-iberostar-playa-de-palma-03.jpg",
-            "alt": null
-          }
-        },
-        {
-          "responsiveImage": {
-            "src": "https://www.datocms-assets.com/138394/1730021810-iberostar-playa-de-palma-02.jpg",
-            "alt": null
-          }
-        },
-        {
-          "responsiveImage": {
-            "src": "https://www.datocms-assets.com/138394/1730021813-iberostar-playa-de-palma-05.jpg",
-            "alt": null
-          }
-        }
-      ],
-      "mainCategory": {
-        "name": "🏨 Hotel",
-        "slug": "hotel"
-      },
-      "subCategories": [],
-      "location": {
-        "latitude": 39.52335799999999,
-        "longitude": 2.7383303
-      },
-      "externalVideoLink": {
-        "thumbnailUrl": "https://i.ytimg.com/vi/wOUZd0v7fAI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=wOUZd0v7fAI"
-      },
-      "providerVideoLink": ""
-    },
-    {
       "_publishedAt": "2024-10-26T12:34:42+02:00",
       "_firstPublishedAt": "2024-09-20T16:17:50+02:00",
       "id": "XzPI_tfxR_6mDBme3-I8IQ",
@@ -442,82 +657,6 @@
         "thumbnailUrl": "https://i.ytimg.com/vi/UpFHObboH78/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=UpFHObboH78"
       },
-      "providerVideoLink": ""
-    },
-    {
-      "_publishedAt": "2024-10-26T12:28:31+02:00",
-      "_firstPublishedAt": "2024-09-20T16:36:57+02:00",
-      "id": "OOS7zIK1T6ipMrmCydtCsA",
-      "name": "Port Calanova",
-      "description": "## Highlights\nPort Calanova ist ein moderner Yachthafen und eine Segelschule in der Bucht von Palma, nur 5 km vom Stadtzentrum entfernt. Gegründet 1976, bietet der Hafen eine breite Palette von Wassersportaktivitäten wie Segeln, Kajakfahren und Stand-Up-Paddleboarding. Außerdem gibt es Unterkunftsmöglichkeiten in der Calanova Sports Residence. Mit zwei Restaurants und zahlreichen Einrichtungen wie einem Fitnessstudio und Pool ist der Hafen ein beliebtes Ziel für Erholung und Aktivitäten.\n\n## Services\nDer Hafen bietet 172 Liegeplätze für Boote bis zu 25 Metern sowie eine Werft, die Dienstleistungen wie Reinigung, Wartung und Reparaturen anbietet. Besucher können auch Boote mieten oder an Wassersportarten wie Windsurfen teilnehmen. Der Yachthafen verfügt über eine Tankstelle, Duschen, WLAN und Wäschereien. Die Calanova Sports Residence bietet Übernachtungsmöglichkeiten, und der Hafen veranstaltet das ganze Jahr über Segelcamps und Events.\n\n## Location\nPort Calanova liegt an der Avenida Joan Miró, 327, nur 15 Minuten vom Flughafen Palma entfernt. In der Nähe befinden sich einige von Palmas Hauptattraktionen, darunter der Marivent-Palast und der Strand von Illetas. Der Yachthafen bietet einen einfachen Zugang zur Küste und zum pulsierenden Stadtzentrum von Palma.\n\n## User Experiences\nBesucher schätzen den freundlichen und professionellen Service im Port Calanova. Viele heben die vielfältigen Aktivitäten hervor, von Wassersport bis hin zum entspannten Essen in den Restaurants des Yachthafens. Die ruhige Atmosphäre und die hervorragenden Einrichtungen machen den Hafen zu einer guten Wahl für Familien und Bootsliebhaber, während die schöne Aussicht auf die Bucht und die Nähe zu Palmas Sehenswürdigkeiten ebenfalls überzeugen.",
-      "address": "Avinguda de Joan Miró, 327, Ponent, 07015 Palma",
-      "mail": "info@portcalanova.com",
-      "website": "https://www.portcalanova.com/en",
-      "phone": "+34971402512",
-      "googleMapsLink": "https://maps.app.goo.gl/ACDCFpCooFoVLQ1W7",
-      "slug": "port-calanova",
-      "aiRating": 4.2,
-      "proList": "- Bietet eine breite Palette an Wassersport- und Segelaktivitäten\n- Gut ausgestatteter Yachthafen mit exzellentem Service für Boote und Yachten\n- Günstige Lage in der Nähe von Palmas Sehenswürdigkeiten und Stränden",
-      "tipsList": "- Ideal, um Segeln mit einem Aufenthalt in der Sports Residence zu kombinieren\n- Boote oder Segelkurse im Voraus buchen, besonders in der Hauptsaison\n- Erkunde Palmas Umgebung für kulinarische, Einkaufs- und Kulturangebote",
-      "photos": [
-        {
-          "responsiveImage": {
-            "src": "https://www.datocms-assets.com/138394/1729938453-portcalanova-05.jpg",
-            "alt": null
-          }
-        },
-        {
-          "responsiveImage": {
-            "src": "https://www.datocms-assets.com/138394/1729938453-portcalanova-06.jpg",
-            "alt": null
-          }
-        },
-        {
-          "responsiveImage": {
-            "src": "https://www.datocms-assets.com/138394/1729938453-portcalanova-02.jpg",
-            "alt": null
-          }
-        },
-        {
-          "responsiveImage": {
-            "src": "https://www.datocms-assets.com/138394/1729938453-portcalanova-04.jpg",
-            "alt": null
-          }
-        },
-        {
-          "responsiveImage": {
-            "src": "https://www.datocms-assets.com/138394/1729938453-portcalanova-07.jpg",
-            "alt": null
-          }
-        },
-        {
-          "responsiveImage": {
-            "src": "https://www.datocms-assets.com/138394/1729938453-portcalanova-01.jpg",
-            "alt": null
-          }
-        },
-        {
-          "responsiveImage": {
-            "src": "https://www.datocms-assets.com/138394/1729938453-portcalanova-03.jpg",
-            "alt": null
-          }
-        }
-      ],
-      "mainCategory": {
-        "name": "🌴 Freizeit",
-        "slug": "leisure"
-      },
-      "subCategories": [
-        {
-          "name": "🏄‍♂️ Surfen",
-          "slug": "surfing"
-        }
-      ],
-      "location": {
-        "latitude": 39.5498276,
-        "longitude": 2.5988588
-      },
-      "externalVideoLink": null,
       "providerVideoLink": ""
     },
     {
@@ -708,71 +847,6 @@
       },
       "externalVideoLink": null,
       "providerVideoLink": ""
-    },
-    {
-      "_publishedAt": "2024-10-26T10:45:57+02:00",
-      "_firstPublishedAt": "2024-09-20T13:11:13+02:00",
-      "id": "Ncdc0ZX5SC2rbaR9L1cG2Q",
-      "name": "Hotel Cort",
-      "description": "## Höhepunkte\nDas Hotel Cort ist ein schickes Boutique-Hotel im Herzen der historischen Altstadt von Palma. Die stilvolle Einrichtung kombiniert maurische Fliesen mit mallorquinischen Stoffen und schafft eine luxuriöse Atmosphäre. Das Hotel verfügt über eine Dachterrasse mit Tauchbecken und ist bekannt für sein hervorragendes Restaurant, das mediterrane Küche und frische Meeresfrüchte bietet. Es liegt in unmittelbarer Nähe der Kathedrale von Palma und ist damit der perfekte Ausgangspunkt, um die Stadt zu erkunden.\n\n## Dienstleistungen\nDas Hotel Cort bietet:\n- **Luxuriöse Suiten**: Familienzimmer und Zimmer mit Blick auf die Plaza Cort.\n- **Dachterrasse**: Entspannungsbereich mit Tauchbecken.\n- **Restaurant & Bar**: Mediterrane Küche, Frühstück und Essen im Freien auf der Plaza.\n- **Weitere Annehmlichkeiten**: Klimaanlage, WLAN und tägliche Zimmerreinigung.\n\n## Lage\nDas Hotel befindet sich in **Plaça de Cort, 11, Palma de Mallorca**, im lebhaften Stadtzentrum. Die Kathedrale von Palma und der Königspalast Almudaina sind nur wenige Schritte entfernt, der Strand ist in 15 Minuten zu Fuß erreichbar.\n\n## Nutzererfahrungen\nGäste loben häufig die zentrale Lage, die stilvolle Einrichtung und das ausgezeichnete Essen. Die Dachterrasse wird oft als ruhiger Ort beschrieben, ideal für einen entspannten Nachmittag. Einige Gäste erwähnen, dass das Essen zwar teuer, aber von hervorragender Qualität ist. Die Zimmer bieten viel Komfort und durchdachte Details, die für einen luxuriösen Aufenthalt sorgen.",
-      "address": "Plaça de Cort, 11, Distrito Centro, 07001 Palma",
-      "mail": "info@hotelcort.com",
-      "website": "http://www.hotelcort.com/",
-      "phone": "+34971213300",
-      "googleMapsLink": "https://maps.app.goo.gl/8J6W9J9VZUP5veFEA",
-      "slug": "hotel-cort",
-      "aiRating": 4.5,
-      "proList": "- Zentrale Lage in Palmas Altstadt, nahe wichtigen Sehenswürdigkeiten.\n- Stilvolle Einrichtung mit moderner Eleganz und lokalem Charme.\n- Dachterrasse mit Tauchbecken für entspannte Nachmittage.",
-      "tipsList": "- Frühzeitige Buchung wird empfohlen, um die besten Zimmer zu sichern.\n- Das Restaurant ist ausgezeichnet, aber nicht günstig.\n- Ideal für Paare oder kleine Gruppen, die eine intime Boutique-Erfahrung suchen.",
-      "photos": [
-        {
-          "responsiveImage": {
-            "src": "https://www.datocms-assets.com/138394/1729932134-hotelcort-04.jpg",
-            "alt": null
-          }
-        },
-        {
-          "responsiveImage": {
-            "src": "https://www.datocms-assets.com/138394/1729932134-hotelcort-03.jpg",
-            "alt": null
-          }
-        },
-        {
-          "responsiveImage": {
-            "src": "https://www.datocms-assets.com/138394/1729932134-hotelcort-05.jpg",
-            "alt": null
-          }
-        },
-        {
-          "responsiveImage": {
-            "src": "https://www.datocms-assets.com/138394/1729932134-hotelcort-02.jpg",
-            "alt": null
-          }
-        },
-        {
-          "responsiveImage": {
-            "src": "https://www.datocms-assets.com/138394/1729932134-hotelcort-06.jpg",
-            "alt": null
-          }
-        },
-        {
-          "responsiveImage": {
-            "src": "https://www.datocms-assets.com/138394/1729932134-hotelcort-01.jpg",
-            "alt": null
-          }
-        }
-      ],
-      "mainCategory": {
-        "name": "🏨 Hotel",
-        "slug": "hotel"
-      },
-      "subCategories": [],
-      "location": {
-        "latitude": 39.569819,
-        "longitude": 2.6498663
-      },
-      "externalVideoLink": null,
-      "providerVideoLink": "https://www.hotelcort.com/wp-content/uploads/2019/01/HOTEL-CORT-1080.mp4"
     },
     {
       "_publishedAt": "2024-10-25T18:47:15+02:00",
@@ -2026,41 +2100,6 @@
       "location": {
         "latitude": 39.57073450000001,
         "longitude": 2.6550477
-      },
-      "externalVideoLink": null,
-      "providerVideoLink": ""
-    },
-    {
-      "_publishedAt": "2024-10-25T00:14:54+02:00",
-      "_firstPublishedAt": "2024-09-17T17:51:28+02:00",
-      "id": "Peagy9k4QQGyL6cCKlAvDg",
-      "name": "Petit Nola",
-      "description": "## Highlights\nPetit Nola, im Stadtteil Portixol in Palma gelegen, ist ein gemütliches Restaurant, das sich auf frische, saisonale und gesunde Gerichte spezialisiert hat. Die Speisekarte bietet mediterran inspirierte, nahrhafte Optionen wie hausgemachte Salate, frische Smoothies und pflanzenbasierte Mahlzeiten. Die entspannte Atmosphäre und der Fokus auf lokale, biologische Produkte machen Petit Nola zu einem beliebten Ort für Frühstück, Brunch oder ein zwangloses Mittagessen.\n\n## Menu\nDie Speisekarte bei Petit Nola legt Wert auf frische und gesunde Optionen, darunter Avocado-Toast, Quinoa-Bowls und frisch gepresste Säfte. Besonders beliebt sind die nahrhaften, aber leckeren Gerichte, darunter auch hausgemachte Kuchen und vegane Optionen, die das Lokal für gesundheitsbewusste Gäste besonders attraktiv machen.\n\n## Location\nPetit Nola befindet sich in der Carrer del Vicari Joaquim Forster 95 im angesagten Viertel Portixol in Palma. Es ist ein perfekter Ort, um bei einem Spaziergang entlang der Strandpromenade einzukehren und eine entspannte Mahlzeit zu genießen.\n\n## User Experiences\nGäste loben die frischen, gesunden Gerichte und den freundlichen Service im Petit Nola. Viele Bewertungen heben die lebendigen Gerichte und die gemütliche Atmosphäre hervor, ideal für einen entspannten Brunch oder ein leichtes Mittagessen. Das Engagement des Restaurants für Qualität und biologische Zutaten macht es zu einem Favoriten unter gesundheitsbewussten Gästen in Palma.",
-      "address": "Carrer del Vicari Joaquim Fuster, 95, Platja de Palma, 07006 Palma",
-      "mail": "",
-      "website": "",
-      "phone": "+34971093495",
-      "googleMapsLink": "https://maps.app.goo.gl/6gBY2PNCU9Mb3mCF9",
-      "slug": "petit-nola",
-      "aiRating": 4,
-      "proList": "- Frische, gesunde mediterran inspirierte Gerichte mit Bio-Zutaten\n- Gemütliche, entspannte Atmosphäre, ideal für Brunch oder Mittagessen\n- Im trendigen Viertel Portixol in Palma, perfekt für einen kurzen Stopp",
-      "tipsList": "- Avocado-Toast oder Quinoa-Bowls für eine frische, nahrhafte Mahlzeit probieren\n- Ideal für Gäste, die vegane oder pflanzenbasierte Optionen suchen\n- Perfekter Stopp bei einem Spaziergang entlang der Strandpromenade von Portixol",
-      "photos": [
-        {
-          "responsiveImage": {
-            "src": "https://www.datocms-assets.com/138394/1726674145-petit-nola-photo.jpg",
-            "alt": null
-          }
-        }
-      ],
-      "mainCategory": {
-        "name": "🍽️ Essen",
-        "slug": "restaurant"
-      },
-      "subCategories": [],
-      "location": {
-        "latitude": 39.5587636,
-        "longitude": 2.6745697
       },
       "externalVideoLink": null,
       "providerVideoLink": ""

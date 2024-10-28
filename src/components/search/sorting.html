@@ -1,5 +1,6 @@
 <!-- Sort dropdown -->
 <select id="sortOrder" x-model="sortOrder" @change="sortProviders()" class="w-full px-4 py-2 h-12 rounded-2xl transition duration-300 border border-gray-200 text-sm">
+    <option value="relevance">⭐ {{translations[locale].sortingrelevance}}</option>
     <option value="publishedAtDesc">🔄 {{translations[locale].sortingupdate}}</option>
     <option value="firstPublishedAtDesc">📣 {{translations[locale].sortingnewest}}</option>
     <option value="distanceAsc">📍 {{translations[locale].sortingnearest}}</option>

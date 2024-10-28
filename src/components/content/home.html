@@ -50,7 +50,7 @@ function sortableList() {
         providers: window.providers,
         mainCategories: window.mainCategories,
         subCategories: window.subCategories,
-        sortOrder: 'distanceAsc',  // Default sort order
+        sortOrder: 'relevance',  // Default sort order
         searchQuery: '',          // Default search query
         selectedMainCategory: '', // Default main category filter
         selectedSubCategory: '',  // Default subcategory filter
@@ -102,7 +102,7 @@ function sortableList() {
             this.searchQuery = '';          // Reset search query
             this.selectedMainCategory = ''; // Reset main category filter
             this.selectedSubCategory = '';  // Reset subcategory filter
-            this.sortOrder = 'distanceAsc';   // Reset to default sort order
+            this.sortOrder = 'relevance';   // Reset to default sort order
             this.sortProviders();           // Re-sort and re-filter the providers
             this.updateUrlParams();         // Update URL parameters
         },
@@ -110,6 +110,14 @@ function sortableList() {
         // Sorting function
         sortProviders() {
             switch (this.sortOrder) {
+                case 'relevance':
+                    this.sortedProviders = this.providers.sort((a, b) => {
+                        // Sort by relevance: check if provider has video links
+                        const aHasVideo = a.providerVideoLink || (a.externalVideoLink && a.externalVideoLink.url);
+                        const bHasVideo = b.providerVideoLink || (b.externalVideoLink && b.externalVideoLink.url);
+                        return (bHasVideo === aHasVideo) ? 0 : bHasVideo ? 1 : -1;
+                    });
+                    break;
                 case 'ratingAsc':
                     this.sortedProviders = this.providers.sort((a, b) => a.aiRating - b.aiRating);
                     break;
