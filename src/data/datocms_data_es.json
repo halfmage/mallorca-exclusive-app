@@ -1,0 +1,6153 @@
+{
+  "allProviders": [
+    {
+      "_publishedAt": "2024-11-04T12:43:26+01:00",
+      "_firstPublishedAt": "2024-09-20T16:36:57+02:00",
+      "id": "OOS7zIK1T6ipMrmCydtCsA",
+      "name": "Port Calanova",
+      "description": "## Lo más destacado\nPort Calanova es un moderno puerto deportivo y escuela de vela situado en la bahía de Palma, a tan solo 5 km del centro de la ciudad. Fundado en 1976, este puerto deportivo es ideal tanto para los amantes de la navegación como para los turistas que buscan explorar las aguas cristalinas y las atracciones cercanas. Ofrece una amplia gama de deportes acuáticos, como vela, kayak y paddle surf, y cuenta con opciones de alojamiento en la Residencia Deportiva Calanova. El puerto también alberga dos restaurantes y varias instalaciones como un gimnasio y una piscina, lo que lo convierte en un lugar popular para relajarse y realizar actividades.\n\n## Servicios\nPort Calanova ofrece 172 amarres para embarcaciones de hasta 25 metros, junto con un astillero que ofrece servicios como limpieza, mantenimiento y reparaciones. Los visitantes también pueden alquilar barcos o participar en deportes acuáticos como windsurf o stand-up paddleboard. El puerto deportivo cuenta con un muelle de combustible, duchas, Wi-Fi y lavandería. Para quienes se alojen en tierra, la Residencia Deportiva Calanova ofrece alojamiento, y el puerto deportivo alberga eventos y campamentos de vela durante todo el año.\n\n## Ubicación\nPort Calanova está situado en la Avenida Joan Miró, 327, a tan solo 15 minutos del aeropuerto de Palma. Está cerca de algunas de las principales atracciones de Palma, como el Palacio de Marivent y la playa de Illetas, y ofrece un fácil acceso al vibrante centro y la costa de la ciudad.\n\n## Experiencias de los usuarios\nLos visitantes aprecian el servicio amable y profesional de Port Calanova. Muchos destacan la amplia variedad de actividades, desde deportes acuáticos hasta cenas relajadas en los restaurantes del puerto deportivo. El ambiente tranquilo y las excelentes instalaciones lo convierten en una gran opción tanto para familias como para amantes de la navegación, mientras que las hermosas vistas de la bahía y la proximidad a los lugares de interés de Palma se suman a su atractivo.",
+      "address": "Avinguda de Joan Miró, 327, Ponent, 07015 Palma",
+      "mail": "info@portcalanova.com",
+      "website": "https://www.portcalanova.com/en",
+      "phone": "+34971402512",
+      "googleMapsLink": "https://maps.app.goo.gl/ACDCFpCooFoVLQ1W7",
+      "slug": "port-calanova",
+      "aiRating": 4.2,
+      "proList": "- Ofrece una amplia gama de deportes acuáticos y actividades de navegación\n- Puerto deportivo bien equipado con excelentes servicios para barcos y yates\n- Ubicación conveniente cerca de las atracciones y playas de Palma",
+      "tipsList": "- Ideal para combinar la navegación con una estancia en la residencia deportiva del hotel\n- Reserva con antelación el alquiler de un barco o clases de navegación, especialmente en temporada alta\n- Explora la cercana Palma para disfrutar de restaurantes, tiendas y experiencias culturales",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1729938453-portcalanova-05.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1729938453-portcalanova-06.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1729938453-portcalanova-02.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1729938453-portcalanova-04.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1729938453-portcalanova-07.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1729938453-portcalanova-01.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1729938453-portcalanova-03.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🌴 Ocio",
+        "slug": "leisure"
+      },
+      "subCategories": [
+        {
+          "name": "",
+          "slug": "surfing"
+        },
+        {
+          "name": "",
+          "slug": "diving"
+        },
+        {
+          "name": "",
+          "slug": "action"
+        },
+        {
+          "name": "",
+          "slug": "in-house-dining"
+        }
+      ],
+      "location": {
+        "latitude": 39.5498276,
+        "longitude": 2.5988588
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
+    },
+    {
+      "_publishedAt": "2024-10-27T15:58:27+01:00",
+      "_firstPublishedAt": "2024-09-17T17:51:28+02:00",
+      "id": "Peagy9k4QQGyL6cCKlAvDg",
+      "name": "Petit Nola",
+      "description": "",
+      "address": "Carrer del Vicari Joaquim Fuster, 95, Platja de Palma, 07006 Palma",
+      "mail": "",
+      "website": "",
+      "phone": "+34971093495",
+      "googleMapsLink": "https://maps.app.goo.gl/6gBY2PNCU9Mb3mCF9",
+      "slug": "petit-nola",
+      "aiRating": 4,
+      "proList": "",
+      "tipsList": "",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726674145-petit-nola-photo.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🍽️ Comida",
+        "slug": "restaurant"
+      },
+      "subCategories": [
+        {
+          "name": "",
+          "slug": "mediterranean"
+        },
+        {
+          "name": "",
+          "slug": "vegan"
+        }
+      ],
+      "location": {
+        "latitude": 39.5587636,
+        "longitude": 2.6745697
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
+    },
+    {
+      "_publishedAt": "2024-10-27T15:57:30+01:00",
+      "_firstPublishedAt": "2024-09-20T13:36:29+02:00",
+      "id": "Uq30sQgETMK6ETd6qRpX-w",
+      "name": "Iberostar Selection Playa de Palma",
+      "description": "",
+      "address": "Carrer de Marbella, 36, Platja de Palma, 07610 Palma",
+      "mail": "",
+      "website": "https://www.iberostar.com/en/hotels/majorca/iberostar-playa-de-palma/?utm_source=google&utm_medium=organic&utm_campaign=IBSVOL_EMEA_SEOLOC_GMB_NA_EN_ESP_BAL_PMI_PDP_PULL_NA_NA_NA_NA_NA",
+      "phone": "+34971266450",
+      "googleMapsLink": "https://maps.app.goo.gl/vxsDNW7WYuCeQ24v7",
+      "slug": "iberostar-selection-playa-de-palma",
+      "aiRating": 4.5,
+      "proList": "",
+      "tipsList": "",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1730021810-iberostar-playa-de-palma-01.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1730021810-iberostar-playa-de-palma-04.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1730021810-iberostar-playa-de-palma-06.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1730021810-iberostar-playa-de-palma-03.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1730021810-iberostar-playa-de-palma-02.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1730021813-iberostar-playa-de-palma-05.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🏨 Hotel",
+        "slug": "hotel"
+      },
+      "subCategories": [
+        {
+          "name": "",
+          "slug": "pool"
+        }
+      ],
+      "location": {
+        "latitude": 39.52335799999999,
+        "longitude": 2.7383303
+      },
+      "externalVideoLink": {
+        "thumbnailUrl": "https://i.ytimg.com/vi/wOUZd0v7fAI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=wOUZd0v7fAI"
+      },
+      "providerVideoLink": ""
+    },
+    {
+      "_publishedAt": "2024-10-27T15:57:17+01:00",
+      "_firstPublishedAt": "2024-09-20T13:11:13+02:00",
+      "id": "Ncdc0ZX5SC2rbaR9L1cG2Q",
+      "name": "Hotel Cort",
+      "description": "",
+      "address": "Plaça de Cort, 11, Distrito Centro, 07001 Palma",
+      "mail": "info@hotelcort.com",
+      "website": "http://www.hotelcort.com/",
+      "phone": "+34971213300",
+      "googleMapsLink": "https://maps.app.goo.gl/8J6W9J9VZUP5veFEA",
+      "slug": "hotel-cort",
+      "aiRating": 4.5,
+      "proList": "",
+      "tipsList": "",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1729932134-hotelcort-04.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1729932134-hotelcort-03.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1729932134-hotelcort-05.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1729932134-hotelcort-02.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1729932134-hotelcort-06.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1729932134-hotelcort-01.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🏨 Hotel",
+        "slug": "hotel"
+      },
+      "subCategories": [
+        {
+          "name": "",
+          "slug": "in-house-dining"
+        },
+        {
+          "name": "",
+          "slug": "pool"
+        },
+        {
+          "name": "",
+          "slug": "rooftop"
+        }
+      ],
+      "location": {
+        "latitude": 39.569819,
+        "longitude": 2.6498663
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": "https://www.hotelcort.com/wp-content/uploads/2019/01/HOTEL-CORT-1080.mp4"
+    },
+    {
+      "_publishedAt": "2024-10-27T14:55:00+01:00",
+      "_firstPublishedAt": "2024-09-20T12:52:41+02:00",
+      "id": "V3RscGDFTuGcqXq_SvsT4g",
+      "name": "HOTEL CAN CIRERA",
+      "description": "",
+      "address": "Carrer del Palau Reial, 23, Centre, 07001 Palma",
+      "mail": "info@hotelcancirera.com",
+      "website": "https://www.hotelcancirera.com/",
+      "phone": "+34871620207",
+      "googleMapsLink": "https://maps.app.goo.gl/UpqNQEEnvXriq72r6",
+      "slug": "hotel-can-cirera",
+      "aiRating": 4.5,
+      "proList": "",
+      "tipsList": "",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1730035017-hotelcancirera-06.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1730035016-hotelcancirera-03.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1730035016-hotelcancirera-02.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1730035017-hotelcancirera-01.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1730035016-hotelcancirera-05.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1730035016-hotelcancirera-04.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🏨 Hotel",
+        "slug": "hotel"
+      },
+      "subCategories": [
+        {
+          "name": "",
+          "slug": "luxury"
+        },
+        {
+          "name": "",
+          "slug": "quiet"
+        }
+      ],
+      "location": {
+        "latitude": 39.56924739999999,
+        "longitude": 2.6497426
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
+    },
+    {
+      "_publishedAt": "2024-10-27T14:14:57+01:00",
+      "_firstPublishedAt": "2024-09-20T13:26:57+02:00",
+      "id": "JeHs8QwcS_Ge6oxYX8h_Bg",
+      "name": "Hotel Victoria Gran Meliá",
+      "description": "",
+      "address": "Avinguda de Joan Miró, 21, Ponent, 07014 Palma",
+      "mail": "",
+      "website": "https://www.melia.com/en/hotels/spain/majorca/victoria-gran-melia?utm_medium=organic&utm_source=directories&utm_campaign=google&utm_content=0754",
+      "phone": "+34971732542",
+      "googleMapsLink": "https://maps.app.goo.gl/oCWXYFFiEnBstR9T9",
+      "slug": "hotel-victoria-gran-melia",
+      "aiRating": 4.7,
+      "proList": "",
+      "tipsList": "",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1730034782-hotel-victoria-gran-melia-01.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1730034782-hotel-victoria-gran-melia-02.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1730034781-hotel-victoria-gran-melia-05.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1730034781-hotel-victoria-gran-melia-03.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1730034781-hotel-victoria-gran-melia-06.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1730034782-hotel-victoria-gran-melia-04.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🏨 Hotel",
+        "slug": "hotel"
+      },
+      "subCategories": [
+        {
+          "name": "",
+          "slug": "in-house-dining"
+        },
+        {
+          "name": "",
+          "slug": "pool"
+        },
+        {
+          "name": "",
+          "slug": "luxury"
+        }
+      ],
+      "location": {
+        "latitude": 39.5638014,
+        "longitude": 2.6261071
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
+    },
+    {
+      "_publishedAt": "2024-10-27T14:10:25+01:00",
+      "_firstPublishedAt": "2024-09-20T13:29:53+02:00",
+      "id": "QdC0VIcOQHCAkhx8VupK-g",
+      "name": "Hotel Cappuccino",
+      "description": "",
+      "address": "Plaça de Cort, Distrito Centro, 07001 Palma",
+      "mail": "info@hotelcappuccino.com",
+      "website": "http://www.hotelcappuccino.com",
+      "phone": "+34871037437",
+      "googleMapsLink": "https://maps.app.goo.gl/t3okezRNKSrNSroo7",
+      "slug": "hotel-cappuccino",
+      "aiRating": 4.5,
+      "proList": "",
+      "tipsList": "",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1730034501-hotelcappuccino-01.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1730034501-hotelcappuccino-02.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1730034502-hotelcappuccino-06.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1730034501-hotelcappuccino-03.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1730034501-hotelcappuccino-05.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1730034502-hotelcappuccino-04.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🏨 Hotel",
+        "slug": "hotel"
+      },
+      "subCategories": [
+        {
+          "name": "",
+          "slug": "luxury"
+        },
+        {
+          "name": "",
+          "slug": "rooftop"
+        },
+        {
+          "name": "",
+          "slug": "spa"
+        },
+        {
+          "name": "",
+          "slug": "wellness"
+        }
+      ],
+      "location": {
+        "latitude": 39.5697159,
+        "longitude": 2.649874
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": "https://www.hotelcappuccino.com/assets/v20/videos/Video-home-2023.mp4"
+    },
+    {
+      "_publishedAt": "2024-10-27T14:04:41+01:00",
+      "_firstPublishedAt": "2024-09-20T13:33:51+02:00",
+      "id": "ENbA-tQnSlq9e3utEPzaOg",
+      "name": "Iberostar Selection Llaut",
+      "description": "",
+      "address": "Av. d'Amèrica, 2, Platja de Palma, 07600 Palma",
+      "mail": "",
+      "website": "https://www.iberostar.com/en/hotels/majorca/iberostar-llaut-palma/?utm_source=google&utm_medium=organic&utm_campaign=IBSVOL_EMEA_SEOLOC_GMB_NA_EN_ESP_BAL_PMI_LLT_PULL_NA_NA_NA_NA_NA",
+      "phone": "+34971596070",
+      "googleMapsLink": "https://maps.app.goo.gl/uJZW9rMao8pFmKtu5",
+      "slug": "iberostar-selection-llaut",
+      "aiRating": 4.5,
+      "proList": "",
+      "tipsList": "",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1730034016-iberostar-llaut-palma-01.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1730034016-iberostar-llaut-palma-04.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1730034016-iberostar-llaut-palma-03.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1730034016-iberostar-llaut-palma-05.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1730034016-iberostar-llaut-palma-02.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1730034016-iberostar-llaut-palma-06.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🏨 Hotel",
+        "slug": "hotel"
+      },
+      "subCategories": [
+        {
+          "name": "",
+          "slug": "in-house-dining"
+        },
+        {
+          "name": "",
+          "slug": "gym"
+        },
+        {
+          "name": "",
+          "slug": "wellness"
+        }
+      ],
+      "location": {
+        "latitude": 39.5133666,
+        "longitude": 2.7512318
+      },
+      "externalVideoLink": {
+        "thumbnailUrl": "https://i.ytimg.com/vi/MgF5yXVRu3E/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=MgF5yXVRu3E"
+      },
+      "providerVideoLink": ""
+    },
+    {
+      "_publishedAt": "2024-10-26T12:34:42+02:00",
+      "_firstPublishedAt": "2024-09-20T16:17:50+02:00",
+      "id": "XzPI_tfxR_6mDBme3-I8IQ",
+      "name": "Big Blue Diving Mallorca",
+      "description": "",
+      "address": "Carrer Martín Ros García, 6, 07181 Palmanova",
+      "mail": "info@bigbluediving.net",
+      "website": "https://www.bigbluediving.net/en/",
+      "phone": "+34971681686",
+      "googleMapsLink": "https://maps.app.goo.gl/LbdjVRrty9vaSKK18",
+      "slug": "big-blue-diving-mallorca",
+      "aiRating": 4.5,
+      "proList": "",
+      "tipsList": "",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1729938798-bigbluediving-01.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1729938798-bigbluediving-04.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1729938799-bigbluediving-03.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1729938798-bigbluediving-02.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🌴 Ocio",
+        "slug": "leisure"
+      },
+      "subCategories": [
+        {
+          "name": "",
+          "slug": "diving"
+        }
+      ],
+      "location": {
+        "latitude": 39.5125618,
+        "longitude": 2.5404125
+      },
+      "externalVideoLink": {
+        "thumbnailUrl": "https://i.ytimg.com/vi/UpFHObboH78/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=UpFHObboH78"
+      },
+      "providerVideoLink": ""
+    },
+    {
+      "_publishedAt": "2024-10-26T12:21:51+02:00",
+      "_firstPublishedAt": "2024-09-20T16:27:35+02:00",
+      "id": "fJpUu7bNT_-0rIOROvpdVw",
+      "name": "Aventura IB Colonia de Sant Jordi",
+      "description": "",
+      "address": "Carrer Gabriel Roca, 24, 07638 Colònia de Sant Jordi",
+      "mail": "info@aventuraib.com",
+      "website": "http://www.aventuraib.com/",
+      "phone": "+34673334003",
+      "googleMapsLink": "https://maps.app.goo.gl/3WPxcMLFgw4sP7fcA",
+      "slug": "aventura-ib-colonia-de-sant-jordi",
+      "aiRating": 4.6,
+      "proList": "",
+      "tipsList": "",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1729938103-aventuraib-03.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1729938103-aventuraib-04.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1729938103-aventuraib-02.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1729938103-aventuraib-01.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🌴 Ocio",
+        "slug": "leisure"
+      },
+      "subCategories": [
+        {
+          "name": "",
+          "slug": "diving"
+        }
+      ],
+      "location": {
+        "latitude": 39.315727,
+        "longitude": 2.9964847
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
+    },
+    {
+      "_publishedAt": "2024-10-26T12:17:41+02:00",
+      "_firstPublishedAt": "2024-09-20T16:24:44+02:00",
+      "id": "Yynb7zcmTUSc4xot5UiRgQ",
+      "name": "Albatros Diving",
+      "description": "",
+      "address": "Carrer del Xaloc, 5, 07559 Cala Bona",
+      "mail": "info@albatros-diving.com",
+      "website": "https://www.albatros-diving.com/",
+      "phone": "+34621251940",
+      "googleMapsLink": "https://maps.app.goo.gl/v4uxGbZiWNiuh1Ww8",
+      "slug": "albatros-diving",
+      "aiRating": 4.3,
+      "proList": "",
+      "tipsList": "",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1729937813-albatrosdiving-01.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1729937812-albatrosdiving-06.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1729937812-albatrosdiving-02.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1729937812-albatrosdiving-04.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1729937813-albatrosdiving-05.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1729937813-albatrosdiving-03.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🌴 Ocio",
+        "slug": "leisure"
+      },
+      "subCategories": [
+        {
+          "name": "",
+          "slug": "diving"
+        }
+      ],
+      "location": {
+        "latitude": 39.6131082,
+        "longitude": 3.3917201
+      },
+      "externalVideoLink": {
+        "thumbnailUrl": "https://i.ytimg.com/vi/2LH81n6qPRg/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=2LH81n6qPRg"
+      },
+      "providerVideoLink": ""
+    },
+    {
+      "_publishedAt": "2024-10-26T10:48:38+02:00",
+      "_firstPublishedAt": "2024-09-20T16:15:04+02:00",
+      "id": "HYX3IPddRM2XtolOUqjhZA",
+      "name": "Diving Dragonera",
+      "description": "",
+      "address": "Av. Almirante Riera Alemany, 23, 07157 Port d'Andratx",
+      "mail": "info@divingdragonera.de",
+      "website": "http://www.aqua-mallorca-diving.com/",
+      "phone": "+34971674376",
+      "googleMapsLink": "https://maps.app.goo.gl/jPkSekGMRxnaocLFA",
+      "slug": "diving-dragonera",
+      "aiRating": 4.4,
+      "proList": "",
+      "tipsList": "",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1729932503-aquamallorcadiving-01.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1729932503-aquamallorcadiving-03.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1729932504-aquamallorcadiving-04.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1729932503-aquamallorcadiving-02.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🌴 Ocio",
+        "slug": "leisure"
+      },
+      "subCategories": [
+        {
+          "name": "",
+          "slug": "diving"
+        }
+      ],
+      "location": {
+        "latitude": 39.5426811,
+        "longitude": 2.3856721
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
+    },
+    {
+      "_publishedAt": "2024-10-25T18:47:15+02:00",
+      "_firstPublishedAt": "2024-09-19T11:42:30+02:00",
+      "id": "N8iSSSHoT7KeOqsy9wTmZQ",
+      "name": "Restaurante SUMAQ",
+      "description": "",
+      "address": "Carrer de Cotoner, 44, Ponent, 07013 Palma",
+      "mail": "sumaqrestaurante@gmail.com",
+      "website": "https://restaurantesumaq.com",
+      "phone": "+34696526758",
+      "googleMapsLink": "https://maps.app.goo.gl/thWppWusFpBRfkP8A",
+      "slug": "restaurante-sumaq",
+      "aiRating": 4.5,
+      "proList": "",
+      "tipsList": "",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726740140-restaurantesumaq-03.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726740140-restaurantesumaq-02.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726740140-restaurantesumaq-01.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🍽️ Comida",
+        "slug": "restaurant"
+      },
+      "subCategories": [
+        {
+          "name": "",
+          "slug": "peruvian"
+        },
+        {
+          "name": "🍷 Vino",
+          "slug": "wine"
+        },
+        {
+          "name": "",
+          "slug": "fusion"
+        }
+      ],
+      "location": {
+        "latitude": 39.5714122,
+        "longitude": 2.6370207
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
+    },
+    {
+      "_publishedAt": "2024-10-25T18:44:16+02:00",
+      "_firstPublishedAt": "2024-09-19T19:36:10+02:00",
+      "id": "Syqhgt8pTK2pa88dwb2z6g",
+      "name": "BAR CUBA",
+      "description": "",
+      "address": "Carrer de Sant Magí, 1, Ponent, 07013 Palma",
+      "mail": "",
+      "website": "https://www.hotelhostalcuba.com/es/",
+      "phone": "+34971452237",
+      "googleMapsLink": "https://maps.app.goo.gl/BTjinUrtwRZrTXoc9",
+      "slug": "bar-cuba",
+      "aiRating": 4.2,
+      "proList": "",
+      "tipsList": "",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726828401-hotelhostalcuba-03.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726828401-hotelhostalcuba-04.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726828401-hotelhostalcuba-02.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726828401-hotelhostalcuba-01.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726828401-hotelhostalcuba-05.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🍸 Barra",
+        "slug": "bar"
+      },
+      "subCategories": [
+        {
+          "name": "",
+          "slug": "in-house-dining"
+        },
+        {
+          "name": "",
+          "slug": "rooftop"
+        },
+        {
+          "name": "",
+          "slug": "club"
+        },
+        {
+          "name": "🍹 Cóctel",
+          "slug": "cocktail"
+        }
+      ],
+      "location": {
+        "latitude": 39.570199,
+        "longitude": 2.6391496
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
+    },
+    {
+      "_publishedAt": "2024-10-25T18:03:54+02:00",
+      "_firstPublishedAt": "2024-09-19T10:05:43+02:00",
+      "id": "Usk1A9smSjmg7dyUt4fo1w",
+      "name": "Kasui",
+      "description": "",
+      "address": "Plaça Raimundo Clar, 6  07002 Palma",
+      "mail": "",
+      "website": "https://kasuirestaurante.com/",
+      "phone": "+34971677780",
+      "googleMapsLink": "https://maps.app.goo.gl/LwVtiXHpp6VKCc9i6",
+      "slug": "kasui",
+      "aiRating": 4,
+      "proList": "",
+      "tipsList": "",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726732875-205912.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726732875-84070231_474314199912152_8623813646218166272_n.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726732875-72126190_399974040679502_4663029775470690304_n.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🍽️ Comida",
+        "slug": "restaurant"
+      },
+      "subCategories": [
+        {
+          "name": "",
+          "slug": "japanese"
+        },
+        {
+          "name": "",
+          "slug": "grill"
+        },
+        {
+          "name": "🍹 Cóctel",
+          "slug": "cocktail"
+        }
+      ],
+      "location": {
+        "latitude": 39.570694,
+        "longitude": 2.6567097
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
+    },
+    {
+      "_publishedAt": "2024-10-25T18:03:43+02:00",
+      "_firstPublishedAt": "2024-09-18T20:11:49+02:00",
+      "id": "QxJqEk6vQS2WyhupiiRE4w",
+      "name": "Guindilla Design & Bar",
+      "description": "",
+      "address": "Carrer de la Ferreria, 18, Centre, 07002 Palma",
+      "mail": "",
+      "website": "",
+      "phone": "+34697457473",
+      "googleMapsLink": "https://maps.app.goo.gl/mquSDbC2XLaUmZuv8",
+      "slug": "guindilla-design-and-bar",
+      "aiRating": 4.5,
+      "proList": "",
+      "tipsList": "",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726682785-screenshot-2024-09-18-200105.png",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726682785-screenshot-2024-09-18-200258.png",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726682785-screenshot-2024-09-18-200133.png",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🍸 Barra",
+        "slug": "bar"
+      },
+      "subCategories": [
+        {
+          "name": "",
+          "slug": "grill"
+        },
+        {
+          "name": "🍷 Vino",
+          "slug": "wine"
+        }
+      ],
+      "location": {
+        "latitude": 39.5710629,
+        "longitude": 2.6548905
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
+    },
+    {
+      "_publishedAt": "2024-10-25T00:51:31+02:00",
+      "_firstPublishedAt": "2024-09-19T12:56:25+02:00",
+      "id": "MoaBiy0JQXStTvKyUgziLA",
+      "name": "Isaan Thai Cuisine",
+      "description": "",
+      "address": "Carrer de la Pursiana, 14, Ponent, 07013 Palma",
+      "mail": "info@isaanthaicuisine.com",
+      "website": "https://www.isaanthaicuisine.com/en/",
+      "phone": "+34971158679",
+      "googleMapsLink": "https://maps.app.goo.gl/GCXTNYo3FSh3868k6",
+      "slug": "isaan-thai-cuisine",
+      "aiRating": 4.6,
+      "proList": "",
+      "tipsList": "",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726755193-isaan-04.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726755193-isaan-05.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726755193-isaan-02.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726755193-isaan-03.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726755193-isaan-01.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🍽️ Comida",
+        "slug": "restaurant"
+      },
+      "subCategories": [
+        {
+          "name": "",
+          "slug": "thai"
+        }
+      ],
+      "location": {
+        "latitude": 39.5718746,
+        "longitude": 2.6392642
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
+    },
+    {
+      "_publishedAt": "2024-10-25T00:49:19+02:00",
+      "_firstPublishedAt": "2024-09-17T18:24:59+02:00",
+      "id": "ZeQim-kcSwWXVNminc-gww",
+      "name": "Artmadams",
+      "description": "",
+      "address": "Carrer del Marquès de la Sènia, 34, Ponent, 07014 Palma, Illes Balears, Spanien",
+      "mail": "ARTMADAMS@HOTELARTMADAMS.COM",
+      "website": "https://www.hotelartmadams.com/",
+      "phone": "+34971222121",
+      "googleMapsLink": "",
+      "slug": "artmadams",
+      "aiRating": 4,
+      "proList": "",
+      "tipsList": "",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726590264-habitacion-hotel-artmadams-2.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726590263-escultura-hotel-artmadams.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726590263-piscina-exterior-artmadams.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🏨 Hotel",
+        "slug": "hotel"
+      },
+      "subCategories": [
+        {
+          "name": "",
+          "slug": "quiet"
+        },
+        {
+          "name": "",
+          "slug": "rooftop"
+        },
+        {
+          "name": "",
+          "slug": "gym"
+        },
+        {
+          "name": "",
+          "slug": "spa"
+        },
+        {
+          "name": "",
+          "slug": "in-house-dining"
+        }
+      ],
+      "location": {
+        "latitude": 39.56889340000001,
+        "longitude": 2.6304472
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
+    },
+    {
+      "_publishedAt": "2024-10-25T00:48:18+02:00",
+      "_firstPublishedAt": "2024-09-19T12:33:11+02:00",
+      "id": "EHh9O7j1Rj2fvz0lmgG5yA",
+      "name": "El Hummus",
+      "description": "",
+      "address": "Carrer de la Constitució, 4, 07620 Llucmajor",
+      "mail": "",
+      "website": "https://www.elhummus.com",
+      "phone": "+34692450545",
+      "googleMapsLink": "https://maps.app.goo.gl/J148uoVtGbDA6wmw6",
+      "slug": "el-hummus",
+      "aiRating": 4.8,
+      "proList": "",
+      "tipsList": "",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726754563-elhummus-05.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726754563-elhummus-04.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726754563-elhummus-02.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726754563-elhummus-01.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726754564-elhummus-03.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🍽️ Comida",
+        "slug": "restaurant"
+      },
+      "subCategories": [
+        {
+          "name": "",
+          "slug": "hummus"
+        }
+      ],
+      "location": {
+        "latitude": 39.4913015,
+        "longitude": 2.8910941
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
+    },
+    {
+      "_publishedAt": "2024-10-25T00:47:21+02:00",
+      "_firstPublishedAt": "2024-09-20T10:01:53+02:00",
+      "id": "DJ2jPyrDS6qv8WtT20MGqw",
+      "name": "Hotel Born Palma",
+      "description": "",
+      "address": "Carrer de Sant Jaume, 3, Centre, 07012 Palma",
+      "mail": "infoborn@hotelborn.com",
+      "website": "http://www.hotelborn.com/",
+      "phone": "+34971712942",
+      "googleMapsLink": "https://maps.app.goo.gl/SexMNbCpadYuL41q8",
+      "slug": "hotel-born-palma",
+      "aiRating": 4.2,
+      "proList": "",
+      "tipsList": "",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726829565-hotelborn-01.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726829565-hotelborn-04.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726829565-hotelborn-03.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726829565-hotelborn-02.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726829565-hotelborn-05.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🏨 Hotel",
+        "slug": "hotel"
+      },
+      "subCategories": [
+        {
+          "name": "",
+          "slug": "spa"
+        },
+        {
+          "name": "",
+          "slug": "breakfast"
+        }
+      ],
+      "location": {
+        "latitude": 39.57196039999999,
+        "longitude": 2.6472125
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
+    },
+    {
+      "_publishedAt": "2024-10-25T00:40:22+02:00",
+      "_firstPublishedAt": "2024-09-20T20:28:01+02:00",
+      "id": "B-1UTr2WTE28rZGeQ2np-w",
+      "name": "Palma Jump",
+      "description": "",
+      "address": "Son Valentí, C/ textil, solar 33, 3, 07011 Palma",
+      "mail": "",
+      "website": "http://www.palmajump.com/",
+      "phone": "+34871903892",
+      "googleMapsLink": "https://maps.app.goo.gl/eEaQALVMrP7g4W4M9",
+      "slug": "palma-jump",
+      "aiRating": 4,
+      "proList": "",
+      "tipsList": "",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726917492-palmajump-03.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726917492-palmajump-04.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726917492-palmajump-01.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726917492-palmajump-05.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726917492-palmajump-02.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🌴 Ocio",
+        "slug": "leisure"
+      },
+      "subCategories": [
+        {
+          "name": "",
+          "slug": "activity"
+        },
+        {
+          "name": "",
+          "slug": "action"
+        }
+      ],
+      "location": {
+        "latitude": 39.5916535,
+        "longitude": 2.6355558
+      },
+      "externalVideoLink": {
+        "thumbnailUrl": "https://i.ytimg.com/vi/_j96BmfoQV8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=_j96BmfoQV8"
+      },
+      "providerVideoLink": ""
+    },
+    {
+      "_publishedAt": "2024-10-25T00:39:38+02:00",
+      "_firstPublishedAt": "2024-09-21T13:59:02+02:00",
+      "id": "cE8MBZltRCS1yavOxKbaCw",
+      "name": "Bikkini Beach",
+      "description": "",
+      "address": "Carrer d’Acapulco, 1 07610 Playa de Palma",
+      "mail": "bikkinibeach@enjoygroup.es",
+      "website": "https://www.palmabeach.com/bikkini-beach/765/",
+      "phone": "+34 971 07 17 11",
+      "googleMapsLink": "https://maps.app.goo.gl/BGK5ckRhrLaahhfz5",
+      "slug": "bikkini-beach",
+      "aiRating": 4.6,
+      "proList": "",
+      "tipsList": "",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726925291-bikkini-beach-03.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726925293-bikkini-beach-04.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726925294-bikkini-beach-01.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726925295-bikkini-beach-02.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🍽️ Comida",
+        "slug": "restaurant"
+      },
+      "subCategories": [
+        {
+          "name": "💙 Palma Beach Partner",
+          "slug": "palma-beach-partner"
+        },
+        {
+          "name": "🍲 Poke Bowls",
+          "slug": "poke-bowls"
+        },
+        {
+          "name": "",
+          "slug": "burger"
+        },
+        {
+          "name": "",
+          "slug": "seafood"
+        },
+        {
+          "name": "",
+          "slug": "fish"
+        },
+        {
+          "name": "",
+          "slug": "vegetarian"
+        },
+        {
+          "name": "🍹 Cóctel",
+          "slug": "cocktail"
+        }
+      ],
+      "location": {
+        "latitude": 39.5228695,
+        "longitude": 2.7385259
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
+    },
+    {
+      "_publishedAt": "2024-10-25T00:35:10+02:00",
+      "_firstPublishedAt": "2024-09-20T12:50:10+02:00",
+      "id": "dPGD7VQdQAa5zKSKWePPbw",
+      "name": "Hotel Can Cera",
+      "description": "",
+      "address": "Carrer de Sant Francesc, 8, Centre, 07001 Palma",
+      "mail": "info@cancerahotel.com",
+      "website": "https://www.cancerahotel.com/",
+      "phone": "+34971715012",
+      "googleMapsLink": "https://maps.app.goo.gl/VLFzZHeMoyX1wmcg9",
+      "slug": "hotel-can-cera",
+      "aiRating": 4.8,
+      "proList": "",
+      "tipsList": "",
+      "photos": [],
+      "mainCategory": {
+        "name": "🏨 Hotel",
+        "slug": "hotel"
+      },
+      "subCategories": [],
+      "location": {
+        "latitude": 39.5690094,
+        "longitude": 2.6526267
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
+    },
+    {
+      "_publishedAt": "2024-10-25T00:34:22+02:00",
+      "_firstPublishedAt": "2024-09-19T13:01:47+02:00",
+      "id": "Cssb46YKQOap0bK6F5xd8A",
+      "name": "KOH",
+      "description": "",
+      "address": "Carrer de Servet, 15, Ponent, 07013 Palma, Illes Balears, Spanien",
+      "mail": "HELLO@KOHPALMA.COM",
+      "website": " kohpalma.com",
+      "phone": "+34635339211",
+      "googleMapsLink": "https://maps.app.goo.gl/zARP1oV7G14csCfYA",
+      "slug": "koh",
+      "aiRating": 4.5,
+      "proList": "",
+      "tipsList": "",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726829228-kohpalma-01.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726829228-kohpalma-02.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726829228-kohpalma-05.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726829228-kohpalma-03.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726829228-kohpalma-04.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🍽️ Comida",
+        "slug": "restaurant"
+      },
+      "subCategories": [
+        {
+          "name": "",
+          "slug": "thai"
+        },
+        {
+          "name": "",
+          "slug": "asian"
+        },
+        {
+          "name": "🍹 Cóctel",
+          "slug": "cocktail"
+        }
+      ],
+      "location": {
+        "latitude": 39.5708477,
+        "longitude": 2.6386299
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
+    },
+    {
+      "_publishedAt": "2024-10-25T00:33:22+02:00",
+      "_firstPublishedAt": "2024-09-19T14:54:04+02:00",
+      "id": "ePsi0LSlSNW1iU5DbPbylQ",
+      "name": "Bi Bap",
+      "description": "",
+      "address": "Plaça del Mercat, 3, Centre, 07001 Palma",
+      "mail": "",
+      "website": "https://bibap-mallorca.com/en/",
+      "phone": "+34971773089",
+      "googleMapsLink": "https://maps.app.goo.gl/PrJ2zfbqQXtY6KZ46",
+      "slug": "bi-bap",
+      "aiRating": 4.5,
+      "proList": "",
+      "tipsList": "",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726829342-bibap-01.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726829342-bibap-03.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726829342-bibap-04.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726829342-bibap-02.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726829342-bibap-05.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🍽️ Comida",
+        "slug": "restaurant"
+      },
+      "subCategories": [
+        {
+          "name": "",
+          "slug": "asian"
+        },
+        {
+          "name": "",
+          "slug": "korean-bbq"
+        }
+      ],
+      "location": {
+        "latitude": 39.5711994,
+        "longitude": 2.6484241
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
+    },
+    {
+      "_publishedAt": "2024-10-25T00:31:47+02:00",
+      "_firstPublishedAt": "2024-09-20T12:56:53+02:00",
+      "id": "YE8kC05PT4K5Dor1OAkP_A",
+      "name": "Hotel Cap Rocat",
+      "description": "",
+      "address": "Ctra. d'enderrocat, s/n, 07609 Cala Blava-Llucmajor",
+      "mail": "info@caprocat.com",
+      "website": "https://caprocat.com/?utm_source=google&utm_medium=maps&utm_campaign=mybusiness&utm_content=caprocat",
+      "phone": "+34971747878",
+      "googleMapsLink": "https://maps.app.goo.gl/vCnTMx4q3Dk1dSABA",
+      "slug": "hotel-cap-rocat",
+      "aiRating": 4.5,
+      "proList": "",
+      "tipsList": "",
+      "photos": [],
+      "mainCategory": {
+        "name": "🏨 Hotel",
+        "slug": "hotel"
+      },
+      "subCategories": [],
+      "location": {
+        "latitude": 39.4761095,
+        "longitude": 2.7243017
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
+    },
+    {
+      "_publishedAt": "2024-10-25T00:29:53+02:00",
+      "_firstPublishedAt": "2024-09-20T12:54:39+02:00",
+      "id": "O9TZOvYjQ0iUatz2TDH7zQ",
+      "name": "Hotel Can Quetglas",
+      "description": "",
+      "address": "Carrer de Santa Rita, 13, Ponent, 07014 Palma, Illes Balears, Spanien",
+      "mail": "info@hotelcanquetglas.com",
+      "website": "http://www.hotelcanquetglas.com/",
+      "phone": "+34871626000",
+      "googleMapsLink": "https://maps.app.goo.gl/brBFTtZpikeMFUC17",
+      "slug": "hotel-can-quetglas",
+      "aiRating": 4.5,
+      "proList": "",
+      "tipsList": "",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726829830-hotelcanquetglas-02.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726829830-hotelcanquetglas-01.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726829830-hotelcanquetglas-04.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726829830-hotelcanquetglas-03.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726829830-hotelcanquetglas-05.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🏨 Hotel",
+        "slug": "hotel"
+      },
+      "subCategories": [
+        {
+          "name": "",
+          "slug": "breakfast"
+        },
+        {
+          "name": "",
+          "slug": "boutique"
+        }
+      ],
+      "location": {
+        "latitude": 39.5646584,
+        "longitude": 2.6241283
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
+    },
+    {
+      "_publishedAt": "2024-10-25T00:28:12+02:00",
+      "_firstPublishedAt": "2024-09-20T13:00:41+02:00",
+      "id": "ctGn28tTTsS4l55VZBc5Cg",
+      "name": "Castillo Hotel Son Vida",
+      "description": "",
+      "address": "Carrer Raixa, 2, Urbanizacion, Ponent, 07013 Son Vida ",
+      "mail": "",
+      "website": "https://www.marriott.com/en-us/hotels/pmilc-castillo-hotel-son-vida-a-luxury-collection-hotel-mallorca/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0",
+      "phone": "+34971493493",
+      "googleMapsLink": "https://maps.app.goo.gl/5vexn9p7GtJ4UPtz6",
+      "slug": "castillo-hotel-son-vida",
+      "aiRating": 4.5,
+      "proList": "",
+      "tipsList": "",
+      "photos": [],
+      "mainCategory": {
+        "name": "🏨 Hotel",
+        "slug": "hotel"
+      },
+      "subCategories": [],
+      "location": {
+        "latitude": 39.5922158,
+        "longitude": 2.5957974
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
+    },
+    {
+      "_publishedAt": "2024-10-25T00:25:32+02:00",
+      "_firstPublishedAt": "2024-09-20T13:02:42+02:00",
+      "id": "GQYo0vfmSp-smQ4YfxLRSA",
+      "name": "Hotel Ciutat Jardi",
+      "description": "",
+      "address": "Carrer de l'Illa de Malta, 14, Platja de Palma, 07007 Palma",
+      "mail": "booking@hciutatj.es",
+      "website": "http://www.hciutatj.es/",
+      "phone": "+34971746070",
+      "googleMapsLink": "https://maps.app.goo.gl/GgXTUeVAW28CMXCf7",
+      "slug": "hotel-ciutat-jardi",
+      "aiRating": 4.2,
+      "proList": "",
+      "tipsList": "",
+      "photos": [],
+      "mainCategory": {
+        "name": "🏨 Hotel",
+        "slug": "hotel"
+      },
+      "subCategories": [],
+      "location": {
+        "latitude": 39.5523957,
+        "longitude": 2.6911005
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
+    },
+    {
+      "_publishedAt": "2024-10-25T00:24:43+02:00",
+      "_firstPublishedAt": "2024-09-20T13:04:20+02:00",
+      "id": "GXdGUtIyQ8G5DST2ocy2iw",
+      "name": "Concepció by Nobis",
+      "description": "",
+      "address": "C/ de la Concepció, 34, Centre, 07012 Palma",
+      "mail": "info@concepciobynobis.com",
+      "website": "https://www.concepciobynobis.com/",
+      "phone": "+34971915025",
+      "googleMapsLink": "https://maps.app.goo.gl/XkEjKabYywAowdtS8",
+      "slug": "concepcio-by-nobis",
+      "aiRating": 4.5,
+      "proList": "",
+      "tipsList": "",
+      "photos": [],
+      "mainCategory": {
+        "name": "🏨 Hotel",
+        "slug": "hotel"
+      },
+      "subCategories": [],
+      "location": {
+        "latitude": 39.574501,
+        "longitude": 2.6456798
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
+    },
+    {
+      "_publishedAt": "2024-10-25T00:23:37+02:00",
+      "_firstPublishedAt": "2024-09-20T13:06:30+02:00",
+      "id": "EKm0aZKXSpOck0Fkuo2mxA",
+      "name": "Hotel Continental",
+      "description": "",
+      "address": "Carrer de la Indústria, 10, 07013 Palma",
+      "mail": "reservas@hotelcontinentalmallorca.es",
+      "website": "https://www.hotelcontinentalmallorca.com/",
+      "phone": "+34971780100",
+      "googleMapsLink": "https://maps.app.goo.gl/UyMd9pCowF39H2nc6",
+      "slug": "hotel-continental",
+      "aiRating": 4.5,
+      "proList": "",
+      "tipsList": "",
+      "photos": [],
+      "mainCategory": {
+        "name": "🏨 Hotel",
+        "slug": "hotel"
+      },
+      "subCategories": [],
+      "location": {
+        "latitude": 39.5738201,
+        "longitude": 2.6398125
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
+    },
+    {
+      "_publishedAt": "2024-10-25T00:22:47+02:00",
+      "_firstPublishedAt": "2024-09-20T13:08:43+02:00",
+      "id": "VKZV1THtQviPFBS8RSpYlA",
+      "name": "Convent de la Missió",
+      "description": "",
+      "address": "Carrer de la Missió, 7A, Centre, 07003 Palma",
+      "mail": "hotel@conventdelamissio.com",
+      "website": "http://www.conventdelamissio.com/",
+      "phone": "+34971227347",
+      "googleMapsLink": "https://maps.app.goo.gl/RPNu1GKBftRJTixx6",
+      "slug": "convent-de-la-missio-grand-luxury-boutique-hotel",
+      "aiRating": 4.5,
+      "proList": "",
+      "tipsList": "",
+      "photos": [],
+      "mainCategory": {
+        "name": "🏨 Hotel",
+        "slug": "hotel"
+      },
+      "subCategories": [],
+      "location": {
+        "latitude": 39.573574,
+        "longitude": 2.6513869
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
+    },
+    {
+      "_publishedAt": "2024-10-25T00:21:24+02:00",
+      "_firstPublishedAt": "2024-09-20T13:13:58+02:00",
+      "id": "Hqi9-fvyT466M_BJPUtOfw",
+      "name": "El Llorenç Parc de la Mar",
+      "description": "",
+      "address": "Plaça de Llorenç Villalonga, 4, Centre, 07001 Palma",
+      "mail": "info@elllorenc.com",
+      "website": "https://www.elllorenc.com/es/home.html",
+      "phone": "+34971677770",
+      "googleMapsLink": "https://maps.app.goo.gl/EbDj2CmJtWL4nfKE7",
+      "slug": "el-llorenc-parc-de-la-mar",
+      "aiRating": 4.5,
+      "proList": "",
+      "tipsList": "",
+      "photos": [],
+      "mainCategory": {
+        "name": "🏨 Hotel",
+        "slug": "hotel"
+      },
+      "subCategories": [],
+      "location": {
+        "latitude": 39.5657104,
+        "longitude": 2.6530103
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
+    },
+    {
+      "_publishedAt": "2024-10-25T00:19:23+02:00",
+      "_firstPublishedAt": "2024-09-20T13:20:08+02:00",
+      "id": "XV6PnOOdTEuCaEgY6XFstg",
+      "name": "Es Princep",
+      "description": "",
+      "address": "Carrer de Bala Roja, 1, Centre, 07001 Palma",
+      "mail": "info@esprincep.com",
+      "website": "http://www.esprincep.com/en",
+      "phone": "+34971720000",
+      "googleMapsLink": "https://maps.app.goo.gl/bpnB4QHKeenKSJRy9",
+      "slug": "es-princep",
+      "aiRating": 4.5,
+      "proList": "",
+      "tipsList": "",
+      "photos": [],
+      "mainCategory": {
+        "name": "🏨 Hotel",
+        "slug": "hotel"
+      },
+      "subCategories": [],
+      "location": {
+        "latitude": 39.5656525,
+        "longitude": 2.6552605
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
+    },
+    {
+      "_publishedAt": "2024-10-25T00:18:37+02:00",
+      "_firstPublishedAt": "2024-09-20T13:22:44+02:00",
+      "id": "K0cfGqEjRryNlg71XEDlBQ",
+      "name": "Hotel Glòria de Sant Jaume",
+      "description": "",
+      "address": "Carrer de Sant Jaume, 18, Centre, 07012 Palma",
+      "mail": "info@gloriasantjaume.com",
+      "website": "https://www.gloriasantjaume.com/",
+      "phone": "+34971717997",
+      "googleMapsLink": "https://maps.app.goo.gl/UCo4nuQKYg2Xgiey7",
+      "slug": "hotel-gloria-de-sant-jaume",
+      "aiRating": 4.7,
+      "proList": "",
+      "tipsList": "",
+      "photos": [],
+      "mainCategory": {
+        "name": "🏨 Hotel",
+        "slug": "hotel"
+      },
+      "subCategories": [],
+      "location": {
+        "latitude": 39.5733841,
+        "longitude": 2.6479941
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
+    },
+    {
+      "_publishedAt": "2024-10-25T00:17:45+02:00",
+      "_firstPublishedAt": "2024-09-20T16:20:12+02:00",
+      "id": "Uxo-V0msTPCqUzhSfpS8cw",
+      "name": "West Coast Divers Mallorca",
+      "description": "",
+      "address": "Hotel Bonanza Playa & Spa, Passeig Illetes, s/n, 07181 ses Illetes",
+      "mail": "info@buceoenmallorca.com",
+      "website": "http://www.westcoastdivers.de/",
+      "phone": "+34664592946",
+      "googleMapsLink": "https://maps.app.goo.gl/sgznRhSSNix1WhFf8",
+      "slug": "west-coast-divers-mallorca",
+      "aiRating": 4.5,
+      "proList": "",
+      "tipsList": "",
+      "photos": [],
+      "mainCategory": {
+        "name": "🌴 Ocio",
+        "slug": "leisure"
+      },
+      "subCategories": [
+        {
+          "name": "",
+          "slug": "diving"
+        }
+      ],
+      "location": {
+        "latitude": 39.5410219,
+        "longitude": 2.5937116
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
+    },
+    {
+      "_publishedAt": "2024-10-25T00:16:38+02:00",
+      "_firstPublishedAt": "2024-09-20T16:33:48+02:00",
+      "id": "cfVLjFfGRICAttPw3PLCZA",
+      "name": "El Niño Surf Center",
+      "description": "",
+      "address": "Carrer del Vaixell, 2, Platja de Palma, 07610 Can Pastilla",
+      "mail": "info@elninomallorca.com",
+      "website": "http://www.paddlesurfmallorca.com/",
+      "phone": "+34971490811",
+      "googleMapsLink": "https://maps.app.goo.gl/3LipKqBCPxhZcFuw6",
+      "slug": "el-nino-surf-center",
+      "aiRating": 4.3,
+      "proList": "",
+      "tipsList": "",
+      "photos": [],
+      "mainCategory": {
+        "name": "🌴 Ocio",
+        "slug": "leisure"
+      },
+      "subCategories": [
+        {
+          "name": "",
+          "slug": "surfing"
+        }
+      ],
+      "location": {
+        "latitude": 39.5346705,
+        "longitude": 2.7218685
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
+    },
+    {
+      "_publishedAt": "2024-10-25T00:15:43+02:00",
+      "_firstPublishedAt": "2024-09-19T17:22:18+02:00",
+      "id": "CTw7GnnnT5yYMRJOB6BTew",
+      "name": "Makaria Artisan Pasta",
+      "description": "",
+      "address": "Plaza de, Plaça de Raimundo Clar, 07002 Palma",
+      "mail": "",
+      "website": "https://makaria.es",
+      "phone": "+34971058813",
+      "googleMapsLink": "https://maps.app.goo.gl/hCn1df8mfeZvJZ66A",
+      "slug": "makaria-artisan-pasta",
+      "aiRating": 4.6,
+      "proList": "",
+      "tipsList": "",
+      "photos": [],
+      "mainCategory": {
+        "name": "🍽️ Comida",
+        "slug": "restaurant"
+      },
+      "subCategories": [
+        {
+          "name": "",
+          "slug": "italian"
+        }
+      ],
+      "location": {
+        "latitude": 39.57073450000001,
+        "longitude": 2.6550477
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
+    },
+    {
+      "_publishedAt": "2024-10-25T00:14:02+02:00",
+      "_firstPublishedAt": "2024-09-19T12:50:00+02:00",
+      "id": "BQg2w-LISASytMkXS4a0xQ",
+      "name": "NENI Mallorca | Port de Sóller",
+      "description": "",
+      "address": "Carrer de Migjorn, 2, 07108 Port de Sóller",
+      "mail": "neni.portdesoller@bikini-hotels.com",
+      "website": "https://nenifood.com/restaurants/mallorca-es-trenc",
+      "phone": "+34971638370",
+      "googleMapsLink": "https://maps.app.goo.gl/vBCqRsmLfWaGSKeL9",
+      "slug": "neni-mallorca-port-de-soller",
+      "aiRating": 4.5,
+      "proList": "",
+      "tipsList": "",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726754896-neni-mallorca-port-de-soller-03.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726754896-neni-mallorca-port-de-soller-02.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726754896-neni-mallorca-port-de-soller-01.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🍽️ Comida",
+        "slug": "restaurant"
+      },
+      "subCategories": [
+        {
+          "name": "",
+          "slug": "mediterranean"
+        }
+      ],
+      "location": {
+        "latitude": 39.8003579,
+        "longitude": 2.6950403
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
+    },
+    {
+      "_publishedAt": "2024-10-25T00:13:10+02:00",
+      "_firstPublishedAt": "2024-09-19T12:43:04+02:00",
+      "id": "a30eF5nZSCmGHCxUWs3R4w",
+      "name": "MUARÉ",
+      "description": "",
+      "address": "Carrer Francesc Barceló i Combis, 4, Llevant, 07006 Palma, Illes Balears, Spanien",
+      "mail": "hola@muarecantina.com",
+      "website": "https://www.muarecantina.com",
+      "phone": "+34971127572",
+      "googleMapsLink": "https://maps.app.goo.gl/5yWtKUJmAwuVYdch7",
+      "slug": "muare",
+      "aiRating": 4.6,
+      "proList": "",
+      "tipsList": "",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726754715-muarecantina-03.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726754715-muarecantina-02.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726754715-muarecantina-01.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🍽️ Comida",
+        "slug": "restaurant"
+      },
+      "subCategories": [
+        {
+          "name": "",
+          "slug": "mediterranean"
+        }
+      ],
+      "location": {
+        "latitude": 39.5718681,
+        "longitude": 2.6613639
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
+    },
+    {
+      "_publishedAt": "2024-10-25T00:12:08+02:00",
+      "_firstPublishedAt": "2024-09-19T19:29:09+02:00",
+      "id": "G4mf9Ak5TgC_c0ITATsWLg",
+      "name": "Maleva Mallorca",
+      "description": "",
+      "address": "Carrer de Can Salat, 1, Centre, 07002 Palma",
+      "mail": "",
+      "website": "",
+      "phone": "+34971017760",
+      "googleMapsLink": "https://maps.app.goo.gl/CzJbHomWyTudJkmQ8",
+      "slug": "maleva-mallorca",
+      "aiRating": 4.5,
+      "proList": "",
+      "tipsList": "",
+      "photos": [],
+      "mainCategory": {
+        "name": "🍽️ Comida",
+        "slug": "restaurant"
+      },
+      "subCategories": [
+        {
+          "name": "",
+          "slug": "grill"
+        }
+      ],
+      "location": {
+        "latitude": 39.5710043,
+        "longitude": 2.6552932
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
+    },
+    {
+      "_publishedAt": "2024-10-25T00:11:00+02:00",
+      "_firstPublishedAt": "2024-09-19T18:15:35+02:00",
+      "id": "WNoiru19RiqWPXIOuGxJtg",
+      "name": "Lume&Co Restaurante",
+      "description": "",
+      "address": "Camí dels Reis, 64, Ponent, 07015 Palma",
+      "mail": "reservas@lumerestaurante.com",
+      "website": "https://www.lumerestaurante.com/en/",
+      "phone": "+34971 104295",
+      "googleMapsLink": "https://maps.app.goo.gl/e249kR9v3Q7qEyj18",
+      "slug": "lumeco-restaurante",
+      "aiRating": 4.2,
+      "proList": "",
+      "tipsList": "",
+      "photos": [],
+      "mainCategory": {
+        "name": "🍽️ Comida",
+        "slug": "restaurant"
+      },
+      "subCategories": [
+        {
+          "name": "",
+          "slug": "grill"
+        },
+        {
+          "name": "",
+          "slug": "mediterranean"
+        }
+      ],
+      "location": {
+        "latitude": 39.5687668,
+        "longitude": 2.6039369
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
+    },
+    {
+      "_publishedAt": "2024-10-25T00:10:14+02:00",
+      "_firstPublishedAt": "2024-09-19T18:11:43+02:00",
+      "id": "Y6ex4e-AQ_K_cA2VRZgnfw",
+      "name": "La Posada",
+      "description": "",
+      "address": "Plaça Miranda des Lladoners, 3, Local 6, 07170 Valldemossa",
+      "mail": "",
+      "website": "https://valldemossa.restaurant",
+      "phone": "+34630978700",
+      "googleMapsLink": "https://maps.app.goo.gl/LEKj8MHXSzJ1khdg6",
+      "slug": "la-posada",
+      "aiRating": 4.2,
+      "proList": "",
+      "tipsList": "",
+      "photos": [],
+      "mainCategory": {
+        "name": "🍽️ Comida",
+        "slug": "restaurant"
+      },
+      "subCategories": [
+        {
+          "name": "",
+          "slug": "vegetarian"
+        },
+        {
+          "name": "",
+          "slug": "grill"
+        }
+      ],
+      "location": {
+        "latitude": 39.7091214,
+        "longitude": 2.6231857
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
+    },
+    {
+      "_publishedAt": "2024-10-25T00:09:08+02:00",
+      "_firstPublishedAt": "2024-09-19T18:02:59+02:00",
+      "id": "R0s_sutFRZ-wq7y0700SbQ",
+      "name": "Es Babot",
+      "description": "",
+      "address": "Plaça Sant Isidre, 5, 07669 Felanitx",
+      "mail": "restaurant@esbabot.com",
+      "website": "https://www.esbabot.com/en/",
+      "phone": "+34971162187",
+      "googleMapsLink": "https://maps.app.goo.gl/CVVb5EzsAUB38Ket8",
+      "slug": "es-babot",
+      "aiRating": 4.5,
+      "proList": "",
+      "tipsList": "",
+      "photos": [],
+      "mainCategory": {
+        "name": "🍽️ Comida",
+        "slug": "restaurant"
+      },
+      "subCategories": [
+        {
+          "name": "",
+          "slug": "mediterranean"
+        },
+        {
+          "name": "",
+          "slug": "burger"
+        }
+      ],
+      "location": {
+        "latitude": 39.407475,
+        "longitude": 3.2087516
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
+    },
+    {
+      "_publishedAt": "2024-10-25T00:08:13+02:00",
+      "_firstPublishedAt": "2024-09-19T18:07:13+02:00",
+      "id": "VyyMhEIzSu25WOsIzMuudg",
+      "name": "Restaurante Hórreo Veinti3",
+      "description": "",
+      "address": "C. de la Fàbrica, 23, Ponent, 07013 Palma",
+      "mail": "",
+      "website": "https://horreoveinti3restaurante.es",
+      "phone": "+34685913700",
+      "googleMapsLink": "https://maps.app.goo.gl/ix9SLhWSUeNDKxS68",
+      "slug": "restaurante-horreo-veinti3",
+      "aiRating": 4.5,
+      "proList": "",
+      "tipsList": "",
+      "photos": [],
+      "mainCategory": {
+        "name": "🍽️ Comida",
+        "slug": "restaurant"
+      },
+      "subCategories": [
+        {
+          "name": "",
+          "slug": "mediterranean"
+        },
+        {
+          "name": "",
+          "slug": "grill"
+        }
+      ],
+      "location": {
+        "latitude": 39.5722657,
+        "longitude": 2.6387515
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
+    },
+    {
+      "_publishedAt": "2024-10-25T00:07:23+02:00",
+      "_firstPublishedAt": "2024-09-19T17:49:49+02:00",
+      "id": "auVHeC0kT5WzZ2mHP5JF9Q",
+      "name": "Santina Brunch",
+      "description": "",
+      "address": "Carrer d'Anníbal, 19, Ponent, 07013 Palma",
+      "mail": "Info@santina-palma.com",
+      "website": "https://www.santinabrunch.com",
+      "phone": "+34674995795",
+      "googleMapsLink": "https://maps.app.goo.gl/FAjTH8qM2pW7iuZH9",
+      "slug": "santina-brunch",
+      "aiRating": 4,
+      "proList": "",
+      "tipsList": "",
+      "photos": [],
+      "mainCategory": {
+        "name": "🍽️ Comida",
+        "slug": "restaurant"
+      },
+      "subCategories": [
+        {
+          "name": "",
+          "slug": "brunch"
+        }
+      ],
+      "location": {
+        "latitude": 39.5715283,
+        "longitude": 2.6378549
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
+    },
+    {
+      "_publishedAt": "2024-10-25T00:06:03+02:00",
+      "_firstPublishedAt": "2024-09-19T17:44:23+02:00",
+      "id": "H1QSXnUYRq6pxqMP6PP0zA",
+      "name": "La Mujer De Verde - Bon Lloc - Restaurante vegano",
+      "description": "",
+      "address": "Plaça de la Porta de Santa Catalina, 1 Distrito Centro 07012 Palma",
+      "mail": "paula@lamujerdeverde.com",
+      "website": "https://lamujerdeverde.com",
+      "phone": "+34871173739",
+      "googleMapsLink": "https://maps.app.goo.gl/yxthzw28cPjBkcS98",
+      "slug": "la-mujer-de-verde-bon-lloc-restaurante-vegano",
+      "aiRating": 4,
+      "proList": "",
+      "tipsList": "",
+      "photos": [],
+      "mainCategory": {
+        "name": "🍽️ Comida",
+        "slug": "restaurant"
+      },
+      "subCategories": [
+        {
+          "name": "",
+          "slug": "vegan"
+        },
+        {
+          "name": "",
+          "slug": "vegetarian"
+        }
+      ],
+      "location": {
+        "latitude": 39.5706249,
+        "longitude": 2.6427325
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
+    },
+    {
+      "_publishedAt": "2024-10-25T00:05:15+02:00",
+      "_firstPublishedAt": "2024-09-19T17:40:08+02:00",
+      "id": "NeV8uofVQgyHeOdv8bN_lw",
+      "name": "La Mar de Vins",
+      "description": "",
+      "address": "Carrer d'Antoni Blanes Joan, 34, 07570 Artà",
+      "mail": "",
+      "website": "",
+      "phone": "+34971596410",
+      "googleMapsLink": "https://maps.app.goo.gl/xYbDq5VyRVJDRhQR9",
+      "slug": "la-mar-de-vins",
+      "aiRating": 4.7,
+      "proList": "",
+      "tipsList": "",
+      "photos": [],
+      "mainCategory": {
+        "name": "🍽️ Comida",
+        "slug": "restaurant"
+      },
+      "subCategories": [
+        {
+          "name": "",
+          "slug": "vegetarian"
+        },
+        {
+          "name": "",
+          "slug": "vegan"
+        },
+        {
+          "name": "",
+          "slug": "mediterranean"
+        }
+      ],
+      "location": {
+        "latitude": 39.69373390000001,
+        "longitude": 3.3502336
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
+    },
+    {
+      "_publishedAt": "2024-10-25T00:04:25+02:00",
+      "_firstPublishedAt": "2024-09-19T17:35:44+02:00",
+      "id": "eWiO_ac2RsS02SwiuLHsBQ",
+      "name": "Re Organic",
+      "description": "",
+      "address": "Carrer de Sa Mar, 43, 07100 Sóller",
+      "mail": "info@reorganic.es",
+      "website": "https://reorganic.es",
+      "phone": "+34971638992",
+      "googleMapsLink": "https://maps.app.goo.gl/X1qdxcKDCpnfjn4R8",
+      "slug": "re-organic",
+      "aiRating": 4.6,
+      "proList": "",
+      "tipsList": "",
+      "photos": [],
+      "mainCategory": {
+        "name": "🍽️ Comida",
+        "slug": "restaurant"
+      },
+      "subCategories": [
+        {
+          "name": "",
+          "slug": "vegetarian"
+        },
+        {
+          "name": "",
+          "slug": "vegan"
+        }
+      ],
+      "location": {
+        "latitude": 39.7675644,
+        "longitude": 2.7126596
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
+    },
+    {
+      "_publishedAt": "2024-10-25T00:03:44+02:00",
+      "_firstPublishedAt": "2024-09-19T17:30:42+02:00",
+      "id": "Rt81NuZDR1q7uVVYRANnhw",
+      "name": "Ca n'Ela Vegan Restaurant",
+      "description": "",
+      "address": "Carrer de la Mar, 16, Centre, 07012 Palma",
+      "mail": "",
+      "website": "",
+      "phone": "+34871776653",
+      "googleMapsLink": "https://maps.app.goo.gl/3bTbratvQo8CxCwe6",
+      "slug": "ca-nela-vegan-restaurant",
+      "aiRating": 4.5,
+      "proList": "",
+      "tipsList": "",
+      "photos": [],
+      "mainCategory": {
+        "name": "🍽️ Comida",
+        "slug": "restaurant"
+      },
+      "subCategories": [
+        {
+          "name": "",
+          "slug": "vegetarian"
+        },
+        {
+          "name": "",
+          "slug": "vegan"
+        }
+      ],
+      "location": {
+        "latitude": 39.5657104,
+        "longitude": 2.6530103
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
+    },
+    {
+      "_publishedAt": "2024-10-25T00:02:47+02:00",
+      "_firstPublishedAt": "2024-09-19T15:02:08+02:00",
+      "id": "aqfMs_Y6RE-lYYg7Fy-hMA",
+      "name": "Duke Restaurant",
+      "description": "",
+      "address": "Carrer Soler, 36, Ponent, 07013 Palma",
+      "mail": "",
+      "website": "https://www.dukepalma.com",
+      "phone": "+34971071738",
+      "googleMapsLink": "https://maps.app.goo.gl/wipSmi56ScZS7rBo8",
+      "slug": "duke-restaurant",
+      "aiRating": 4.3,
+      "proList": "",
+      "tipsList": "",
+      "photos": [],
+      "mainCategory": {
+        "name": "🍽️ Comida",
+        "slug": "restaurant"
+      },
+      "subCategories": [
+        {
+          "name": "",
+          "slug": "mediterranean"
+        }
+      ],
+      "location": {
+        "latitude": 39.5719045,
+        "longitude": 2.6379457
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
+    },
+    {
+      "_publishedAt": "2024-10-25T00:01:00+02:00",
+      "_firstPublishedAt": "2024-09-20T10:59:45+02:00",
+      "id": "Vi03XYitQCWH3wiieN8TzA",
+      "name": "Can Alomar Urban Luxury Retreat",
+      "description": "",
+      "address": "Carrer de Sant Feliu, 1, Centre, 07012 Palma",
+      "mail": "info@canalomarhotel.com",
+      "website": "https://www.canalomarhotel.com",
+      "phone": "+34871592002",
+      "googleMapsLink": "https://maps.app.goo.gl/rcUeMkB8G42UUzKL7",
+      "slug": "can-alomar-urban-luxury-retreat",
+      "aiRating": 4.7,
+      "proList": "",
+      "tipsList": "",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726828516-canalomarhotel-01.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726828516-canalomarhotel-02.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726828516-canalomarhotel-03.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726828516-canalomarhotel-05.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726828516-canalomarhotel-04.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🏨 Hotel",
+        "slug": "hotel"
+      },
+      "subCategories": [
+        {
+          "name": "",
+          "slug": "adults-only"
+        },
+        {
+          "name": "",
+          "slug": "luxury"
+        },
+        {
+          "name": "",
+          "slug": "rooftop"
+        },
+        {
+          "name": "",
+          "slug": "spa"
+        }
+      ],
+      "location": {
+        "latitude": 39.56991110000001,
+        "longitude": 2.6461194
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
+    },
+    {
+      "_publishedAt": "2024-10-25T00:00:15+02:00",
+      "_firstPublishedAt": "2024-09-20T10:31:36+02:00",
+      "id": "Hv8R1AGsS4aOwQWc6AQwhQ",
+      "name": "Calatrava Mediterranean Sea House",
+      "description": "",
+      "address": "Plaça de Llorenç Villalonga, 8, Centre, 07001 Palma Illes Balears, Spanien",
+      "mail": "info@calatravahotel.com",
+      "website": "http://www.calatravahotel.com/",
+      "phone": "+34971728110",
+      "googleMapsLink": "https://maps.app.goo.gl/bTxRQaN13F4QWo3v7",
+      "slug": "calatrava-mediterranean-sea-house",
+      "aiRating": 4.7,
+      "proList": "",
+      "tipsList": "",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726828773-calatravahotel-01.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726828773-calatravahotel-02.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726828773-calatravahotel-05.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726828773-calatravahotel-03.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726828773-calatravahotel-04.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🏨 Hotel",
+        "slug": "hotel"
+      },
+      "subCategories": [
+        {
+          "name": "",
+          "slug": "luxury"
+        },
+        {
+          "name": "",
+          "slug": "spa"
+        },
+        {
+          "name": "",
+          "slug": "adults-only"
+        }
+      ],
+      "location": {
+        "latitude": 39.56572329999999,
+        "longitude": 2.6535501
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
+    },
+    {
+      "_publishedAt": "2024-10-24T23:58:54+02:00",
+      "_firstPublishedAt": "2024-09-20T10:27:17+02:00",
+      "id": "Zqq8zDhNQwWHZxdgJNeWgQ",
+      "name": "Brondo Architect Hotel",
+      "description": "",
+      "address": "Carrer de Can Brondo, 4, Centre, 07001 Palma",
+      "mail": "reservations@aleactahospitality.com",
+      "website": "http://www.brondoarchitecthotel.com/",
+      "phone": "+34971720507",
+      "googleMapsLink": "https://maps.app.goo.gl/PY3R59bDUbMEyGSaA",
+      "slug": "brondo-architect-hotel",
+      "aiRating": 4.3,
+      "proList": "",
+      "tipsList": "",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726829027-brondoarchitecthotel-05.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726829027-brondoarchitecthotel-03.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726829027-brondoarchitecthotel-02.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726829027-brondoarchitecthotel-04.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726829027-brondoarchitecthotel-01.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🏨 Hotel",
+        "slug": "hotel"
+      },
+      "subCategories": [
+        {
+          "name": "",
+          "slug": "luxury"
+        },
+        {
+          "name": "🍷 Vino",
+          "slug": "wine"
+        },
+        {
+          "name": "",
+          "slug": "gym"
+        }
+      ],
+      "location": {
+        "latitude": 39.57116690000001,
+        "longitude": 2.6477604
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
+    },
+    {
+      "_publishedAt": "2024-10-24T23:57:28+02:00",
+      "_firstPublishedAt": "2024-09-20T16:43:27+02:00",
+      "id": "XqkmrFJcRqa-2SKSxBVcgw",
+      "name": "LAOLA",
+      "description": "",
+      "address": "C. Cerco de Tío Alberto, 2, 35650 La Oliva",
+      "mail": "",
+      "website": "https://laolasurfcamp.com/",
+      "phone": "+34690148223",
+      "googleMapsLink": "https://maps.app.goo.gl/ns4TNZcgFbV3cvFq7",
+      "slug": "laola",
+      "aiRating": 4.7,
+      "proList": "",
+      "tipsList": "",
+      "photos": [],
+      "mainCategory": {
+        "name": "🌴 Ocio",
+        "slug": "leisure"
+      },
+      "subCategories": [
+        {
+          "name": "",
+          "slug": "surfing"
+        }
+      ],
+      "location": {
+        "latitude": 28.6811122,
+        "longitude": -13.9482918
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
+    },
+    {
+      "_publishedAt": "2024-10-24T23:54:59+02:00",
+      "_firstPublishedAt": "2024-09-20T16:49:08+02:00",
+      "id": "LODaKGWJTwmyX5TEz3-TPA",
+      "name": "Mallorca Wakepark",
+      "description": "",
+      "address": "Carrer de L'Estany Petit, 8, 07400 Alcúdia",
+      "mail": "info@mallorcawakepark.com",
+      "website": "http://mallorcawakepark.com/",
+      "phone": "+34633664439",
+      "googleMapsLink": "https://maps.app.goo.gl/iaY8yMpXuchmEcph6",
+      "slug": "mallorca-wakepark",
+      "aiRating": 4.8,
+      "proList": "",
+      "tipsList": "",
+      "photos": [],
+      "mainCategory": {
+        "name": "🌴 Ocio",
+        "slug": "leisure"
+      },
+      "subCategories": [
+        {
+          "name": "",
+          "slug": "surfing"
+        }
+      ],
+      "location": {
+        "latitude": 39.8347203,
+        "longitude": 3.1070407
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
+    },
+    {
+      "_publishedAt": "2024-10-24T23:54:14+02:00",
+      "_firstPublishedAt": "2024-09-20T16:31:35+02:00",
+      "id": "IZdePBV7RNiUMpH46joDBg",
+      "name": "Keida - Kayak - Paddle Surf",
+      "description": "",
+      "address": "Plaça de na Caragola 3, 07159 Sant Elm",
+      "mail": "booking@keida.es",
+      "website": "http://www.keida.es/",
+      "phone": "+34971239124",
+      "googleMapsLink": "https://maps.app.goo.gl/mYeyG6J4gPZ6Ejtv9",
+      "slug": "keida-kayak-paddle-surf",
+      "aiRating": 4.7,
+      "proList": "",
+      "tipsList": "",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726851427-keida-03.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726851427-keida-01.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726851427-keida-05.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726851427-keida-04.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726851427-keida-02.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🌴 Ocio",
+        "slug": "leisure"
+      },
+      "subCategories": [
+        {
+          "name": "",
+          "slug": "surfing"
+        },
+        {
+          "name": "",
+          "slug": "mountain-bike"
+        },
+        {
+          "name": "",
+          "slug": "hiking"
+        }
+      ],
+      "location": {
+        "latitude": 39.5795233,
+        "longitude": 2.3502962
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
+    },
+    {
+      "_publishedAt": "2024-10-24T23:19:21+02:00",
+      "_firstPublishedAt": "2024-09-20T19:48:31+02:00",
+      "id": "GKPAe8AlSsqovILWnn9M3w",
+      "name": "Aqualand El Arenal",
+      "description": "",
+      "address": "Autovia Palma a, salida 13, Km 15, 07600 El Arenal",
+      "mail": "",
+      "website": "https://www.aqualand.es/elarenal",
+      "phone": "+34696158177",
+      "googleMapsLink": "https://maps.app.goo.gl/Msbsu6Bnff7hwcye8",
+      "slug": "aqualand-el-arenal",
+      "aiRating": 3.5,
+      "proList": "",
+      "tipsList": "",
+      "photos": [],
+      "mainCategory": {
+        "name": "🌴 Ocio",
+        "slug": "leisure"
+      },
+      "subCategories": [
+        {
+          "name": "",
+          "slug": "aquapark"
+        }
+      ],
+      "location": {
+        "latitude": 39.4964387,
+        "longitude": 2.7590159
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
+    },
+    {
+      "_publishedAt": "2024-10-24T23:18:27+02:00",
+      "_firstPublishedAt": "2024-09-20T20:31:00+02:00",
+      "id": "f50W411dS1qliLd1v9VDKw",
+      "name": "Jungle Parc",
+      "description": "",
+      "address": "Avenida Jaime I, 40, A, 07180 Santa Ponça",
+      "mail": "mallorca@jungleparc.es",
+      "website": "http://www.jungleparc.es/",
+      "phone": "+34630948295",
+      "googleMapsLink": "https://maps.app.goo.gl/nsjN6VrTyFdnPUWk9",
+      "slug": "jungle-parc",
+      "aiRating": 4.5,
+      "proList": "",
+      "tipsList": "",
+      "photos": [],
+      "mainCategory": {
+        "name": "🌴 Ocio",
+        "slug": "leisure"
+      },
+      "subCategories": [
+        {
+          "name": "",
+          "slug": "activity"
+        }
+      ],
+      "location": {
+        "latitude": 39.5078458,
+        "longitude": 2.4684043
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
+    },
+    {
+      "_publishedAt": "2024-10-24T23:17:38+02:00",
+      "_firstPublishedAt": "2024-09-20T20:37:32+02:00",
+      "id": "fSve3hdURa2QQwvrpNj9Vw",
+      "name": "Piraten Park Peguera",
+      "description": "",
+      "address": "Carrer Pinaret, 1, 07160 Peguera",
+      "mail": "info@piraten-park-paguera.es",
+      "website": "http://www.piraten-park-paguera.es/",
+      "phone": "+34699108628",
+      "googleMapsLink": "https://maps.app.goo.gl/Hbx5Shm8uEZvSygm8",
+      "slug": "piraten-park-peguera",
+      "aiRating": 4,
+      "proList": "",
+      "tipsList": "",
+      "photos": [],
+      "mainCategory": {
+        "name": "🌴 Ocio",
+        "slug": "leisure"
+      },
+      "subCategories": [
+        {
+          "name": "",
+          "slug": "activity"
+        }
+      ],
+      "location": {
+        "latitude": 39.5355369,
+        "longitude": 2.4575461
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
+    },
+    {
+      "_publishedAt": "2024-10-24T23:16:25+02:00",
+      "_firstPublishedAt": "2024-09-19T19:53:22+02:00",
+      "id": "MqA5aqK6So6ugbKNkyfYUg",
+      "name": "Restaurante Ola del Mar",
+      "description": "",
+      "address": "Carrer del Vicari Joaquim Fuster, 1, Platja de Palma, 07006 Palma, Illes Balears, Spanien",
+      "mail": " event@oladelmar.es",
+      "website": "http://www.oladelmar.es/",
+      "phone": "+34971274275",
+      "googleMapsLink": "https://maps.app.goo.gl/eZBY9tDWnCAzAgN9A",
+      "slug": "restaurante-ola-del-mar",
+      "aiRating": 4.5,
+      "proList": "",
+      "tipsList": "",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726905893-oladelmar-02.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726905893-oladelmar-04.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726905893-oladelmar-01.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726905892-oladelmar-05.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726905893-oladelmar-03.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🍽️ Comida",
+        "slug": "restaurant"
+      },
+      "subCategories": [
+        {
+          "name": "",
+          "slug": "spanish"
+        },
+        {
+          "name": "",
+          "slug": "mediterranean"
+        },
+        {
+          "name": "",
+          "slug": "seafood"
+        },
+        {
+          "name": "",
+          "slug": "fish"
+        }
+      ],
+      "location": {
+        "latitude": 39.5605797,
+        "longitude": 2.6710379
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
+    },
+    {
+      "_publishedAt": "2024-10-24T23:15:37+02:00",
+      "_firstPublishedAt": "2024-09-19T19:48:50+02:00",
+      "id": "YT_wn1YzQo2LL62ScY6JNg",
+      "name": "Restaurante Casa Fernando",
+      "description": "",
+      "address": "Carrer de Trafalgar, 27, Platja de Palma, 07007 Palma",
+      "mail": "",
+      "website": "http://www.restaurantecasafernando.com/",
+      "phone": "+34971265417",
+      "googleMapsLink": "https://maps.app.goo.gl/CPmPfq4fW9Tnvdya9",
+      "slug": "restaurante-casa-fernando",
+      "aiRating": 4.5,
+      "proList": "",
+      "tipsList": "",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726906230-restaurantecasafernando-01.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726906230-restaurantecasafernando-02.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726906229-restaurantecasafernando-04.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726906229-restaurantecasafernando-05.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726906230-restaurantecasafernando-03.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🍽️ Comida",
+        "slug": "restaurant"
+      },
+      "subCategories": [
+        {
+          "name": "",
+          "slug": "grill"
+        },
+        {
+          "name": "",
+          "slug": "mediterranean"
+        },
+        {
+          "name": "🍷 Vino",
+          "slug": "wine"
+        },
+        {
+          "name": "",
+          "slug": "fish"
+        },
+        {
+          "name": "",
+          "slug": "seafood"
+        }
+      ],
+      "location": {
+        "latitude": 39.5516284,
+        "longitude": 2.6922658
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
+    },
+    {
+      "_publishedAt": "2024-10-24T23:14:48+02:00",
+      "_firstPublishedAt": "2024-09-19T19:39:09+02:00",
+      "id": "LZuLh7YkR6K7sQ66aqh-Tw",
+      "name": "Patrón Lunares",
+      "description": "",
+      "address": "C. de la Fàbrica, 30, Ponent, 07013 Palma",
+      "mail": "",
+      "website": "http://patronlunares.com",
+      "phone": "+34971577154",
+      "googleMapsLink": "https://maps.app.goo.gl/qHRan9qKJsMXPbmx5",
+      "slug": "patron-lunares",
+      "aiRating": 4.5,
+      "proList": "",
+      "tipsList": "",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726916325-patronlunares-03.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726916325-patronlunares-04.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726916325-patronlunares-05.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726916325-patronlunares-01.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726916325-patronlunares-02.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🍽️ Comida",
+        "slug": "restaurant"
+      },
+      "subCategories": [
+        {
+          "name": "",
+          "slug": "mediterranean"
+        },
+        {
+          "name": "",
+          "slug": "fish"
+        },
+        {
+          "name": "",
+          "slug": "seafood"
+        }
+      ],
+      "location": {
+        "latitude": 39.572829,
+        "longitude": 2.6371266
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
+    },
+    {
+      "_publishedAt": "2024-10-24T23:13:46+02:00",
+      "_firstPublishedAt": "2024-09-19T19:32:45+02:00",
+      "id": "Cm4qfctQRrCYFzZn9bYEoA",
+      "name": "Raimundo Burger",
+      "description": "",
+      "address": "Plaça de Raimundo Clar, 14, Centre, 07002 Palma",
+      "mail": "",
+      "website": "http://www.raimundoburger.com",
+      "phone": "+34692211160",
+      "googleMapsLink": "https://maps.app.goo.gl/VEM7PPtsLdeHtQEo9",
+      "slug": "raimundo-burger",
+      "aiRating": 4.5,
+      "proList": "",
+      "tipsList": "",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726916526-raimundoburger-01.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726916526-raimundoburger-02.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726916526-raimundoburger-04.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726916526-raimundoburger-05.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726916529-raimundoburger-03.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🍽️ Comida",
+        "slug": "restaurant"
+      },
+      "subCategories": [
+        {
+          "name": "",
+          "slug": "burger"
+        },
+        {
+          "name": "",
+          "slug": "grill"
+        }
+      ],
+      "location": {
+        "latitude": 39.57049,
+        "longitude": 2.65505
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
+    },
+    {
+      "_publishedAt": "2024-10-24T23:12:42+02:00",
+      "_firstPublishedAt": "2024-09-21T01:14:48+02:00",
+      "id": "ayADh0z4QVikoo0mLHwCyQ",
+      "name": "Son Manera Retreat Finca",
+      "description": "",
+      "address": "Ctra. Montuïri - Lloret, 0, 07230 Montuïri",
+      "mail": "office@sonmanera.com",
+      "website": "https://www.sonmanera.com/",
+      "phone": "+34634313200",
+      "googleMapsLink": "https://maps.app.goo.gl/e7jEw2Ddv28Psm8h8",
+      "slug": "son-manera-retreat-finca",
+      "aiRating": 4.3,
+      "proList": "",
+      "tipsList": "",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726916754-sonmanera-01.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726916753-sonmanera-05.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726916753-sonmanera-02.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726916754-sonmanera-03.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726916753-sonmanera-04.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🌴 Ocio",
+        "slug": "leisure"
+      },
+      "subCategories": [
+        {
+          "name": "",
+          "slug": "yoga"
+        },
+        {
+          "name": "",
+          "slug": "wellness"
+        },
+        {
+          "name": "",
+          "slug": "spa"
+        },
+        {
+          "name": "",
+          "slug": "finca"
+        },
+        {
+          "name": "",
+          "slug": "sustainability"
+        }
+      ],
+      "location": {
+        "latitude": 39.57530029999999,
+        "longitude": 2.9816184
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
+    },
+    {
+      "_publishedAt": "2024-10-24T23:11:45+02:00",
+      "_firstPublishedAt": "2024-09-20T20:42:35+02:00",
+      "id": "X3pksKVUQ1WgKL0FJJfiZQ",
+      "name": "TirolinasGo Mallorca Forestal Park",
+      "description": "",
+      "address": "Avinguda de Fra Joan Llabrés, Nº1, Platja de Palma, 07600 Palma",
+      "mail": "mallorca@tirolinasgo.com",
+      "website": "http://www.tirolinasgo.com/mallorca",
+      "phone": "+34606816249",
+      "googleMapsLink": "https://maps.app.goo.gl/hSnHj86qA6c8jnii9",
+      "slug": "tirolinasgo-mallorca-forestal-park",
+      "aiRating": 4.5,
+      "proList": "",
+      "tipsList": "",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726917158-tirolinasgo-01.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726917158-tirolinasgo-03.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726917158-tirolinasgo-04.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726917158-tirolinasgo-02.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726917158-tirolinasgo-05.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🌴 Ocio",
+        "slug": "leisure"
+      },
+      "subCategories": [
+        {
+          "name": "",
+          "slug": "activity"
+        },
+        {
+          "name": "",
+          "slug": "park"
+        }
+      ],
+      "location": {
+        "latitude": 39.5149711,
+        "longitude": 2.7489274
+      },
+      "externalVideoLink": {
+        "thumbnailUrl": "https://i.ytimg.com/vi/a2C3f7ampzk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=a2C3f7ampzk"
+      },
+      "providerVideoLink": ""
+    },
+    {
+      "_publishedAt": "2024-10-24T23:10:04+02:00",
+      "_firstPublishedAt": "2024-09-20T20:21:57+02:00",
+      "id": "ekKIY20dRPqWmoO4yM2m8w",
+      "name": "Western Water Park",
+      "description": "",
+      "address": "Camí Cala Figuera, 12-22, 07181 Calvià",
+      "mail": "",
+      "website": "http://www.westernpark.com/",
+      "phone": "+34971131203",
+      "googleMapsLink": "https://maps.app.goo.gl/pSStG2kENFzajkEo8",
+      "slug": "western-water-park",
+      "aiRating": 4.2,
+      "proList": "",
+      "tipsList": "",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726917328-westernpark-01.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726917329-westernpark-03.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726917329-westernpark-02.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726917329-westernpark-04.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726917329-westernpark-05.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🌴 Ocio",
+        "slug": "leisure"
+      },
+      "subCategories": [
+        {
+          "name": "",
+          "slug": "aquapark"
+        }
+      ],
+      "location": {
+        "latitude": 39.5057077,
+        "longitude": 2.5187329
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
+    },
+    {
+      "_publishedAt": "2024-10-24T23:08:59+02:00",
+      "_firstPublishedAt": "2024-09-17T13:57:58+02:00",
+      "id": "Pv3GT8uBTvmqQNULg8b0PA",
+      "name": "Abbaco Natural Food",
+      "description": "",
+      "address": "Passeig Saralegui, 110, 07470 Port de Pollença, Illes Balears, Spanien",
+      "mail": " info@abbaconaturalfood.com",
+      "website": "http://abbaconaturalfood.com/",
+      "phone": "+34971865741",
+      "googleMapsLink": "https://maps.app.goo.gl/isG5xpzivXsFFwSd6",
+      "slug": "abbaco-natural-food",
+      "aiRating": 4.5,
+      "proList": "",
+      "tipsList": "",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726574312-mg_8194b-2048x1365.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726574312-mg_8217b-2048x1365.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🍽️ Comida",
+        "slug": "restaurant"
+      },
+      "subCategories": [
+        {
+          "name": "",
+          "slug": "sustainability"
+        },
+        {
+          "name": "",
+          "slug": "sushi"
+        },
+        {
+          "name": "🍲 Poke Bowls",
+          "slug": "poke-bowls"
+        }
+      ],
+      "location": {
+        "latitude": 39.9035483,
+        "longitude": 3.0806593
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
+    },
+    {
+      "_publishedAt": "2024-10-24T23:07:47+02:00",
+      "_firstPublishedAt": "2024-09-17T17:54:33+02:00",
+      "id": "OnOLyt1CQtex9T-bS-EGcQ",
+      "name": "Arume",
+      "description": "",
+      "address": "Carrer de Sant Miquel, 83, Centre, 07002 Palma",
+      "mail": "info@tomeumarti.com",
+      "website": "http://www.tomeumarti.com/",
+      "phone": "+34971214121",
+      "googleMapsLink": "https://maps.app.goo.gl/JWbLHysrcruJpzzn9",
+      "slug": "arume",
+      "aiRating": 4,
+      "proList": "",
+      "tipsList": "",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726588489-f3a8138a7cbf3fb3.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726588489-f68e6392634791be.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726588489-f2329d5ffb40cc2d.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726588489-f647841d162c3c5d.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🍽️ Comida",
+        "slug": "restaurant"
+      },
+      "subCategories": [
+        {
+          "name": "",
+          "slug": "asian"
+        },
+        {
+          "name": "",
+          "slug": "sushi"
+        },
+        {
+          "name": "",
+          "slug": "japanese"
+        }
+      ],
+      "location": {
+        "latitude": 39.5772075,
+        "longitude": 2.6522274
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
+    },
+    {
+      "_publishedAt": "2024-10-24T23:06:45+02:00",
+      "_firstPublishedAt": "2024-09-17T17:50:59+02:00",
+      "id": "b-9KTV-iRsavnVJKQZYpfw",
+      "name": "Nola",
+      "description": "",
+      "address": "Carrer de Sant Magí, 13, Ponent",
+      "mail": "",
+      "website": "https://www.instagram.com/nola.palma/",
+      "phone": "+34971667006",
+      "googleMapsLink": "https://maps.app.goo.gl/5Kp6jGtm6zGmJprY7",
+      "slug": "nola",
+      "aiRating": 4.5,
+      "proList": "",
+      "tipsList": "",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726674125-image-3.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726674125-image-14.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726674125-image.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726674125-image-2.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726674125-image-1.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726674125-image-4.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🍽️ Comida",
+        "slug": "restaurant"
+      },
+      "subCategories": [
+        {
+          "name": "🍹 Cóctel",
+          "slug": "cocktail"
+        },
+        {
+          "name": "🌮 Mexicana",
+          "slug": "mexican"
+        }
+      ],
+      "location": {
+        "latitude": 39.5702663,
+        "longitude": 2.6387198
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
+    },
+    {
+      "_publishedAt": "2024-10-24T23:05:45+02:00",
+      "_firstPublishedAt": "2024-09-19T11:41:55+02:00",
+      "id": "Rt5PvJCITdCzUR4Rdjr7dw",
+      "name": "BG Hotels Caballero",
+      "description": "",
+      "address": "Carrer de Neopàtria, 3, Platja de Palma, 07610 Palma",
+      "mail": "",
+      "website": "https://www.bghotels.com/bg-caballero.html",
+      "phone": "+34971260050",
+      "googleMapsLink": "https://maps.app.goo.gl/Ngw2xdLaASpwXzPq7",
+      "slug": "bg-hotels-caballero",
+      "aiRating": 4.2,
+      "proList": "",
+      "tipsList": "",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726738625-bghotels-01.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726738625-bghotels-02.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726738625-bghotels-03.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🏨 Hotel",
+        "slug": "hotel"
+      },
+      "subCategories": [
+        {
+          "name": "",
+          "slug": "beach"
+        }
+      ],
+      "location": {
+        "latitude": 39.5265327,
+        "longitude": 2.7353731
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
+    },
+    {
+      "_publishedAt": "2024-10-24T23:04:24+02:00",
+      "_firstPublishedAt": "2024-09-18T20:35:33+02:00",
+      "id": "NQPh3l0xQa-oGhOO9qNtqA",
+      "name": "Emilio Innobar Restaurante Fusion",
+      "description": "",
+      "address": "C/ de la Concepció, 9, Centre, 07012 Palma, Illes Balears, Spanien",
+      "mail": "reservas@emilio-innobar.com",
+      "website": "http://www.emilio-innobar.com/",
+      "phone": "+34696639179",
+      "googleMapsLink": "https://maps.app.goo.gl/mFqqh2AkLQX6f7BN9",
+      "slug": "emilio-innobar-restaurante-fusion",
+      "aiRating": 4.5,
+      "proList": "",
+      "tipsList": "",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726684281-screenshot-2024-09-18-202925.png",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726684281-screenshot-2024-09-18-202851.png",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🍽️ Comida",
+        "slug": "restaurant"
+      },
+      "subCategories": [
+        {
+          "name": "",
+          "slug": "fusion"
+        },
+        {
+          "name": "",
+          "slug": "sushi"
+        },
+        {
+          "name": "🍷 Vino",
+          "slug": "wine"
+        }
+      ],
+      "location": {
+        "latitude": 39.574501,
+        "longitude": 2.6456798
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
+    },
+    {
+      "_publishedAt": "2024-10-24T23:02:06+02:00",
+      "_firstPublishedAt": "2024-09-19T11:42:36+02:00",
+      "id": "Haa9dXLvR162I_KgaXWdMQ",
+      "name": "Japan Lab",
+      "description": "",
+      "address": "Carrer de Munar, 6, 07460 Pollença",
+      "mail": "japanlabmallorca@gmail.com",
+      "website": "https://japanlabmallorca.com",
+      "phone": "+34971949231",
+      "googleMapsLink": "https://maps.app.goo.gl/eNhN6bMJtWALvpDJ8",
+      "slug": "japan-lab",
+      "aiRating": 4.5,
+      "proList": "",
+      "tipsList": "",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726739108-japanlabmallorca-02.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726739108-japanlabmallorca-03.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726739108-japanlabmallorca-01.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🍽️ Comida",
+        "slug": "restaurant"
+      },
+      "subCategories": [
+        {
+          "name": "",
+          "slug": "sushi"
+        },
+        {
+          "name": "",
+          "slug": "asian"
+        },
+        {
+          "name": "",
+          "slug": "sake"
+        }
+      ],
+      "location": {
+        "latitude": 39.8768284,
+        "longitude": 3.0171947
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
+    },
+    {
+      "_publishedAt": "2024-10-22T22:18:20+02:00",
+      "_firstPublishedAt": "2024-09-19T11:42:34+02:00",
+      "id": "Umbgu1KsT2e9SLlwjXfysA",
+      "name": "Japo Santa Catalina",
+      "description": "",
+      "address": "Carrer de Sant Magí, 25, Ponent, 07013 Palma",
+      "mail": "",
+      "website": "https://www.japosantacatalina.com/en/home/",
+      "phone": "+34971738321",
+      "googleMapsLink": "https://maps.app.goo.gl/ni86jPYzsqYAPkus6",
+      "slug": "japo-santa-catalina",
+      "aiRating": 4.2,
+      "proList": "",
+      "tipsList": "",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726739449-japosantacatalina-02.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726739449-japosantacatalina-05.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726739449-japosantacatalina-03.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726739449-japosantacatalina-01.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726739449-japosantacatalina-06.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726739449-japosantacatalina-04.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🍽️ Comida",
+        "slug": "restaurant"
+      },
+      "subCategories": [
+        {
+          "name": "",
+          "slug": "japanese"
+        },
+        {
+          "name": "",
+          "slug": "sushi"
+        },
+        {
+          "name": "",
+          "slug": "fusion"
+        },
+        {
+          "name": "",
+          "slug": "adults-only"
+        }
+      ],
+      "location": {
+        "latitude": 39.5702651,
+        "longitude": 2.6383682
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
+    },
+    {
+      "_publishedAt": "2024-10-22T22:17:09+02:00",
+      "_firstPublishedAt": "2024-09-19T11:42:33+02:00",
+      "id": "fa4yDHWBQza8H4U_DYY3TQ",
+      "name": "Sumailla Restaurant",
+      "description": "",
+      "address": "Av. Almirante Riera Alemany, 19, 07157 Port d'Andratx",
+      "mail": "info@restaurantsumailla.com",
+      "website": "https://www.restaurantsumailla.com",
+      "phone": "+34971238785",
+      "googleMapsLink": "https://maps.app.goo.gl/2QbbD76vVAU3Z7TT9",
+      "slug": "sumailla-restaurant",
+      "aiRating": 4.5,
+      "proList": "",
+      "tipsList": "",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726739651-restaurantsumailla-03.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726739651-restaurantsumailla-05.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726739651-restaurantsumailla-04.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726739651-restaurantsumailla-02.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726739651-restaurantsumailla-01.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🍽️ Comida",
+        "slug": "restaurant"
+      },
+      "subCategories": [
+        {
+          "name": "",
+          "slug": "japanese"
+        },
+        {
+          "name": "",
+          "slug": "sushi"
+        },
+        {
+          "name": "",
+          "slug": "fusion"
+        }
+      ],
+      "location": {
+        "latitude": 39.5429945,
+        "longitude": 2.386001100000001
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
+    },
+    {
+      "_publishedAt": "2024-10-22T22:16:03+02:00",
+      "_firstPublishedAt": "2024-09-19T11:42:32+02:00",
+      "id": "CtpBoVQkRPakyJ7iKygqsA",
+      "name": "La Vieja de Jonay Hernandez",
+      "description": "",
+      "address": "Plaça de Raimundo Clar, 11, Centre, 07002 Palma",
+      "mail": "reservas@lavieja.net",
+      "website": "https://www.lavieja.net",
+      "phone": "+34871531731",
+      "googleMapsLink": "https://maps.app.goo.gl/VcX9gYdMoY1tfcxc8",
+      "slug": "la-vieja-de-jonay-hernandez",
+      "aiRating": 4.5,
+      "proList": "",
+      "tipsList": "",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726739937-lavieja-02.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726739937-lavieja-01.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726739936-lavieja-03.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🍽️ Comida",
+        "slug": "restaurant"
+      },
+      "subCategories": [
+        {
+          "name": "🍷 Vino",
+          "slug": "wine"
+        },
+        {
+          "name": "🍹 Cóctel",
+          "slug": "cocktail"
+        }
+      ],
+      "location": {
+        "latitude": 39.5706307,
+        "longitude": 2.6554392
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
+    },
+    {
+      "_publishedAt": "2024-10-22T22:13:22+02:00",
+      "_firstPublishedAt": "2024-09-21T14:55:44+02:00",
+      "id": "dY3kbTMWRpSRdsZC8x3_-Q",
+      "name": "Bonito",
+      "description": "",
+      "address": "Carretera de l’Arenal, 36 07610 Playa de Palma",
+      "mail": "bonito@enjoygroup.es",
+      "website": "https://www.palmabeach.com/bonito/781/",
+      "phone": "+34 971 745 663",
+      "googleMapsLink": "https://maps.app.goo.gl/g7pLWCjC49mZZALj6",
+      "slug": "bonito",
+      "aiRating": 4,
+      "proList": "",
+      "tipsList": "",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726940795-bonito-03.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726940795-bonito-01.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726940795-bonito-05.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726940795-bonito-04.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726940795-bonito-02.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🍽️ Comida",
+        "slug": "restaurant"
+      },
+      "subCategories": [
+        {
+          "name": "🍹 Cóctel",
+          "slug": "cocktail"
+        },
+        {
+          "name": "🌮 Mexicana",
+          "slug": "mexican"
+        },
+        {
+          "name": "",
+          "slug": "burger"
+        },
+        {
+          "name": "💙 Palma Beach Partner",
+          "slug": "palma-beach-partner"
+        }
+      ],
+      "location": {
+        "latitude": 39.5184506,
+        "longitude": 2.7427377
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
+    },
+    {
+      "_publishedAt": "2024-10-22T22:12:07+02:00",
+      "_firstPublishedAt": "2024-09-21T15:05:19+02:00",
+      "id": "b_U5K3kbSvaqRWakjzkk6A",
+      "name": "Chalet Siena",
+      "description": "",
+      "address": "Carrer de la Missió de San Diego, 1 07600 Playa de Palma",
+      "mail": "chaletsiena@enjoygroup.es",
+      "website": "https://www.palmabeach.com/chalet-siena/785/",
+      "phone": "+34 971 74 56 90",
+      "googleMapsLink": "https://maps.app.goo.gl/sfToPHvjxhnDekVFA",
+      "slug": "chalet-siena",
+      "aiRating": 4,
+      "proList": "",
+      "tipsList": "",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726940838-chaletsiena-04.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726940838-chaletsiena-02.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726940838-chaletsiena-05.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726940839-chaletsiena-03.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726940839-chaletsiena-01.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🍽️ Comida",
+        "slug": "restaurant"
+      },
+      "subCategories": [
+        {
+          "name": "💙 Palma Beach Partner",
+          "slug": "palma-beach-partner"
+        },
+        {
+          "name": "",
+          "slug": "fish"
+        },
+        {
+          "name": "",
+          "slug": "seafood"
+        },
+        {
+          "name": "",
+          "slug": "burger"
+        },
+        {
+          "name": "🍹 Cóctel",
+          "slug": "cocktail"
+        }
+      ],
+      "location": {
+        "latitude": 39.5155304,
+        "longitude": 2.7458047
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
+    },
+    {
+      "_publishedAt": "2024-10-22T22:10:40+02:00",
+      "_firstPublishedAt": "2024-09-21T15:14:27+02:00",
+      "id": "fwtN2kbyQ3KIaDGNfgS-Cg",
+      "name": "Playa de Palma Palace",
+      "description": "",
+      "address": "Edificio Gran Playa, Prolongación Carrer de las Canyes 07600 Playa de Palma",
+      "mail": "",
+      "website": "https://www.palmabeach.com/hipotels-playa-de-palma-palace/2863/",
+      "phone": "+34971260528",
+      "googleMapsLink": "https://maps.app.goo.gl/1UEtHzP3ggfs1xxh8",
+      "slug": "playa-de-palma-palace",
+      "aiRating": 4.6,
+      "proList": "",
+      "tipsList": "",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726940947-playadepalmapalace-02.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726940947-playadepalmapalace-03.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726940947-playadepalmapalace-04.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726940947-playadepalmapalace-05.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726940947-playadepalmapalace-01.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🏨 Hotel",
+        "slug": "hotel"
+      },
+      "subCategories": [
+        {
+          "name": "💙 Palma Beach Partner",
+          "slug": "palma-beach-partner"
+        },
+        {
+          "name": "",
+          "slug": "spa"
+        },
+        {
+          "name": "",
+          "slug": "gym"
+        },
+        {
+          "name": "",
+          "slug": "pool"
+        },
+        {
+          "name": "",
+          "slug": "in-house-dining"
+        }
+      ],
+      "location": {
+        "latitude": 39.5149711,
+        "longitude": 2.7489274
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
+    },
+    {
+      "_publishedAt": "2024-10-22T22:09:09+02:00",
+      "_firstPublishedAt": "2024-09-21T15:32:20+02:00",
+      "id": "UUTyMdecRDm-yD6kIM76eA",
+      "name": "HM Ayron Park",
+      "description": "",
+      "address": "Trasimeno, 7, Playa de Palma, 07600 Playa de Palma",
+      "mail": "",
+      "website": "https://www.hmhotels.com/hm-ayron-park/",
+      "phone": "+34871719138",
+      "googleMapsLink": "https://maps.app.goo.gl/su5gQyWR7vPtmAiT8",
+      "slug": "hm-ayron-park",
+      "aiRating": 4.3,
+      "proList": "",
+      "tipsList": "",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726990006-hmayronparkh-04.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726990006-hmayronpark-03.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726990006-hmayronpark-02.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726990005-hmayronpark-05.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726990006-hmayronpark-01.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🏨 Hotel",
+        "slug": "hotel"
+      },
+      "subCategories": [
+        {
+          "name": "",
+          "slug": "spa"
+        },
+        {
+          "name": "",
+          "slug": "in-house-dining"
+        },
+        {
+          "name": "",
+          "slug": "rooftop"
+        },
+        {
+          "name": "",
+          "slug": "gym"
+        },
+        {
+          "name": "",
+          "slug": "pool"
+        },
+        {
+          "name": "💙 Palma Beach Partner",
+          "slug": "palma-beach-partner"
+        }
+      ],
+      "location": {
+        "latitude": 39.51359739999999,
+        "longitude": 2.7513889
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
+    },
+    {
+      "_publishedAt": "2024-10-22T22:07:48+02:00",
+      "_firstPublishedAt": "2024-09-20T13:24:35+02:00",
+      "id": "B9sfhVSWRDO8cNPlLdOINQ",
+      "name": "GPRO Valparaiso Palace & SPA",
+      "description": "",
+      "address": "C/ de Francesc Vidal i Sureda, 23, Ponent, 07015 Palma",
+      "mail": "valparaiso@gprovalparaiso.com",
+      "website": "http://www.gprovalparaiso.com/",
+      "phone": "+34971400300",
+      "googleMapsLink": "https://maps.app.goo.gl/zmGnyuMhHC66vKjVA",
+      "slug": "gpro-valparaiso-palace-and-spa",
+      "aiRating": 4.5,
+      "proList": "",
+      "tipsList": "",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1728049918-gprovalparaiso-08.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1728049918-gprovalparaiso-02.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1728049918-gprovalparaiso-05.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1728049918-gprovalparaiso-11.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1728049918-gprovalparaiso-04.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1728049918-gprovalparaiso-07.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1728049918-gprovalparaiso-03.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1728049918-gprovalparaiso-09.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1728049918-gprovalparaiso-10.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1728049918-gprovalparaiso-06.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1728049918-gprovalparaiso-01.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🏨 Hotel",
+        "slug": "hotel"
+      },
+      "subCategories": [],
+      "location": {
+        "latitude": 39.5553568,
+        "longitude": 2.6193149
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
+    },
+    {
+      "_publishedAt": "2024-10-22T22:06:36+02:00",
+      "_firstPublishedAt": "2024-09-20T16:22:15+02:00",
+      "id": "NBHG1ceHTaKE7KuELcFyaw",
+      "name": "Tramuntana Diving & Adventure",
+      "description": "",
+      "address": "Carrer d'Elcano, 9, 07470 Port de Pollença",
+      "mail": "info@tramuntanadiving.com",
+      "website": "http://www.tramuntanadiving.com/",
+      "phone": "+34971876279",
+      "googleMapsLink": "https://maps.app.goo.gl/nZvtooy77mgDQMpV7",
+      "slug": "tramuntana-diving-and-adventure",
+      "aiRating": 4.8,
+      "proList": "",
+      "tipsList": "",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1728050125-tramuntanadiving-02.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1728050125-tramuntanadiving-03.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1728050125-tramuntanadiving-01.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1728050125-tramuntanadiving-04.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🌴 Ocio",
+        "slug": "leisure"
+      },
+      "subCategories": [
+        {
+          "name": "",
+          "slug": "diving"
+        },
+        {
+          "name": "",
+          "slug": "activity"
+        }
+      ],
+      "location": {
+        "latitude": 39.9049819,
+        "longitude": 3.0807806
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
+    },
+    {
+      "_publishedAt": "2024-10-22T00:17:56+02:00",
+      "_firstPublishedAt": "2024-09-20T19:44:53+02:00",
+      "id": "e_4Ik1wPQB61lOxuT4VXgA",
+      "name": "Hammam Al Ándalus",
+      "description": "",
+      "address": "C. de Costa i Llobera, 20, Llevant, 07005 Palma",
+      "mail": "",
+      "website": "https://palma.hammamalandalus.com/",
+      "phone": "+34971412860",
+      "googleMapsLink": "https://maps.app.goo.gl/dhZJxygpUWrzvumN6",
+      "slug": "hammam-al-andalus",
+      "aiRating": 4.3,
+      "proList": "",
+      "tipsList": "",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1728050350-hammamalandalus-04.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1728050350-hammamalandalus-02.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1728050350-hammamalandalus-01.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1728050350-hammamalandalus-03.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🌴 Ocio",
+        "slug": "leisure"
+      },
+      "subCategories": [
+        {
+          "name": "",
+          "slug": "wellness"
+        },
+        {
+          "name": "",
+          "slug": "spa"
+        }
+      ],
+      "location": {
+        "latitude": 39.57480169999999,
+        "longitude": 2.657397500000001
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
+    },
+    {
+      "_publishedAt": "2024-10-22T00:15:57+02:00",
+      "_firstPublishedAt": "2024-09-19T19:45:22+02:00",
+      "id": "ctvUS8gDS1egZyIOo5LcZw",
+      "name": "Ca n'Eduardo",
+      "description": "",
+      "address": "C/ Contramuelle Mollet, 3, 07012 Palma",
+      "mail": "info@caneduardo.com",
+      "website": "http://www.caneduardo.com/",
+      "phone": "+34971721182",
+      "googleMapsLink": "https://maps.app.goo.gl/zixYpmF8p28ZqMkj9",
+      "slug": "ca-neduardo",
+      "aiRating": 4.5,
+      "proList": "",
+      "tipsList": "",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1728050554-caneduardo-01.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1728050554-caneduardo-05.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1728050554-caneduardo-04.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1728050554-caneduardo-02.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1728050554-caneduardo-03.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🍽️ Comida",
+        "slug": "restaurant"
+      },
+      "subCategories": [
+        {
+          "name": "",
+          "slug": "spanish"
+        },
+        {
+          "name": "",
+          "slug": "mediterranean"
+        },
+        {
+          "name": "",
+          "slug": "seafood"
+        }
+      ],
+      "location": {
+        "latitude": 39.5684507,
+        "longitude": 2.6406613
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
+    },
+    {
+      "_publishedAt": "2024-10-22T00:14:51+02:00",
+      "_firstPublishedAt": "2024-09-19T17:53:22+02:00",
+      "id": "VakCHr7XTfiuEsLWd3G2DA",
+      "name": "Badal Corner",
+      "description": "",
+      "address": "Plaça del Comtat del Rosselló, 7, Centre, 07002 Palma",
+      "mail": " info@badalcorner.com",
+      "website": "https://www.badalcorner.com",
+      "phone": "+34871238462",
+      "googleMapsLink": "https://maps.app.goo.gl/AreyoZvN3pBx1JmE8",
+      "slug": "badal-corner",
+      "aiRating": 4.3,
+      "proList": "",
+      "tipsList": "",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1728050744-badalcorner-03.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1728050744-badalcorner-02.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1728050744-badalcorner-04.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1728050744-badalcorner-01.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🍽️ Comida",
+        "slug": "restaurant"
+      },
+      "subCategories": [
+        {
+          "name": "",
+          "slug": "burger"
+        },
+        {
+          "name": "",
+          "slug": "vegetarian"
+        },
+        {
+          "name": "",
+          "slug": "vegan"
+        }
+      ],
+      "location": {
+        "latitude": 39.5737004,
+        "longitude": 2.6544002
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
+    },
+    {
+      "_publishedAt": "2024-10-22T00:13:42+02:00",
+      "_firstPublishedAt": "2024-09-19T16:41:21+02:00",
+      "id": "DJeWpZHvS_GfGuiVD5l4dw",
+      "name": "Mola Santa Catalina",
+      "description": "",
+      "address": "Plaça de la Navegació, 17, Ponent, 07013 Palma",
+      "mail": "reservation.sc@grupomola.com",
+      "website": "https://www.grupomola.com/en",
+      "phone": "+34680808078",
+      "googleMapsLink": "https://maps.app.goo.gl/ybydGpCEaBT9ocKv6",
+      "slug": "mola-santa-catalina",
+      "aiRating": 4.5,
+      "proList": "",
+      "tipsList": "",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1728051028-grupomola-03.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1728051028-grupomola-02.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1728051028-grupomola-04.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1728051028-grupomola-01.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🍽️ Comida",
+        "slug": "restaurant"
+      },
+      "subCategories": [
+        {
+          "name": "🍷 Vino",
+          "slug": "wine"
+        }
+      ],
+      "location": {
+        "latitude": 39.5715679,
+        "longitude": 2.6383136
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
+    },
+    {
+      "_publishedAt": "2024-10-22T00:12:00+02:00",
+      "_firstPublishedAt": "2024-09-20T12:46:38+02:00",
+      "id": "WXG67JOERqWqcgXjRaGDtg",
+      "name": "Can Bordoy Grand House & Garden",
+      "description": "",
+      "address": "Carrer del Forn de la Glòria, 14, Centre, 07012 Palma",
+      "mail": "info@canbordoy.com",
+      "website": "https://www.canbordoy.com/",
+      "phone": "+34871871202",
+      "googleMapsLink": "https://maps.app.goo.gl/ahxx6fm7pbLkD3Vc9",
+      "slug": "can-bordoy-grand-house-and-garden",
+      "aiRating": 4.6,
+      "proList": "",
+      "tipsList": "",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1728051301-canbordoy-02.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1728051301-canbordoy-06.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1728051302-canbordoy-09.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1728051302-canbordoy-03.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1728051302-canbordoy-13.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1728051302-canbordoy-08.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1728051301-canbordoy-07.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1728051301-canbordoy-10.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1728051302-canbordoy-04.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1728051302-canbordoy-05.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1728051301-canbordoy-11.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1728051302-canbordoy-01.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1728051301-canbordoy-12.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🏨 Hotel",
+        "slug": "hotel"
+      },
+      "subCategories": [
+        {
+          "name": "",
+          "slug": "spa"
+        },
+        {
+          "name": "",
+          "slug": "wellness"
+        },
+        {
+          "name": "",
+          "slug": "in-house-dining"
+        }
+      ],
+      "location": {
+        "latitude": 39.5696809,
+        "longitude": 2.644409
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
+    },
+    {
+      "_publishedAt": "2024-10-22T00:09:40+02:00",
+      "_firstPublishedAt": "2024-09-19T17:27:17+02:00",
+      "id": "Ha-Nv9-OQH-qUUp7bx9YKA",
+      "name": "Bella Verde Jardín Gastronómico",
+      "description": "",
+      "address": "Carrer de les Monges, 14, 07470 Pollença",
+      "mail": "info@restaurantebellaverde.com",
+      "website": "https://www.restaurantebellaverde.com",
+      "phone": "+34675602528",
+      "googleMapsLink": "https://maps.app.goo.gl/Gt7PDgayEL8doF116",
+      "slug": "bella-verde-jardin-gastronomico",
+      "aiRating": 4.5,
+      "proList": "",
+      "tipsList": "",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1729075523-restaurantebellaverde-01.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1729075523-restaurantebellaverde-03.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1729075523-restaurantebellaverde-02.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1729075523-restaurantebellaverde-04.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🍽️ Comida",
+        "slug": "restaurant"
+      },
+      "subCategories": [
+        {
+          "name": "",
+          "slug": "vegan"
+        },
+        {
+          "name": "",
+          "slug": "vegetarian"
+        }
+      ],
+      "location": {
+        "latitude": 39.9059383,
+        "longitude": 3.081258
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
+    },
+    {
+      "_publishedAt": "2024-10-22T00:08:35+02:00",
+      "_firstPublishedAt": "2024-09-19T17:58:39+02:00",
+      "id": "YUUoKl2LRZKEfMSEIvI3uQ",
+      "name": "Basico Steak House",
+      "description": "",
+      "address": "Carrer d'En Serra, 07400 Alcúdia",
+      "mail": "",
+      "website": "",
+      "phone": "+34871047849",
+      "googleMapsLink": "https://maps.app.goo.gl/GienFrFMMtXSzB2Y6",
+      "slug": "basico-steak-house",
+      "aiRating": 3.8,
+      "proList": "",
+      "tipsList": "",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1729075650-basicosteakhouse-01.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1729075651-basicosteakhouse-03.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1729075650-basicosteakhouse-04.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1729075650-basicosteakhouse-02.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🍽️ Comida",
+        "slug": "restaurant"
+      },
+      "subCategories": [
+        {
+          "name": "",
+          "slug": "grill"
+        }
+      ],
+      "location": {
+        "latitude": 39.85236949999999,
+        "longitude": 3.1219398
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
+    },
+    {
+      "_publishedAt": "2024-10-22T00:07:21+02:00",
+      "_firstPublishedAt": "2024-09-20T16:46:34+02:00",
+      "id": "LhFTvrkfSBum70bkz2I3vA",
+      "name": "Mallorca Kiteboarding",
+      "description": "",
+      "address": "Hotel Port Blue Club Pollentia Resort Carretera Alcúdia-Port de Pollença Km.2, 07400 Alcúdia",
+      "mail": "",
+      "website": "http://www.mallorcakiteboarding.com/",
+      "phone": "+34686425234",
+      "googleMapsLink": "https://maps.app.goo.gl/Xavvt7zDYseU9gUj8",
+      "slug": "mallorca-kiteboarding",
+      "aiRating": 4.3,
+      "proList": "",
+      "tipsList": "",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1729075802-mallorcakiteboarding-01.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1729075802-mallorcakiteboarding-02.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1729075802-mallorcakiteboarding-04.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1729075802-mallorcakiteboarding-05.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1729075802-mallorcakiteboarding-03.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1729075802-mallorcakiteboarding-06.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🌴 Ocio",
+        "slug": "leisure"
+      },
+      "subCategories": [
+        {
+          "name": "",
+          "slug": "surfing"
+        }
+      ],
+      "location": {
+        "latitude": 39.8635939,
+        "longitude": 3.0932989
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
+    },
+    {
+      "_publishedAt": "2024-10-22T00:05:45+02:00",
+      "_firstPublishedAt": "2024-09-20T20:23:58+02:00",
+      "id": "DmQFW2oWS-mWH6Gk1YzvHA",
+      "name": "Hidropark",
+      "description": "",
+      "address": "Avenida Inglaterra, Av. Tucà, s/n, 07400 Port d'Alcúdia",
+      "mail": "hidropark@hidroparkalcudia.com",
+      "website": "http://www.hidroparkalcudia.com/",
+      "phone": "+34971891672",
+      "googleMapsLink": "https://maps.app.goo.gl/UkU97LfLLJRuqE7B9",
+      "slug": "hidropark",
+      "aiRating": 3.5,
+      "proList": "",
+      "tipsList": "",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1729076034-hidroparkalcudia-01.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1729076034-hidroparkalcudia-02.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1729076034-hidroparkalcudia-05.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1729076034-hidroparkalcudia-04.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1729076034-hidroparkalcudia-03.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1729076034-hidroparkalcudia-06.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🌴 Ocio",
+        "slug": "leisure"
+      },
+      "subCategories": [
+        {
+          "name": "",
+          "slug": "aquapark"
+        }
+      ],
+      "location": {
+        "latitude": 39.8408261,
+        "longitude": 3.1142804
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
+    },
+    {
+      "_publishedAt": "2024-10-16T12:42:40+02:00",
+      "_firstPublishedAt": "2024-09-19T16:46:28+02:00",
+      "id": "NKEM1N1ORq66KKn7cFIPzA",
+      "name": "Naan Street Food",
+      "description": "",
+      "address": "Carrer de Caro, 16, Ponent, 07013 Palma",
+      "mail": "",
+      "website": " naanstreetfood.com",
+      "phone": "+34971915522",
+      "googleMapsLink": "https://maps.app.goo.gl/H2QU1YB5fEX2LUJe7",
+      "slug": "naan-street-food",
+      "aiRating": 4.5,
+      "proList": "",
+      "tipsList": "",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1729075350-naanstreetfood-03.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1729075350-naanstreetfood-04.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1729075350-naanstreetfood-02.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1729075350-naanstreetfood-01.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🍽️ Comida",
+        "slug": "restaurant"
+      },
+      "subCategories": [
+        {
+          "name": "",
+          "slug": "fusion"
+        },
+        {
+          "name": "🍹 Cóctel",
+          "slug": "cocktail"
+        },
+        {
+          "name": "",
+          "slug": "mediterranean"
+        }
+      ],
+      "location": {
+        "latitude": 39.5728881,
+        "longitude": 2.6394728
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
+    },
+    {
+      "_publishedAt": "2024-10-15T14:10:04+02:00",
+      "_firstPublishedAt": "2024-09-21T15:54:29+02:00",
+      "id": "OosCAggkTumkImYsoDo89w",
+      "name": "T - Golf",
+      "description": "",
+      "address": "T Golf Calvia, Camí Cala Figuera, s/n, 07181, Balearic Islands, Spanien",
+      "mail": "",
+      "website": "https://t-golf.club/palma/",
+      "phone": "+34971130148",
+      "googleMapsLink": "https://maps.app.goo.gl/QXqBxfzTJEvRdDWm9",
+      "slug": "t-golf",
+      "aiRating": 4.5,
+      "proList": "",
+      "tipsList": "",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1727171824-t-golf-04.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1727171824-t-golf-01.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1727171824-t-golf-03.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1727171824-t-golf-02.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🌴 Ocio",
+        "slug": "leisure"
+      },
+      "subCategories": [
+        {
+          "name": "",
+          "slug": "golf"
+        },
+        {
+          "name": "",
+          "slug": "in-house-dining"
+        }
+      ],
+      "location": {
+        "latitude": 39.4953468,
+        "longitude": 2.5183083
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
+    },
+    {
+      "_publishedAt": "2024-10-15T14:09:01+02:00",
+      "_firstPublishedAt": "2024-08-08T20:39:31+02:00",
+      "id": "Xk97s4piQ0qp1CGcXdh8pg",
+      "name": "MarChica Palma",
+      "description": "",
+      "address": "Carrer Torre de Paraires, 1, Ponent, 07015 Palma, Illes Balears, Spanien",
+      "mail": "reservas@marchicapalma.com",
+      "website": "https://marchicapalma.com",
+      "phone": "+34971593902",
+      "googleMapsLink": "https://maps.app.goo.gl/emXJBKVMy7HVrQ5C9",
+      "slug": "marchica-palma",
+      "aiRating": 4.7,
+      "proList": "",
+      "tipsList": "",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1723143550-marchica-palma-01.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1723143545-marchica-palma-02.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1723143540-marchica-palma-03.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🍽️ Comida",
+        "slug": "restaurant"
+      },
+      "subCategories": [
+        {
+          "name": "",
+          "slug": "sushi"
+        },
+        {
+          "name": "",
+          "slug": "fusion"
+        },
+        {
+          "name": "🍹 Cóctel",
+          "slug": "cocktail"
+        }
+      ],
+      "location": {
+        "latitude": 39.5508258,
+        "longitude": 2.6230203
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
+    },
+    {
+      "_publishedAt": "2024-10-15T14:05:07+02:00",
+      "_firstPublishedAt": "2024-09-21T15:23:27+02:00",
+      "id": "McSdC4y3RuyB8wo-6Li6Uw",
+      "name": "Aubamar Suites & Spa",
+      "description": "",
+      "address": "Calle Misión de San Diego, 17 07600 Palma, Illes Balears",
+      "mail": "",
+      "website": "https://www.palmabeach.com/hotel-aubamar-suites-spa-5/2868/",
+      "phone": "+34971724347",
+      "googleMapsLink": "https://maps.app.goo.gl/4ZdVUEPt8HfMJHG69",
+      "slug": "aubamar-suites-and-spa",
+      "aiRating": 4.3,
+      "proList": "",
+      "tipsList": "",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726941428-aubamarsuite-03.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726941428-aubamarsuite-01.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726941428-aubamarsuite-04.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726941428-aubamarsuite-02.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726941428-aubamarsuite-05.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🏨 Hotel",
+        "slug": "hotel"
+      },
+      "subCategories": [
+        {
+          "name": "💙 Palma Beach Partner",
+          "slug": "palma-beach-partner"
+        },
+        {
+          "name": "",
+          "slug": "spa"
+        },
+        {
+          "name": "",
+          "slug": "gym"
+        },
+        {
+          "name": "",
+          "slug": "in-house-dining"
+        },
+        {
+          "name": "",
+          "slug": "pool"
+        }
+      ],
+      "location": {
+        "latitude": 39.51701449999999,
+        "longitude": 2.7489633
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
+    },
+    {
+      "_publishedAt": "2024-10-15T14:04:11+02:00",
+      "_firstPublishedAt": "2024-09-19T12:34:22+02:00",
+      "id": "C2Ulw01IRcOd8NkHEuhXTg",
+      "name": "Dive & Fun",
+      "description": "",
+      "address": "Carretera de Canyamel, 48, 07589 Font de Sa Cala, Illes Balears, Spanien",
+      "mail": "",
+      "website": "http://www.mallorcadiving.de/",
+      "phone": "+34971818036",
+      "googleMapsLink": "https://maps.app.goo.gl/nNn5QNMYrdaNrrrTA",
+      "slug": "dive-and-fun",
+      "aiRating": 4.4,
+      "proList": "",
+      "tipsList": "",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726741973-dive-and-fun-01.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726741973-dive-and-fun-02.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726741973-dive-and-fun-06.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726741973-dive-and-fun-03.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726741973-dive-and-fun-05.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1726741973-dive-and-fun-04.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🌴 Ocio",
+        "slug": "leisure"
+      },
+      "subCategories": [
+        {
+          "name": "",
+          "slug": "diving"
+        }
+      ],
+      "location": {
+        "latitude": 39.6831747,
+        "longitude": 3.4516384
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
+    },
+    {
+      "_publishedAt": "2024-10-15T14:03:18+02:00",
+      "_firstPublishedAt": "2024-09-21T15:42:55+02:00",
+      "id": "clzDVGJjQBS6Tp9h-CKDgA",
+      "name": "Dino Mini Golf",
+      "description": "",
+      "address": "Carretera de l'Arenal, 56, Platja de Palma, 07600 Palma",
+      "mail": "",
+      "website": "https://www.palmabeach.com/dino-mini-golf/3649/",
+      "phone": "+34971743334",
+      "googleMapsLink": "https://maps.app.goo.gl/S1vqkXRmmTwCbH1H6",
+      "slug": "dino-mini-golf",
+      "aiRating": 4,
+      "proList": "",
+      "tipsList": "",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1727171863-dino-minigolf-01.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1727171863-dino-minigolf-02.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1727171863-dino-minigolf-04.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1727171863-dino-minigolf-03.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1727171863-dino-minigolf-05.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🌴 Ocio",
+        "slug": "leisure"
+      },
+      "subCategories": [
+        {
+          "name": "⛳️ Minigolf",
+          "slug": "mini-golf"
+        }
+      ],
+      "location": {
+        "latitude": 39.5121952,
+        "longitude": 2.7483226
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
+    },
+    {
+      "_publishedAt": "2024-10-15T14:02:06+02:00",
+      "_firstPublishedAt": "2024-09-21T15:47:58+02:00",
+      "id": "Gjcbbx5dQEGfmBcV62T8ew",
+      "name": "Golf Son Gual",
+      "description": "",
+      "address": "Ma 15 – Palma – Manacor, Km 11,5 07199 Palma",
+      "mail": "",
+      "website": "https://www.palmabeach.com/golf-son-gual/3562/",
+      "phone": "+34971785888",
+      "googleMapsLink": "https://maps.app.goo.gl/ma1oB6YNq4yQaDFa7",
+      "slug": "golf-son-gual",
+      "aiRating": 4,
+      "proList": "",
+      "tipsList": "",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1727171849-golf-son-gual-04.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1727171849-golf-son-gual-02.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1727171849-golf-son-gual-03.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1727171849-golf-son-gual-05.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1727171849-golf-son-gual-01.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "name": "🌴 Ocio",
+        "slug": "leisure"
+      },
+      "subCategories": [
+        {
+          "name": "",
+          "slug": "golf"
+        }
+      ],
+      "location": null,
+      "externalVideoLink": null,
+      "providerVideoLink": ""
+    },
+    {
+      "_publishedAt": "2024-10-15T13:58:24+02:00",
+      "_firstPublishedAt": "2024-09-19T16:51:56+02:00",
+      "id": "fS5Ej0nJR0iTohYsl__rQQ",
+      "name": "Vandal Palma",
+      "description": "",
+      "address": "Plaça del Progrés, 15, Ponent, 07013 Palma",
+      "mail": "info@vandalpalma.com",
+      "website": "http://www.vandalpalma.com/",
+      "phone": "+34871045174",
+      "googleMapsLink": "https://maps.app.goo.gl/zSnnTSSsqVNdpEvR8",
+      "slug": "vandal-palma",
+      "aiRating": 4.5,
+      "proList": "",
+      "tipsList": "",
+      "photos": [],
+      "mainCategory": {
+        "name": "🍽️ Comida",
+        "slug": "restaurant"
+      },
+      "subCategories": [
+        {
+          "name": "🍹 Cóctel",
+          "slug": "cocktail"
+        },
+        {
+          "name": "🍷 Vino",
+          "slug": "wine"
+        }
+      ],
+      "location": {
+        "latitude": 39.571502,
+        "longitude": 2.6357976
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
+    }
+  ],
+  "allMainCategories": [
+    {
+      "id": "PWIGNzMASXiORHFXvdlZqA",
+      "name": "🍽️ Comida",
+      "slug": "restaurant",
+      "_firstPublishedAt": "2024-09-18T10:16:56+02:00",
+      "_publishedAt": "2024-11-04T12:29:41+01:00"
+    },
+    {
+      "id": "X-tbEyT4TZm98LkzSawdXw",
+      "name": "🍸 Barra",
+      "slug": "bar",
+      "_firstPublishedAt": "2024-10-24T11:07:23+02:00",
+      "_publishedAt": "2024-11-04T12:29:24+01:00"
+    },
+    {
+      "id": "AhcbURkMT1akCDMPJy1D9A",
+      "name": "🏨 Hotel",
+      "slug": "hotel",
+      "_firstPublishedAt": "2024-09-18T10:15:41+02:00",
+      "_publishedAt": "2024-11-04T12:29:13+01:00"
+    },
+    {
+      "id": "E5sTr18jRLWGiJdgtZI0rg",
+      "name": "🌴 Ocio",
+      "slug": "leisure",
+      "_firstPublishedAt": "2024-09-18T10:17:11+02:00",
+      "_publishedAt": "2024-11-04T12:28:57+01:00"
+    }
+  ],
+  "allSubcategories": [
+    {
+      "id": "AGMSd-8bTTKgR-KqrnTfTA",
+      "name": "⛳️ Minigolf",
+      "slug": "mini-golf",
+      "_firstPublishedAt": "2024-09-21T15:39:43+02:00",
+      "_publishedAt": "2024-11-04T12:41:49+01:00"
+    },
+    {
+      "id": "F36WRYAaTkGdWM-sdlJ4NQ",
+      "name": "🌮 Mexicana",
+      "slug": "mexican",
+      "_firstPublishedAt": "2024-09-21T14:53:02+02:00",
+      "_publishedAt": "2024-11-04T12:41:31+01:00"
+    },
+    {
+      "id": "QxbAdyBkSEGH-wyaN-JlkQ",
+      "name": "🍲 Poke Bowls",
+      "slug": "poke-bowls",
+      "_firstPublishedAt": "2024-09-21T13:52:50+02:00",
+      "_publishedAt": "2024-11-04T12:41:07+01:00"
+    },
+    {
+      "id": "VNf1pD-CRf673RPUyC510A",
+      "name": "💙 Palma Beach Partner",
+      "slug": "palma-beach-partner",
+      "_firstPublishedAt": "2024-09-21T13:51:11+02:00",
+      "_publishedAt": "2024-11-04T12:40:39+01:00"
+    },
+    {
+      "id": "MPQ06773S9SwwdPySQ-uTA",
+      "name": "🍹 Cóctel",
+      "slug": "cocktail",
+      "_firstPublishedAt": "2024-09-18T19:46:09+02:00",
+      "_publishedAt": "2024-11-04T12:40:14+01:00"
+    },
+    {
+      "id": "dPwEMs3iS8qTIStZebye2A",
+      "name": "🍷 Vino",
+      "slug": "wine",
+      "_firstPublishedAt": "2024-09-18T20:16:16+02:00",
+      "_publishedAt": "2024-11-04T12:32:39+01:00"
+    },
+    {
+      "id": "IkYxX0VVQqykHlacXLUbHw",
+      "name": "",
+      "slug": "golf",
+      "_firstPublishedAt": "2024-09-21T15:40:03+02:00",
+      "_publishedAt": "2024-10-28T15:54:01+01:00"
+    },
+    {
+      "id": "NT_YuJqkSn6-3cw2Z70Y5g",
+      "name": "",
+      "slug": "pool",
+      "_firstPublishedAt": "2024-09-21T15:12:25+02:00",
+      "_publishedAt": "2024-10-28T15:53:45+01:00"
+    },
+    {
+      "id": "EGkvtGEnQK2_OIVsEQna3g",
+      "name": "",
+      "slug": "in-house-dining",
+      "_firstPublishedAt": "2024-09-20T08:35:56+02:00",
+      "_publishedAt": "2024-10-28T15:53:35+01:00"
+    },
+    {
+      "id": "bJfRqGepRy6o17-Udwnu6w",
+      "name": "",
+      "slug": "sustainability",
+      "_firstPublishedAt": "2024-09-21T13:05:42+02:00",
+      "_publishedAt": "2024-09-21T13:35:38+02:00"
+    },
+    {
+      "id": "Sve-T-nVRMeg3-7Tu-te0g",
+      "name": "",
+      "slug": "action",
+      "_firstPublishedAt": "2024-09-21T13:16:05+02:00",
+      "_publishedAt": "2024-09-21T13:16:05+02:00"
+    },
+    {
+      "id": "Oe4VtAbrRg2g4SfrMYZIWg",
+      "name": "",
+      "slug": "aquapark",
+      "_firstPublishedAt": "2024-09-20T19:47:02+02:00",
+      "_publishedAt": "2024-09-21T13:13:37+02:00"
+    },
+    {
+      "id": "Ezp3lUL9R4qzZdmUXsjayQ",
+      "name": "",
+      "slug": "activity",
+      "_firstPublishedAt": "2024-09-20T20:27:46+02:00",
+      "_publishedAt": "2024-09-21T13:09:51+02:00"
+    },
+    {
+      "id": "V2rUXE99TbqyE9IeMhahNg",
+      "name": "",
+      "slug": "park",
+      "_firstPublishedAt": "2024-09-21T13:08:21+02:00",
+      "_publishedAt": "2024-09-21T13:08:21+02:00"
+    },
+    {
+      "id": "LRAytcskSCigooFaACm21A",
+      "name": "",
+      "slug": "finca",
+      "_firstPublishedAt": "2024-09-21T13:04:39+02:00",
+      "_publishedAt": "2024-09-21T13:04:39+02:00"
+    },
+    {
+      "id": "GWt6mvrxRhuH7ZGJg7mQzw",
+      "name": "",
+      "slug": "fish",
+      "_firstPublishedAt": "2024-09-21T10:06:15+02:00",
+      "_publishedAt": "2024-09-21T10:06:15+02:00"
+    },
+    {
+      "id": "JybdHiZNTNCyTrqrjS4N2A",
+      "name": "",
+      "slug": "seafood",
+      "_firstPublishedAt": "2024-09-21T10:06:02+02:00",
+      "_publishedAt": "2024-09-21T10:06:02+02:00"
+    },
+    {
+      "id": "RuSiOgYZQAOOmO67r4Z7vQ",
+      "name": "",
+      "slug": "yoga",
+      "_firstPublishedAt": "2024-09-21T01:13:02+02:00",
+      "_publishedAt": "2024-09-21T01:13:02+02:00"
+    },
+    {
+      "id": "E778Jd9HQpCSUO4Elag-KQ",
+      "name": "",
+      "slug": "wellness",
+      "_firstPublishedAt": "2024-09-20T19:42:24+02:00",
+      "_publishedAt": "2024-09-20T19:42:24+02:00"
+    },
+    {
+      "id": "OnBs9oXtRHqYvVgpbOCBfg",
+      "name": "",
+      "slug": "hiking",
+      "_firstPublishedAt": "2024-09-20T18:56:33+02:00",
+      "_publishedAt": "2024-09-20T18:56:33+02:00"
+    },
+    {
+      "id": "LtmH27f_QKa_nRBzmgvrJQ",
+      "name": "",
+      "slug": "mountain-bike",
+      "_firstPublishedAt": "2024-09-20T18:56:03+02:00",
+      "_publishedAt": "2024-09-20T18:56:03+02:00"
+    },
+    {
+      "id": "VwPe3KFkQCOWWmKfqStkUQ",
+      "name": "",
+      "slug": "korean-bbq",
+      "_firstPublishedAt": "2024-09-20T12:50:40+02:00",
+      "_publishedAt": "2024-09-20T18:53:49+02:00"
+    },
+    {
+      "id": "NZuvCfLlRqqZzdyEDlYtLA",
+      "name": "",
+      "slug": "surfing",
+      "_firstPublishedAt": "2024-09-20T16:29:55+02:00",
+      "_publishedAt": "2024-09-20T16:29:55+02:00"
+    },
+    {
+      "id": "FVT37X8ATC2N3uDn466VxQ",
+      "name": "",
+      "slug": "boutique",
+      "_firstPublishedAt": "2024-09-20T13:00:00+02:00",
+      "_publishedAt": "2024-09-20T13:00:00+02:00"
+    },
+    {
+      "id": "PBlncSqVSbyI237Tz_gwpg",
+      "name": "",
+      "slug": "breakfast",
+      "_firstPublishedAt": "2024-09-20T12:54:43+02:00",
+      "_publishedAt": "2024-09-20T12:54:43+02:00"
+    },
+    {
+      "id": "dyijMo_uQSK9BMRW2I8z3Q",
+      "name": "",
+      "slug": "luxury",
+      "_firstPublishedAt": "2024-09-20T12:36:24+02:00",
+      "_publishedAt": "2024-09-20T12:36:24+02:00"
+    },
+    {
+      "id": "IGLvxM-DRIC3-yzba3ASQQ",
+      "name": "",
+      "slug": "club",
+      "_firstPublishedAt": "2024-09-20T12:33:09+02:00",
+      "_publishedAt": "2024-09-20T12:33:09+02:00"
+    },
+    {
+      "id": "UufRotjITPqavpZYhHppkA",
+      "name": "",
+      "slug": "spa",
+      "_firstPublishedAt": "2024-09-20T08:34:15+02:00",
+      "_publishedAt": "2024-09-20T08:34:15+02:00"
+    },
+    {
+      "id": "GFyGlpG-QRyYLA3jIuvbyg",
+      "name": "",
+      "slug": "gym",
+      "_firstPublishedAt": "2024-09-20T08:33:39+02:00",
+      "_publishedAt": "2024-09-20T08:33:39+02:00"
+    },
+    {
+      "id": "FcQHpg3nQfW6GEF1eBF8mg",
+      "name": "",
+      "slug": "rooftop",
+      "_firstPublishedAt": "2024-09-20T08:31:36+02:00",
+      "_publishedAt": "2024-09-20T08:31:36+02:00"
+    },
+    {
+      "id": "cG6TCKUhScaMgGARlTRnFg",
+      "name": "",
+      "slug": "quiet",
+      "_firstPublishedAt": "2024-09-20T08:30:22+02:00",
+      "_publishedAt": "2024-09-20T08:30:22+02:00"
+    },
+    {
+      "id": "f6457qQ4QyCvMar-2v1iqw",
+      "name": "",
+      "slug": "burger",
+      "_firstPublishedAt": "2024-09-19T17:52:09+02:00",
+      "_publishedAt": "2024-09-19T17:52:09+02:00"
+    },
+    {
+      "id": "etxNkkIMTlugQxrTpQ_ADw",
+      "name": "",
+      "slug": "brunch",
+      "_firstPublishedAt": "2024-09-19T17:47:35+02:00",
+      "_publishedAt": "2024-09-19T17:47:35+02:00"
+    },
+    {
+      "id": "K2ckE8oxRkid00EQfaZALw",
+      "name": "",
+      "slug": "vegetarian",
+      "_firstPublishedAt": "2024-09-19T17:26:36+02:00",
+      "_publishedAt": "2024-09-19T17:26:36+02:00"
+    },
+    {
+      "id": "RbkobsRcSwKn6_QuKi6L7g",
+      "name": "",
+      "slug": "vegan",
+      "_firstPublishedAt": "2024-09-19T17:24:32+02:00",
+      "_publishedAt": "2024-09-19T17:24:32+02:00"
+    },
+    {
+      "id": "ftZiImywQX2eQBn4L6wd3g",
+      "name": "",
+      "slug": "thai",
+      "_firstPublishedAt": "2024-09-19T12:54:22+02:00",
+      "_publishedAt": "2024-09-19T12:54:22+02:00"
+    },
+    {
+      "id": "Ujb2DGTtSvi58QtE8WmZ3w",
+      "name": "",
+      "slug": "mediterranean",
+      "_firstPublishedAt": "2024-09-19T12:39:50+02:00",
+      "_publishedAt": "2024-09-19T12:39:50+02:00"
+    },
+    {
+      "id": "HrpeIezqR5CZVhBKy1V5Xg",
+      "name": "",
+      "slug": "diving",
+      "_firstPublishedAt": "2024-09-19T12:34:18+02:00",
+      "_publishedAt": "2024-09-19T12:34:18+02:00"
+    },
+    {
+      "id": "K2kHyYmkQRSKw_2fLR1Q9A",
+      "name": "",
+      "slug": "hummus",
+      "_firstPublishedAt": "2024-09-19T12:30:28+02:00",
+      "_publishedAt": "2024-09-19T12:30:28+02:00"
+    },
+    {
+      "id": "QOWO9obmRji73qEDTOGH1g",
+      "name": "",
+      "slug": "adults-only",
+      "_firstPublishedAt": "2024-09-19T11:49:27+02:00",
+      "_publishedAt": "2024-09-19T11:49:27+02:00"
+    },
+    {
+      "id": "WEFxkXwUQhWl_dWuK6YEQQ",
+      "name": "",
+      "slug": "beach",
+      "_firstPublishedAt": "2024-09-19T11:41:03+02:00",
+      "_publishedAt": "2024-09-19T11:41:03+02:00"
+    },
+    {
+      "id": "ROAJbE8WTi-kMnBylUZNqQ",
+      "name": "",
+      "slug": "peruvian",
+      "_firstPublishedAt": "2024-09-19T10:37:48+02:00",
+      "_publishedAt": "2024-09-19T10:37:48+02:00"
+    },
+    {
+      "id": "F-Iki5wuR5Cm88CS79XUSg",
+      "name": "",
+      "slug": "japanese",
+      "_firstPublishedAt": "2024-09-19T09:59:05+02:00",
+      "_publishedAt": "2024-09-19T09:59:05+02:00"
+    },
+    {
+      "id": "evHj5jdmSKij51hPJarNWg",
+      "name": "",
+      "slug": "sake",
+      "_firstPublishedAt": "2024-09-19T09:57:09+02:00",
+      "_publishedAt": "2024-09-19T09:57:09+02:00"
+    },
+    {
+      "id": "XfDoRkkdSJ-L6hoZJMBhSg",
+      "name": "",
+      "slug": "asian",
+      "_firstPublishedAt": "2024-09-19T09:54:47+02:00",
+      "_publishedAt": "2024-09-19T09:54:47+02:00"
+    },
+    {
+      "id": "MM3NMyB0Qz6AZ3kNpYN_uw",
+      "name": "",
+      "slug": "fusion",
+      "_firstPublishedAt": "2024-09-18T20:33:35+02:00",
+      "_publishedAt": "2024-09-18T20:33:35+02:00"
+    },
+    {
+      "id": "Uq71ghH1SGiqvyjqG6uu5w",
+      "name": "",
+      "slug": "grill",
+      "_firstPublishedAt": "2024-09-18T19:57:36+02:00",
+      "_publishedAt": "2024-09-18T20:13:09+02:00"
+    },
+    {
+      "id": "Uyyb2ElXQx-JuJn-YZSGBA",
+      "name": "",
+      "slug": "spanish",
+      "_firstPublishedAt": "2024-09-18T10:25:42+02:00",
+      "_publishedAt": "2024-09-18T10:25:42+02:00"
+    },
+    {
+      "id": "KXOQxIbeRdqIMkWIhScr7w",
+      "name": "",
+      "slug": "italian",
+      "_firstPublishedAt": "2024-09-18T10:24:59+02:00",
+      "_publishedAt": "2024-09-18T10:24:59+02:00"
+    },
+    {
+      "id": "AR6OHAndTGOmxuAFsiuoLg",
+      "name": "",
+      "slug": "delicatessen",
+      "_firstPublishedAt": "2024-09-17T20:27:42+02:00",
+      "_publishedAt": "2024-09-18T10:24:34+02:00"
+    },
+    {
+      "id": "N_IBgNzXRhqFLO9WYZGMRw",
+      "name": "",
+      "slug": "sushi",
+      "_firstPublishedAt": "2024-09-17T20:22:16+02:00",
+      "_publishedAt": "2024-09-18T10:23:48+02:00"
+    }
+  ]
+}

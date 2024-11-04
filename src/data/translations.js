@@ -54,5 +54,33 @@ module.exports = {
         nearby: "In der Nähe",
         veryclose: "Sehr nah",
         allowlocation: "Standort teilen"
+    },
+    es: {
+        index: {
+            welcome: "Bienvenido"
+        },
+        all: "Todo",
+        category: "Categoría",
+        categories: "Categorías",
+        allCategories: "Todas las categorías",
+        allsubcategories: "Subcategorías",
+        about: "Acerca de",
+        imprint: "Imprint",
+        thebest: "Lo mejor",
+        onmallorca: "proveedor en Mallorca",
+        noresultsfound: "No se encontraron resultados. Intenta ajustar tus filtros.",
+        resetfilter: "Restablecer todos los filtros",
+        sortingrelevance: "Relevancia",
+        sortingupdate: "Actualizado",
+        sortingrating: "Mejor valorado",
+        sortingnewest: "Más reciente",
+        sortingnearest: "Cerca",
+        searchplaceholder: "Busca lo que quieras",
+        prolisttitle: "Destacados:",
+        tiplisttitle: "Consejos:",
+        faraway: "Lejos",
+        nearby: "Cerca",
+        veryclose: "Muy cerca",
+        allowlocation: "Compartir ubicación"
     }
 };

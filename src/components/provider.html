@@ -1,4 +1,4 @@
-<a href="/{% if locale == 'de' %}{{locale}}/{% endif %}{{x.slug}}" class="bg-gray-200 flex flex-col gap-4 items-center justify-center overflow-hidden px-4 md:px-8 text-center shadow rounded-xl h-40 md:h-64 group relative bg-cover">
+<a href="/{% if locale !== 'en' %}{{locale}}/{% endif %}{{x.slug}}" class="bg-gray-200 flex flex-col gap-4 items-center justify-center overflow-hidden px-4 md:px-8 text-center shadow rounded-xl h-40 md:h-64 group relative bg-cover">
     <h2 class="text-lg/6 md:text-2xl 2xl:text-3xl text-white font-bold drop-shadow-provider line-clamp-2 z-10">{{x.name}}</h2>
     <div class="bg-black/50 text-white backdrop-blur-xl rounded-lg py-1 px-2 absolute top-1 left-1 text-[10px] md:text-sm z-10 font-medium shadow">{{x.mainCategory.name}}</div>
 

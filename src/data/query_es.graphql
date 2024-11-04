@@ -1,0 +1,55 @@
+{
+  allProviders(locale:es, first: 100) {
+    _publishedAt
+    _firstPublishedAt
+    id
+    name
+    description
+    address
+    mail
+    website
+    phone
+    googleMapsLink
+    slug
+    aiRating
+    proList
+    tipsList
+    photos {
+      responsiveImage {
+        src
+        alt
+      }
+    }
+    mainCategory {
+      name
+      slug
+    }
+    subCategories {
+      name
+      slug
+    }
+    location {
+      latitude
+      longitude
+    }
+    externalVideoLink {
+      thumbnailUrl
+      url
+    }
+    providerVideoLink
+  }
+  allMainCategories(locale:es, first: 100) {
+    id
+    name
+    slug
+    _firstPublishedAt
+    _publishedAt
+  }
+  allSubcategories(locale:es, first: 100) {
+    id
+    name
+    slug
+    _firstPublishedAt
+    _publishedAt
+  }
+}

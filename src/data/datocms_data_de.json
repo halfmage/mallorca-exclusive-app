@@ -1,7 +1,7 @@
 {
   "allProviders": [
     {
-      "_publishedAt": "2024-10-27T16:02:42+01:00",
+      "_publishedAt": "2024-11-04T12:43:26+01:00",
       "_firstPublishedAt": "2024-09-20T16:36:57+02:00",
       "id": "OOS7zIK1T6ipMrmCydtCsA",
       "name": "Port Calanova",
@@ -5767,79 +5767,93 @@
       "name": "🍽️ Essen",
       "slug": "restaurant",
       "_firstPublishedAt": "2024-09-18T10:16:56+02:00",
-      "_publishedAt": "2024-10-27T14:22:06+01:00"
+      "_publishedAt": "2024-11-04T12:29:41+01:00"
     },
     {
       "id": "X-tbEyT4TZm98LkzSawdXw",
       "name": "🍸 Bar",
       "slug": "bar",
       "_firstPublishedAt": "2024-10-24T11:07:23+02:00",
-      "_publishedAt": "2024-10-24T11:07:23+02:00"
+      "_publishedAt": "2024-11-04T12:29:24+01:00"
     },
     {
       "id": "AhcbURkMT1akCDMPJy1D9A",
       "name": "🏨 Hotel",
       "slug": "hotel",
       "_firstPublishedAt": "2024-09-18T10:15:41+02:00",
-      "_publishedAt": "2024-09-18T10:18:11+02:00"
+      "_publishedAt": "2024-11-04T12:29:13+01:00"
     },
     {
       "id": "E5sTr18jRLWGiJdgtZI0rg",
       "name": "🌴 Freizeit",
       "slug": "leisure",
       "_firstPublishedAt": "2024-09-18T10:17:11+02:00",
-      "_publishedAt": "2024-09-22T10:18:44+02:00"
+      "_publishedAt": "2024-11-04T12:28:57+01:00"
     }
   ],
   "allSubcategories": [
-    {
-      "id": "EGkvtGEnQK2_OIVsEQna3g",
-      "name": "🍽️ Essen",
-      "slug": "in-house-dining",
-      "_firstPublishedAt": "2024-09-20T08:35:56+02:00",
-      "_publishedAt": "2024-10-25T18:45:04+02:00"
-    },
-    {
-      "id": "NT_YuJqkSn6-3cw2Z70Y5g",
-      "name": "🏊‍♂️ Pool",
-      "slug": "pool",
-      "_firstPublishedAt": "2024-09-21T15:12:25+02:00",
-      "_publishedAt": "2024-09-22T09:29:54+02:00"
-    },
-    {
-      "id": "IkYxX0VVQqykHlacXLUbHw",
-      "name": "🏌️‍♂️ Golf",
-      "slug": "golf",
-      "_firstPublishedAt": "2024-09-21T15:40:03+02:00",
-      "_publishedAt": "2024-09-21T15:40:03+02:00"
-    },
     {
       "id": "AGMSd-8bTTKgR-KqrnTfTA",
       "name": "⛳️ Minigolf",
       "slug": "mini-golf",
       "_firstPublishedAt": "2024-09-21T15:39:43+02:00",
-      "_publishedAt": "2024-09-21T15:39:43+02:00"
+      "_publishedAt": "2024-11-04T12:41:49+01:00"
     },
     {
       "id": "F36WRYAaTkGdWM-sdlJ4NQ",
       "name": "🌮 Mexikanisch",
       "slug": "mexican",
       "_firstPublishedAt": "2024-09-21T14:53:02+02:00",
-      "_publishedAt": "2024-09-21T14:53:02+02:00"
+      "_publishedAt": "2024-11-04T12:41:31+01:00"
     },
     {
       "id": "QxbAdyBkSEGH-wyaN-JlkQ",
       "name": "🍲 Poke Bowls",
       "slug": "poke-bowls",
       "_firstPublishedAt": "2024-09-21T13:52:50+02:00",
-      "_publishedAt": "2024-09-21T13:52:50+02:00"
+      "_publishedAt": "2024-11-04T12:41:07+01:00"
     },
     {
       "id": "VNf1pD-CRf673RPUyC510A",
       "name": "💙 Palma Beach Partner",
       "slug": "palma-beach-partner",
       "_firstPublishedAt": "2024-09-21T13:51:11+02:00",
-      "_publishedAt": "2024-09-21T13:51:11+02:00"
+      "_publishedAt": "2024-11-04T12:40:39+01:00"
+    },
+    {
+      "id": "MPQ06773S9SwwdPySQ-uTA",
+      "name": "🍹 Cocktail",
+      "slug": "cocktail",
+      "_firstPublishedAt": "2024-09-18T19:46:09+02:00",
+      "_publishedAt": "2024-11-04T12:40:14+01:00"
+    },
+    {
+      "id": "dPwEMs3iS8qTIStZebye2A",
+      "name": "🍷 Wein",
+      "slug": "wine",
+      "_firstPublishedAt": "2024-09-18T20:16:16+02:00",
+      "_publishedAt": "2024-11-04T12:32:39+01:00"
+    },
+    {
+      "id": "IkYxX0VVQqykHlacXLUbHw",
+      "name": "🏌️‍♂️ Golf",
+      "slug": "golf",
+      "_firstPublishedAt": "2024-09-21T15:40:03+02:00",
+      "_publishedAt": "2024-10-28T15:54:01+01:00"
+    },
+    {
+      "id": "NT_YuJqkSn6-3cw2Z70Y5g",
+      "name": "🏊‍♂️ Pool",
+      "slug": "pool",
+      "_firstPublishedAt": "2024-09-21T15:12:25+02:00",
+      "_publishedAt": "2024-10-28T15:53:45+01:00"
+    },
+    {
+      "id": "EGkvtGEnQK2_OIVsEQna3g",
+      "name": "🍽️ Essen",
+      "slug": "in-house-dining",
+      "_firstPublishedAt": "2024-09-20T08:35:56+02:00",
+      "_publishedAt": "2024-10-28T15:53:35+01:00"
     },
     {
       "id": "bJfRqGepRy6o17-Udwnu6w",
@@ -6099,20 +6113,6 @@
       "slug": "fusion",
       "_firstPublishedAt": "2024-09-18T20:33:35+02:00",
       "_publishedAt": "2024-09-18T20:33:35+02:00"
-    },
-    {
-      "id": "dPwEMs3iS8qTIStZebye2A",
-      "name": "🍷 Wein",
-      "slug": "wine",
-      "_firstPublishedAt": "2024-09-18T20:16:16+02:00",
-      "_publishedAt": "2024-09-18T20:16:16+02:00"
-    },
-    {
-      "id": "MPQ06773S9SwwdPySQ-uTA",
-      "name": "🍹 Cocktail",
-      "slug": "cocktail",
-      "_firstPublishedAt": "2024-09-18T19:46:09+02:00",
-      "_publishedAt": "2024-09-18T20:13:23+02:00"
     },
     {
       "id": "Uq71ghH1SGiqvyjqG6uu5w",

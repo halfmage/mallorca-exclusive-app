@@ -1,5 +1,7 @@
 {% if locale === "de" %}
     {% set data = datocms_data_de %}
+{% elseif locale === "es" %}
+    {% set data = datocms_data_es %}
 {% else %}
     {% set data = datocms_data_en %}
 {% endif %}
@@ -15,7 +17,7 @@
     <div class="container px-4 flex flex-col md:flex-row gap-4 md:items-center justify-between mx-auto">
 
         <!-- Logo -->
-        <a href="/{% if locale == 'de' %}de/{%endif%}" class="hover:opacity-80 shrink-0">
+        <a href="/{% if locale !== 'en' %}{{locale}}/{%endif%}" class="hover:opacity-80 shrink-0">
             <img src="/images/logo.svg" alt="Logo" class="h-6 md:h-8">
         </a>
 
@@ -28,7 +30,7 @@
                 @mousedown.away="hideDropdown()"
             >
                 <template x-for="result in filteredProviders" :key="result.id">
-                    <a :href="'/' + result.slug" class="block p-2 hover:bg-amber-100 group">
+                    <a :href="'/{% if locale !== 'en' %}{{locale}}/{%endif%}' + result.slug" class="block p-2 hover:bg-amber-100 group">
                         <div class="flex items-center gap-4">
                             <!-- First provider image -->
                             <img :src="result.photos.length > 0 ? result.photos[0].responsiveImage.src : 'default-image.jpg'" alt="result.name" class="w-24 h-12 object-cover rounded-md shrink-0" />

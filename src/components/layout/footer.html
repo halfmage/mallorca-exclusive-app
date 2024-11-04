@@ -1,5 +1,7 @@
 {% if locale === "de" %}
     {% set data = datocms_data_de %}
+{% elseif locale === "es" %}
+    {% set data = datocms_data_es %}
 {% else %}
     {% set data = datocms_data_en %}
 {% endif %}
@@ -8,14 +10,14 @@
     <div class="container px-4 mx-auto flex flex-col gap-8 text-center justify-center">
 
         <div class="mx-auto">
-            <a href="/{% if locale == 'de' %}de/{%endif%}" class="hover:opacity-80 shrink-0">
+            <a href="/{% if locale !== 'en' %}{{locale}}/{% endif %}" class="hover:opacity-80 shrink-0">
                 <img src="/images/logo-white.svg" alt="Logo" class="h-6 md:h-8">
             </a>
         </div>
 
         <div>
             {% for x in data.allSubcategories %}
-            <a class="p-1 hover:bg-gray-800 rounded inline-block whitespace-nowrap text-xs md:text-sm 2xl:text-base" href="/{{x.slug}}">
+            <a class="p-1 hover:bg-gray-800 rounded inline-block whitespace-nowrap text-xs md:text-sm 2xl:text-base" href="/{% if locale !== 'en' %}{{locale}}/{% endif %}{{x.slug}}">
                 {{x.name}}
             </a>
             {% endfor %}
@@ -23,8 +25,8 @@
 
         <div>
             <span>MallorcaXclusive 2024</span> |
-            <a href="/{% if locale == 'de' %}de/{%endif%}about">{{translations[locale].about}}</a> |
-            <a href="/{% if locale == 'de' %}de/{%endif%}imprint">{{translations[locale].imprint}}</a>
+            <a href="/{% if locale !== 'en' %}{{locale}}/{% endif %}about">{{translations[locale].about}}</a> |
+            <a href="/{% if locale !== 'en' %}{{locale}}/{% endif %}imprint">{{translations[locale].imprint}}</a>
         </div>
     </div>
 </footer>
