@@ -1,7 +1,7 @@
 <!-- Filter by Main Category with Tabs -->
 <div class="flex gap-1 bg-gray-100 rounded-lg p-1 whitespace-nowrap">
     <!-- Reset Button for "All Categories" -->
-    <label class="cursor-pointer w-full text-center">
+    <label class="cursor-pointer w-full text-center hidden">
         <input type="radio" name="mainCategory" value="" x-model="selectedMainCategory" @change="filterProviders()" class="hidden" />
         <div :class="{
             'bg-white shadow': selectedMainCategory === '',

@@ -1,4 +1,4 @@
-<div class="absolute md:relative top-1 right-3 md:top-0 md:right-0">
+<div class="absolute md:relative top-2 right-3 md:top-0 md:right-0">
     <div x-data="{ open: false }" class="relative">
         <!-- Dropdown Button (Current Language) -->
         {%- for lgg in languages -%}
@@ -7,13 +7,12 @@
                     <div class="size-6 rounded-full overflow-hidden">
                         {{ lgg.icon | safe }}
                     </div>
-                    {{ lgg.label }}
                 </button>
             {%- endif -%}
         {%- endfor -%}
     
         <!-- Dropdown Menu -->
-        <div x-show="open" @click.away="open = false" class="absolute right-0 mt-2 bg-white shadow-lg rounded-lg py-1 w-32 z-10">
+        <div x-show="open" @click.away="open = false" class="absolute right-0 mt-2 bg-white shadow-lg border border-gray-200 rounded-lg py-1 w-32 z-10">
             {%- for lgg in languages -%}
                 {%- if lgg.locale != locale -%}
                     {# Set default URL to the homepage of the language #}
@@ -27,8 +26,8 @@
                     {%- endfor -%}
     
                     <!-- Language Option -->
-                    <a class="flex items-center gap-1 hover:bg-gray-100 px-4 py-2" href="{{ translatedUrl }}">
-                        <div class="size-6 rounded-full overflow-hidden">{{ lgg.icon | safe }}</div> {{ lgg.label }}
+                    <a class="flex items-center gap-2 hover:bg-gray-100 px-4 py-3" href="{{ translatedUrl }}">
+                        <div class="size-6 rounded-full overflow-hidden">{{ lgg.icon | safe }}</div> {{ lgg.labelExtended }}
                     </a>
                 {%- endif -%}
             {%- endfor -%}

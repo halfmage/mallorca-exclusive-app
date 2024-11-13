@@ -25,7 +25,11 @@ module.exports = {
         faraway: "Far away",
         nearby: "Nearby",
         veryclose: "Very close",
-        allowlocation: "Share location"
+        allowlocation: "Share location",
+        heroLabel: "From Mass Tourism to Exclusive Luxury Destination",
+        heroTitle: "Mallorca Faces a Paradigm Shift!",
+        heroText: "As stated by Prime Minister Prohens: A good approach for the island's future tourism model. Mallorca's entrepreneurs must develop innovative ideas to remain profitable and competitive in the long term – while ensuring a high quality of life."
+        
     },
     de: {
         index: {
@@ -53,7 +57,10 @@ module.exports = {
         faraway: "Weit entfernt",
         nearby: "In der Nähe",
         veryclose: "Sehr nah",
-        allowlocation: "Standort teilen"
+        allowlocation: "Standort teilen",
+        heroLabel: "Vom Massentourismus zum exklusivem Luxusspot",
+        heroTitle: "Mallorca steht vor einem Paradigmenwechsel!",
+        heroText: "So die Ministerpräsidentin Prohens: Ein guter Ansatz für das zukünftige Tourismusmodell auf der Insel. Mallorcas Unternehmer müssen innovative Ideen entwickeln, um langfristig profitabel und wettbewerbsfähig zu bleiben – und dabei eine hohe Lebensqualität gewährleisten.",
     },
     es: {
         index: {
@@ -81,6 +88,9 @@ module.exports = {
         faraway: "Lejos",
         nearby: "Cerca",
         veryclose: "Muy cerca",
-        allowlocation: "Compartir ubicación"
+        allowlocation: "Compartir ubicación",
+        heroLabel: "Del Turismo Masivo al Destino de Lujo Exclusivo",
+        heroTitle: "¡Mallorca se enfrenta a un cambio de paradigma!",
+        heroText: "Según la presidenta Prohens: Un buen enfoque para el modelo de turismo futuro en la isla. Los empresarios de Mallorca deben desarrollar ideas innovadoras para seguir siendo rentables y competitivos a largo plazo, mientras aseguran una alta calidad de vida."        
     }
 };

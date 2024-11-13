@@ -60,23 +60,28 @@
         }
       ],
       "mainCategory": {
+        "id": "E5sTr18jRLWGiJdgtZI0rg",
         "name": "🌴 Leisure",
         "slug": "leisure"
       },
       "subCategories": [
         {
+          "id": "NZuvCfLlRqqZzdyEDlYtLA",
           "name": "🏄‍♂️ Surfing",
           "slug": "surfing"
         },
         {
+          "id": "HrpeIezqR5CZVhBKy1V5Xg",
           "name": "🤿 Diving",
           "slug": "diving"
         },
         {
+          "id": "Sve-T-nVRMeg3-7Tu-te0g",
           "name": "💥 Action",
           "slug": "action"
         },
         {
+          "id": "EGkvtGEnQK2_OIVsEQna3g",
           "name": "🍽️ Dining",
           "slug": "in-house-dining"
         }
@@ -112,15 +117,18 @@
         }
       ],
       "mainCategory": {
+        "id": "PWIGNzMASXiORHFXvdlZqA",
         "name": "🍽️ Food",
         "slug": "restaurant"
       },
       "subCategories": [
         {
+          "id": "Ujb2DGTtSvi58QtE8WmZ3w",
           "name": "🌊 Mediterranean",
           "slug": "mediterranean"
         },
         {
+          "id": "RbkobsRcSwKn6_QuKi6L7g",
           "name": "🌱 Vegan",
           "slug": "vegan"
         }
@@ -186,11 +194,13 @@
         }
       ],
       "mainCategory": {
+        "id": "AhcbURkMT1akCDMPJy1D9A",
         "name": "🏨 Hotel",
         "slug": "hotel"
       },
       "subCategories": [
         {
+          "id": "NT_YuJqkSn6-3cw2Z70Y5g",
           "name": "🏊‍♂️ Pool",
           "slug": "pool"
         }
@@ -259,19 +269,23 @@
         }
       ],
       "mainCategory": {
+        "id": "AhcbURkMT1akCDMPJy1D9A",
         "name": "🏨 Hotel",
         "slug": "hotel"
       },
       "subCategories": [
         {
+          "id": "EGkvtGEnQK2_OIVsEQna3g",
           "name": "🍽️ Dining",
           "slug": "in-house-dining"
         },
         {
+          "id": "NT_YuJqkSn6-3cw2Z70Y5g",
           "name": "🏊‍♂️ Pool",
           "slug": "pool"
         },
         {
+          "id": "FcQHpg3nQfW6GEF1eBF8mg",
           "name": "🌇 Rooftop",
           "slug": "rooftop"
         }
@@ -337,15 +351,18 @@
         }
       ],
       "mainCategory": {
+        "id": "AhcbURkMT1akCDMPJy1D9A",
         "name": "🏨 Hotel",
         "slug": "hotel"
       },
       "subCategories": [
         {
+          "id": "dyijMo_uQSK9BMRW2I8z3Q",
           "name": "💎 Luxury",
           "slug": "luxury"
         },
         {
+          "id": "cG6TCKUhScaMgGARlTRnFg",
           "name": "🤫 Quiet",
           "slug": "quiet"
         }
@@ -411,19 +428,23 @@
         }
       ],
       "mainCategory": {
+        "id": "AhcbURkMT1akCDMPJy1D9A",
         "name": "🏨 Hotel",
         "slug": "hotel"
       },
       "subCategories": [
         {
+          "id": "EGkvtGEnQK2_OIVsEQna3g",
           "name": "🍽️ Dining",
           "slug": "in-house-dining"
         },
         {
+          "id": "NT_YuJqkSn6-3cw2Z70Y5g",
           "name": "🏊‍♂️ Pool",
           "slug": "pool"
         },
         {
+          "id": "dyijMo_uQSK9BMRW2I8z3Q",
           "name": "💎 Luxury",
           "slug": "luxury"
         }
@@ -489,23 +510,28 @@
         }
       ],
       "mainCategory": {
+        "id": "AhcbURkMT1akCDMPJy1D9A",
         "name": "🏨 Hotel",
         "slug": "hotel"
       },
       "subCategories": [
         {
+          "id": "dyijMo_uQSK9BMRW2I8z3Q",
           "name": "💎 Luxury",
           "slug": "luxury"
         },
         {
+          "id": "FcQHpg3nQfW6GEF1eBF8mg",
           "name": "🌇 Rooftop",
           "slug": "rooftop"
         },
         {
+          "id": "UufRotjITPqavpZYhHppkA",
           "name": "🪷 Spa",
           "slug": "spa"
         },
         {
+          "id": "E778Jd9HQpCSUO4Elag-KQ",
           "name": "🧘‍♀️ Wellness",
           "slug": "wellness"
         }
@@ -571,19 +597,23 @@
         }
       ],
       "mainCategory": {
+        "id": "AhcbURkMT1akCDMPJy1D9A",
         "name": "🏨 Hotel",
         "slug": "hotel"
       },
       "subCategories": [
         {
+          "id": "EGkvtGEnQK2_OIVsEQna3g",
           "name": "🍽️ Dining",
           "slug": "in-house-dining"
         },
         {
+          "id": "GFyGlpG-QRyYLA3jIuvbyg",
           "name": "🏋️‍♂️ Gym",
           "slug": "gym"
         },
         {
+          "id": "E778Jd9HQpCSUO4Elag-KQ",
           "name": "🧘‍♀️ Wellness",
           "slug": "wellness"
         }
@@ -640,11 +670,13 @@
         }
       ],
       "mainCategory": {
+        "id": "E5sTr18jRLWGiJdgtZI0rg",
         "name": "🌴 Leisure",
         "slug": "leisure"
       },
       "subCategories": [
         {
+          "id": "HrpeIezqR5CZVhBKy1V5Xg",
           "name": "🤿 Diving",
           "slug": "diving"
         }
@@ -701,11 +733,13 @@
         }
       ],
       "mainCategory": {
+        "id": "E5sTr18jRLWGiJdgtZI0rg",
         "name": "🌴 Leisure",
         "slug": "leisure"
       },
       "subCategories": [
         {
+          "id": "HrpeIezqR5CZVhBKy1V5Xg",
           "name": "🤿 Diving",
           "slug": "diving"
         }
@@ -771,11 +805,13 @@
         }
       ],
       "mainCategory": {
+        "id": "E5sTr18jRLWGiJdgtZI0rg",
         "name": "🌴 Leisure",
         "slug": "leisure"
       },
       "subCategories": [
         {
+          "id": "HrpeIezqR5CZVhBKy1V5Xg",
           "name": "🤿 Diving",
           "slug": "diving"
         }
@@ -832,11 +868,13 @@
         }
       ],
       "mainCategory": {
+        "id": "E5sTr18jRLWGiJdgtZI0rg",
         "name": "🌴 Leisure",
         "slug": "leisure"
       },
       "subCategories": [
         {
+          "id": "HrpeIezqR5CZVhBKy1V5Xg",
           "name": "🤿 Diving",
           "slug": "diving"
         }
@@ -884,19 +922,23 @@
         }
       ],
       "mainCategory": {
+        "id": "PWIGNzMASXiORHFXvdlZqA",
         "name": "🍽️ Food",
         "slug": "restaurant"
       },
       "subCategories": [
         {
+          "id": "ROAJbE8WTi-kMnBylUZNqQ",
           "name": "🌄 Peruvian",
           "slug": "peruvian"
         },
         {
+          "id": "dPwEMs3iS8qTIStZebye2A",
           "name": "🍷 Wine",
           "slug": "wine"
         },
         {
+          "id": "MM3NMyB0Qz6AZ3kNpYN_uw",
           "name": "🍱 Fusion",
           "slug": "fusion"
         }
@@ -956,23 +998,28 @@
         }
       ],
       "mainCategory": {
+        "id": "X-tbEyT4TZm98LkzSawdXw",
         "name": "🍸 Bar",
         "slug": "bar"
       },
       "subCategories": [
         {
+          "id": "EGkvtGEnQK2_OIVsEQna3g",
           "name": "🍽️ Dining",
           "slug": "in-house-dining"
         },
         {
+          "id": "FcQHpg3nQfW6GEF1eBF8mg",
           "name": "🌇 Rooftop",
           "slug": "rooftop"
         },
         {
+          "id": "IGLvxM-DRIC3-yzba3ASQQ",
           "name": "💃 Club",
           "slug": "club"
         },
         {
+          "id": "MPQ06773S9SwwdPySQ-uTA",
           "name": "🍹 Cocktail",
           "slug": "cocktail"
         }
@@ -1020,19 +1067,23 @@
         }
       ],
       "mainCategory": {
+        "id": "PWIGNzMASXiORHFXvdlZqA",
         "name": "🍽️ Food",
         "slug": "restaurant"
       },
       "subCategories": [
         {
+          "id": "F-Iki5wuR5Cm88CS79XUSg",
           "name": "🍥 Japanese",
           "slug": "japanese"
         },
         {
+          "id": "Uq71ghH1SGiqvyjqG6uu5w",
           "name": "🔥 Grill",
           "slug": "grill"
         },
         {
+          "id": "MPQ06773S9SwwdPySQ-uTA",
           "name": "🍹 Cocktail",
           "slug": "cocktail"
         }
@@ -1080,15 +1131,18 @@
         }
       ],
       "mainCategory": {
+        "id": "X-tbEyT4TZm98LkzSawdXw",
         "name": "🍸 Bar",
         "slug": "bar"
       },
       "subCategories": [
         {
+          "id": "Uq71ghH1SGiqvyjqG6uu5w",
           "name": "🔥 Grill",
           "slug": "grill"
         },
         {
+          "id": "dPwEMs3iS8qTIStZebye2A",
           "name": "🍷 Wine",
           "slug": "wine"
         }
@@ -1148,11 +1202,13 @@
         }
       ],
       "mainCategory": {
+        "id": "PWIGNzMASXiORHFXvdlZqA",
         "name": "🍽️ Food",
         "slug": "restaurant"
       },
       "subCategories": [
         {
+          "id": "ftZiImywQX2eQBn4L6wd3g",
           "name": "🌴 Thai",
           "slug": "thai"
         }
@@ -1200,27 +1256,33 @@
         }
       ],
       "mainCategory": {
+        "id": "AhcbURkMT1akCDMPJy1D9A",
         "name": "🏨 Hotel",
         "slug": "hotel"
       },
       "subCategories": [
         {
+          "id": "cG6TCKUhScaMgGARlTRnFg",
           "name": "🤫 Quiet",
           "slug": "quiet"
         },
         {
+          "id": "FcQHpg3nQfW6GEF1eBF8mg",
           "name": "🌇 Rooftop",
           "slug": "rooftop"
         },
         {
+          "id": "GFyGlpG-QRyYLA3jIuvbyg",
           "name": "🏋️‍♂️ Gym",
           "slug": "gym"
         },
         {
+          "id": "UufRotjITPqavpZYhHppkA",
           "name": "🪷 Spa",
           "slug": "spa"
         },
         {
+          "id": "EGkvtGEnQK2_OIVsEQna3g",
           "name": "🍽️ Dining",
           "slug": "in-house-dining"
         }
@@ -1280,11 +1342,13 @@
         }
       ],
       "mainCategory": {
+        "id": "PWIGNzMASXiORHFXvdlZqA",
         "name": "🍽️ Food",
         "slug": "restaurant"
       },
       "subCategories": [
         {
+          "id": "K2kHyYmkQRSKw_2fLR1Q9A",
           "name": "🥙 Hummus",
           "slug": "hummus"
         }
@@ -1344,15 +1408,18 @@
         }
       ],
       "mainCategory": {
+        "id": "AhcbURkMT1akCDMPJy1D9A",
         "name": "🏨 Hotel",
         "slug": "hotel"
       },
       "subCategories": [
         {
+          "id": "UufRotjITPqavpZYhHppkA",
           "name": "🪷 Spa",
           "slug": "spa"
         },
         {
+          "id": "PBlncSqVSbyI237Tz_gwpg",
           "name": "☕ Breakfast",
           "slug": "breakfast"
         }
@@ -1412,15 +1479,18 @@
         }
       ],
       "mainCategory": {
+        "id": "E5sTr18jRLWGiJdgtZI0rg",
         "name": "🌴 Leisure",
         "slug": "leisure"
       },
       "subCategories": [
         {
+          "id": "Ezp3lUL9R4qzZdmUXsjayQ",
           "name": "🏃‍♀️ Activity",
           "slug": "activity"
         },
         {
+          "id": "Sve-T-nVRMeg3-7Tu-te0g",
           "name": "💥 Action",
           "slug": "action"
         }
@@ -1477,35 +1547,43 @@
         }
       ],
       "mainCategory": {
+        "id": "PWIGNzMASXiORHFXvdlZqA",
         "name": "🍽️ Food",
         "slug": "restaurant"
       },
       "subCategories": [
         {
+          "id": "VNf1pD-CRf673RPUyC510A",
           "name": "💙 Palma Beach Partner",
           "slug": "palma-beach-partner"
         },
         {
+          "id": "QxbAdyBkSEGH-wyaN-JlkQ",
           "name": "🍲 Poke Bowls",
           "slug": "poke-bowls"
         },
         {
+          "id": "f6457qQ4QyCvMar-2v1iqw",
           "name": "🍔 Burger",
           "slug": "burger"
         },
         {
+          "id": "JybdHiZNTNCyTrqrjS4N2A",
           "name": "🦞 Seafood",
           "slug": "seafood"
         },
         {
+          "id": "GWt6mvrxRhuH7ZGJg7mQzw",
           "name": "🐟 Fish",
           "slug": "fish"
         },
         {
+          "id": "K2ckE8oxRkid00EQfaZALw",
           "name": "🍃 Vegetarian",
           "slug": "vegetarian"
         },
         {
+          "id": "MPQ06773S9SwwdPySQ-uTA",
           "name": "🍹 Cocktail",
           "slug": "cocktail"
         }
@@ -1534,6 +1612,7 @@
       "tipsList": "- Book spa sessions in advance for exclusive use\n- Ideal for a romantic getaway with its intimate setting\n- Explore Palma’s Old Town on foot from the hotel",
       "photos": [],
       "mainCategory": {
+        "id": "AhcbURkMT1akCDMPJy1D9A",
         "name": "🏨 Hotel",
         "slug": "hotel"
       },
@@ -1593,19 +1672,23 @@
         }
       ],
       "mainCategory": {
+        "id": "PWIGNzMASXiORHFXvdlZqA",
         "name": "🍽️ Food",
         "slug": "restaurant"
       },
       "subCategories": [
         {
+          "id": "ftZiImywQX2eQBn4L6wd3g",
           "name": "🌴 Thai",
           "slug": "thai"
         },
         {
+          "id": "XfDoRkkdSJ-L6hoZJMBhSg",
           "name": "🥢 Asian",
           "slug": "asian"
         },
         {
+          "id": "MPQ06773S9SwwdPySQ-uTA",
           "name": "🍹 Cocktail",
           "slug": "cocktail"
         }
@@ -1665,15 +1748,18 @@
         }
       ],
       "mainCategory": {
+        "id": "PWIGNzMASXiORHFXvdlZqA",
         "name": "🍽️ Food",
         "slug": "restaurant"
       },
       "subCategories": [
         {
+          "id": "XfDoRkkdSJ-L6hoZJMBhSg",
           "name": "🥢 Asian",
           "slug": "asian"
         },
         {
+          "id": "VwPe3KFkQCOWWmKfqStkUQ",
           "name": "🥓 Korean BBQ",
           "slug": "korean-bbq"
         }
@@ -1702,6 +1788,7 @@
       "tipsList": "- Ideal for couples and those seeking a secluded luxury experience\n- Try the rooftop bar for cocktails with incredible sunset views\n- Book a suite with a private terrace for the ultimate romantic retreat",
       "photos": [],
       "mainCategory": {
+        "id": "AhcbURkMT1akCDMPJy1D9A",
         "name": "🏨 Hotel",
         "slug": "hotel"
       },
@@ -1761,15 +1848,18 @@
         }
       ],
       "mainCategory": {
+        "id": "AhcbURkMT1akCDMPJy1D9A",
         "name": "🏨 Hotel",
         "slug": "hotel"
       },
       "subCategories": [
         {
+          "id": "PBlncSqVSbyI237Tz_gwpg",
           "name": "☕ Breakfast",
           "slug": "breakfast"
         },
         {
+          "id": "FVT37X8ATC2N3uDn466VxQ",
           "name": "🛋️ Boutique",
           "slug": "boutique"
         }
@@ -1798,6 +1888,7 @@
       "tipsList": "- Book a table at Es Castell for dinner with incredible views\n- Ideal for adults seeking a quiet and luxurious retreat\n- Enjoy the nearby golf courses and relaxing spa treatments",
       "photos": [],
       "mainCategory": {
+        "id": "AhcbURkMT1akCDMPJy1D9A",
         "name": "🏨 Hotel",
         "slug": "hotel"
       },
@@ -1826,6 +1917,7 @@
       "tipsList": "- Perfect for those looking for a calm beach getaway near Palma\n- Consider renting a bike to explore the local surroundings\n- Great for families or couples wanting direct beach access and a relaxing atmosphere",
       "photos": [],
       "mainCategory": {
+        "id": "AhcbURkMT1akCDMPJy1D9A",
         "name": "🏨 Hotel",
         "slug": "hotel"
       },
@@ -1854,6 +1946,7 @@
       "tipsList": "- Ideal for those seeking a modern yet historically rich stay in Palma\n- Be sure to book a table at the on-site restaurant, Xalest\n- Visit the rooftop pool for a relaxing afternoon with stunning city views",
       "photos": [],
       "mainCategory": {
+        "id": "AhcbURkMT1akCDMPJy1D9A",
         "name": "🏨 Hotel",
         "slug": "hotel"
       },
@@ -1882,6 +1975,7 @@
       "tipsList": "- Book a room with a superior view for added comfort\n- Ideal for travelers looking for a mix of relaxation and city exploration\n- Parking is available but comes with an additional fee, so plan accordingly",
       "photos": [],
       "mainCategory": {
+        "id": "AhcbURkMT1akCDMPJy1D9A",
         "name": "🏨 Hotel",
         "slug": "hotel"
       },
@@ -1910,6 +2004,7 @@
       "tipsList": "- Book a table at Marc Fosh in advance to enjoy its world-class cuisine\n- Ideal for couples seeking a luxurious, quiet retreat in central Palma\n- Visit the rooftop pool for a relaxing experience with stunning city views",
       "photos": [],
       "mainCategory": {
+        "id": "AhcbURkMT1akCDMPJy1D9A",
         "name": "🏨 Hotel",
         "slug": "hotel"
       },
@@ -1938,6 +2033,7 @@
       "tipsList": "- Ideal for couples looking for a luxurious, adult-only experience\n- Visit the rooftop pool for beautiful views and relaxation\n- Located near Palma Cathedral and other cultural landmarks",
       "photos": [],
       "mainCategory": {
+        "id": "AhcbURkMT1akCDMPJy1D9A",
         "name": "🏨 Hotel",
         "slug": "hotel"
       },
@@ -1966,6 +2062,7 @@
       "tipsList": "- Enjoy a sunset drink at the rooftop bar with views of the bay\n- The spa and rooftop pool are perfect for relaxation\n- Try the Quadrat restaurant for a gourmet dining experience",
       "photos": [],
       "mainCategory": {
+        "id": "AhcbURkMT1akCDMPJy1D9A",
         "name": "🏨 Hotel",
         "slug": "hotel"
       },
@@ -1994,6 +2091,7 @@
       "tipsList": "- Try the rooftop pool for stunning city views and relaxation\n- Ideal for romantic getaways or a luxury city break\n- Make time to enjoy the wellness area with its indoor pool and hammam",
       "photos": [],
       "mainCategory": {
+        "id": "AhcbURkMT1akCDMPJy1D9A",
         "name": "🏨 Hotel",
         "slug": "hotel"
       },
@@ -2022,11 +2120,13 @@
       "tipsList": "- Book in advance during peak seasons for a spot in popular dives\n- Try the wreck dives for an exciting underwater adventure\n- Ideal for beginners looking for thorough, patient instruction",
       "photos": [],
       "mainCategory": {
+        "id": "E5sTr18jRLWGiJdgtZI0rg",
         "name": "🌴 Leisure",
         "slug": "leisure"
       },
       "subCategories": [
         {
+          "id": "HrpeIezqR5CZVhBKy1V5Xg",
           "name": "🤿 Diving",
           "slug": "diving"
         }
@@ -2055,11 +2155,13 @@
       "tipsList": "- Book in advance, especially during peak season\n- Great for beginners; try a guided paddleboard or kayak tour\n- Ideal for combining beach relaxation with an active water sports experience",
       "photos": [],
       "mainCategory": {
+        "id": "E5sTr18jRLWGiJdgtZI0rg",
         "name": "🌴 Leisure",
         "slug": "leisure"
       },
       "subCategories": [
         {
+          "id": "NZuvCfLlRqqZzdyEDlYtLA",
           "name": "🏄‍♂️ Surfing",
           "slug": "surfing"
         }
@@ -2088,11 +2190,13 @@
       "tipsList": "- Try the tagliatelle with ragu or spinach ricotta ravioli\n- Limited seating; booking ahead is recommended\n- Perfect for pasta lovers seeking a true Italian experience",
       "photos": [],
       "mainCategory": {
+        "id": "PWIGNzMASXiORHFXvdlZqA",
         "name": "🍽️ Food",
         "slug": "restaurant"
       },
       "subCategories": [
         {
+          "id": "KXOQxIbeRdqIMkWIhScr7w",
           "name": "🍝 Italian",
           "slug": "italian"
         }
@@ -2140,11 +2244,13 @@
         }
       ],
       "mainCategory": {
+        "id": "PWIGNzMASXiORHFXvdlZqA",
         "name": "🍽️ Food",
         "slug": "restaurant"
       },
       "subCategories": [
         {
+          "id": "Ujb2DGTtSvi58QtE8WmZ3w",
           "name": "🌊 Mediterranean",
           "slug": "mediterranean"
         }
@@ -2192,11 +2298,13 @@
         }
       ],
       "mainCategory": {
+        "id": "PWIGNzMASXiORHFXvdlZqA",
         "name": "🍽️ Food",
         "slug": "restaurant"
       },
       "subCategories": [
         {
+          "id": "Ujb2DGTtSvi58QtE8WmZ3w",
           "name": "🌊 Mediterranean",
           "slug": "mediterranean"
         }
@@ -2225,11 +2333,13 @@
       "tipsList": "- Try the T-bone steak or Wagyu carpaccio for a standout meal\n- Ideal for meat lovers; limited vegetarian options\n- Perfect for a relaxed yet high-quality dining experience",
       "photos": [],
       "mainCategory": {
+        "id": "PWIGNzMASXiORHFXvdlZqA",
         "name": "🍽️ Food",
         "slug": "restaurant"
       },
       "subCategories": [
         {
+          "id": "Uq71ghH1SGiqvyjqG6uu5w",
           "name": "🔥 Grill",
           "slug": "grill"
         }
@@ -2258,15 +2368,18 @@
       "tipsList": "- Try the prime steaks or grilled seafood for a standout experience\n- Ideal for a special occasion or an elegant dining experience\n- Prices are on the higher side, but worth it for the quality and ambiance",
       "photos": [],
       "mainCategory": {
+        "id": "PWIGNzMASXiORHFXvdlZqA",
         "name": "🍽️ Food",
         "slug": "restaurant"
       },
       "subCategories": [
         {
+          "id": "Uq71ghH1SGiqvyjqG6uu5w",
           "name": "🔥 Grill",
           "slug": "grill"
         },
         {
+          "id": "Ujb2DGTtSvi58QtE8WmZ3w",
           "name": "🌊 Mediterranean",
           "slug": "mediterranean"
         }
@@ -2295,15 +2408,18 @@
       "tipsList": "- Try the suckling lamb chops for an authentic experience\n- Visit during spring for a stunning floral landscape\n- Ideal for those seeking a mix of history and quality Mallorcan cuisine\n",
       "photos": [],
       "mainCategory": {
+        "id": "PWIGNzMASXiORHFXvdlZqA",
         "name": "🍽️ Food",
         "slug": "restaurant"
       },
       "subCategories": [
         {
+          "id": "K2ckE8oxRkid00EQfaZALw",
           "name": "🍃 Vegetarian",
           "slug": "vegetarian"
         },
         {
+          "id": "Uq71ghH1SGiqvyjqG6uu5w",
           "name": "🔥 Grill",
           "slug": "grill"
         }
@@ -2332,15 +2448,18 @@
       "tipsList": "- Try the lamb chops or traditional paella for a standout meal\n- Reserve in advance, especially during peak tourist season\n- Ideal for a quiet, authentic dining experience away from busy tourist spots",
       "photos": [],
       "mainCategory": {
+        "id": "PWIGNzMASXiORHFXvdlZqA",
         "name": "🍽️ Food",
         "slug": "restaurant"
       },
       "subCategories": [
         {
+          "id": "Ujb2DGTtSvi58QtE8WmZ3w",
           "name": "🌊 Mediterranean",
           "slug": "mediterranean"
         },
         {
+          "id": "f6457qQ4QyCvMar-2v1iqw",
           "name": "🍔 Burger",
           "slug": "burger"
         }
@@ -2369,15 +2488,18 @@
       "tipsList": "- Try the churrasco for an authentic Galician experience\n- No parking available, so plan to walk around Santa Catalina\n- Great for both locals and tourists seeking traditional Spanish flavors",
       "photos": [],
       "mainCategory": {
+        "id": "PWIGNzMASXiORHFXvdlZqA",
         "name": "🍽️ Food",
         "slug": "restaurant"
       },
       "subCategories": [
         {
+          "id": "Ujb2DGTtSvi58QtE8WmZ3w",
           "name": "🌊 Mediterranean",
           "slug": "mediterranean"
         },
         {
+          "id": "Uq71ghH1SGiqvyjqG6uu5w",
           "name": "🔥 Grill",
           "slug": "grill"
         }
@@ -2406,11 +2528,13 @@
       "tipsList": "- Try the fresh salmon toast or Mango Bowl for a standout meal\n- Expect slightly elevated prices due to the trendy location\n- Great spot for both brunch lovers and social media enthusiasts",
       "photos": [],
       "mainCategory": {
+        "id": "PWIGNzMASXiORHFXvdlZqA",
         "name": "🍽️ Food",
         "slug": "restaurant"
       },
       "subCategories": [
         {
+          "id": "etxNkkIMTlugQxrTpQ_ADw",
           "name": "🍳 Brunch",
           "slug": "brunch"
         }
@@ -2439,15 +2563,18 @@
       "tipsList": "- Try the beetroot gazpacho and the banoffee pie for a standout meal\n- Make a reservation in advance due to its popularity\n- The lunch menu offers great value, with multi-course options",
       "photos": [],
       "mainCategory": {
+        "id": "PWIGNzMASXiORHFXvdlZqA",
         "name": "🍽️ Food",
         "slug": "restaurant"
       },
       "subCategories": [
         {
+          "id": "RbkobsRcSwKn6_QuKi6L7g",
           "name": "🌱 Vegan",
           "slug": "vegan"
         },
         {
+          "id": "K2ckE8oxRkid00EQfaZALw",
           "name": "🍃 Vegetarian",
           "slug": "vegetarian"
         }
@@ -2476,19 +2603,23 @@
       "tipsList": "- Try the cheese plates and tapas for a true Mediterranean experience\n- Reserve a table ahead, as it’s popular with locals and tourists\n- Ideal for wine lovers; ask for pairing recommendations",
       "photos": [],
       "mainCategory": {
+        "id": "PWIGNzMASXiORHFXvdlZqA",
         "name": "🍽️ Food",
         "slug": "restaurant"
       },
       "subCategories": [
         {
+          "id": "K2ckE8oxRkid00EQfaZALw",
           "name": "🍃 Vegetarian",
           "slug": "vegetarian"
         },
         {
+          "id": "RbkobsRcSwKn6_QuKi6L7g",
           "name": "🌱 Vegan",
           "slug": "vegan"
         },
         {
+          "id": "Ujb2DGTtSvi58QtE8WmZ3w",
           "name": "🌊 Mediterranean",
           "slug": "mediterranean"
         }
@@ -2517,15 +2648,18 @@
       "tipsList": "- Try the beetroot risotto and almond panna cotta\n- Be prepared for smaller portions, but exceptional quality\n- Visit the shop for organic, plastic-free products after your meal",
       "photos": [],
       "mainCategory": {
+        "id": "PWIGNzMASXiORHFXvdlZqA",
         "name": "🍽️ Food",
         "slug": "restaurant"
       },
       "subCategories": [
         {
+          "id": "K2ckE8oxRkid00EQfaZALw",
           "name": "🍃 Vegetarian",
           "slug": "vegetarian"
         },
         {
+          "id": "RbkobsRcSwKn6_QuKi6L7g",
           "name": "🌱 Vegan",
           "slug": "vegan"
         }
@@ -2554,15 +2688,18 @@
       "tipsList": "- Try the tasting menu for a more elaborate dining experience\n- Book ahead, as the restaurant is popular\n- Don’t miss the desserts, especially the blueberry sponge cake",
       "photos": [],
       "mainCategory": {
+        "id": "PWIGNzMASXiORHFXvdlZqA",
         "name": "🍽️ Food",
         "slug": "restaurant"
       },
       "subCategories": [
         {
+          "id": "K2ckE8oxRkid00EQfaZALw",
           "name": "🍃 Vegetarian",
           "slug": "vegetarian"
         },
         {
+          "id": "RbkobsRcSwKn6_QuKi6L7g",
           "name": "🌱 Vegan",
           "slug": "vegan"
         }
@@ -2591,11 +2728,13 @@
       "tipsList": "- Try the duck salad and ceviche for a standout experience\n- Reservations recommended, especially during peak times\n- Enjoy outdoor seating for a more vibrant street vibe",
       "photos": [],
       "mainCategory": {
+        "id": "PWIGNzMASXiORHFXvdlZqA",
         "name": "🍽️ Food",
         "slug": "restaurant"
       },
       "subCategories": [
         {
+          "id": "Ujb2DGTtSvi58QtE8WmZ3w",
           "name": "🌊 Mediterranean",
           "slug": "mediterranean"
         }
@@ -2655,23 +2794,28 @@
         }
       ],
       "mainCategory": {
+        "id": "AhcbURkMT1akCDMPJy1D9A",
         "name": "🏨 Hotel",
         "slug": "hotel"
       },
       "subCategories": [
         {
+          "id": "QOWO9obmRji73qEDTOGH1g",
           "name": "🚫 Adults only",
           "slug": "adults-only"
         },
         {
+          "id": "dyijMo_uQSK9BMRW2I8z3Q",
           "name": "💎 Luxury",
           "slug": "luxury"
         },
         {
+          "id": "FcQHpg3nQfW6GEF1eBF8mg",
           "name": "🌇 Rooftop",
           "slug": "rooftop"
         },
         {
+          "id": "UufRotjITPqavpZYhHppkA",
           "name": "🪷 Spa",
           "slug": "spa"
         }
@@ -2731,19 +2875,23 @@
         }
       ],
       "mainCategory": {
+        "id": "AhcbURkMT1akCDMPJy1D9A",
         "name": "🏨 Hotel",
         "slug": "hotel"
       },
       "subCategories": [
         {
+          "id": "dyijMo_uQSK9BMRW2I8z3Q",
           "name": "💎 Luxury",
           "slug": "luxury"
         },
         {
+          "id": "UufRotjITPqavpZYhHppkA",
           "name": "🪷 Spa",
           "slug": "spa"
         },
         {
+          "id": "QOWO9obmRji73qEDTOGH1g",
           "name": "🚫 Adults only",
           "slug": "adults-only"
         }
@@ -2803,19 +2951,23 @@
         }
       ],
       "mainCategory": {
+        "id": "AhcbURkMT1akCDMPJy1D9A",
         "name": "🏨 Hotel",
         "slug": "hotel"
       },
       "subCategories": [
         {
+          "id": "dyijMo_uQSK9BMRW2I8z3Q",
           "name": "💎 Luxury",
           "slug": "luxury"
         },
         {
+          "id": "dPwEMs3iS8qTIStZebye2A",
           "name": "🍷 Wine",
           "slug": "wine"
         },
         {
+          "id": "GFyGlpG-QRyYLA3jIuvbyg",
           "name": "🏋️‍♂️ Gym",
           "slug": "gym"
         }
@@ -2844,11 +2996,13 @@
       "tipsList": "- Book early for private room availability\n- Bring a beach towel as only shower towels are provided\n- Take advantage of the yoga and fitness sessions to boost your surf skills",
       "photos": [],
       "mainCategory": {
+        "id": "E5sTr18jRLWGiJdgtZI0rg",
         "name": "🌴 Leisure",
         "slug": "leisure"
       },
       "subCategories": [
         {
+          "id": "NZuvCfLlRqqZzdyEDlYtLA",
           "name": "🏄‍♂️ Surfing",
           "slug": "surfing"
         }
@@ -2877,11 +3031,13 @@
       "tipsList": "- Book in advance, especially during peak season.\n- Ideal for families and groups looking for a private wakeboarding experience.\n- Try the advanced obstacles if you’re an experienced rider.",
       "photos": [],
       "mainCategory": {
+        "id": "E5sTr18jRLWGiJdgtZI0rg",
         "name": "🌴 Leisure",
         "slug": "leisure"
       },
       "subCategories": [
         {
+          "id": "NZuvCfLlRqqZzdyEDlYtLA",
           "name": "🏄‍♂️ Surfing",
           "slug": "surfing"
         }
@@ -2941,19 +3097,23 @@
         }
       ],
       "mainCategory": {
+        "id": "E5sTr18jRLWGiJdgtZI0rg",
         "name": "🌴 Leisure",
         "slug": "leisure"
       },
       "subCategories": [
         {
+          "id": "NZuvCfLlRqqZzdyEDlYtLA",
           "name": "🏄‍♂️ Surfing",
           "slug": "surfing"
         },
         {
+          "id": "LtmH27f_QKa_nRBzmgvrJQ",
           "name": "🚵 Mountain Bike",
           "slug": "mountain-bike"
         },
         {
+          "id": "OnBs9oXtRHqYvVgpbOCBfg",
           "name": "🥾 Hiking",
           "slug": "hiking"
         }
@@ -2982,11 +3142,13 @@
       "tipsList": "- Arrive early to avoid long lines.\n- Ideal for families and groups with children.\n- Check for discounted tickets online before visiting.",
       "photos": [],
       "mainCategory": {
+        "id": "E5sTr18jRLWGiJdgtZI0rg",
         "name": "🌴 Leisure",
         "slug": "leisure"
       },
       "subCategories": [
         {
+          "id": "Oe4VtAbrRg2g4SfrMYZIWg",
           "name": "🛝 Aquapark",
           "slug": "aquapark"
         }
@@ -3015,11 +3177,13 @@
       "tipsList": "- Book in advance during high season, as it can get busy.\n- Wear comfortable, sporty clothes and closed-toe shoes.\n- Great for family outings, team-building events, or birthday parties.",
       "photos": [],
       "mainCategory": {
+        "id": "E5sTr18jRLWGiJdgtZI0rg",
         "name": "🌴 Leisure",
         "slug": "leisure"
       },
       "subCategories": [
         {
+          "id": "Ezp3lUL9R4qzZdmUXsjayQ",
           "name": "🏃‍♀️ Activity",
           "slug": "activity"
         }
@@ -3048,11 +3212,13 @@
       "tipsList": "- Book ahead, especially for groups of 10 or more.\n- Great for combining with a beach day in Peguera.\n- Wear comfortable clothing and be ready for fun!",
       "photos": [],
       "mainCategory": {
+        "id": "E5sTr18jRLWGiJdgtZI0rg",
         "name": "🌴 Leisure",
         "slug": "leisure"
       },
       "subCategories": [
         {
+          "id": "Ezp3lUL9R4qzZdmUXsjayQ",
           "name": "🏃‍♀️ Activity",
           "slug": "activity"
         }
@@ -3112,23 +3278,28 @@
         }
       ],
       "mainCategory": {
+        "id": "PWIGNzMASXiORHFXvdlZqA",
         "name": "🍽️ Food",
         "slug": "restaurant"
       },
       "subCategories": [
         {
+          "id": "Uyyb2ElXQx-JuJn-YZSGBA",
           "name": "🥘 Spanish",
           "slug": "spanish"
         },
         {
+          "id": "Ujb2DGTtSvi58QtE8WmZ3w",
           "name": "🌊 Mediterranean",
           "slug": "mediterranean"
         },
         {
+          "id": "JybdHiZNTNCyTrqrjS4N2A",
           "name": "🦞 Seafood",
           "slug": "seafood"
         },
         {
+          "id": "GWt6mvrxRhuH7ZGJg7mQzw",
           "name": "🐟 Fish",
           "slug": "fish"
         }
@@ -3188,27 +3359,33 @@
         }
       ],
       "mainCategory": {
+        "id": "PWIGNzMASXiORHFXvdlZqA",
         "name": "🍽️ Food",
         "slug": "restaurant"
       },
       "subCategories": [
         {
+          "id": "Uq71ghH1SGiqvyjqG6uu5w",
           "name": "🔥 Grill",
           "slug": "grill"
         },
         {
+          "id": "Ujb2DGTtSvi58QtE8WmZ3w",
           "name": "🌊 Mediterranean",
           "slug": "mediterranean"
         },
         {
+          "id": "dPwEMs3iS8qTIStZebye2A",
           "name": "🍷 Wine",
           "slug": "wine"
         },
         {
+          "id": "GWt6mvrxRhuH7ZGJg7mQzw",
           "name": "🐟 Fish",
           "slug": "fish"
         },
         {
+          "id": "JybdHiZNTNCyTrqrjS4N2A",
           "name": "🦞 Seafood",
           "slug": "seafood"
         }
@@ -3268,19 +3445,23 @@
         }
       ],
       "mainCategory": {
+        "id": "PWIGNzMASXiORHFXvdlZqA",
         "name": "🍽️ Food",
         "slug": "restaurant"
       },
       "subCategories": [
         {
+          "id": "Ujb2DGTtSvi58QtE8WmZ3w",
           "name": "🌊 Mediterranean",
           "slug": "mediterranean"
         },
         {
+          "id": "GWt6mvrxRhuH7ZGJg7mQzw",
           "name": "🐟 Fish",
           "slug": "fish"
         },
         {
+          "id": "JybdHiZNTNCyTrqrjS4N2A",
           "name": "🦞 Seafood",
           "slug": "seafood"
         }
@@ -3340,15 +3521,18 @@
         }
       ],
       "mainCategory": {
+        "id": "PWIGNzMASXiORHFXvdlZqA",
         "name": "🍽️ Food",
         "slug": "restaurant"
       },
       "subCategories": [
         {
+          "id": "f6457qQ4QyCvMar-2v1iqw",
           "name": "🍔 Burger",
           "slug": "burger"
         },
         {
+          "id": "Uq71ghH1SGiqvyjqG6uu5w",
           "name": "🔥 Grill",
           "slug": "grill"
         }
@@ -3408,27 +3592,33 @@
         }
       ],
       "mainCategory": {
+        "id": "E5sTr18jRLWGiJdgtZI0rg",
         "name": "🌴 Leisure",
         "slug": "leisure"
       },
       "subCategories": [
         {
+          "id": "RuSiOgYZQAOOmO67r4Z7vQ",
           "name": "🧘 Yoga ",
           "slug": "yoga"
         },
         {
+          "id": "E778Jd9HQpCSUO4Elag-KQ",
           "name": "🧘‍♀️ Wellness",
           "slug": "wellness"
         },
         {
+          "id": "UufRotjITPqavpZYhHppkA",
           "name": "🪷 Spa",
           "slug": "spa"
         },
         {
+          "id": "LRAytcskSCigooFaACm21A",
           "name": "🏡 Finca",
           "slug": "finca"
         },
         {
+          "id": "bJfRqGepRy6o17-Udwnu6w",
           "name": "♻️ Sustainability",
           "slug": "sustainability"
         }
@@ -3488,15 +3678,18 @@
         }
       ],
       "mainCategory": {
+        "id": "E5sTr18jRLWGiJdgtZI0rg",
         "name": "🌴 Leisure",
         "slug": "leisure"
       },
       "subCategories": [
         {
+          "id": "Ezp3lUL9R4qzZdmUXsjayQ",
           "name": "🏃‍♀️ Activity",
           "slug": "activity"
         },
         {
+          "id": "V2rUXE99TbqyE9IeMhahNg",
           "name": "🌳 Park",
           "slug": "park"
         }
@@ -3559,11 +3752,13 @@
         }
       ],
       "mainCategory": {
+        "id": "E5sTr18jRLWGiJdgtZI0rg",
         "name": "🌴 Leisure",
         "slug": "leisure"
       },
       "subCategories": [
         {
+          "id": "Oe4VtAbrRg2g4SfrMYZIWg",
           "name": "🛝 Aquapark",
           "slug": "aquapark"
         }
@@ -3605,19 +3800,23 @@
         }
       ],
       "mainCategory": {
+        "id": "PWIGNzMASXiORHFXvdlZqA",
         "name": "🍽️ Food",
         "slug": "restaurant"
       },
       "subCategories": [
         {
+          "id": "bJfRqGepRy6o17-Udwnu6w",
           "name": "♻️ Sustainability",
           "slug": "sustainability"
         },
         {
+          "id": "N_IBgNzXRhqFLO9WYZGMRw",
           "name": "🍣 Sushi",
           "slug": "sushi"
         },
         {
+          "id": "QxbAdyBkSEGH-wyaN-JlkQ",
           "name": "🍲 Poke Bowls",
           "slug": "poke-bowls"
         }
@@ -3671,19 +3870,23 @@
         }
       ],
       "mainCategory": {
+        "id": "PWIGNzMASXiORHFXvdlZqA",
         "name": "🍽️ Food",
         "slug": "restaurant"
       },
       "subCategories": [
         {
+          "id": "XfDoRkkdSJ-L6hoZJMBhSg",
           "name": "🥢 Asian",
           "slug": "asian"
         },
         {
+          "id": "N_IBgNzXRhqFLO9WYZGMRw",
           "name": "🍣 Sushi",
           "slug": "sushi"
         },
         {
+          "id": "F-Iki5wuR5Cm88CS79XUSg",
           "name": "🍥 Japanese",
           "slug": "japanese"
         }
@@ -3749,15 +3952,18 @@
         }
       ],
       "mainCategory": {
+        "id": "PWIGNzMASXiORHFXvdlZqA",
         "name": "🍽️ Food",
         "slug": "restaurant"
       },
       "subCategories": [
         {
+          "id": "MPQ06773S9SwwdPySQ-uTA",
           "name": "🍹 Cocktail",
           "slug": "cocktail"
         },
         {
+          "id": "F36WRYAaTkGdWM-sdlJ4NQ",
           "name": "🌮 Mexican",
           "slug": "mexican"
         }
@@ -3805,11 +4011,13 @@
         }
       ],
       "mainCategory": {
+        "id": "AhcbURkMT1akCDMPJy1D9A",
         "name": "🏨 Hotel",
         "slug": "hotel"
       },
       "subCategories": [
         {
+          "id": "WEFxkXwUQhWl_dWuK6YEQQ",
           "name": "🏖️ Beach",
           "slug": "beach"
         }
@@ -3851,19 +4059,23 @@
         }
       ],
       "mainCategory": {
+        "id": "PWIGNzMASXiORHFXvdlZqA",
         "name": "🍽️ Food",
         "slug": "restaurant"
       },
       "subCategories": [
         {
+          "id": "MM3NMyB0Qz6AZ3kNpYN_uw",
           "name": "🍱 Fusion",
           "slug": "fusion"
         },
         {
+          "id": "N_IBgNzXRhqFLO9WYZGMRw",
           "name": "🍣 Sushi",
           "slug": "sushi"
         },
         {
+          "id": "dPwEMs3iS8qTIStZebye2A",
           "name": "🍷 Wine",
           "slug": "wine"
         }
@@ -3911,19 +4123,23 @@
         }
       ],
       "mainCategory": {
+        "id": "PWIGNzMASXiORHFXvdlZqA",
         "name": "🍽️ Food",
         "slug": "restaurant"
       },
       "subCategories": [
         {
+          "id": "N_IBgNzXRhqFLO9WYZGMRw",
           "name": "🍣 Sushi",
           "slug": "sushi"
         },
         {
+          "id": "XfDoRkkdSJ-L6hoZJMBhSg",
           "name": "🥢 Asian",
           "slug": "asian"
         },
         {
+          "id": "evHj5jdmSKij51hPJarNWg",
           "name": "🍶 Sake",
           "slug": "sake"
         }
@@ -3989,23 +4205,28 @@
         }
       ],
       "mainCategory": {
+        "id": "PWIGNzMASXiORHFXvdlZqA",
         "name": "🍽️ Food",
         "slug": "restaurant"
       },
       "subCategories": [
         {
+          "id": "F-Iki5wuR5Cm88CS79XUSg",
           "name": "🍥 Japanese",
           "slug": "japanese"
         },
         {
+          "id": "N_IBgNzXRhqFLO9WYZGMRw",
           "name": "🍣 Sushi",
           "slug": "sushi"
         },
         {
+          "id": "MM3NMyB0Qz6AZ3kNpYN_uw",
           "name": "🍱 Fusion",
           "slug": "fusion"
         },
         {
+          "id": "QOWO9obmRji73qEDTOGH1g",
           "name": "🚫 Adults only",
           "slug": "adults-only"
         }
@@ -4065,19 +4286,23 @@
         }
       ],
       "mainCategory": {
+        "id": "PWIGNzMASXiORHFXvdlZqA",
         "name": "🍽️ Food",
         "slug": "restaurant"
       },
       "subCategories": [
         {
+          "id": "F-Iki5wuR5Cm88CS79XUSg",
           "name": "🍥 Japanese",
           "slug": "japanese"
         },
         {
+          "id": "N_IBgNzXRhqFLO9WYZGMRw",
           "name": "🍣 Sushi",
           "slug": "sushi"
         },
         {
+          "id": "MM3NMyB0Qz6AZ3kNpYN_uw",
           "name": "🍱 Fusion",
           "slug": "fusion"
         }
@@ -4125,15 +4350,18 @@
         }
       ],
       "mainCategory": {
+        "id": "PWIGNzMASXiORHFXvdlZqA",
         "name": "🍽️ Food",
         "slug": "restaurant"
       },
       "subCategories": [
         {
+          "id": "dPwEMs3iS8qTIStZebye2A",
           "name": "🍷 Wine",
           "slug": "wine"
         },
         {
+          "id": "MPQ06773S9SwwdPySQ-uTA",
           "name": "🍹 Cocktail",
           "slug": "cocktail"
         }
@@ -4193,23 +4421,28 @@
         }
       ],
       "mainCategory": {
+        "id": "PWIGNzMASXiORHFXvdlZqA",
         "name": "🍽️ Food",
         "slug": "restaurant"
       },
       "subCategories": [
         {
+          "id": "MPQ06773S9SwwdPySQ-uTA",
           "name": "🍹 Cocktail",
           "slug": "cocktail"
         },
         {
+          "id": "F36WRYAaTkGdWM-sdlJ4NQ",
           "name": "🌮 Mexican",
           "slug": "mexican"
         },
         {
+          "id": "f6457qQ4QyCvMar-2v1iqw",
           "name": "🍔 Burger",
           "slug": "burger"
         },
         {
+          "id": "VNf1pD-CRf673RPUyC510A",
           "name": "💙 Palma Beach Partner",
           "slug": "palma-beach-partner"
         }
@@ -4269,27 +4502,33 @@
         }
       ],
       "mainCategory": {
+        "id": "PWIGNzMASXiORHFXvdlZqA",
         "name": "🍽️ Food",
         "slug": "restaurant"
       },
       "subCategories": [
         {
+          "id": "VNf1pD-CRf673RPUyC510A",
           "name": "💙 Palma Beach Partner",
           "slug": "palma-beach-partner"
         },
         {
+          "id": "GWt6mvrxRhuH7ZGJg7mQzw",
           "name": "🐟 Fish",
           "slug": "fish"
         },
         {
+          "id": "JybdHiZNTNCyTrqrjS4N2A",
           "name": "🦞 Seafood",
           "slug": "seafood"
         },
         {
+          "id": "f6457qQ4QyCvMar-2v1iqw",
           "name": "🍔 Burger",
           "slug": "burger"
         },
         {
+          "id": "MPQ06773S9SwwdPySQ-uTA",
           "name": "🍹 Cocktail",
           "slug": "cocktail"
         }
@@ -4349,27 +4588,33 @@
         }
       ],
       "mainCategory": {
+        "id": "AhcbURkMT1akCDMPJy1D9A",
         "name": "🏨 Hotel",
         "slug": "hotel"
       },
       "subCategories": [
         {
+          "id": "VNf1pD-CRf673RPUyC510A",
           "name": "💙 Palma Beach Partner",
           "slug": "palma-beach-partner"
         },
         {
+          "id": "UufRotjITPqavpZYhHppkA",
           "name": "🪷 Spa",
           "slug": "spa"
         },
         {
+          "id": "GFyGlpG-QRyYLA3jIuvbyg",
           "name": "🏋️‍♂️ Gym",
           "slug": "gym"
         },
         {
+          "id": "NT_YuJqkSn6-3cw2Z70Y5g",
           "name": "🏊‍♂️ Pool",
           "slug": "pool"
         },
         {
+          "id": "EGkvtGEnQK2_OIVsEQna3g",
           "name": "🍽️ Dining",
           "slug": "in-house-dining"
         }
@@ -4429,31 +4674,38 @@
         }
       ],
       "mainCategory": {
+        "id": "AhcbURkMT1akCDMPJy1D9A",
         "name": "🏨 Hotel",
         "slug": "hotel"
       },
       "subCategories": [
         {
+          "id": "UufRotjITPqavpZYhHppkA",
           "name": "🪷 Spa",
           "slug": "spa"
         },
         {
+          "id": "EGkvtGEnQK2_OIVsEQna3g",
           "name": "🍽️ Dining",
           "slug": "in-house-dining"
         },
         {
+          "id": "FcQHpg3nQfW6GEF1eBF8mg",
           "name": "🌇 Rooftop",
           "slug": "rooftop"
         },
         {
+          "id": "GFyGlpG-QRyYLA3jIuvbyg",
           "name": "🏋️‍♂️ Gym",
           "slug": "gym"
         },
         {
+          "id": "NT_YuJqkSn6-3cw2Z70Y5g",
           "name": "🏊‍♂️ Pool",
           "slug": "pool"
         },
         {
+          "id": "VNf1pD-CRf673RPUyC510A",
           "name": "💙 Palma Beach Partner",
           "slug": "palma-beach-partner"
         }
@@ -4549,6 +4801,7 @@
         }
       ],
       "mainCategory": {
+        "id": "AhcbURkMT1akCDMPJy1D9A",
         "name": "🏨 Hotel",
         "slug": "hotel"
       },
@@ -4602,15 +4855,18 @@
         }
       ],
       "mainCategory": {
+        "id": "E5sTr18jRLWGiJdgtZI0rg",
         "name": "🌴 Leisure",
         "slug": "leisure"
       },
       "subCategories": [
         {
+          "id": "HrpeIezqR5CZVhBKy1V5Xg",
           "name": "🤿 Diving",
           "slug": "diving"
         },
         {
+          "id": "Ezp3lUL9R4qzZdmUXsjayQ",
           "name": "🏃‍♀️ Activity",
           "slug": "activity"
         }
@@ -4664,15 +4920,18 @@
         }
       ],
       "mainCategory": {
+        "id": "E5sTr18jRLWGiJdgtZI0rg",
         "name": "🌴 Leisure",
         "slug": "leisure"
       },
       "subCategories": [
         {
+          "id": "E778Jd9HQpCSUO4Elag-KQ",
           "name": "🧘‍♀️ Wellness",
           "slug": "wellness"
         },
         {
+          "id": "UufRotjITPqavpZYhHppkA",
           "name": "🪷 Spa",
           "slug": "spa"
         }
@@ -4732,19 +4991,23 @@
         }
       ],
       "mainCategory": {
+        "id": "PWIGNzMASXiORHFXvdlZqA",
         "name": "🍽️ Food",
         "slug": "restaurant"
       },
       "subCategories": [
         {
+          "id": "Uyyb2ElXQx-JuJn-YZSGBA",
           "name": "🥘 Spanish",
           "slug": "spanish"
         },
         {
+          "id": "Ujb2DGTtSvi58QtE8WmZ3w",
           "name": "🌊 Mediterranean",
           "slug": "mediterranean"
         },
         {
+          "id": "JybdHiZNTNCyTrqrjS4N2A",
           "name": "🦞 Seafood",
           "slug": "seafood"
         }
@@ -4798,19 +5061,23 @@
         }
       ],
       "mainCategory": {
+        "id": "PWIGNzMASXiORHFXvdlZqA",
         "name": "🍽️ Food",
         "slug": "restaurant"
       },
       "subCategories": [
         {
+          "id": "f6457qQ4QyCvMar-2v1iqw",
           "name": "🍔 Burger",
           "slug": "burger"
         },
         {
+          "id": "K2ckE8oxRkid00EQfaZALw",
           "name": "🍃 Vegetarian",
           "slug": "vegetarian"
         },
         {
+          "id": "RbkobsRcSwKn6_QuKi6L7g",
           "name": "🌱 Vegan",
           "slug": "vegan"
         }
@@ -4864,11 +5131,13 @@
         }
       ],
       "mainCategory": {
+        "id": "PWIGNzMASXiORHFXvdlZqA",
         "name": "🍽️ Food",
         "slug": "restaurant"
       },
       "subCategories": [
         {
+          "id": "dPwEMs3iS8qTIStZebye2A",
           "name": "🍷 Wine",
           "slug": "wine"
         }
@@ -4976,19 +5245,23 @@
         }
       ],
       "mainCategory": {
+        "id": "AhcbURkMT1akCDMPJy1D9A",
         "name": "🏨 Hotel",
         "slug": "hotel"
       },
       "subCategories": [
         {
+          "id": "UufRotjITPqavpZYhHppkA",
           "name": "🪷 Spa",
           "slug": "spa"
         },
         {
+          "id": "E778Jd9HQpCSUO4Elag-KQ",
           "name": "🧘‍♀️ Wellness",
           "slug": "wellness"
         },
         {
+          "id": "EGkvtGEnQK2_OIVsEQna3g",
           "name": "🍽️ Dining",
           "slug": "in-house-dining"
         }
@@ -5042,15 +5315,18 @@
         }
       ],
       "mainCategory": {
+        "id": "PWIGNzMASXiORHFXvdlZqA",
         "name": "🍽️ Food",
         "slug": "restaurant"
       },
       "subCategories": [
         {
+          "id": "RbkobsRcSwKn6_QuKi6L7g",
           "name": "🌱 Vegan",
           "slug": "vegan"
         },
         {
+          "id": "K2ckE8oxRkid00EQfaZALw",
           "name": "🍃 Vegetarian",
           "slug": "vegetarian"
         }
@@ -5104,11 +5380,13 @@
         }
       ],
       "mainCategory": {
+        "id": "PWIGNzMASXiORHFXvdlZqA",
         "name": "🍽️ Food",
         "slug": "restaurant"
       },
       "subCategories": [
         {
+          "id": "Uq71ghH1SGiqvyjqG6uu5w",
           "name": "🔥 Grill",
           "slug": "grill"
         }
@@ -5174,11 +5452,13 @@
         }
       ],
       "mainCategory": {
+        "id": "E5sTr18jRLWGiJdgtZI0rg",
         "name": "🌴 Leisure",
         "slug": "leisure"
       },
       "subCategories": [
         {
+          "id": "NZuvCfLlRqqZzdyEDlYtLA",
           "name": "🏄‍♂️ Surfing",
           "slug": "surfing"
         }
@@ -5244,11 +5524,13 @@
         }
       ],
       "mainCategory": {
+        "id": "E5sTr18jRLWGiJdgtZI0rg",
         "name": "🌴 Leisure",
         "slug": "leisure"
       },
       "subCategories": [
         {
+          "id": "Oe4VtAbrRg2g4SfrMYZIWg",
           "name": "🛝 Aquapark",
           "slug": "aquapark"
         }
@@ -5302,19 +5584,23 @@
         }
       ],
       "mainCategory": {
+        "id": "PWIGNzMASXiORHFXvdlZqA",
         "name": "🍽️ Food",
         "slug": "restaurant"
       },
       "subCategories": [
         {
+          "id": "MM3NMyB0Qz6AZ3kNpYN_uw",
           "name": "🍱 Fusion",
           "slug": "fusion"
         },
         {
+          "id": "MPQ06773S9SwwdPySQ-uTA",
           "name": "🍹 Cocktail",
           "slug": "cocktail"
         },
         {
+          "id": "Ujb2DGTtSvi58QtE8WmZ3w",
           "name": "🌊 Mediterranean",
           "slug": "mediterranean"
         }
@@ -5368,15 +5654,18 @@
         }
       ],
       "mainCategory": {
+        "id": "E5sTr18jRLWGiJdgtZI0rg",
         "name": "🌴 Leisure",
         "slug": "leisure"
       },
       "subCategories": [
         {
+          "id": "IkYxX0VVQqykHlacXLUbHw",
           "name": "🏌️‍♂️ Golf",
           "slug": "golf"
         },
         {
+          "id": "EGkvtGEnQK2_OIVsEQna3g",
           "name": "🍽️ Dining",
           "slug": "in-house-dining"
         }
@@ -5424,19 +5713,23 @@
         }
       ],
       "mainCategory": {
+        "id": "PWIGNzMASXiORHFXvdlZqA",
         "name": "🍽️ Food",
         "slug": "restaurant"
       },
       "subCategories": [
         {
+          "id": "N_IBgNzXRhqFLO9WYZGMRw",
           "name": "🍣 Sushi",
           "slug": "sushi"
         },
         {
+          "id": "MM3NMyB0Qz6AZ3kNpYN_uw",
           "name": "🍱 Fusion",
           "slug": "fusion"
         },
         {
+          "id": "MPQ06773S9SwwdPySQ-uTA",
           "name": "🍹 Cocktail",
           "slug": "cocktail"
         }
@@ -5496,27 +5789,33 @@
         }
       ],
       "mainCategory": {
+        "id": "AhcbURkMT1akCDMPJy1D9A",
         "name": "🏨 Hotel",
         "slug": "hotel"
       },
       "subCategories": [
         {
+          "id": "VNf1pD-CRf673RPUyC510A",
           "name": "💙 Palma Beach Partner",
           "slug": "palma-beach-partner"
         },
         {
+          "id": "UufRotjITPqavpZYhHppkA",
           "name": "🪷 Spa",
           "slug": "spa"
         },
         {
+          "id": "GFyGlpG-QRyYLA3jIuvbyg",
           "name": "🏋️‍♂️ Gym",
           "slug": "gym"
         },
         {
+          "id": "EGkvtGEnQK2_OIVsEQna3g",
           "name": "🍽️ Dining",
           "slug": "in-house-dining"
         },
         {
+          "id": "NT_YuJqkSn6-3cw2Z70Y5g",
           "name": "🏊‍♂️ Pool",
           "slug": "pool"
         }
@@ -5582,11 +5881,13 @@
         }
       ],
       "mainCategory": {
+        "id": "E5sTr18jRLWGiJdgtZI0rg",
         "name": "🌴 Leisure",
         "slug": "leisure"
       },
       "subCategories": [
         {
+          "id": "HrpeIezqR5CZVhBKy1V5Xg",
           "name": "🤿 Diving",
           "slug": "diving"
         }
@@ -5646,11 +5947,13 @@
         }
       ],
       "mainCategory": {
+        "id": "E5sTr18jRLWGiJdgtZI0rg",
         "name": "🌴 Leisure",
         "slug": "leisure"
       },
       "subCategories": [
         {
+          "id": "AGMSd-8bTTKgR-KqrnTfTA",
           "name": "⛳️ Mini-Golf",
           "slug": "mini-golf"
         }
@@ -5710,11 +6013,13 @@
         }
       ],
       "mainCategory": {
+        "id": "E5sTr18jRLWGiJdgtZI0rg",
         "name": "🌴 Leisure",
         "slug": "leisure"
       },
       "subCategories": [
         {
+          "id": "IkYxX0VVQqykHlacXLUbHw",
           "name": "🏌️‍♂️ Golf",
           "slug": "golf"
         }
@@ -5740,15 +6045,18 @@
       "tipsList": "- Reservations recommended\n- Best for adventurous palates\n- Higher-end pricing",
       "photos": [],
       "mainCategory": {
+        "id": "PWIGNzMASXiORHFXvdlZqA",
         "name": "🍽️ Food",
         "slug": "restaurant"
       },
       "subCategories": [
         {
+          "id": "MPQ06773S9SwwdPySQ-uTA",
           "name": "🍹 Cocktail",
           "slug": "cocktail"
         },
         {
+          "id": "dPwEMs3iS8qTIStZebye2A",
           "name": "🍷 Wine",
           "slug": "wine"
         }

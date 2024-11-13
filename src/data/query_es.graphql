@@ -21,10 +21,12 @@
       }
     }
     mainCategory {
+      id
       name
       slug
     }
     subCategories {
+      id
       name
       slug
     }

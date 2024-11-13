@@ -13,30 +13,49 @@
     window.subCategories = {{ data.allSubcategories | dump | safe }};
 </script>
 
-<div class="py-3 md:py-4 border-b border-gray-200 bg-white">
+<div class="py-3 md:py-4 border-b border-amber-600 bg-gradient-to-b from-amber-400 to-amber-500">
     <div class="container px-4 flex flex-col md:flex-row gap-4 md:items-center justify-between mx-auto">
 
         <!-- Logo -->
         <a href="/{% if locale !== 'en' %}{{locale}}/{%endif%}" class="hover:opacity-80 shrink-0">
-            <img src="/images/logo.svg" alt="Logo" class="h-6 md:h-8">
+            <img src="/images/logo.png" alt="Logo" class="h-8 md:h-10">
         </a>
 
         <!-- Searchbar -->
-        <div x-data="searchComponent()" class="relative w-full max-w-lg">
-            <input type="text" placeholder="🔎 {{translations[locale].searchplaceholder}}" x-model="searchQuery" @focus="openDropdown()" @input="performSearch()" @blur="hideDropdown()" class="w-full p-2.5 md:p-3 border text-sm md:text-base border-gray-300 hover:border-gray-400 rounded-lg md:rounded-2xl text-center"/>
+        <div x-data="searchComponent()" class="relative w-full max-w-md">
+            <input 
+                type="text" 
+                placeholder="🔎 {{translations[locale].searchplaceholder}}" 
+                x-model="searchQuery" 
+                @focus="openDropdown()" 
+                @input="performSearch()" 
+                @keydown.arrow-down.prevent="navigateResults(1)" 
+                @keydown.arrow-up.prevent="navigateResults(-1)" 
+                @keydown.enter.prevent="selectResult()" 
+                @keydown.escape="hideDropdown()" 
+                @blur="hideDropdown()" 
+                class="w-full p-2.5 border-2 border-amber-600 hover:border-gray-400 rounded-lg placeholder:opacity-75"
+            />
+            
             <div 
                 class="absolute left-0 top-full mt-2 w-full bg-white border border-gray-300 rounded shadow-lg z-50 max-h-96 overflow-y-auto"
                 x-show="isOpen && filteredProviders.length > 0"
                 @mousedown.away="hideDropdown()"
             >
-                <template x-for="result in filteredProviders" :key="result.id">
-                    <a :href="'/{% if locale !== 'en' %}{{locale}}/{%endif%}' + result.slug" class="block p-2 hover:bg-amber-100 group">
+                <template x-for="(result, index) in filteredProviders" :key="result.id">
+                    <a 
+                        :href="'/{% if locale !== 'en' %}{{locale}}/{%endif%}' + result.slug" 
+                        class="block p-2 hover:bg-amber-100 group"
+                        :class="{ 'bg-amber-100': index === selectedIndex }" 
+                        @mouseenter="selectedIndex = index" 
+                        @mouseleave="selectedIndex = -1"
+                    >
                         <div class="flex items-center gap-4">
                             <!-- First provider image -->
-                            <img :src="result.photos.length > 0 ? result.photos[0].responsiveImage.src : 'default-image.jpg'" alt="result.name" class="w-24 h-12 object-cover rounded-md shrink-0" />
+                            <img :src="result.photos.length > 0 ? result.photos[0].responsiveImage.src : 'default-image.jpg'" alt="result.name" class="w-16 h-12 object-cover rounded-md shrink-0" />
                             <div class="w-full">
-                                <p class="font-bold" x-html="highlightMatch(result.name)"></p>
-                                <p x-html="highlightMatch(result.subcategoryNames.join(', '))" class="text-sm text-gray-600 line-clamp-1"></p>
+                                <p class="font-bold line-clamp-1" x-html="highlightMatch(result.name)"></p>
+                                <p x-html="highlightMatch(result.subcategoryNames.join(', '))" class="line-clamp-1"></p>
                             </div>
                             <div class="hidden group-hover:block p-2 rounded-full bg-amber-400 aspect-square font-black shrink-0">
                                 →
@@ -58,6 +77,7 @@
             searchQuery: '',
             filteredProviders: [],
             isOpen: false,
+            selectedIndex: -1,  // Track the selected item index for keyboard navigation
     
             providers: window.providers.map(provider => ({
                 ...provider,
@@ -75,8 +95,31 @@
                     return nameMatch || descriptionMatch || subcategoryMatch;
                 });
     
-                // Only show dropdown if there are search results
+                // Reset selected index and open dropdown if there are search results
+                this.selectedIndex = 0;
                 this.isOpen = this.filteredProviders.length > 0;
+            },
+    
+            // Navigate results with arrow keys
+            navigateResults(step) {
+                if (!this.isOpen) return;
+                const newIndex = this.selectedIndex + step;
+                this.selectedIndex = (newIndex + this.filteredProviders.length) % this.filteredProviders.length;
+            },
+    
+            // Select the current result
+            selectResult() {
+                if (this.selectedIndex >= 0 && this.selectedIndex < this.filteredProviders.length) {
+                    const selectedProvider = this.filteredProviders[this.selectedIndex];
+                    
+                    // Check if the locale is not 'en' and construct the URL prefix accordingly
+                    const localePrefix = window.locale !== 'en' ? `${window.locale}/` : '';
+                    
+                    // Navigate to the selected provider's page with the correct locale prefix
+                    window.location.href = `/${localePrefix}${selectedProvider.slug}`;
+                    
+                    this.hideDropdown();
+                }
             },
     
             // Open the dropdown
@@ -84,9 +127,12 @@
                 this.isOpen = true;
             },
     
-            // Close the dropdown after a delay (to allow clicks)
+            // Close the dropdown and reset the selected index
             hideDropdown() {
-                setTimeout(() => this.isOpen = false, 200);
+                setTimeout(() => {
+                    this.isOpen = false;
+                    this.selectedIndex = -1;
+                }, 200);
             },
     
             // Highlight the matching search term
