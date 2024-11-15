@@ -1,23 +1,14 @@
 <!-- Filter by Main Category with Tabs -->
 <div class="flex gap-1 bg-gray-100 rounded-lg p-1 whitespace-nowrap">
-    <!-- Reset Button for "All Categories" -->
-    <label class="cursor-pointer w-full text-center hidden">
-        <input type="radio" name="mainCategory" value="" x-model="selectedMainCategory" @change="filterProviders()" class="hidden" />
-        <div :class="{
-            'bg-white shadow': selectedMainCategory === '',
-            'bg-gray-100': selectedMainCategory !== ''
-        }" class="p-2 rounded-lg">
-            {{translations[locale].all}}
-        </div>
-    </label>
     <template x-for="category in mainCategories" :key="category.id">
         <label class="cursor-pointer w-full text-center">
-            <input type="radio" name="mainCategory" :value="category.name" x-model="selectedMainCategory" @change="filterProviders()" class="hidden" />
+            <input type="checkbox" :value="category.name" x-model="selectedMainCategories" @change="filterProviders()" class="hidden" />
             <div :class="{
-                'bg-white shadow': selectedMainCategory === category.name,
-                'bg-gray-100': selectedMainCategory !== category.name
+                'bg-white shadow': selectedMainCategories.includes(category.name),
+                'bg-gray-100': !selectedMainCategories.includes(category.name)
             }" class="p-2 rounded-lg">
                 <span x-text="category.name"></span>
+                <span x-show="selectedMainCategories.includes(category.name)" class="ml-1">✕</span>
             </div>
         </label>
     </template>

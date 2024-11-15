@@ -70,7 +70,7 @@ function sortableList() {
         subCategories: window.subCategories,
         sortOrder: 'relevance',  // Default sort order
         searchQuery: '',          // Default search query
-        selectedMainCategory: '', // Default main category filter
+        selectedMainCategories: [], // Changed from selectedMainCategory to array
         selectedSubCategory: '',  // Default subcategory filter
         sortedProviders: [],
         sortedAndFilteredProviders: [],
@@ -92,7 +92,7 @@ function sortableList() {
                 this.searchQuery = params.get('search');
             }
             if (params.has('mainCategory')) {
-                this.selectedMainCategory = params.get('mainCategory');
+                this.selectedMainCategories = params.get('mainCategory').split(',');
             }
             if (params.has('subCategory')) {
                 this.selectedSubCategory = params.get('subCategory');
@@ -107,22 +107,24 @@ function sortableList() {
             const params = new URLSearchParams();
 
             if (this.searchQuery) params.set('search', this.searchQuery);
-            if (this.selectedMainCategory) params.set('mainCategory', this.selectedMainCategory);
+            if (this.selectedMainCategories.length > 0) {
+                params.set('mainCategories', this.selectedMainCategories.join(','));
+            }
             if (this.selectedSubCategory) params.set('subCategory', this.selectedSubCategory);
             if (this.sortOrder) params.set('sortOrder', this.sortOrder);
 
-            const newUrl = `${window.location.pathname}?${params.toString()}`;  // Update the URL without reloading the page
-            history.replaceState(null, '', newUrl);  // Update the URL without reloading the page
+            const newUrl = `${window.location.pathname}?${params.toString()}`;
+            history.replaceState(null, '', newUrl);
         },
 
         // Reset all filters, search, and sorting
         resetFilters() {
-            this.searchQuery = '';          // Reset search query
-            this.selectedMainCategory = ''; // Reset main category filter
-            this.selectedSubCategory = '';  // Reset subcategory filter
-            this.sortOrder = 'relevance';   // Reset to default sort order
-            this.sortProviders();           // Re-sort and re-filter the providers
-            this.updateUrlParams();         // Update URL parameters
+            this.searchQuery = '';
+            this.selectedMainCategories = []; // Reset to empty array
+            this.selectedSubCategory = '';
+            this.sortOrder = 'relevance';
+            this.sortProviders();
+            this.updateUrlParams();
         },
 
         // Sorting function
@@ -170,10 +172,13 @@ function sortableList() {
         filterProviders() {
             this.sortedAndFilteredProviders = this.sortedProviders.filter((provider) => {
                 let matchesSearch = provider.name.toLowerCase().includes(this.searchQuery.toLowerCase());
-                let matchesMainCategory = this.selectedMainCategory === '' || provider.mainCategory.name === this.selectedMainCategory;
-                let matchesSubCategory = this.selectedSubCategory === '' || provider.subCategories.some(sub => sub.name === this.selectedSubCategory);
+                let matchesMainCategory = this.selectedMainCategories.length === 0 || 
+                    this.selectedMainCategories.includes(provider.mainCategory.name);
+                let matchesSubCategory = this.selectedSubCategory === '' || 
+                    provider.subCategories.some(sub => sub.name === this.selectedSubCategory);
                 return matchesSearch && matchesMainCategory && matchesSubCategory;
             });
+            this.updateUrlParams();
         },
 
         // Count the number of providers for each main category

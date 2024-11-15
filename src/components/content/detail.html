@@ -24,12 +24,12 @@
     <!-- Check if Palma Beach Partner END -->
 
     <!-- Photo grid START -->
-    <div class="grid grid-cols-4 md:grid-rows-2 md:h-[480px] gap-1 mb-4 md:mb-8 text-gray-400 rounded-lg overflow-hidden relative">
+    <div class="grid grid-cols-2 md:grid-cols-4 grid-rows-2 md:h-[480px] gap-1 mb-4 md:mb-8 text-gray-400 rounded-lg overflow-hidden relative">
         <!-- Back button -->
         <a href="javascript:history.back()" class="text-sm md:text-base absolute top-2 md:top-4 left-2 md:left-4 z-10 bg-white bg-opacity-90 hover:bg-opacity-100 text-gray-800 py-2 px-4 rounded-2xl transition-all duration-300 shadow-md">
             ← Back
         </a>
-        <div class="col-span-4 md:col-span-2 md:row-span-2 w-full h-full bg-gray-200 overflow-hidden flex items-center justify-center relative min-h-72">
+        <div class="col-span-1 md:col-span-2 row-span-2 w-full h-full bg-gray-200 overflow-hidden flex items-center justify-center relative min-h-72">
             {% if provider.providerVideoLink %}
             <video
                 src="{{provider.providerVideoLink}}"
@@ -55,28 +55,28 @@
             </a>
             {% endif %}
         </div>
-        <div class="md:row-span-1 w-full h-full min-h-16 bg-gray-200 overflow-hidden flex items-center justify-center">
+        <div class="row-span-1 w-full h-full min-h-16 bg-gray-200 overflow-hidden flex items-center justify-center">
             <a class="overflow-hidden group w-full h-full hover:brightness-105 text-xs flex items-center justify-center text-center" data-fslightbox="gallery" href="{{provider.photos[1].responsiveImage.src}}">
             {% if provider.photos[1].responsiveImage.src %}
             <img class="w-full h-full object-cover transition-transform group-hover:scale-110" src="{{provider.photos[1].responsiveImage.src}}" alt="{{provider.name}} image">
             {% else %} 📷 No photo {% endif %}
             </a>
         </div>
-        <div class="md:row-span-1 w-full h-full bg-gray-200 overflow-hidden flex items-center justify-center">
+        <div class="row-span-1 w-full h-full bg-gray-200 overflow-hidden flex items-center justify-center">
             <a class="overflow-hidden group w-full h-full hover:brightness-105 text-xs flex items-center justify-center text-center" data-fslightbox="gallery" href="{{provider.photos[2].responsiveImage.src}}">
             {% if provider.photos[2].responsiveImage.src %}
             <img class="w-full h-full object-cover transition-transform group-hover:scale-110" src="{{provider.photos[2].responsiveImage.src}}" alt="{{provider.name}} image">
             {% else %} 📷 No photo {% endif %}
             </a>
         </div>
-        <div class="md:row-span-1 w-full h-full bg-gray-200 overflow-hidden flex items-center justify-center">
+        <div class="hidden md:row-span-1 w-full h-full bg-gray-200 overflow-hidden md:flex items-center justify-center">
             <a class="overflow-hidden group w-full h-full hover:brightness-105 text-xs flex items-center justify-center text-center" data-fslightbox="gallery" href="{{provider.photos[3].responsiveImage.src}}">
             {% if provider.photos[3].responsiveImage.src %}
             <img class="w-full h-full object-cover transition-transform group-hover:scale-110" src="{{provider.photos[3].responsiveImage.src}}" alt="{{provider.name}} image">
             {% else %} 📷 No photo {% endif %}
             </a>
         </div>
-        <div class="md:row-span-1 w-full h-full bg-gray-200 overflow-hidden flex items-center justify-center">
+        <div class="hidden md:row-span-1 w-full h-full bg-gray-200 overflow-hidden md:flex items-center justify-center">
             <a class="overflow-hidden group w-full h-full hover:brightness-105 text-xs flex items-center justify-center text-center" data-fslightbox="gallery" href="{{provider.photos[4].responsiveImage.src}}">
             {% if provider.photos[4].responsiveImage.src %}
             <img class="w-full h-full object-cover transition-transform group-hover:scale-110" src="{{provider.photos[4].responsiveImage.src}}" alt="{{provider.name}} image">
