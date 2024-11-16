@@ -23,6 +23,8 @@
     mainCategory {
       id
       name
+      icon
+      nameSimple
       slug
     }
     subCategories {
@@ -43,6 +45,8 @@
   allMainCategories(locale:de, first: 100) {
     id
     name
+    nameSimple
+    icon
     slug
     _firstPublishedAt
     _publishedAt

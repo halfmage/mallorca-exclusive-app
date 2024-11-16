@@ -1,14 +1,15 @@
 <!-- Filter by Main Category with Tabs -->
-<div class="flex gap-1 bg-gray-100 rounded-lg p-1 whitespace-nowrap">
+<div class="flex gap-1 whitespace-nowrap">
     <template x-for="category in mainCategories" :key="category.id">
         <label class="cursor-pointer w-full text-center">
             <input type="checkbox" :value="category.name" x-model="selectedMainCategories" @change="filterProviders()" class="hidden" />
             <div :class="{
-                'bg-white shadow': selectedMainCategories.includes(category.name),
-                'bg-gray-100': !selectedMainCategories.includes(category.name)
+                'bg-amber-400 shadow': selectedMainCategories.includes(category.name),
+                'bg-white': !selectedMainCategories.includes(category.name)
             }" class="p-2 rounded-lg">
-                <span x-text="category.name"></span>
-                <span x-show="selectedMainCategories.includes(category.name)" class="ml-1">✕</span>
+
+                <div class="text-xl" x-text="category.icon"></div>
+                <div x-text="category.nameSimple"></div>
             </div>
         </label>
     </template>
