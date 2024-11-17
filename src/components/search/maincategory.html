@@ -6,7 +6,7 @@
             <div :class="{
                 'bg-amber-400 shadow': selectedMainCategories.includes(category.name),
                 'bg-white': !selectedMainCategories.includes(category.name)
-            }" class="p-2 rounded-lg">
+            }" class="p-2 lg:px-3 rounded-lg lg:flex lg:items-center lg:gap-1">
 
                 <div class="text-xl" x-text="category.icon"></div>
                 <div x-text="category.nameSimple"></div>

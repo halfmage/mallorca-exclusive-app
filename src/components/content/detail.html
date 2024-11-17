@@ -4,36 +4,19 @@
 
 <div class="container mx-auto p-4">
 
-    <img class="w-screen h-[25vh] opacity-50 object-cover absolute top-0 left-0 right-0 -z-10 blur-3xl" src="{{provider.photos[0].responsiveImage.src}}" alt="{{provider.name}} image">
-
-    <!-- Check if Palma Beach Partner START -->
-    {% for subcategory in provider.subCategories %}
-        {% if subcategory.name === "💙 Palma Beach Partner" %}
-        <div class="bg-blue-200 ring-1 ring-blue-400 ring-offset-1 ring-offset-white text-[#003b71] mb-4 rounded-lg p-3 flex gap-4 items-center justify-between">
-            <div>
-                <div class="text-xs md:text-base font-bold">💙 {{provider.name}} is an official Palma Beach Partner</div>
-                <div class="hidden md:block text-sm">Palma Beach is a brand created by Playa de Palma entrepreneurs to elevate the area's quality by promoting diverse sectors and improving services for visitors and residents. <a class="text-sm font-bold text-[#003b71] hover:underline" href="https://www.palmabeach.com/who-we-are/" target="_blank" rel="noopener noreferrer">Learn more</a></div>
-                
-            </div>
-            <a class="shrink-0" href="https://www.palmabeach.com/who-we-are/" target="_blank" rel="noopener noreferrer">
-                <img class="h-6 md:h-8" src="/images/palma-beach-logo.svg" />
-            </a>
-        </div>
-        {% endif %}
-    {% endfor %}
-    <!-- Check if Palma Beach Partner END -->
+    <img class="hidden w-screen h-[25vh] opacity-50 object-cover absolute top-0 left-0 right-0 -z-10 blur-3xl" src="{{provider.photos[0].responsiveImage.src}}" alt="{{provider.name}} image">
 
     <!-- Photo grid START -->
-    <div class="grid grid-cols-2 md:grid-cols-4 grid-rows-2 md:h-[480px] gap-1 mb-4 md:mb-8 text-gray-400 rounded-lg overflow-hidden relative">
+    <div class="grid grid-cols-4 md:grid-rows-2 md:h-[480px] gap-1 mb-4 md:mb-8 text-gray-400 rounded-lg overflow-hidden relative">
         <!-- Back button -->
         <a href="javascript:history.back()" class="text-sm md:text-base absolute top-2 md:top-4 left-2 md:left-4 z-10 bg-white bg-opacity-90 hover:bg-opacity-100 text-gray-800 py-2 px-4 rounded-2xl transition-all duration-300 shadow-md">
             ← Back
         </a>
-        <div class="col-span-1 md:col-span-2 row-span-2 w-full h-full bg-gray-200 overflow-hidden flex items-center justify-center relative min-h-72">
+        <div class="col-span-4 md:col-span-2 md:row-span-2 w-full h-full bg-gray-200 overflow-hidden flex items-center justify-center relative aspect-video">
             {% if provider.providerVideoLink %}
             <video
                 src="{{provider.providerVideoLink}}"
-                class="max-w-none h-72 md:h-full aspect-video"
+                class="max-w-none aspect-video"
                 playsinline
                 autoplay
                 muted
@@ -47,7 +30,7 @@
                 frameborder="0" 
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
                 allowfullscreen
-                class="absolute top-0 left-0 w-full h-full aspect-video min-h-96"
+                class="absolute top-0 left-0 w-full h-full aspect-video"
             ></iframe>
             {% else %}
             <a class="overflow-hidden group w-full h-full hover:brightness-105 text-xs flex items-center justify-center text-center" data-fslightbox="gallery" href="{{provider.photos[0].responsiveImage.src}}">
@@ -55,28 +38,28 @@
             </a>
             {% endif %}
         </div>
-        <div class="row-span-1 w-full h-full min-h-16 bg-gray-200 overflow-hidden flex items-center justify-center">
+        <div class="md:row-span-1 w-full h-full min-h-16 bg-gray-200 overflow-hidden flex items-center justify-center">
             <a class="overflow-hidden group w-full h-full hover:brightness-105 text-xs flex items-center justify-center text-center" data-fslightbox="gallery" href="{{provider.photos[1].responsiveImage.src}}">
             {% if provider.photos[1].responsiveImage.src %}
             <img class="w-full h-full object-cover transition-transform group-hover:scale-110" src="{{provider.photos[1].responsiveImage.src}}" alt="{{provider.name}} image">
             {% else %} 📷 No photo {% endif %}
             </a>
         </div>
-        <div class="row-span-1 w-full h-full bg-gray-200 overflow-hidden flex items-center justify-center">
+        <div class="md:row-span-1 w-full h-full min-h-16 bg-gray-200 overflow-hidden flex items-center justify-center">
             <a class="overflow-hidden group w-full h-full hover:brightness-105 text-xs flex items-center justify-center text-center" data-fslightbox="gallery" href="{{provider.photos[2].responsiveImage.src}}">
             {% if provider.photos[2].responsiveImage.src %}
             <img class="w-full h-full object-cover transition-transform group-hover:scale-110" src="{{provider.photos[2].responsiveImage.src}}" alt="{{provider.name}} image">
             {% else %} 📷 No photo {% endif %}
             </a>
         </div>
-        <div class="hidden md:row-span-1 w-full h-full bg-gray-200 overflow-hidden md:flex items-center justify-center">
+        <div class="md:row-span-1 w-full h-full min-h-16 bg-gray-200 overflow-hidden flex items-center justify-center">
             <a class="overflow-hidden group w-full h-full hover:brightness-105 text-xs flex items-center justify-center text-center" data-fslightbox="gallery" href="{{provider.photos[3].responsiveImage.src}}">
             {% if provider.photos[3].responsiveImage.src %}
             <img class="w-full h-full object-cover transition-transform group-hover:scale-110" src="{{provider.photos[3].responsiveImage.src}}" alt="{{provider.name}} image">
             {% else %} 📷 No photo {% endif %}
             </a>
         </div>
-        <div class="hidden md:row-span-1 w-full h-full bg-gray-200 overflow-hidden md:flex items-center justify-center">
+        <div class="md:row-span-1 w-full h-full min-h-16 bg-gray-200 overflow-hidden flex items-center justify-center">
             <a class="overflow-hidden group w-full h-full hover:brightness-105 text-xs flex items-center justify-center text-center" data-fslightbox="gallery" href="{{provider.photos[4].responsiveImage.src}}">
             {% if provider.photos[4].responsiveImage.src %}
             <img class="w-full h-full object-cover transition-transform group-hover:scale-110" src="{{provider.photos[4].responsiveImage.src}}" alt="{{provider.name}} image">
@@ -93,7 +76,7 @@
             <h1 class="text-xl md:text-2xl font-bold md:mb-1">{{provider.name}}</h1>
             <p class="text-gray-700 text-sm">{{provider.address}} – <a href="{{provider.googleMapsLink}}" target="_blank" rel="noopener noreferrer" class="underline">Google Maps</a></p> 
 
-            <div class="flex flex-wrap text-sm md:text-base items-center gap-2 mt-3">
+            <div class="flex flex-wrap text-sm md:text-base items-center gap-2 mt-3 border-b border-gray-200 pb-4">
                 <div x-data="{ locationAccessAllowed: false, userLocation: null, providerDistance: null, distanceUnit: 'km' }" x-init="
                     locationAccessAllowed = localStorage.getItem('locationAccessAllowed') === 'true';
                     if (locationAccessAllowed) {
@@ -140,6 +123,26 @@
                 {% endfor %}
             </div>
 
+            <div class="md:flex gap-4 mt-4">
+                {% if provider.proList %}
+                <div class="bg-emerald-100 text-emerald-800 border-2 border-emerald-200 p-4 text-sm rounded-xl mb-2 md:mb-0 md:w-1/2">
+                    <h3 class="text-base font-bold text-emerald-950">Exlusive {{translations[locale].prolisttitle}}</h3>
+                    <div class="prose prose-li:p-0 prose-li:mb-0 prose-li:mt-1 prose-ul:text-base/5 prose-ul:m-0 prose-ul:list-outside">
+                        <md-block>{{provider.proList}}</md-block>
+                    </div>
+                </div>
+                {% endif %}
+    
+                {% if provider.tipsList %}
+                <div class="bg-indigo-100 text-indigo-800 border-2 border-indigo-200 p-4 text-sm rounded-xl md:w-1/2">
+                    <h3 class="text-base font-bold text-indigo-950">Exlusive {{translations[locale].tiplisttitle}}</h3>
+                    <div class="prose prose-li:p-0 prose-li:mb-0 prose-li:mt-1 prose-ul:text-base/5 prose-ul:m-0 prose-ul:list-outside">
+                        <md-block>{{provider.tipsList}}</md-block>
+                    </div>
+                </div>
+                {% endif %}
+            </div>
+
             <div class="prose prose-sm md:prose-base max-w-none border-t border-gray-200 mt-4 pt-4">
                 <md-block>{{provider.description}}</md-block>
             </div>
@@ -178,24 +181,22 @@
                 <a class="p-4 w-full hover:bg-gray-100" href="{{provider.instagram}}" target="_blank" rel="noopener noreferrer">📸&nbsp;&nbsp;View Instagram</a>
                 {% endif %}
             </div>
-
-            {% if provider.proList %}
-            <div class="bg-emerald-100 text-emerald-800 border-2 border-emerald-200 p-4 text-sm rounded-xl mb-4">
-                <h3 class="text-base font-bold text-emerald-950">✅ Xclusive {{translations[locale].prolisttitle}}</h3>
-                <div class="prose prose-li:p-0 prose-ul:text-base/5 prose-ul:m-0">
-                    <md-block>{{provider.proList}}</md-block>
+            
+            <!-- Check if Palma Beach Partner START -->
+            {% for subcategory in provider.subCategories %}
+                {% if subcategory.name === "💙 Palma Beach Partner" %}
+                <div class="bg-blue-200 ring-1 ring-blue-400 ring-offset-1 ring-offset-white text-[#003b71] mb-4 rounded-lg p-4">
+                    <a class="shrink-0" href="https://www.palmabeach.com/who-we-are/" target="_blank" rel="noopener noreferrer">
+                        <img class="h-6 md:h-8 mb-3" src="/images/palma-beach-logo.svg" />
+                    </a>
+                    <div>
+                        <div class="text-xs md:text-base/5 font-bold">{{provider.name}} is an official Palma Beach Partner</div>
+                        <div class="hidden md:block text-sm">Palma Beach is a brand created by Playa de Palma entrepreneurs to elevate the area's quality by promoting diverse sectors and improving services for visitors and residents. <a class="text-sm font-bold text-[#003b71] hover:underline" href="https://www.palmabeach.com/who-we-are/" target="_blank" rel="noopener noreferrer">Learn more</a></div>
+                    </div>
                 </div>
-            </div>
-            {% endif %}
-
-            {% if provider.tipsList %}
-            <div class="bg-indigo-100 text-indigo-800 border-2 border-indigo-200 p-4 text-sm rounded-xl mb-4">
-                <h3 class="text-base font-bold text-indigo-950">😯 Xclusive {{translations[locale].tiplisttitle}}</h3>
-                <div class="prose prose-li:p-0 prose-ul:text-base/5 prose-ul:m-0">
-                    <md-block>{{provider.tipsList}}</md-block>
-                </div>
-            </div>
-            {% endif %}
+                {% endif %}
+            {% endfor %}
+            <!-- Check if Palma Beach Partner END -->
 
             <div class="w-full  aspect-square bg-gray-200 overflow-hidden rounded-xl">
                 <div id="map" class="w-full h-full z-10"></div>

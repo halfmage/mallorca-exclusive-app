@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "clean": "rimraf ./src/data/datocms_data_de.json ./src/data/datocms_data_en.json",
+    "clean": "rimraf ./src/data/datocms_data_de.json ./src/data/datocms_data_en.json ./src/data/datocms_data_es.json",
     "restart": "npm run clean && npm run fetch-data && npm run start-watch",
     "start": "npm run fetch-data && npm run start-watch",
     "build": "npm run fetch-data && npm run tailwind-build && eleventy",
-    "fetch-data": "node src/data/datocms_de.js && node src/data/datocms_en.js",
+    "fetch-data": "node src/data/datocms_en.js && node src/data/datocms_de.js && node src/data/datocms_es.js",
     "start-watch": "eleventy --serve & npm run tailwind-watch",
     "tailwind-watch": "tailwindcss -i ./src/css/tailwind.css -o ./_site/css/style.css --watch",
     "tailwind-build": "tailwindcss -i ./src/css/tailwind.css -o ./_site/css/style.css --minify"
