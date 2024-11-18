@@ -8,8 +8,23 @@
 
 <div x-data="sortableList()" class="container mx-auto px-4 border-t border-gray-200">
 
-    <div class="flex flex-col xl:flex-row justify-between gap-2 xl:gap-4 text-sm xl:text-base py-4">
-        {% include "../search/maincategory.html" %}
+    <div class="flex flex-col xl:flex-row justify-between gap-2 xl:gap-4 text-sm xl:text-base py-2">
+        <!-- Filter by Main Category with Tabs -->
+        <div class="flex gap-1 whitespace-nowrap">
+            <template x-for="category in mainCategories" :key="category.id">
+                <label class="cursor-pointer w-full text-center">
+                    <input type="checkbox" :value="category.name" x-model="selectedMainCategories" @change="filterProviders()" class="hidden" />
+                    <div :class="{
+                        'bg-amber-400 shadow': selectedMainCategories.includes(category.name),
+                        'bg-white': !selectedMainCategories.includes(category.name)
+                    }" class="p-2 lg:px-3 rounded-lg lg:flex lg:items-center lg:gap-1">
+
+                        <div class="text-xl" x-text="category.icon"></div>
+                        <div x-text="category.nameSimple"></div>
+                    </div>
+                </label>
+            </template>
+        </div>
         <div class="flex gap-2">
             <div class="w-1/2">{% include "../search/subcategory.html" %}</div>
             <div class="w-1/2">{% include "../search/sorting.html" %}</div>

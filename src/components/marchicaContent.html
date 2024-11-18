@@ -1,0 +1,174 @@
+<div class="max-w-screen-lg mx-auto px-4">
+    <img src="/images/marchica-cover.jpg" class="w-full h-auto rounded-xl my-4" alt="">
+</div>
+
+<div class="max-w-screen-lg mx-auto px-4" x-data="{ activeTab: 'analytics' }">
+    <!-- Tab Navigation -->
+    <div class="flex border-b border-gray-200 mb-4">
+        <button 
+            @click="activeTab = 'analytics'" 
+            :class="{ 'border-b-2 border-amber-500': activeTab === 'analytics' }"
+            class="py-2 px-4 text-sm font-medium text-gray-600 hover:text-gray-800 focus:outline-none">
+            Analytics
+        </button>
+        <button 
+            @click="activeTab = 'messages'" 
+            :class="{ 'border-b-2 border-amber-500': activeTab === 'messages' }"
+            class="py-2 px-4 text-sm font-medium text-gray-600 hover:text-gray-800 focus:outline-none">
+            Messages
+        </button>
+    </div>
+
+    <!-- Analytics Tab Content -->
+    <div x-show="activeTab === 'analytics'">
+        <!-- Dashboard Cards Grid -->
+        <div class="grid grid-cols-2 gap-2 md:gap-4 mb-8">
+            <!-- Impressions Card -->
+            <div class="bg-white p-4 rounded-xl shadow-sm border border-gray-200">
+                <h3 class="text-gray-500 text-sm font-medium">{{translations[locale].analyticsCardImpressions}}</h3>
+                <div class="flex items-center justify-between mt-2">
+                    <span class="text-xl md:text-4xl font-bold">245.8K</span>
+                    <span class="text-green-700 bg-green-200 rounded-full px-2 py-1 text-sm">+12.4%</span>
+                </div>
+            </div>
+            
+            <!-- Search Requests Card -->
+            <div class="bg-white p-4 rounded-xl shadow-sm border border-gray-200">
+                <h3 class="text-gray-500 text-sm font-medium">{{translations[locale].analyticsCardSearch}}</h3>
+                <div class="flex items-center justify-between mt-2">
+                    <span class="text-xl md:text-4xl font-bold">15.2K</span>
+                    <span class="text-green-700 bg-green-200 rounded-full px-2 py-1 text-sm">+8.3%</span>
+                </div>
+            </div>
+
+            <!-- Interactions Card -->
+            <div class="bg-white p-4 rounded-xl shadow-sm border border-gray-200">
+                <h3 class="text-gray-500 text-sm font-medium">{{translations[locale].analyticsCardInteractions}}</h3>
+                <div class="flex items-center justify-between mt-2">
+                    <span class="text-xl md:text-4xl font-bold">32.4K</span>
+                    <span class="text-red-700 bg-red-200 rounded-full px-2 py-1 text-sm">-2.8%</span>
+                </div>
+            </div>
+
+            <!-- Fans Card -->
+            <div class="bg-white p-4 rounded-xl shadow-sm border border-gray-200">
+                <h3 class="text-gray-500 text-sm font-medium">{{translations[locale].analyticsCardFans}}</h3>
+                <div class="flex items-center justify-between mt-2">
+                    <span class="text-xl md:text-4xl font-bold">8.9K</span>
+                    <span class="text-green-700 bg-green-200 rounded-full px-2 py-1 text-sm">+5.2%</span>
+                </div>
+            </div>
+        </div>
+
+        <!-- Target Groups Section -->
+        <div class="bg-white p-4 rounded-xl shadow-sm border border-gray-200">
+            <h2 class="text-xl font-bold mb-6">Target Groups</h2>
+            
+            <!-- Countries -->
+            <div class="mb-4">
+                <h3 class="text-gray-500 font-medium mb-4">Countries</h3>
+                <div class="*:py-1.5 divide-y divide-gray-200">
+                    <div class="flex items-center justify-between">
+                        <span>Germany</span>
+                        <span class="font-medium">45%</span>
+                    </div>
+                    <div class="flex items-center justify-between">
+                        <span>Austria</span>
+                        <span class="font-medium">28%</span>
+                    </div>
+                    <div class="flex items-center justify-between">
+                        <span>Switzerland</span>
+                        <span class="font-medium">27%</span>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Age Groups -->
+            <div class="mb-4">
+                <h3 class="text-gray-500 font-medium mb-4">Age Groups</h3>
+                <div class="*:py-1.5 divide-y divide-gray-200">
+                    <div class="flex items-center justify-between">
+                        <span>18-24</span>
+                        <span class="font-medium">15%</span>
+                    </div>
+                    <div class="flex items-center justify-between">
+                        <span>25-34</span>
+                        <span class="font-medium">35%</span>
+                    </div>
+                    <div class="flex items-center justify-between">
+                        <span>35-44</span>
+                        <span class="font-medium">30%</span>
+                    </div>
+                    <div class="flex items-center justify-between">
+                        <span>45+</span>
+                        <span class="font-medium">20%</span>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Gender -->
+            <div>
+                <h3 class="text-gray-500 font-medium mb-4">Gender</h3>
+                <div class="*:py-1.5 divide-y divide-gray-200">
+                    <div class="flex items-center justify-between">
+                        <span>Female</span>
+                        <span class="font-medium">58%</span>
+                    </div>
+                    <div class="flex items-center justify-between">
+                        <span>Male</span>
+                        <span class="font-medium">40%</span>
+                    </div>
+                    <div class="flex items-center justify-between">
+                        <span>Other</span>
+                        <span class="font-medium">12%</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Messages Tab Content -->
+    <div x-show="activeTab === 'messages'">
+        <!-- Real-time Chat Interface -->
+        <div class="p-6 bg-white rounded-lg shadow">
+            <h3 class="text-gray-800 font-medium mb-4">Chat</h3>
+
+            <!-- Chat Messages Container -->
+            <div class="h-96 overflow-y-auto mb-4 border border-gray-200 rounded-lg p-4">
+                <div class="space-y-4">
+                    <!-- Sample Message - Received -->
+                    <div class="flex items-start">
+                        <div class="flex-shrink-0">
+                            <div class="h-8 w-8 rounded-full bg-gray-300"></div>
+                        </div>
+                        <div class="ml-3 bg-gray-100 rounded-lg p-3">
+                            <p class="text-sm text-gray-900">Hello! How can I help you today?</p>
+                            <span class="text-xs text-gray-500 mt-1">10:23 AM</span>
+                        </div>
+                    </div>
+
+                    <!-- Sample Message - Sent -->
+                    <div class="flex items-start justify-end">
+                        <div class="bg-amber-600 rounded-lg p-3">
+                            <p class="text-sm text-white">I have a question about the service.</p>
+                            <span class="text-xs text-amber-200 mt-1">10:24 AM</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Message Input Area -->
+            <div class="flex items-center space-x-2">
+                <input 
+                    type="text" 
+                    class="flex-1 px-4 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-1 focus:ring-amber-500"
+                    placeholder="Type your message...">
+                <button class="bg-amber-600 text-white p-2 rounded-lg hover:bg-amber-700 transition duration-200">
+                    <svg class="h-5 w-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 19l9 2-9-18-9 18 9-2zm0 0v-8"/>
+                    </svg>
+                </button>
+            </div>
+        </div>
+    </div>
+</div>
