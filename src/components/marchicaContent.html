@@ -22,62 +22,62 @@
     <!-- Analytics Tab Content -->
     <div x-show="activeTab === 'analytics'">
         <!-- Dashboard Cards Grid -->
-        <div class="grid grid-cols-2 gap-2 md:gap-4 mb-8">
+        <div class="grid grid-cols-2 gap-4 mb-8">
             <!-- Impressions Card -->
-            <div class="bg-white p-4 rounded-xl shadow-sm border border-gray-200">
-                <h3 class="text-gray-500 text-sm font-medium">{{translations[locale].analyticsCardImpressions}}</h3>
-                <div class="flex items-center justify-between mt-2">
-                    <span class="text-xl md:text-4xl font-bold">245.8K</span>
-                    <span class="text-green-700 bg-green-200 rounded-full px-2 py-1 text-sm">+12.4%</span>
+            <div class="bg-gradient-to-br from-amber-100 to-amber-200 p-6 rounded-xl shadow-md border border-amber-300 hover:shadow-lg transition-shadow duration-300">
+                <h3 class="text-amber-800 text-sm font-medium mb-2">{{translations[locale].analyticsCardImpressions}}</h3>
+                <div class="flex flex-col items-start">
+                    <span class="text-3xl md:text-4xl font-bold text-amber-900 mb-2">245.8K</span>
+                    <span class="text-green-700 bg-green-100 rounded-full px-3 py-1 text-sm font-semibold">+12.4%</span>
                 </div>
             </div>
             
             <!-- Search Requests Card -->
-            <div class="bg-white p-4 rounded-xl shadow-sm border border-gray-200">
-                <h3 class="text-gray-500 text-sm font-medium">{{translations[locale].analyticsCardSearch}}</h3>
-                <div class="flex items-center justify-between mt-2">
-                    <span class="text-xl md:text-4xl font-bold">15.2K</span>
-                    <span class="text-green-700 bg-green-200 rounded-full px-2 py-1 text-sm">+8.3%</span>
+            <div class="bg-gradient-to-br from-blue-100 to-blue-200 p-6 rounded-xl shadow-md border border-blue-300 hover:shadow-lg transition-shadow duration-300">
+                <h3 class="text-blue-800 text-sm font-medium mb-2">{{translations[locale].analyticsCardSearch}}</h3>
+                <div class="flex flex-col items-start">
+                    <span class="text-3xl md:text-4xl font-bold text-blue-900 mb-2">15.2K</span>
+                    <span class="text-green-700 bg-green-100 rounded-full px-3 py-1 text-sm font-semibold">+8.3%</span>
                 </div>
             </div>
 
             <!-- Interactions Card -->
-            <div class="bg-white p-4 rounded-xl shadow-sm border border-gray-200">
-                <h3 class="text-gray-500 text-sm font-medium">{{translations[locale].analyticsCardInteractions}}</h3>
-                <div class="flex items-center justify-between mt-2">
-                    <span class="text-xl md:text-4xl font-bold">32.4K</span>
-                    <span class="text-red-700 bg-red-200 rounded-full px-2 py-1 text-sm">-2.8%</span>
+            <div class="bg-gradient-to-br from-purple-100 to-purple-200 p-6 rounded-xl shadow-md border border-purple-300 hover:shadow-lg transition-shadow duration-300">
+                <h3 class="text-purple-800 text-sm font-medium mb-2">{{translations[locale].analyticsCardInteractions}}</h3>
+                <div class="flex flex-col items-start">
+                    <span class="text-3xl md:text-4xl font-bold text-purple-900 mb-2">32.4K</span>
+                    <span class="text-red-700 bg-red-100 rounded-full px-3 py-1 text-sm font-semibold">-2.8%</span>
                 </div>
             </div>
 
             <!-- Fans Card -->
-            <div class="bg-white p-4 rounded-xl shadow-sm border border-gray-200">
-                <h3 class="text-gray-500 text-sm font-medium">{{translations[locale].analyticsCardFans}}</h3>
-                <div class="flex items-center justify-between mt-2">
-                    <span class="text-xl md:text-4xl font-bold">8.9K</span>
-                    <span class="text-green-700 bg-green-200 rounded-full px-2 py-1 text-sm">+5.2%</span>
+            <div class="bg-gradient-to-br from-green-100 to-green-200 p-6 rounded-xl shadow-md border border-green-300 hover:shadow-lg transition-shadow duration-300">
+                <h3 class="text-green-800 text-sm font-medium mb-2">{{translations[locale].analyticsCardFans}}</h3>
+                <div class="flex flex-col items-start">
+                    <span class="text-3xl md:text-4xl font-bold text-green-900 mb-2">8.9K</span>
+                    <span class="text-green-700 bg-green-100 rounded-full px-3 py-1 text-sm font-semibold">+5.2%</span>
                 </div>
             </div>
         </div>
 
         <!-- Target Groups Section -->
         <div class="bg-white p-4 rounded-xl shadow-sm border border-gray-200">
-            <h2 class="text-xl font-bold mb-6">Target Groups</h2>
+            <h2 class="text-xl font-bold mb-6">{{translations[locale].targetGroups}}</h2>
             
             <!-- Countries -->
             <div class="mb-4">
-                <h3 class="text-gray-500 font-medium mb-4">Countries</h3>
+                <h3 class="text-gray-500 font-medium mb-4">{{translations[locale].countries}}</h3>
                 <div class="*:py-1.5 divide-y divide-gray-200">
                     <div class="flex items-center justify-between">
-                        <span>Germany</span>
+                        <span>{{translations[locale].germany}}</span>
                         <span class="font-medium">45%</span>
                     </div>
                     <div class="flex items-center justify-between">
-                        <span>Austria</span>
+                        <span>{{translations[locale].austria}}</span>
                         <span class="font-medium">28%</span>
                     </div>
                     <div class="flex items-center justify-between">
-                        <span>Switzerland</span>
+                        <span>{{translations[locale].switzerland}}</span>
                         <span class="font-medium">27%</span>
                     </div>
                 </div>
@@ -85,7 +85,7 @@
 
             <!-- Age Groups -->
             <div class="mb-4">
-                <h3 class="text-gray-500 font-medium mb-4">Age Groups</h3>
+                <h3 class="text-gray-500 font-medium mb-4">{{translations[locale].ageGroups}}</h3>
                 <div class="*:py-1.5 divide-y divide-gray-200">
                     <div class="flex items-center justify-between">
                         <span>18-24</span>
@@ -108,18 +108,18 @@
 
             <!-- Gender -->
             <div>
-                <h3 class="text-gray-500 font-medium mb-4">Gender</h3>
+                <h3 class="text-gray-500 font-medium mb-4">{{translations[locale].gender}}</h3>
                 <div class="*:py-1.5 divide-y divide-gray-200">
                     <div class="flex items-center justify-between">
-                        <span>Female</span>
+                        <span>{{translations[locale].female}}</span>
                         <span class="font-medium">58%</span>
                     </div>
                     <div class="flex items-center justify-between">
-                        <span>Male</span>
+                        <span>{{translations[locale].male}}</span>
                         <span class="font-medium">40%</span>
                     </div>
                     <div class="flex items-center justify-between">
-                        <span>Other</span>
+                        <span>{{translations[locale].other}}</span>
                         <span class="font-medium">12%</span>
                     </div>
                 </div>
@@ -129,46 +129,100 @@
 
     <!-- Messages Tab Content -->
     <div x-show="activeTab === 'messages'">
-        <!-- Real-time Chat Interface -->
-        <div class="p-6 bg-white rounded-lg shadow">
-            <h3 class="text-gray-800 font-medium mb-4">Chat</h3>
-
-            <!-- Chat Messages Container -->
-            <div class="h-96 overflow-y-auto mb-4 border border-gray-200 rounded-lg p-4">
-                <div class="space-y-4">
-                    <!-- Sample Message - Received -->
-                    <div class="flex items-start">
-                        <div class="flex-shrink-0">
-                            <div class="h-8 w-8 rounded-full bg-gray-300"></div>
-                        </div>
-                        <div class="ml-3 bg-gray-100 rounded-lg p-3">
-                            <p class="text-sm text-gray-900">Hello! How can I help you today?</p>
-                            <span class="text-xs text-gray-500 mt-1">10:23 AM</span>
-                        </div>
+        <div class="p-4 space-y-6">
+            <!-- Fan Selection -->
+            <div class="bg-white rounded-lg shadow p-4">
+                <h3 class="font-medium text-lg mb-4">{{translations[locale].selectFans}}</h3>
+                <div class="space-y-3">
+                    <div class="flex items-center">
+                        <input type="checkbox" id="selectAll" class="rounded border-gray-300 text-amber-600 focus:ring-amber-500">
+                        <label for="selectAll" class="ml-2">{{translations[locale].selectAllFans}} (1,234)</label>
                     </div>
-
-                    <!-- Sample Message - Sent -->
-                    <div class="flex items-start justify-end">
-                        <div class="bg-amber-600 rounded-lg p-3">
-                            <p class="text-sm text-white">I have a question about the service.</p>
-                            <span class="text-xs text-amber-200 mt-1">10:24 AM</span>
+                    <div class="border-t pt-3">
+                        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-3">
+                            <div class="flex items-center">
+                                <input type="checkbox" id="fan1" class="rounded border-gray-300 text-amber-600 focus:ring-amber-500">
+                                <label for="fan1" class="flex items-center ml-2">
+                                    <div class="w-10 h-10 rounded-full bg-amber-500 flex items-center justify-center text-white font-bold mr-2">
+                                        JD
+                                    </div>
+                                    <div>
+                                        <div>John Doe</div>
+                                        <div class="text-sm text-gray-500">{{translations[locale].lastActive}}: 2 {{translations[locale].daysAgo}}</div>
+                                    </div>
+                                </label>
+                            </div>
+                            <div class="flex items-center">
+                                <input type="checkbox" id="fan2" class="rounded border-gray-300 text-amber-600 focus:ring-amber-500">
+                                <label for="fan2" class="flex items-center ml-2">
+                                    <div class="w-10 h-10 rounded-full bg-amber-500 flex items-center justify-center text-white font-bold mr-2">
+                                        JS
+                                    </div>
+                                    <div>
+                                        <div>Jane Smith</div>
+                                        <div class="text-sm text-gray-500">{{translations[locale].lastActive}}: 5 {{translations[locale].hoursAgo}}</div>
+                                    </div>
+                                </label>
+                            </div>
+                            <div class="flex items-center">
+                                <input type="checkbox" id="fan3" class="rounded border-gray-300 text-amber-600 focus:ring-amber-500">
+                                <label for="fan3" class="flex items-center ml-2">
+                                    <div class="w-10 h-10 rounded-full bg-amber-500 flex items-center justify-center text-white font-bold mr-2">
+                                        MJ
+                                    </div>
+                                    <div>
+                                        <div>Mike Johnson</div>
+                                        <div class="text-sm text-gray-500">{{translations[locale].lastActive}}: 1 {{translations[locale].weekAgo}}</div>
+                                    </div>
+                                </label>
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
 
-            <!-- Message Input Area -->
-            <div class="flex items-center space-x-2">
-                <input 
-                    type="text" 
-                    class="flex-1 px-4 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-1 focus:ring-amber-500"
-                    placeholder="Type your message...">
-                <button class="bg-amber-600 text-white p-2 rounded-lg hover:bg-amber-700 transition duration-200">
-                    <svg class="h-5 w-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 19l9 2-9-18-9 18 9-2zm0 0v-8"/>
-                    </svg>
-                </button>
+            <!-- Message Composer -->
+            <div class="bg-white rounded-lg shadow p-4">
+                <h3 class="font-medium text-lg mb-4">{{translations[locale].composeMessage}}</h3>
+                <div class="space-y-4">
+                    <textarea 
+                        rows="4" 
+                        class="w-full border-gray-300 rounded-md focus:ring-amber-500 focus:border-amber-500" 
+                        :placeholder="translations[locale].messagePlaceholder"></textarea>
+                    <button class="bg-amber-500 text-white px-4 py-2 rounded-md hover:bg-amber-600 transition-colors">
+                        {{translations[locale].sendMessage}}
+                    </button>
+                </div>
+            </div>
+
+            <!-- Previous Messages -->
+            <div class="bg-white rounded-lg shadow p-4">
+                <h3 class="font-medium text-lg mb-4">{{translations[locale].previousMessages}}</h3>
+                <div class="space-y-4">
+                    <div class="border rounded-lg p-4">
+                        <div class="flex justify-between items-start mb-2">
+                            <div class="font-medium">{{translations[locale].sentTo}} 856 {{translations[locale].fans}}</div>
+                            <div class="text-sm text-gray-500">2 {{translations[locale].daysAgo}}</div>
+                        </div>
+                        <p class="text-gray-600">Thank you for being part of our community! We're excited to announce our upcoming summer events...</p>
+                        <div class="mt-2 text-sm text-gray-500">
+                            {{translations[locale].opens}}: 75% • {{translations[locale].clicks}}: 25%
+                        </div>
+                    </div>
+
+                    <div class="border rounded-lg p-4">
+                        <div class="flex justify-between items-start mb-2">
+                            <div class="font-medium">{{translations[locale].sentTo}} 1,023 {{translations[locale].fans}}</div>
+                            <div class="text-sm text-gray-500">1 {{translations[locale].weekAgo}}</div>
+                        </div>
+                        <p class="text-gray-600">Don't miss our special spring promotion! Limited time offer for our loyal followers...</p>
+                        <div class="mt-2 text-sm text-gray-500">
+                            {{translations[locale].opens}}: 82% • {{translations[locale].clicks}}: 35%
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
+
     </div>
 </div>
