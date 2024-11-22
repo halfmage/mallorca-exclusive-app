@@ -1,6 +1,186 @@
 {
   "allProviders": [
     {
+      "_publishedAt": "2024-11-22T21:12:55+01:00",
+      "_firstPublishedAt": "2024-08-08T20:39:31+02:00",
+      "id": "Xk97s4piQ0qp1CGcXdh8pg",
+      "name": "MarChica Palma",
+      "description": "## Lo más destacado\nMarChica Palma es un restaurante de moda en Palma de Mallorca que combina una cocina vibrante, cócteles y música. Dirigido por el chef Junior Machado, el menú ofrece una mezcla creativa de influencias asiáticas y mediterráneas, con platos como bacalao negro marinado en miso a la parrilla y lubina con kombu. El ambiente se realza con sesiones de DJ en vivo y un diseño moderno y elegante, lo que lo convierte en un lugar todo en uno para comida, bebida y entretenimiento.\n\n## Menú\nEl menú de MarChica incluye platos exclusivos como bacalao negro, salmón a la parrilla y opciones creativas de sushi. El menú de cócteles, seleccionado por la gerente del bar Serena Carrino, mejora la experiencia gastronómica con bebidas innovadoras y elaboradas por expertos.\n\n## Ubicación\nSituado en Carrer Torre de Paraires 1, en la zona del puerto deportivo de Palma, MarChica Palma ofrece un lugar perfecto para cenar y tomar cócteles a altas horas de la noche. Está abierto de martes a sábado, con servicio de cocina de 19:00 a 23:00 horas y barra hasta la 01:00 horas.\n\n## Experiencias de los usuarios\nLos clientes alaban la innovadora cocina de fusión y el animado ambiente que crean la música y la elegante decoración. Los platos de bacalao negro y marisco reciben un elogio especial, y los cócteles se destacan como un punto culminante. Algunas reseñas recomiendan hacer reserva debido a su popularidad.",
+      "address": "Carrer Torre de Paraires, 1, Ponent, 07015 Palma, Illes Balears, Spanien",
+      "mail": "reservas@marchicapalma.com",
+      "website": "https://marchicapalma.com",
+      "phone": "+34971593902",
+      "googleMapsLink": "https://maps.app.goo.gl/emXJBKVMy7HVrQ5C9",
+      "slug": "marchica-palma",
+      "aiRating": 4.7,
+      "proList": "- Mezcla única de sabores asiáticos y mediterráneos\n- Ambiente elegante y animado con música en vivo\n- Cócteles excelentes elaborados por un gerente de bar de primer nivel",
+      "tipsList": "- Se recomienda hacer reserva debido a la alta demanda\n- Perfecto para cenar y tomar algo por la noche\n- Las opciones creativas de mariscos, como el bacalao negro, tienen una excelente calificación",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1723143550-marchica-palma-01.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1723143545-marchica-palma-02.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1723143540-marchica-palma-03.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "id": "X-tbEyT4TZm98LkzSawdXw",
+        "name": "🍸 Bar",
+        "nameSimple": "Bar",
+        "icon": "🍸",
+        "slug": "bar"
+      },
+      "subCategories": [
+        {
+          "id": "N_IBgNzXRhqFLO9WYZGMRw",
+          "name": "",
+          "slug": "sushi"
+        },
+        {
+          "id": "MM3NMyB0Qz6AZ3kNpYN_uw",
+          "name": "",
+          "slug": "fusion"
+        },
+        {
+          "id": "MPQ06773S9SwwdPySQ-uTA",
+          "name": "🍹 Cóctel",
+          "slug": "cocktail"
+        },
+        {
+          "id": "EGkvtGEnQK2_OIVsEQna3g",
+          "name": "",
+          "slug": "in-house-dining"
+        },
+        {
+          "id": "dPwEMs3iS8qTIStZebye2A",
+          "name": "🍷 Vino",
+          "slug": "wine"
+        }
+      ],
+      "location": {
+        "latitude": 39.5508258,
+        "longitude": 2.6230203
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
+    },
+    {
+      "_publishedAt": "2024-11-22T21:11:51+01:00",
+      "_firstPublishedAt": "2024-09-19T16:41:21+02:00",
+      "id": "DJeWpZHvS_GfGuiVD5l4dw",
+      "name": "Mola Santa Catalina",
+      "description": "## Lo más destacado\nMola Santa Catalina es un restaurante moderno de cocina fusión situado en el moderno barrio de Santa Catalina de Palma. Ofrece una mezcla única de sabores internacionales con un menú creativo influenciado por la comida callejera internacional. El ambiente relajado y elegante lo convierte en un favorito para comidas informales, con platos que son a la vez atrevidos y deliciosos.\n\n## Menú\nEl menú incluye platos de fusión internacional con especialidades diarias. Espere combinaciones creativas con ingredientes frescos inspirados en las cocinas de Asia, América Latina y el Mediterráneo.\n\n## Ubicación\nSituado en la Plaza Navegació 17B, Palma, es de fácil acceso en el corazón de Santa Catalina.\n\n## Experiencias de los usuarios\nLos huéspedes aprecian los sabores de fusión únicos y el ambiente vibrante. El menú innovador y la decoración acogedora y moderna lo convierten en una opción atractiva tanto para los locales como para los turistas. Algunos críticos señalan que el enfoque creativo del restaurante para los platos internacionales ofrece una experiencia gastronómica fresca y emocionante.",
+      "address": "Plaça de la Navegació, 17, Ponent, 07013 Palma",
+      "mail": "reservation.sc@grupomola.com",
+      "website": "https://www.grupomola.com/en",
+      "phone": "+34680808078",
+      "googleMapsLink": "https://maps.app.goo.gl/ybydGpCEaBT9ocKv6",
+      "slug": "mola-santa-catalina",
+      "aiRating": 4.5,
+      "proList": "- Menú exclusivo de fusión internacional\n- Ambiente relajado y elegante\n- Especialidades culinarias diarias",
+      "tipsList": "- Reserva mesa con antelación, especialmente para fines de semana\n- Ideal para cenas informales con amigos\n- No te pierdas las sugerencias de platos especiales del día del chef",
+      "photos": [
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1728051028-grupomola-03.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1728051028-grupomola-02.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1728051028-grupomola-04.jpg",
+            "alt": null
+          }
+        },
+        {
+          "responsiveImage": {
+            "src": "https://www.datocms-assets.com/138394/1728051028-grupomola-01.jpg",
+            "alt": null
+          }
+        }
+      ],
+      "mainCategory": {
+        "id": "X-tbEyT4TZm98LkzSawdXw",
+        "name": "🍸 Bar",
+        "nameSimple": "Bar",
+        "icon": "🍸",
+        "slug": "bar"
+      },
+      "subCategories": [
+        {
+          "id": "dPwEMs3iS8qTIStZebye2A",
+          "name": "🍷 Vino",
+          "slug": "wine"
+        }
+      ],
+      "location": {
+        "latitude": 39.5715679,
+        "longitude": 2.6383136
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
+    },
+    {
+      "_publishedAt": "2024-11-22T21:11:35+01:00",
+      "_firstPublishedAt": "2024-09-19T16:51:56+02:00",
+      "id": "fS5Ej0nJR0iTohYsl__rQQ",
+      "name": "Vandal Palma",
+      "description": "## Lo más destacado\nVandal Palma ofrece una experiencia culinaria ecléctica de inspiración global en un entorno vibrante y vanguardista. Su menú refleja una fusión dinámica de sabores de diferentes culturas, seleccionados con gran creatividad y precisión. El restaurante combina una cocina innovadora con una estética punk moderna, ofreciendo no solo comida sino una experiencia memorable.\n\n## Menú\nEl menú incluye una amplia variedad de platos con influencias de las cocinas asiática, mediterránea y sudamericana. Espere platos como bollos Bao, ceviche y tempura, con un toque creativo de sabores tradicionales. Los cócteles exclusivos y los vinos cuidadosamente seleccionados complementan la comida.\n\n## Ubicación\nVandal está ubicado en el moderno distrito de Santa Catalina de Palma, en la Plaça del Progrés 15. Está abierto todos los días de 19:00 a 23:00, lo que lo convierte en un lugar perfecto para cenar. Se recomienda encarecidamente hacer reservas debido a su popularidad.\n\n## Experiencias de usuario\nLos huéspedes elogian a Vandal Palma por sus platos atrevidos y creativos, con sabores destacados y una presentación artística. El ambiente animado y moderno, combinado con un servicio atento, crea un ambiente gastronómico fascinante. Algunos críticos señalan que el menú es un poco más caro, pero creen que la experiencia única lo justifica.",
+      "address": "Plaça del Progrés, 15, Ponent, 07013 Palma",
+      "mail": "info@vandalpalma.com",
+      "website": "http://www.vandalpalma.com/",
+      "phone": "+34871045174",
+      "googleMapsLink": "https://maps.app.goo.gl/zSnnTSSsqVNdpEvR8",
+      "slug": "vandal-palma",
+      "aiRating": 4.5,
+      "proList": "- Fusión excepcional de sabores globales\n- Ambiente único y moderno\n- Excelente selección de cócteles",
+      "tipsList": "- Se recomienda hacer reservaciones\n- Ideal para paladares aventureros\n- Precios más altos",
+      "photos": [],
+      "mainCategory": {
+        "id": "X-tbEyT4TZm98LkzSawdXw",
+        "name": "🍸 Bar",
+        "nameSimple": "Bar",
+        "icon": "🍸",
+        "slug": "bar"
+      },
+      "subCategories": [
+        {
+          "id": "MPQ06773S9SwwdPySQ-uTA",
+          "name": "🍹 Cóctel",
+          "slug": "cocktail"
+        },
+        {
+          "id": "dPwEMs3iS8qTIStZebye2A",
+          "name": "🍷 Vino",
+          "slug": "wine"
+        }
+      ],
+      "location": {
+        "latitude": 39.571502,
+        "longitude": 2.6357976
+      },
+      "externalVideoLink": null,
+      "providerVideoLink": ""
+    },
+    {
       "_publishedAt": "2024-11-15T18:11:48+01:00",
       "_firstPublishedAt": "2024-09-20T20:21:57+02:00",
       "id": "ekKIY20dRPqWmoO4yM2m8w",
@@ -190,48 +370,6 @@
       "location": {
         "latitude": 39.5696809,
         "longitude": 2.644409
-      },
-      "externalVideoLink": null,
-      "providerVideoLink": ""
-    },
-    {
-      "_publishedAt": "2024-11-15T18:10:49+01:00",
-      "_firstPublishedAt": "2024-09-19T16:51:56+02:00",
-      "id": "fS5Ej0nJR0iTohYsl__rQQ",
-      "name": "Vandal Palma",
-      "description": "## Lo más destacado\nVandal Palma ofrece una experiencia culinaria ecléctica de inspiración global en un entorno vibrante y vanguardista. Su menú refleja una fusión dinámica de sabores de diferentes culturas, seleccionados con gran creatividad y precisión. El restaurante combina una cocina innovadora con una estética punk moderna, ofreciendo no solo comida sino una experiencia memorable.\n\n## Menú\nEl menú incluye una amplia variedad de platos con influencias de las cocinas asiática, mediterránea y sudamericana. Espere platos como bollos Bao, ceviche y tempura, con un toque creativo de sabores tradicionales. Los cócteles exclusivos y los vinos cuidadosamente seleccionados complementan la comida.\n\n## Ubicación\nVandal está ubicado en el moderno distrito de Santa Catalina de Palma, en la Plaça del Progrés 15. Está abierto todos los días de 19:00 a 23:00, lo que lo convierte en un lugar perfecto para cenar. Se recomienda encarecidamente hacer reservas debido a su popularidad.\n\n## Experiencias de usuario\nLos huéspedes elogian a Vandal Palma por sus platos atrevidos y creativos, con sabores destacados y una presentación artística. El ambiente animado y moderno, combinado con un servicio atento, crea un ambiente gastronómico fascinante. Algunos críticos señalan que el menú es un poco más caro, pero creen que la experiencia única lo justifica.",
-      "address": "Plaça del Progrés, 15, Ponent, 07013 Palma",
-      "mail": "info@vandalpalma.com",
-      "website": "http://www.vandalpalma.com/",
-      "phone": "+34871045174",
-      "googleMapsLink": "https://maps.app.goo.gl/zSnnTSSsqVNdpEvR8",
-      "slug": "vandal-palma",
-      "aiRating": 4.5,
-      "proList": "- Fusión excepcional de sabores globales\n- Ambiente único y moderno\n- Excelente selección de cócteles",
-      "tipsList": "- Se recomienda hacer reservaciones\n- Ideal para paladares aventureros\n- Precios más altos",
-      "photos": [],
-      "mainCategory": {
-        "id": "PWIGNzMASXiORHFXvdlZqA",
-        "name": "🍽️ Comida",
-        "nameSimple": "Comida",
-        "icon": "🍽️",
-        "slug": "restaurant"
-      },
-      "subCategories": [
-        {
-          "id": "MPQ06773S9SwwdPySQ-uTA",
-          "name": "🍹 Cóctel",
-          "slug": "cocktail"
-        },
-        {
-          "id": "dPwEMs3iS8qTIStZebye2A",
-          "name": "🍷 Vino",
-          "slug": "wine"
-        }
-      ],
-      "location": {
-        "latitude": 39.571502,
-        "longitude": 2.6357976
       },
       "externalVideoLink": null,
       "providerVideoLink": ""
@@ -457,72 +595,6 @@
       "location": {
         "latitude": 39.51701449999999,
         "longitude": 2.7489633
-      },
-      "externalVideoLink": null,
-      "providerVideoLink": ""
-    },
-    {
-      "_publishedAt": "2024-11-15T18:09:01+01:00",
-      "_firstPublishedAt": "2024-08-08T20:39:31+02:00",
-      "id": "Xk97s4piQ0qp1CGcXdh8pg",
-      "name": "MarChica Palma",
-      "description": "## Lo más destacado\nMarChica Palma es un restaurante de moda en Palma de Mallorca que combina una cocina vibrante, cócteles y música. Dirigido por el chef Junior Machado, el menú ofrece una mezcla creativa de influencias asiáticas y mediterráneas, con platos como bacalao negro marinado en miso a la parrilla y lubina con kombu. El ambiente se realza con sesiones de DJ en vivo y un diseño moderno y elegante, lo que lo convierte en un lugar todo en uno para comida, bebida y entretenimiento.\n\n## Menú\nEl menú de MarChica incluye platos exclusivos como bacalao negro, salmón a la parrilla y opciones creativas de sushi. El menú de cócteles, seleccionado por la gerente del bar Serena Carrino, mejora la experiencia gastronómica con bebidas innovadoras y elaboradas por expertos.\n\n## Ubicación\nSituado en Carrer Torre de Paraires 1, en la zona del puerto deportivo de Palma, MarChica Palma ofrece un lugar perfecto para cenar y tomar cócteles a altas horas de la noche. Está abierto de martes a sábado, con servicio de cocina de 19:00 a 23:00 horas y barra hasta la 01:00 horas.\n\n## Experiencias de los usuarios\nLos clientes alaban la innovadora cocina de fusión y el animado ambiente que crean la música y la elegante decoración. Los platos de bacalao negro y marisco reciben un elogio especial, y los cócteles se destacan como un punto culminante. Algunas reseñas recomiendan hacer reserva debido a su popularidad.",
-      "address": "Carrer Torre de Paraires, 1, Ponent, 07015 Palma, Illes Balears, Spanien",
-      "mail": "reservas@marchicapalma.com",
-      "website": "https://marchicapalma.com",
-      "phone": "+34971593902",
-      "googleMapsLink": "https://maps.app.goo.gl/emXJBKVMy7HVrQ5C9",
-      "slug": "marchica-palma",
-      "aiRating": 4.7,
-      "proList": "- Mezcla única de sabores asiáticos y mediterráneos\n- Ambiente elegante y animado con música en vivo\n- Cócteles excelentes elaborados por un gerente de bar de primer nivel",
-      "tipsList": "- Se recomienda hacer reserva debido a la alta demanda\n- Perfecto para cenar y tomar algo por la noche\n- Las opciones creativas de mariscos, como el bacalao negro, tienen una excelente calificación",
-      "photos": [
-        {
-          "responsiveImage": {
-            "src": "https://www.datocms-assets.com/138394/1723143550-marchica-palma-01.jpg",
-            "alt": null
-          }
-        },
-        {
-          "responsiveImage": {
-            "src": "https://www.datocms-assets.com/138394/1723143545-marchica-palma-02.jpg",
-            "alt": null
-          }
-        },
-        {
-          "responsiveImage": {
-            "src": "https://www.datocms-assets.com/138394/1723143540-marchica-palma-03.jpg",
-            "alt": null
-          }
-        }
-      ],
-      "mainCategory": {
-        "id": "PWIGNzMASXiORHFXvdlZqA",
-        "name": "🍽️ Comida",
-        "nameSimple": "Comida",
-        "icon": "🍽️",
-        "slug": "restaurant"
-      },
-      "subCategories": [
-        {
-          "id": "N_IBgNzXRhqFLO9WYZGMRw",
-          "name": "",
-          "slug": "sushi"
-        },
-        {
-          "id": "MM3NMyB0Qz6AZ3kNpYN_uw",
-          "name": "",
-          "slug": "fusion"
-        },
-        {
-          "id": "MPQ06773S9SwwdPySQ-uTA",
-          "name": "🍹 Cóctel",
-          "slug": "cocktail"
-        }
-      ],
-      "location": {
-        "latitude": 39.5508258,
-        "longitude": 2.6230203
       },
       "externalVideoLink": null,
       "providerVideoLink": ""
@@ -1005,68 +1077,6 @@
       "location": {
         "latitude": 39.4953468,
         "longitude": 2.5183083
-      },
-      "externalVideoLink": null,
-      "providerVideoLink": ""
-    },
-    {
-      "_publishedAt": "2024-11-15T18:05:13+01:00",
-      "_firstPublishedAt": "2024-09-19T16:41:21+02:00",
-      "id": "DJeWpZHvS_GfGuiVD5l4dw",
-      "name": "Mola Santa Catalina",
-      "description": "## Lo más destacado\nMola Santa Catalina es un restaurante moderno de cocina fusión situado en el moderno barrio de Santa Catalina de Palma. Ofrece una mezcla única de sabores internacionales con un menú creativo influenciado por la comida callejera internacional. El ambiente relajado y elegante lo convierte en un favorito para comidas informales, con platos que son a la vez atrevidos y deliciosos.\n\n## Menú\nEl menú incluye platos de fusión internacional con especialidades diarias. Espere combinaciones creativas con ingredientes frescos inspirados en las cocinas de Asia, América Latina y el Mediterráneo.\n\n## Ubicación\nSituado en la Plaza Navegació 17B, Palma, es de fácil acceso en el corazón de Santa Catalina.\n\n## Experiencias de los usuarios\nLos huéspedes aprecian los sabores de fusión únicos y el ambiente vibrante. El menú innovador y la decoración acogedora y moderna lo convierten en una opción atractiva tanto para los locales como para los turistas. Algunos críticos señalan que el enfoque creativo del restaurante para los platos internacionales ofrece una experiencia gastronómica fresca y emocionante.",
-      "address": "Plaça de la Navegació, 17, Ponent, 07013 Palma",
-      "mail": "reservation.sc@grupomola.com",
-      "website": "https://www.grupomola.com/en",
-      "phone": "+34680808078",
-      "googleMapsLink": "https://maps.app.goo.gl/ybydGpCEaBT9ocKv6",
-      "slug": "mola-santa-catalina",
-      "aiRating": 4.5,
-      "proList": "- Menú exclusivo de fusión internacional\n- Ambiente relajado y elegante\n- Especialidades culinarias diarias",
-      "tipsList": "- Reserva mesa con antelación, especialmente para fines de semana\n- Ideal para cenas informales con amigos\n- No te pierdas las sugerencias de platos especiales del día del chef",
-      "photos": [
-        {
-          "responsiveImage": {
-            "src": "https://www.datocms-assets.com/138394/1728051028-grupomola-03.jpg",
-            "alt": null
-          }
-        },
-        {
-          "responsiveImage": {
-            "src": "https://www.datocms-assets.com/138394/1728051028-grupomola-02.jpg",
-            "alt": null
-          }
-        },
-        {
-          "responsiveImage": {
-            "src": "https://www.datocms-assets.com/138394/1728051028-grupomola-04.jpg",
-            "alt": null
-          }
-        },
-        {
-          "responsiveImage": {
-            "src": "https://www.datocms-assets.com/138394/1728051028-grupomola-01.jpg",
-            "alt": null
-          }
-        }
-      ],
-      "mainCategory": {
-        "id": "PWIGNzMASXiORHFXvdlZqA",
-        "name": "🍽️ Comida",
-        "nameSimple": "Comida",
-        "icon": "🍽️",
-        "slug": "restaurant"
-      },
-      "subCategories": [
-        {
-          "id": "dPwEMs3iS8qTIStZebye2A",
-          "name": "🍷 Vino",
-          "slug": "wine"
-        }
-      ],
-      "location": {
-        "latitude": 39.5715679,
-        "longitude": 2.6383136
       },
       "externalVideoLink": null,
       "providerVideoLink": ""
