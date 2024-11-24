@@ -1,5 +1,26 @@
-<div class="flex">
+<div class="flex gap-2">
+        <!-- Location Toggle -->
+        <div x-data="{ locationAccessAllowed: false }" x-init="locationAccessAllowed = localStorage.getItem('locationAccessAllowed') === 'true'" class="absolute md:relative top-2 right-14 md:top-0 md:right-0">
+            <button 
+                @click="
+                    locationAccessAllowed = !locationAccessAllowed;
+                    localStorage.setItem('locationAccessAllowed', locationAccessAllowed);
+                    if (locationAccessAllowed) {
+                        $dispatch('location-enabled');
+                    } else {
+                        $dispatch('location-disabled');
+                    }
+                " 
+                class="flex items-center gap-1 hover:bg-gray-100 p-2 rounded-2xl"
+                :class="{ 'bg-white/25': locationAccessAllowed }"
+            >
+                <div class="size-6 rounded-full overflow-hidden flex items-center justify-center">
+                    <span x-text="locationAccessAllowed ? '📍' : '🌍'"></span>
+                </div>
+            </button>
+        </div>
     <div class="absolute md:relative top-2 right-3 md:top-0 md:right-0">
+        <!-- Language Switcher -->
         <div x-data="{ open: false }" class="relative">
             <!-- Dropdown Button (Current Language) -->
             {%- for lgg in languages -%}
@@ -16,17 +37,12 @@
             <div x-show="open" @click.away="open = false" class="absolute right-0 mt-2 bg-white shadow-lg border border-gray-200 rounded-lg py-1 w-32 z-10">
                 {%- for lgg in languages -%}
                     {%- if lgg.locale != locale -%}
-                        {# Set default URL to the homepage of the language #}
                         {%- set translatedUrl = '/%s/' % lgg.locale -%}
-        
-                        {# Check for a matching item with the same translationKey #}
                         {%- for item in collections.all -%}
                             {%- if item.data.translationKey == translationKey and item.data.locale == lgg.locale -%}
                                 {%- set translatedUrl = item.url -%}
                             {%- endif -%}
                         {%- endfor -%}
-        
-                        <!-- Language Option -->
                         <a class="flex items-center gap-2 hover:bg-gray-100 px-4 py-3" href="{{ translatedUrl }}">
                             <div class="size-6 rounded-full overflow-hidden">{{ lgg.icon | safe }}</div> {{ lgg.labelExtended }}
                         </a>
