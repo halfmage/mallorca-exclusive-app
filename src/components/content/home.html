@@ -9,8 +9,8 @@
 <div x-data="sortableList()" class="">
 
     <div class="py-2 border-b border-gray-200 mb-4">
-        <div class="flex flex-col xl:flex-row justify-between gap-2 xl:gap-4 text-sm xl:text-base container mx-auto px-4">
-            <div class="flex gap-1 whitespace-nowrap ">
+        <div class="flex flex-col md:flex-row items-center justify-between gap-2 text-sm container mx-auto px-4">
+            <div class="flex gap-1 whitespace-nowrap w-full md:w-auto">
                 <template x-for="category in mainCategories" :key="category.id">
                     <label class="cursor-pointer w-full text-center">
                         <input type="checkbox" :value="category.name" x-model="selectedMainCategories" @change="filterProviders()" class="hidden" />
@@ -24,7 +24,7 @@
                     </label>
                 </template>
             </div>
-            <div class="flex gap-2">
+            <div class="flex w-full gap-1 md:w-auto">
                 <div class="w-1/2">{% include "../search/subcategory.html" %}</div>
                 <div class="w-1/2">{% include "../search/sorting.html" %}</div>
             </div>
@@ -33,19 +33,19 @@
 
 
     <!-- Iterate through the filtered and sorted items with Alpine.js -->
-    <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 2xl:grid-cols-6 gap-4 md:gap-5 container mx-auto px-4">
+    <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-4 md:gap-5 container mx-auto px-4">
         <template x-for="provider in sortedAndFilteredProviders" :key="provider.id">
-            <a :href="'/{% if locale !== "en" %}{{locale}}/{% endif %}' + provider.slug" class="relative flex flex-col gap-1">
+            <a :href="'/{% if locale !== "en" %}{{locale}}/{% endif %}' + provider.slug" class="relative flex flex-col gap-1 group">
                 
                 <template x-if="provider.subCategories && provider.subCategories.some(sub => sub.name === '💙 Palma Beach Partner')">
                     <div class="absolute top-2 left-2 z-10 inline-block bg-black/50 backdrop-blur-lg text-white text-xs px-2 py-1 rounded-lg">💙 Palma Beach Partner</div>
                 </template>
 
                 <template x-if="provider.photos && provider.photos.length > 0">
-                    <img class="mb-1 w-full h-32 md:h-48 rounded-xl object-cover" :src="provider.photos[0].responsiveImage.src" :alt="provider.name + ' cover'">
+                    <img class="mb-1 w-full h-32 md:h-48 xl:h-56 rounded-xl object-cover transition-all group-hover:brightness-110 shadow hover:shadow-lg" :src="provider.photos[0].responsiveImage.src" :alt="provider.name + ' cover'">
                 </template>
                 <template x-if="!provider.photos || provider.photos.length === 0">
-                    <img class="mb-1 w-full h-32 md:h-48 rounded-xl object-cover" src="/images/placeholder-img.jpg" :alt="provider.name + ' cover'">
+                    <img class="mb-1 w-full h-32 md:h-48 xl:h-56 rounded-xl object-cover transition-all group-hover:brightness-110 shadow hover:shadow-lg" src="/images/placeholder-img.jpg" :alt="provider.name + ' cover'">
                 </template>
                 
                 <h2 class="font-semibold line-clamp-1" x-text="provider.name"></h2>

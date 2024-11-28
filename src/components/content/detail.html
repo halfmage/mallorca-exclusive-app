@@ -7,7 +7,7 @@
     <img class="hidden w-screen h-[25vh] opacity-50 object-cover absolute top-0 left-0 right-0 -z-10 blur-3xl" src="{{provider.photos[0].responsiveImage.src}}" alt="{{provider.name}} image">
 
     <!-- Photo grid START -->
-    <div class="grid grid-cols-4 md:grid-rows-2 md:h-[480px] gap-1 mb-4 md:mb-8 text-gray-400 rounded-lg overflow-hidden relative">
+    <div class="grid grid-cols-4 md:grid-rows-2 md:h-[424px] gap-1 mb-4 md:mb-8 text-gray-400 rounded-lg overflow-hidden relative">
         <!-- Back button -->
         <a href="javascript:history.back()" class="text-sm md:text-base absolute top-2 md:top-4 left-2 md:left-4 z-10 bg-white bg-opacity-90 hover:bg-opacity-100 text-gray-800 py-2 px-4 rounded-2xl transition-all duration-300 shadow-md">
             ← Back
@@ -76,7 +76,7 @@
             <h1 class="text-xl md:text-2xl font-bold md:mb-1">{{provider.name}}</h1>
             <p class="text-gray-700 text-sm">{{provider.address}} – <a href="{{provider.googleMapsLink}}" target="_blank" rel="noopener noreferrer" class="underline">Google Maps</a></p> 
 
-            <div class="flex flex-wrap text-sm md:text-base items-center gap-2 mt-3 border-b border-gray-200 pb-4">
+            <div class="flex flex-wrap text-sm md:text-base items-center gap-2 mt-4">
                 <div x-data="{ locationAccessAllowed: false, userLocation: null, providerDistance: null, distanceUnit: 'km' }" x-init="
                     locationAccessAllowed = localStorage.getItem('locationAccessAllowed') === 'true';
                     if (locationAccessAllowed) {
@@ -117,54 +117,42 @@
                     </div>
                 </div>
                 {% for subcategory in provider.subCategories %}
-                <a class="whitespace-nowrap" href="/{{subcategory.slug}}">
+                <a class="whitespace-nowrap hover:opacity-70" href="/{{subcategory.slug}}">
                     {{subcategory.name}}
                 </a>
                 {% endfor %}
             </div>
 
-            <div class="md:flex gap-4 mt-4">
+            <!-- Exclusive lists START -->
+            <div class="md:flex gap-4 my-6">
                 {% if provider.proList %}
-                <div class="bg-emerald-100 text-emerald-800 border-2 border-emerald-200 p-4 text-sm rounded-xl mb-2 md:mb-0 md:w-1/2">
-                    <h3 class="text-base font-bold text-emerald-950">Exlusive {{translations[locale].prolisttitle}}</h3>
-                    <div class="prose prose-li:p-0 prose-li:mb-0 prose-li:mt-1 prose-ul:text-base/5 prose-ul:m-0 prose-ul:list-outside">
+                <div class="bg-gradient-to-r from-emerald-100 to-emerald-200 border border-emerald-300 px-4 py-3 rounded-xl mb-2 md:mb-0 md:w-1/2">
+                    <h3 class="text-sm md:text-base font-bold text-emerald-900">Exlusive {{translations[locale].prolisttitle}}</h3>
+                    <div class="prose prose-li:p-0 prose-li:mb-0 prose-li:mt-1 prose-ul:text-sm prose-ul:m-0 prose-ul:pl-3 prose-ul:list-outside text-emerald-900">
                         <md-block>{{provider.proList}}</md-block>
                     </div>
                 </div>
                 {% endif %}
     
                 {% if provider.tipsList %}
-                <div class="bg-indigo-100 text-indigo-800 border-2 border-indigo-200 p-4 text-sm rounded-xl md:w-1/2">
-                    <h3 class="text-base font-bold text-indigo-950">Exlusive {{translations[locale].tiplisttitle}}</h3>
-                    <div class="prose prose-li:p-0 prose-li:mb-0 prose-li:mt-1 prose-ul:text-base/5 prose-ul:m-0 prose-ul:list-outside">
+                <div class="bg-gradient-to-r from-indigo-100 to-indigo-200 border border-indigo-300 px-4 py-3 text-sm rounded-xl md:w-1/2">
+                    <h3 class="text-sm md:text-base font-bold text-indigo-900">Exlusive {{translations[locale].tiplisttitle}}</h3>
+                    <div class="prose prose-li:p-0 prose-li:mb-0 prose-li:mt-1 prose-ul:text-sm prose-ul:m-0 prose-ul:pl-3 prose-ul:list-outside text-indigo-900">
                         <md-block>{{provider.tipsList}}</md-block>
                     </div>
                 </div>
                 {% endif %}
             </div>
+            <!-- Exclusive lists END -->
 
-            <div class="prose prose-sm md:prose-base max-w-none border-t border-gray-200 mt-4 pt-4">
+            <div class="prose prose-sm md:prose-base max-w-none">
                 <md-block>{{provider.description}}</md-block>
-            </div>
-            <div>
-                <h2 class="text-2xl font-bold mb-3">Photo gallery</h2>
-                <div class="grid grid-cols-2 md:grid-cols-4 gap-4">
-                    {% if provider.photos and provider.photos|length > 0 %}
-                    {% for image in provider.photos %}
-                    <a data-fslightbox="gallery" href="{{image.responsiveImage.src}}">
-                        <img class="w-full h-full rounded-xl object-cover aspect-video" src="{{image.responsiveImage.src}}" alt="{{provider.name}} image">
-                    </a>
-                    {% endfor %}
-                    {% else %}
-                        🚫 No Photos
-                    {% endif %}
-                </div>
             </div>
         </div>
 
         <div class="md:col-span-4">
-
-            <div class="hidden md:flex flex-col divide-y divide-gray-200 rounded-xl border border-gray-200 shadow-lg mb-8 overflow-hidden">
+            <h3 class="font-semibold mb-2">Quick actions</h3>
+            <div class="hidden md:flex flex-col divide-y divide-gray-200 rounded-xl border border-gray-200 shadow-lg overflow-hidden">
                 {% if provider.phone %}
                 <a class="p-4 w-full hover:bg-gray-100" href="tel:+{{provider.phone}}">📞&nbsp;&nbsp;Make a call</a>
                 {% endif %}
@@ -185,21 +173,38 @@
             <!-- Check if Palma Beach Partner START -->
             {% for subcategory in provider.subCategories %}
                 {% if subcategory.name === "💙 Palma Beach Partner" %}
-                <div class="bg-blue-200 ring-1 ring-blue-400 ring-offset-1 ring-offset-white text-[#003b71] mb-4 rounded-lg p-4">
+                <h3 class="font-semibold mb-2 mt-6">Specials</h3>
+                <div class="bg-blue-200 ring-1 ring-blue-400 ring-offset-1 ring-offset-white text-[#003b71] rounded-lg p-4">
                     <a class="shrink-0" href="https://www.palmabeach.com/who-we-are/" target="_blank" rel="noopener noreferrer">
                         <img class="h-6 md:h-8 mb-3" src="/images/palma-beach-logo.svg" />
                     </a>
                     <div>
-                        <div class="text-xs md:text-base/5 font-bold">{{provider.name}} is an official Palma Beach Partner</div>
-                        <div class="hidden md:block text-sm">Palma Beach is a brand created by Playa de Palma entrepreneurs to elevate the area's quality by promoting diverse sectors and improving services for visitors and residents. <a class="text-sm font-bold text-[#003b71] hover:underline" href="https://www.palmabeach.com/who-we-are/" target="_blank" rel="noopener noreferrer">Learn more</a></div>
+                        <div class="hidden md:block text-sm">{{provider.name}} is an official Palma Beach Partner, a brand created by Playa de Palma entrepreneurs to elevate the area's quality by promoting diverse sectors and improving services for visitors and residents. <a class="text-sm font-bold text-[#003b71] hover:underline" href="https://www.palmabeach.com/who-we-are/" target="_blank" rel="noopener noreferrer">Learn more</a></div>
                     </div>
                 </div>
                 {% endif %}
             {% endfor %}
             <!-- Check if Palma Beach Partner END -->
-
-            <div class="w-full  aspect-square bg-gray-200 overflow-hidden rounded-xl">
+            
+            <h3 class="font-semibold mb-2 mt-6">Map view</h3>
+            <div class="w-full aspect-square bg-gray-200 overflow-hidden rounded-xl">
                 <div id="map" class="w-full h-full z-10"></div>
+            </div>
+
+
+            <div>
+                <h3 class="font-semibold mb-2 mt-6">Photo gallery</h3>
+                <div class="grid grid-cols-2 gap-2">
+                    {% if provider.photos and provider.photos|length > 0 %}
+                    {% for image in provider.photos %}
+                    <a data-fslightbox="gallery" href="{{image.responsiveImage.src}}">
+                        <img class="w-full h-full rounded-xl object-cover aspect-video" src="{{image.responsiveImage.src}}" alt="{{provider.name}} image">
+                    </a>
+                    {% endfor %}
+                    {% else %}
+                        🚫 No Photos
+                    {% endif %}
+                </div>
             </div>
         </div>
 

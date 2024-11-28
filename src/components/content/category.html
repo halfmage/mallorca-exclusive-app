@@ -6,7 +6,7 @@
     {% set data = datocms_data_en %}
 {% endif %}
 
-<div class="py-12 px-4 text-center bg-gray-50">
+<div class="py-12 px-4 text-center">
     <div class="text-xl md:text-3xl font-bold mb-4">
         {{translations[locale].thebest}}
         <span class="p-2 pr-1 border-2 border-gray-200 rounded-xl bg-white">
@@ -17,14 +17,54 @@
 </div>
 
 <div class="container mx-auto px-4">
-    <div class="grid grid-cols-2 md:grid-cols-3 xl:grid-cols-4 gap-4 p-4">
+    <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-4 md:gap-5 p-4">
         {% for x in data.allProviders %}
         {% if x.mainCategory.slug === category.slug %}
-            {% include "provider.html" %}
+            <a href="/{% if locale !== "en" %}{{locale}}/{% endif %}{{x.slug}}" class="relative flex flex-col gap-1">
+                {% if x.subCategories %}
+                    {% for sub in x.subCategories %}
+                        {% if sub.name === "💙 Palma Beach Partner" %}
+                            <div class="absolute top-2 left-2 z-10 inline-block bg-black/50 backdrop-blur-lg text-white text-xs px-2 py-1 rounded-lg">💙 Palma Beach Partner</div>
+                        {% endif %}
+                    {% endfor %}
+                {% endif %}
+
+                {% if x.photos and x.photos.length > 0 %}
+                    <img class="mb-1 w-full h-32 md:h-48 xl:h-56 rounded-xl object-cover" src="{{x.photos[0].responsiveImage.src}}" alt="{{x.name}} cover">
+                {% else %}
+                    <img class="mb-1 w-full h-32 md:h-48 xl:h-56 rounded-xl object-cover" src="/images/placeholder-img.jpg" alt="{{x.name}} cover">
+                {% endif %}
+
+                <h2 class="font-semibold line-clamp-1">{{x.name}}</h2>
+
+                <div class="text-xs whitespace-nowrap w-full overflow-hidden">
+                    <span>{{x.mainCategory.name}}</span>{% if x.subCategories and x.subCategories.length > 0 %}{% for sub in x.subCategories %}{% if sub.name !== "💙 Palma Beach Partner" %}{% if loop.first %} {% endif %}{{sub.name}}{% if not loop.last %} {% endif %}{% endif %}{% endfor %}{% endif %}
+                </div>
+            </a>
         {% else %}
             {% for subCategory in x.subCategories %}
                 {% if subCategory.slug === category.slug %}
-                    {% include "provider.html" %}
+                    <a href="/{% if locale !== "en" %}{{locale}}/{% endif %}{{x.slug}}" class="relative flex flex-col gap-1 group">
+                        {% if x.subCategories %}
+                            {% for sub in x.subCategories %}
+                                {% if sub.name === "💙 Palma Beach Partner" %}
+                                    <div class="absolute top-2 left-2 z-10 inline-block bg-black/50 backdrop-blur-lg text-white text-xs px-2 py-1 rounded-lg">💙 Palma Beach Partner</div>
+                                {% endif %}
+                            {% endfor %}
+                        {% endif %}
+
+                        {% if x.photos and x.photos.length > 0 %}
+                            <img class="mb-1 w-full h-32 md:h-48 xl:h-56 rounded-xl object-cover transition-all group-hover:brightness-110 shadow hover:shadow-lg" src="{{x.photos[0].responsiveImage.src}}" alt="{{x.name}} cover">
+                        {% else %}
+                            <img class="mb-1 w-full h-32 md:h-48 xl:h-56 rounded-xl object-cover transition-all group-hover:brightness-110 shadow hover:shadow-lg" src="/images/placeholder-img.jpg" alt="{{x.name}} cover">
+                        {% endif %}
+
+                        <h2 class="font-semibold line-clamp-1">{{x.name}}</h2>
+
+                        <div class="text-xs whitespace-nowrap w-full overflow-hidden">
+                            <span>{{x.mainCategory.name}}</span>{% if x.subCategories and x.subCategories.length > 0 %}{% for sub in x.subCategories %}{% if sub.name !== "💙 Palma Beach Partner" %}{% if loop.first %} {% endif %}{{sub.name}}{% if not loop.last %} {% endif %}{% endif %}{% endfor %}{% endif %}
+                        </div>
+                    </a>
                 {% endif %}
             {% endfor %}
         {% endif %}
