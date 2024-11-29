@@ -7,7 +7,7 @@
     <img class="hidden w-screen h-[25vh] opacity-50 object-cover absolute top-0 left-0 right-0 -z-10 blur-3xl" src="{{provider.photos[0].responsiveImage.src}}" alt="{{provider.name}} image">
 
     <!-- Photo grid START -->
-    <div class="grid grid-cols-4 md:grid-rows-2 md:h-[424px] gap-1 mb-4 md:mb-8 text-gray-400 rounded-lg overflow-hidden relative">
+    <div class="max-w-screen-xl mx-auto grid grid-cols-4 md:grid-rows-2 md:h-[424px] gap-1 mb-4 md:mb-8 text-gray-400 rounded-lg overflow-hidden relative">
         <!-- Back button -->
         <a href="javascript:history.back()" class="text-sm md:text-base absolute top-2 md:top-4 left-2 md:left-4 z-10 bg-white bg-opacity-90 hover:bg-opacity-100 text-gray-800 py-2 px-4 rounded-2xl transition-all duration-300 shadow-md">
             ← Back
@@ -73,10 +73,16 @@
 
         <div class="md:col-span-8">
 
-            <h1 class="text-xl md:text-2xl font-bold md:mb-1">{{provider.name}}</h1>
+            <h1 class="text-xl md:text-2xl xl:text-3xl font-bold mb-2 flex items-center">
+                {% if provider.featured %}
+                    <img src="/images/featured.svg" class="inline-block w-6 h-6 md:w-7 md:h-7 mr-1.5" alt="Featured Provider">
+                {% endif %}
+                {{provider.name}}
+            </h1>
+
             <p class="text-gray-700 text-sm">{{provider.address}} – <a href="{{provider.googleMapsLink}}" target="_blank" rel="noopener noreferrer" class="underline">Google Maps</a></p> 
 
-            <div class="flex flex-wrap text-sm md:text-base items-center gap-2 mt-4">
+            <div class="flex flex-wrap text-sm md:text-base items-center gap-1.5 mt-4">
                 <div x-data="{ locationAccessAllowed: false, userLocation: null, providerDistance: null, distanceUnit: 'km' }" x-init="
                     locationAccessAllowed = localStorage.getItem('locationAccessAllowed') === 'true';
                     if (locationAccessAllowed) {
@@ -117,7 +123,7 @@
                     </div>
                 </div>
                 {% for subcategory in provider.subCategories %}
-                <a class="whitespace-nowrap hover:opacity-70" href="/{{subcategory.slug}}">
+                <a class="whitespace-nowrap hover:opacity-70 border border-gray-200 rounded-full px-2.5 py-1" href="/{{subcategory.slug}}">
                     {{subcategory.name}}
                 </a>
                 {% endfor %}

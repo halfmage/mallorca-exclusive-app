@@ -41,11 +41,15 @@
                     <div class="absolute top-2 left-2 z-10 inline-block bg-black/50 backdrop-blur-lg text-white text-xs px-2 py-1 rounded-lg">💙 Palma Beach Partner</div>
                 </template>
 
+                <template x-if="provider.featured">
+                    <img src="/images/featured.svg" class="absolute top-2 right-2 z-10 w-10 h-10 shadow-xl shadow-amber-600 rounded-full" alt="Featured Provider">
+                </template>
+
                 <template x-if="provider.photos && provider.photos.length > 0">
-                    <img class="mb-1 w-full h-32 md:h-48 xl:h-56 rounded-xl object-cover transition-all group-hover:brightness-110 shadow hover:shadow-lg" :src="provider.photos[0].responsiveImage.src" :alt="provider.name + ' cover'">
+                    <img class="mb-1 w-full h-32 md:h-48 xl:h-56 rounded-xl object-cover transition-all group-hover:brightness-110 shadow hover:shadow-lg" :src="provider.photos[0].responsiveImage.src" :alt="provider.name + ' cover'" :class="{'border-2 border-amber-500 shadow-amber-600': provider.featured}">
                 </template>
                 <template x-if="!provider.photos || provider.photos.length === 0">
-                    <img class="mb-1 w-full h-32 md:h-48 xl:h-56 rounded-xl object-cover transition-all group-hover:brightness-110 shadow hover:shadow-lg" src="/images/placeholder-img.jpg" :alt="provider.name + ' cover'">
+                    <img class="mb-1 w-full h-32 md:h-48 xl:h-56 rounded-xl object-cover transition-all group-hover:brightness-110 shadow hover:shadow-lg grayscale" src="/images/placeholder-img.jpg" :alt="provider.name + ' cover'">
                 </template>
                 
                 <h2 class="font-semibold line-clamp-1" x-text="provider.name"></h2>
@@ -148,7 +152,11 @@ function sortableList() {
             switch (this.sortOrder) {
                 case 'relevance':
                     this.sortedProviders = this.providers.sort((a, b) => {
-                        // Sort by relevance: check if provider has video links
+                        // First, sort by featured status
+                        if (a.featured !== b.featured) {
+                            return b.featured ? 1 : -1;
+                        }
+                        // Then, sort by video links
                         const aHasVideo = a.providerVideoLink || (a.externalVideoLink && a.externalVideoLink.url);
                         const bHasVideo = b.providerVideoLink || (b.externalVideoLink && b.externalVideoLink.url);
                         return (bHasVideo === aHasVideo) ? 0 : bHasVideo ? 1 : -1;
