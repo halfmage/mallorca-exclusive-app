@@ -1,0 +1,14 @@
+# Important: Per shadowing rules (force = false) URLs for the
+# language-specific content files are served without redirects.
+
+[[redirects]]
+  from = "/*"
+  to = "/de/:splat"
+  status = 302
+  conditions = {Language = ["de"]}
+
+[[redirects]]
+  from = "/*"
+  to = "/es/:splat"
+  status = 302
+  conditions = {Language = ["es"]}
