@@ -8,6 +8,7 @@ module.exports = function(eleventyConfig) {
   // PassthroughCopy for data
   eleventyConfig.addPassthroughCopy({'src/data/datocms_data_en.json': './datocms_data_en.json'})
   eleventyConfig.addPassthroughCopy({'src/data/datocms_data_de.json': './datocms_data_de.json'})
+  eleventyConfig.addPassthroughCopy({'src/data/datocms_data_es.json': './datocms_data_es.json'})
 
   return {
     markdownTemplateEngine: "njk",
